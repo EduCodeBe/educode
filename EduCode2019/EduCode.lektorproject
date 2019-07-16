@@ -1,0 +1,35 @@
+[project]
+name = EduCode
+
+[alternatives.fr]
+name = Français
+primary = yes
+locale = fr
+
+[alternatives.nl]
+name = Néerlandais
+url_prefix = /nl/
+locale = nl
+
+[alternatives.es]
+name = Espagnol
+url_prefix = /es/
+locale = es
+
+[alternatives.de]
+name = Allemand
+url_prefix = /de/
+locale = de
+
+[alternatives.en]
+name = Anglais
+url_prefix = /en/
+locale = en_US
+
+[packages]
+i18n = 0.2
+lektor-markdown-admonition = 0.1
+lektor-markdown-header-anchors = 0.2
+lektor-markdown-highlighter = 0.2
+lektor-disqus-comments = 0.2
+lektor-creative-commons = 0.3.1
