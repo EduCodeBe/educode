@@ -2,9 +2,13 @@ _template: page.html
 ---
 about:
 
-Educode is the first edition of an annual international symposium dedicated to education, practice and research in the areas related to digital. It is the result of collaboration between different key digital players in Belgium and abroad.
+Educode is the second edition of an annual international symposium dedicated to education, practice and research in the areas related to digital. It is the result of collaboration between different key digital players in Belgium and abroad.
 
-The Educode symposium will take place from 27 to 29 August 2018 on different sites located in Brussels within 500 meters of the Royal Palace and the Federal Parliament.
+The Educode symposium will take place on September 27, 2019 to the HE2B,  in its premises of the avenue Defré, in Uccle (HE2B-Defré).
+
+The conference is **free** for francophone teachers who are members of the educode association.
+
+For more information and pre-registration, see http://wiki.educode.be
 
 The organization of this conference is essentially *voluntary*. _All help and support are welcome_.
 
@@ -16,11 +20,11 @@ Any help proposal can be sent to [aide@educode.be](mailto:aider@educode.be?Subje
 ---
 baseline: An international conference to inform, train and engage the interest of all education stakeholders in the digital challenges.
 ---
-monday:  Monday August 27, 2018 in [Bozar](https://www.openstreetmap.org/relation/3299877), teachers, directorates and the general public will be able to follow conferences, a round-table, an interactive show to apprehend this new world makes digital, its challenges and opportunities. During the breaks, they will be able to meet a large number of actors, mainly associations, who offer activities related to digital and training. Childcare solutions with activities will be organized so that all parents can participate.
+monday: Monday August 27, 2018 in [Bozar](https://www.openstreetmap.org/relation/3299877), teachers, directorates and the general public will be able to follow conferences, a round-table, an interactive show to apprehend this new world makes digital, its challenges and opportunities. During the breaks, they will be able to meet a large number of actors, mainly associations, who offer activities related to digital and training. Childcare solutions with activities will be organized so that all parents can participate.
 ---
 thuesday: Tuesday 28 August at [ESI](https://www.openstreetmap.org/node/2339843466) and at [ISIB](https://www.openstreetmap.org/relation/7259430), teachers will be invited to many practical workshops during which they will be the learners, so as to find their alter-egos, develop with them content and experiences to reuse in class what they have learned. These hands-on workshops will focus on a wide variety of topics around education and the use of digital and computer thinking, and new ways of working that are digital.
 ---
-title: Bienvenue à EduCode
+title: Welcome to EduCode
 ---
 wednesday: Wednesday, August 29 at the [Royal Academy](http://academieroyale.be), those who think about the uses and seek to generalize them as much as to particularize them, the researchers in education on the uses of the digital, the teachers who want to share their practices, will meet in a conference for exchange of experiences and research presentations. Childcare solutions with activities will be organized so that all parents can participate.
 ---
@@ -121,13 +125,13 @@ s_thuesday: Mardi
 ---
 s_wednesday: Mercredi
 ---
-s_intro_dates: 27, 28, 29 août 2018
+s_intro_dates: 27 Septembre 2019
 ---
-s_intro_location_city: Bruxelles, Belgique
+s_intro_location_city: Brussels, Belgium
 ---
-s_intro_location_institutions: Bozar, ESI & ISIB & BeCentral
+s_intro_location_institutions: HE2B-Defré
 ---
-s_intro_location_institutions_2: Académie royale
+s_intro_location_institutions_2: 
 ---
 sunday:
 
@@ -322,3 +326,9 @@ Les plus technophiles d'entre vous (soit vous tous ;-), qui voulez apprendre et 
         comme cela, vraiment, tous ensemble nous mettons en œuvre la collaboration pour le site et tout le reste.
 
 #     La mise en pratique de la théorie et le numérique, c'est aussi pour nous !
+---
+s_friday: Vendredi
+---
+s_saturday: Samedi
+---
+s_thursday: Jeudi
