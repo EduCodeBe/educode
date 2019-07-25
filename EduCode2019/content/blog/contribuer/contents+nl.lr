@@ -1,43 +1,43 @@
+title: Contribuer à educode
+---
 author: Nicolas Pettiaux
 ---
 body:
 
-De meest technofiel van jullie (jullie allemaal ;-), die bij alle gelegenheden willen leren, waarderen het algoritme, een kleine code en wat erbij hoort, kan een terminal typen
+Les plus technophiles d'entre vous (soit vous tous ;-), qui voulez apprendre en toutes occasions, apprécierez l'algorithme, un peu le code et ce qui accompagne, pouvoir taper dans un terminal :)
 
-* installeren op uw machine (windows of macos x of gnulinux)
- * de gratis software waarmee de site gemaakt is [Lektor](https://getlektor.org) (het is een stuk eenvoudiger om op een machine gnulinux te installeren dan macox x of windows, zonder dat het lastig voor ze is)
- * gratis collaborative work-software [git](https://git-scm.com/download/)
-* door een login aan te maken op [github.com](http://github.com)
-* Ga naar [github.com/EduCodeBe/educode.be](https://github.com/EduCodeBe/educode.be) en doorzoek het project (rechtsboven)
-* het typen van de terminal (git-bash op windows)
-   * git clone https://github.com/<uw login>/educode.be
-   * cd <de map waar je bent>/educode.be/EduCode
-   * lektor-server
-   * firefox [http://localhost:5000/](http://localhost:5000)
-   * (je kunt dan
-      * bewerk de site met een mooie grafische interface in de browser en een klein potlood aan de rechterkant waarmee u kunt bewerken, en
-      * ga bijvoorbeeld op de pagina http://localhost:5000/admin/root:exposanten/bewerken
-      * voeg een "exposant" -pagina toe door op de eerste regel op + te klikken en een pagina toe te voegen waarvan het model "Exposant" is
-      * door de velden in [markdown format](https://github.com/adam-p/markering-hoe/wiki/Markdown-Cheatsheet) eenvoudig in te vullen
-      * door lokaal op uw machine op te slaan onderaan de pagina
-      * Als u een vertaling van een pagina wilt helpen, dan is dit waar het gebeurt door naar het menu aan de linkerkant van de taal te gaan. De teksten zijn al in het Spaans vertaald, maar ik heb geen tijd gehad om ze op te nemen.
-      * de lokale server stoppen door CONTROL-C
-* door alles weer op de centrale server te zetten door te typen
-  * git add *
-  * git commit -m "een beschrijving van uw wijzigingen en toevoegingen"
-  * git push (u voert dan uw logins en wachtwoorden in)
-  * door mij te waarschuwen dat u wilt dat wij uw wijzigingen per e-mail integreren op site@educode.be
-  * en indien mogelijk door op github een pull-request te doen (wat de bovenstaande en volgende procedures voor ons vereenvoudigt)
-    * u gaat naar uw pagina https://github.com/<my login>/educode.be/pulls
-    * u klikt met de rechtermuisknop op de knop NEW PULL REQUEST en controleert of uw project gekoppeld is aan EducodeBe/educode.be (de master)
-    * vul een korte notitie in waarin wordt beschreven wat je hebt gedaan
-    * en verzenden
-    * Ik accepteer uw voorstel als er geen conflict en hop is
-    * Ik zet online zo snel als ik kan (of een ander lid van het team doet het)
-        zoals dit, echt, samen implementeren we de samenwerking voor de site en de rest.
+*    installant sur votre machine (windows ou macos x ou gnulinux)
+ *   le logiciel libre avec lequel le site est fait [Lektor](https://getlektor.org) (c'est beaucoup plus à installer facile sur une machine gnulinux que macox x ou windows, sans être difficile sur celles-ci)
+ *      le logiciel libre de travail collaboratif [git](https://git-scm.com/download/)
+*    en vous créant un login sur [github.com](http://github.com)
+*    en allant sur [github.com/EduCodeBe/educode.be](https://github.com/EduCodeBe/educode.be) et en forkant le projet (en haut à droite)
+*    tapant dans le terminal (git-bash sur windows)
+   *     git clone https://github.com/<votre login>/educode.be
+   *     cd <le répertoire où vous êtes>/educode.be/EduCode
+   *     lektor server
+   *     firefox [http://localhost:5000/](http://localhost:5000)
+   *     (vous pouvez alors
+      *       éditer le site avec une jolie interface graphique dans le navigateur et un petit crayon à droite qui permet d'éditer, et
+      *       aller par exemple sur la page http://localhost:5000/admin/root:exposants/edit
+      *       ajouter une page "exposant" en cliquant sur la première ligne sur + et en ajoutant une page dont le modèle est "Exposant"
+      *       en complétant les champs au [format markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) assez facile
+      *       en sauvant localement sur votre machine au bas de la page
+      *       si vous voulez aider à une traduction de n'importe quelle page, c'est ici que cela se passe en allant dans le menu à gauche de la langue. Les textes ont été traduits en espagnol déjà mais je n'ai pas eu le temps de les incorporer. 
+      *      arrêtant le serveur local par CONTROL-C
+*     en faisant tout remonter sur le serveur central en tapant
+  *           git add *
+  *          git commit -m "une description de vos modifications et ajouts"
+  *          git push (vous rentrez alors vos logins et mots de passe)
+  *        en me prévenant que vous voulez que nous intégrions vos modifications par mail à site@educode.be
+  *     et si possible en faisant sur github un pull request (qui simplifie les procédures ci-dessus et suivantes pour nous)
+    *         vous allez sur votre page https://github.com/<mon login>/educode.be/pulls
+    *            vous cliquez à droite sur le bouton NEW PULL REQUEST et vérifiez que votre projet est bien lié à EducodeBe/educode.be (le master)
+    *            vous complétez un petit mot décrivant ce que vous avez fait
+    *            et envoyer
+    *    j'accepte votre proposition si il n'y a pas de conflit et hop
+    *     je mets en ligne dès que je peux (ou un autre membre de l'équipe le fait)
+        comme cela, vraiment, tous ensemble nous mettons en œuvre la collaboration pour le site et tout le reste.
 
-# De praktische toepassing van theorie en digitaal is ook voor ieder van ons !
+#     La mise en pratique de la théorie et le numérique, c'est aussi pour chacun de nous !
 ---
 pub_date: 2018-06-04
----
-title: Contribuer à educode
