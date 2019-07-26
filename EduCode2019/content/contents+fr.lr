@@ -15,7 +15,7 @@ L'organisation de cette conférence est essentiellement *bénévole*. _Toute aid
 En particulier, vous pouvez faire des dons <script src="https://liberapay.com/npettiaux/widgets/button.js"></script>
 <noscript><a href="https://liberapay.com/npettiaux/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript> 
 
-Toute  proposition d'aide peut être envoyée à [aider@educode.be](mailto://aider@educode.be?subject=Aider educode&body=Je souhaite aider educode  à ... en ... juin / ... juillet / ... août ).
+Toute  proposition d'aide peut être envoyée à [aider@educode.be](mailto://aider@educode.be?subject=Aider educode&body=Je souhaite aider educode).
 ---
 baseline: Une conférence internationale pour informer, former et susciter l'intérêt de tous les acteurs de l'enseignement aux défis du numérique.
 ---
@@ -25,16 +25,8 @@ Les enseignants et leurs directions pourront suivre des conférences, une table-
 
 Durant les pauses, ils pourront rencontrer de très nombreux acteurs, essentiellement associatifs, qui proposent des activités liées au numérique et à la formation. Des solutions de garde d'enfants avec des activités seront organisées pour que tous les parents puissent participer.
 
-﻿EduCode 2019 : enseignement, numérique et codage dans la classe
-
-Vendredi 27 septembre 2019
-de 8h30 à 19h à Bruxelles
-
-HE2B-Defré, avenue Defré 62 à 1180 Bruxelles.
-
-#Introduction
-La conférence est ouverte et généraliste, et ne se limite pas au codage, même si les aspects liés à la résolution de problèmes, à la compréhension des mécanismes de fonctionnement des ordinateurs, des questions légales et éthiques liées à l'usage du numérique etc. sont très importantes.
-Elles devraient en 2019 faire partie des enseignements généraux du citoyen du XXI siècle.
+﻿#Introduction
+La conférence est ouverte et généraliste, et ne se limite pas au codage, même si les aspects liés à la résolution de problèmes, à la compréhension des mécanismes de fonctionnement des ordinateurs, des questions légales et éthiques liées à l'usage du numérique etc. sont très importantes. Elles devraient en 2019 faire partie des enseignements généraux du citoyen du XXI siècle.
 
 #Objectifs
 L’objectif est d’organiser à nouveau une journée, autour de l’enseignement du numérique et de l’enseignement grâce au numérique tous niveaux confondus (primaires, secondaire et supérieur), avec une partie consacrée à la programmation .
@@ -67,36 +59,47 @@ Quelques conférences mais surtout des ateliers pratiques et des présentations,
 - 17h à 18h : buffet de clôture
 
 #Comité d’organisation
-- Nicolas Pettiaux de ESI-HE2B & ULB-Lisa (maître-assistant)
-- Prof Bernard Rentier de Uliège (ancien recteur)
-- Françoise Bols (chargé de cours, HE2B-Nivelles)
-- Eric Robette (maître-assistant, HE2B-Defré)
-- Pierre De Buyl (chercheur, KU Leuven)
-- Denis Longrée (maitre en mathématique, président de roue de secours asbl)
+- Dr Nicolas Pettiaux (ESI-HE2B & ULB-Lisa, maître-assistant)
+- Françoise Bols (HE2B-Nivelles, chargé de cours)
+- Erick Mascart (Forsub, conseiller pédagogique et formateur)
+- Eric Robette (HE2B-Defré, maître-assistant)
+- Denis Longrée (président de roue de secours asbl, maitre en mathématique)
 
-# Comité de soutien
-- Prof Olivier Debeir de ULB (co-directeur du laboratoire Lisa)
-- Éric Deprins ex CEO de Toyota Belgium, Unilever, Mestdagh
-- Olivier Goletti de Ulouvain & SIcarre (chercheur)
-- Dr Nicolas Pettiaux de ESI-HE2B & ULB-Lisa (maître-assistant)
-- Prof Bernard Rentier de Uliège (ancien recteur)
-- Karin Van Loon de HE2B-ISIB (directrice)
-- Denis Matagne de HE2B-Defré (directeur) (tbc)
-- Michel Willemse de HE2B-ESI (directeur) (tbc)
-- Yves Robaye de HE2B (co-président) (tbc)
-- Françoise Bols (chargé de cours, HE2B-Nivelles)
-- Eric Robette (maître-assistant, HE2B-Defré)
-- Dr Pierre De Buyl (chercheur, KU Leuven)
-- Denis Longrée (maitre en mathématique, président de roue de secours asbl)
+#Comité de programme 
+- Françoise Bols
+- Laurence Bourguignon (Forsud, conseillère pédagogique - formatrice TICE et institutrice primaire, à Athénée Royal de Couvin - fondamental)
+- Prof Olivier Debeir (ULB)
+- Dr Pierre De Buyl (KU Leuven, chercheur)
+- Julie Henry (UNamur, chercheuse)
+- Georges Khaznadar (Lycée Jean Bart, Dunkerque)
+- Denis Longrée
+- Erick Mascart
+- Prof Thierry Massart (ULB)
+- Dr Nicolas Pettiaux
+- Eric Robette
+
+# Comité scientifique et de soutien
+- Prof Hugues Bersini (ULB)
+- Prof Bibiana Boccolini (Université de Rosario, Argentine)
+- Prof Colin de la Higuera (Université de Nantes)
+- Éric Deprins, ex CEO de Toyota Belgium, Unilever, Mestdagh
+- Olivier Goletti (Ulouvain & SIcarre, chercheur)
+- Denis Matagne (HE2B-Defré, directeur) 
+- Alexia Pasini (HE2B, co-présidente)
+- Yves Robaey (HE2B, co-président)
+- Prof Bernard Rentier (Uliège, ancien recteur)
+- Karin Van Loon (HE2B-ISIB, directrice)
+- Michel Willemse (HE2B-ESI, directeur)
+- Prof Pierre Wolper (Uliège, recteur)
 
 #Contact
 Nicolas Pettiaux, président de l’asbl educode, nicolas@educode.be, gsm 496 24 55 01
 ---
-thuesday:
+thuesday: 
 ---
 title: Bienvenue à EduCode
 ---
-wednesday:
+wednesday: 
 ---
 _about_educode: About EduCode
 ---
@@ -206,16 +209,15 @@ s_intro_location_city: Bruxelles, Belgique
 ---
 s_intro_location_institutions: HE2B-Defré
 ---
-s_intro_location_institutions_2:
+s_intro_location_institutions_2: 
 ---
-sunday:
+sunday: 
 ---
 registration:
 
 Les préinscriptions sont possibles dans https://wiki.educode.be/doku.php?id=educode2019preinscriptions
 
-Il a été demandée que cette formation fasse partie du programme des formations en interréseaux organisées par l’IFC. Elle sera donc **gratuite pour les enseignants** de primaire et secondaire de la Fédération Wallonie-Bruxelles inscrits sur le site de IFC.  Nous attendons la confirmation de IFC.
-
+Il a été demandée que cette formation fasse partie du programme des formations en interréseaux organisées par l’IFC. Il nous a été confirmé que selon toute vraisemblance, ce sera le cas. La conférence sera donc **gratuite pour les enseignants** de primaire et secondaire de la Fédération Wallonie-Bruxelles inscrits sur le site de IFC.  Nous attendons la confirmation de IFC pour le 20 août 2019.
 
 ---
 press_text:
@@ -232,7 +234,7 @@ submissions_text:
 
 Faites-nous part de vos propositions de stand au sein de l'exposition  en cliquant sur le bouton ci-dessous qui vous intéresse.
 
-Les propositions d'ateliers devraient être entrées pour le 20 aout 2019 dans http://wiki.educode.be
+Les propositions d'ateliers devraient être entrées pour le 10 aout 2019 dans http://wiki.educode.be
 
 La liste des ateliers sera publiée pour le 5 septembre 2019
 
@@ -257,7 +259,7 @@ s_saturday: Samedi
 ---
 s_program: Programme
 ---
-practical_infos_hostels:
+practical_infos_hostels: 
 ---
 inscription_tarif: Il faut envoyer un courriel à [factures@educode.be](mailto:tfactures@educode.be?subject=Facture pour educode) pour obtenir une facture.
 ---
