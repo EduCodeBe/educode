@@ -1,57 +1,29 @@
 _template: page.html
 ---
 about:
-EduCode is de eerste editie van een jaarlijks internationaal symposium gewijd aan digitaal onderwijs, praktijk en onderzoek. 
-Het is het resultaat van samenwerking tussen verschillende belangrijke digitale spelers in België en in het buitenland.
 
-Digitale technologie vormt de kern van veranderingen in een globale samenleving, veranderingen die we allen moeten ondergaan.
-Dit is een enorme uitdaging voor onze samenlevingen en we hebben geen andere keuze dan als reactie daarop onszelf te informeren en onszelf bij te scholen om daarop te reageren. 
-Deze veranderingen zullen onvermijdelijk een aanpassing van het onderwijs met zich mee brengen. Die evolutie van het onderwijs moet beetje bij beetje doorgevoerd worden, maar met een duidelijk doel voor ogen
+Educode est la première édition d’un colloque annuel international dédié à l’éducation, aux pratiques et à la recherche dans les domaines liés au numérique. Il est le résultat d’une collaboration entre différents acteurs-clé du numérique en Belgique et à l'étranger.
 
+Le colloque Educode se déroule du 27 au 29 août 2018 sur différents sites localisés à Bruxelles dans un rayon de 500 mètres autour du Palais Royal et du Parlement fédéral.
 
-We komen dagelijks in contact met digitale technologie, en we kunnen haast niet meer zonder vele voordelen die het ons levert.
-Het doet ons hopen, bijvoorbeeld hoop op medische behandelingen die tot nog toe buiten ons bereik waren, maar boezemt ook vrees in.
+La conférence est **gratuite** pour les enseignants francophones inscrits à IFC. Voir plus d'info à l'[inscription](#anchor-inscription).
 
-Digitale technologie leidt tot een nieuwe relatie tot kennis, die zelf ook diepgaande effecten heeft op de samenleving.
-Kennis op zich is inderdaad niet langer alleen in boeken te vinden of het voorrecht van enkele ingewijden.
-Het is onmiddellijk binnen handbereik via een zoekopdracht op de online mobiele apparaten.
-Die online informatie is vaak nauwkeuriger en actueler dan de informatie dan wat we van buiten zouden geleerd hebben.
-In zo'n context is de rol van leerkrachten verandert.
-Soms wordt gevreesd dat men zijn job zal verliezen ten voordele van zogenaamde intelligente machines.
-Het is dan ook niet verwonderlijk dat vele mensen vrees koesteren jegens die technologie, angsten die ons niet mogen verlammen.
-Kortom, de alomtegenwoordige digitale technologie induceert diepgaande veranderingen in ons leven die op zijn minst geïdentificeerd moeten worden om ze te kunnen begrijpen en verstandig te gebruiken of ze te bekritiseren.
+L'organisation de cette conférence est essentiellement *bénévole*. _Toute aide et tout soutien sont les bienvenus_. 
 
+En particulier, vous pouvez faire des dons <script src="https://liberapay.com/npettiaux/widgets/button.js"></script>
+<noscript><a href="https://liberapay.com/npettiaux/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript> 
 
-In het tijdperk van alomtegenwoordige informatica, moeten leraren digitale technologieën kunnen gebruiken en integreren in hun cursussen.
-Begrijp ons niet verkeerd: we blijven overtuigd dat het gebruik van klassieke middelen zoals pen, papier enz. nuttig tot zelf essentiële middelen zijn tot het ontwikkelen van vaardigheden zoals het schrijven van teksten, het synthetiseren van ideeën.
-Maar het is belangrijk dat kinderen en leerlingen in het algemeen, net als hun leraren, op hun gemak zijn met digitale technologieën.
-Dat ze zich weten te redden met computers en mobiele apparaten, dat ze met die middelen kunnen zoeken, zich kunnen ontplooien, creëren, uitvinden.
-En dat ze over de beperkingen en bedreigingen kunnen nadenken maar even zeer problemen, uitdagingen, kansen en deze hulpmiddelen in hun leven integreren om beter te kunnen deelnemen aan de samenleving. 
-
-Dit wordt gerealiseerd door specifieke opleidingen, trainingen en een opening naar de digitale wereld wat een van de doelstellingen is van de conferentie.
-
-Het colloquium Educode.be vindt plaats van 27 tot 29 augustus 2018 op verschillende locaties in Brussel binnen een straal van 500 meter rond het Koninklijk Paleis en het Federaal Parlement.
-
-Wij willen iedereen er ten slotte op wijzen dat de organisatie van deze lezingen volledig het werk is van vrijwilligers. Alle hulp is welkom. 
-Uw hulp zal erg geapprecieerd worden indien je bijvoorbeeld wilt helpen met de organisatie, de vertaling van de site en documenten, de verspreiding van informatie en uitnodigingen, de organisatie of het voorstellen van de workshops op dinsdag 28 en wetenschappelijke uitwisselingen op 29 augustus.
-Uiteraard zijn alle giften ook welkom.
-Tot dan kunnen alle voorstellen voor hulp worden verzonden naar
-[jeveuxaiderATeducode.be](mailto://jeveuxaiderATeducode.be)
+Toute  proposition d'aide peut être envoyée à [aider@educode.be](mailto://aider@educode.be?subject=Aider educode&body=Je souhaite aider educode  à ... en ... juin / ... juillet / ... août ).
 ---
-baseline: Een internationale conferentie om de interesse van alle belanghebbenden bij het onderwijs te informeren, te onderwijzen en te betrekken bij de digitale uitdagingen.
+baseline: Une conférence internationale pour informer, former et susciter l'intérêt de tous les acteurs de l'enseignement aux défis du numérique.
 ---
-monday: Maandag 27 augustus 2018  aan de Bozar, Ravensteinstraat: 
-docenten, directies en het grote publiek kunnen lezingen, een rondetafel, reflectieworkshops bijwonen om deze nieuwe wereld, zijn uitdagingen en kansen te begrijpen. De lezingen zijn open voor het grote publiek. De dag wordt afgesloten met een symfonisch concert.
+monday: Lundi 27 août 2018 à [Bozar](/lieux/bozar), les enseignants, directions et le grand public  pourront suivre des conférences, une table-ronde, un spectacle interactif pour appréhender ce nouveau monde fait de numérique, ses défis et ses opportunités. Durant les pauses, ils pourront rencontrer de très nombreux acteurs, essentiellement associatifs, qui proposent des activités liées au numérique et à la formation. Des solutions de garde d'enfants avec des activités seront organisées pour que tous les parents puissent participer.
 ---
-thuesday: Dinsdag 28 augustus op het ESI, École supérieure d’informatique en op het ISIB, École supérieure d’ingénieurs de Bruxelles, Koningsstraat 67 / 150 naast het congreskolom, waar de leerkrachten zullen worden uitgenodigd tot 60 tot 100 praktische workshops, waarin zij de leerlingen zullen zijn. 
-Tijdens die workshops hopen we dat de leerkrachten hun alterego's vinden, dat ze met hen inhoud en ervaringen ontwikkelen en dat ze in de klas zullen kunnen hergebruiken wat ze tijdens die workshops hebben geleerd.
-Deze hands-on workshops zullen zich richten op een breed scala aan onderwerpen rond onderwijs van computerwetenschappen en het gebruik van digitale technieken.
-
+thuesday: Mardi 28 août à [ESI](/lieux/he2b-esi), les enseignants seront invités à de nombreux ateliers pratiques durant lesquels ils seront les apprenants, de manière à retrouver leurs alter-egos, développer avec eux des contenus et des expériences pour pouvoir réutiliser en classe ce qu'ils ont appris. Ces ateliers d’échanges pratiques concerneront des sujets très variés autour de l’éducation et de l’usage du numérique et de la pensée informatique, et de nouvelles manières de travail adaptées au numérique.
 ---
-title: Welkom tot EduCode
+title: Bienvenue à EduCode
 ---
-wednesday: Woensdag 29 augustus op de koninklijke academie, Hertogstraat. Een conferentie wordt georganiseerd voor het uitwisselen van ervaringen en onderzoekspresentaties voor degenen die nadenken over het gebruik van onderwijstechnologie. We verwelkomen er ook graag zij die willen nagaan hoe die technologie in bredere context te verspreiden en / of die in specifieke contexten toe te passen.
-
+wednesday: Mercredi 29 août à [Bozar](/lieux/bozar), dans la **galerie Ravenstein**, ceux qui réfléchissent aux usages et cherchent à les généraliser autant que les particulariser, les chercheurs en éducation sur les usages du numérique, les enseignants qui veulent échanger sur leurs pratiques, se retrouveront dans une conférence pour des échanges d'expériences et des présentations de recherches. Des solutions de garde d'enfants avec des activités seront organisées pour que tous les parents puissent participer.
 ---
 _about_educode: About EduCode
 ---
@@ -59,15 +31,15 @@ _become_partner: Become partner
 ---
 _contact: Contact
 ---
-_expo: Expositions
+_expo: Exposition
 ---
-_hotel: Hotel
+_hotel: Hotels
 ---
 _location: Locations
 ---
 _monday: Monday
 ---
-_more_infos: Thuesday
+_more_infos: Tuesday
 ---
 _our_partners: Our partners
 ---
@@ -91,103 +63,221 @@ _wednesday: Wednesday
 ---
 expo_about:
 
-Tijdens de koffiepauzes en maaltijden krijgen verschillende actoren inclusief digitaal onderwijs, in België en in de landen die op de conferentie vertegenwoordigd zijn, de kans om hun realisaties voor te stellen. We denken daarbij aan verenigingen en scholen.
+Durant les pauses café et repas, toutes les structures (assocations, institutions publiques, écoles, sociétés commerciales ...) actives dans le milieu de l’éducation numérique en Belgique et ailleurs représentés lors de la conférence, présenteront leurs réalisations dans l'[exposition](/exposition).  
 
-Dit zou een gelegenheid moeten zijn voor leerkrachten, hun directies, verkozen ambtenaren en hun teams, en openbare autoriteiten om te leren over de grote diversiteit aan ICT gebruikers in de schoolcontext.
+Celle-ci sera accessible essentiellement durant les pauses cafés et repas du midi et du soir.
 
-Die ICT coördinatoren en andere belanghebbenden in ICT kunnen ondersteuning bieden in de complexe taak zowel leerkrachten als leerlingen te begeleiden, opleidingen aan te bieden tot het gebruik van ICT in het onderwijs.
-
+Ce sera l’occasion pour les enseignants, leurs directions, les élus et leurs équipes, ainsi que pour les pouvoirs publics de prendre connaissance de la grande diversité des acteurs du numérique dans le domaine de l’enseignement. Ceux-ci pourront assister et aider les écoles dans une mission d'accompagnement et de formation aux très nombreux usages du numérique.
 ---
 partners_about:
 
-Mensen die meewerken tot de conferentie zijn allemaal overtuigd van het belang van de opzet van die conferentie en willen bijdragen tot het welslagen van het opzet met de middelen die ze hebben. Sommigen zullen financieel bijdragen, anderen zullen zich inzetten tot het bekend maken van de conferentie en het verspreiden van informatie omtrend de conferentie. tenslotte hebben we leden van de organisatie die de ateliers en workshops willen omkaderen en de tentoonstelling helpen realiseren... 
+Les partenaires de la conférence sont tous les acteurs qui considèrent que la question est importante et qui souhaitent contribuer dans la mesure de leurs moyens. Ils sont belges et étrangers, la plupart associatifs. Les uns fournissent un indispensable soutien financier, les autres participent à la promotion et à la diffusion de l'information autour de la conférence, sont des membres du comité d'organisation de la conférence, encadrent des ateliers...
+
+Beaucoup participent à l'[exposition](/exposition) de [lundi 27](/lundi-27-aout) .
 ---
 practical_infos:
 
-Brussel, als kleine wereldstad, is in het centrum van het culturele, economische en politieke leven van België. Ze huisvest de Europese instellingen alsook de permanente zetel van de NATO.
+Les participants à Educode  sont attendus dès 8h30 à chacune des trois journées. Les conférences et ateliers commencent à 9h00 précises.
 
-Tijdens uw verblijf zult u enkele mooie plaatsen kunnen bezoeken en in hotels kunnen verblijven met alle faciliteiten die u wenst.
+Les journées se dérouleront :
+   *  Le lundi 27 août à Bozar, entrée rue Ravenstein, 23 à 1000  Bruxelles
+   *  Le mardi 28 août à l’ISIB, entrée Rue Royale, 150 à 1000 Bruxelles
+   *  Le mercredi 29 août à Bozar, entrée dans la Galerie Ravenstein (1er étage - balcon)
+
+Merci de vous munir des documents d’inscription pour une vérification aisée.
+
+Les lundi 27 et mardi 28 août, les participants pourront commander à leur arrivée des sandwiches pour le midi. Le café et les boissons seront mis à disposition.
+
+Le mercredi 29 août, le repas et les consommations sont compris dans l’inscription.
+
 ---
-practical_infos_brussels: 
-Brussel is niet alleen de hoofdstad van België en van Vlaanderen, maar ook dat van Europa.
-De wereldberoemde middeleeuwse marktplaats van Brussel, met haar vele voorgevels uit de zeventiende eeuw is dagelijks het toneel van een bloemenmarkt.
-In 2006 is het Atomium, na een grondige restauratie, heropend. Het Atomium, `de Brusselse Eifeltoren' biedt een spectaculair zicht op de stad.
-Liefhebbers van architectuur mogen de kans niet missen het Hortamuseum te bezoeken.
-Wie van het uitgangsleven geniet mag dan de buurt van Sint Gorix niet links laten liggen.
-De buurt van Sint Katelijne zal je verleiden met de vele visrestaurants.
-Het centrum van de stad zal je beter te voet bezoeken, of met openbaar vervoer.
+practical_infos_brussels:
+
+Bruxelles est la capitale de la Belgique et de l'Europe. La Grand-Place médiévale est immense. Elle possède de nombreux immeubles du 17ème siècle et accueille quotidiennement des marchés aux fleurs.  Rouvert en 2006, l'Atomium, la Tour Eiffel de Bruxelles, offre une vue imprenable aussi bien à l'intérieur que sur l'extérieur. Les amateurs d'architecture ne devront pas manquer la visite du Musée Horta, aménagé dans la maison du grand architecte belge Victor Horta. Les clubs et les bars de la place St. Gery ne désemplissent jamais. Les plats de fruits de mer abondent à Sainte Catherine. Si vous souhaitez plus d'information sur Bruxelles, cliquez [ici](http://visit.brussels) 
 ---
-text_button: Een poster voorstellen
+text_button: Devenir exposant
 ---
-s_about_educode: About d'EduCode
+s_about_educode: À propos d'EduCode
 ---
-s_become_partner: Wordt deelnemer
+s_become_partner: Devenez partenaire
 ---
 s_contact: Contact
 ---
-s_expo: Tentoonstellingen
+s_expo: Exposition
 ---
-s_hotel: Hotel, herberg
+s_hotel: Hôtels
 ---
-s_location: PLaats
+s_location: Lieux
 ---
-s_monday: Maandag
+s_monday: Lundi
 ---
-s_more_infos: Meer info
+s_more_infos: Plus d'infos
 ---
-s_our_partners: Onze partners
+s_our_partners: Nos partenaires
 ---
-s_overview_program: Overzicht van het programma
+s_overview_program: Aperçu du programme
 ---
-s_partners: Partners
+s_partners: Partenaires
 ---
-s_practical_infos: Praktische informatie
+s_practical_infos: Infos pratiques
 ---
-s_press: Pers
+s_press: Presse
 ---
-s_registration: Inschrijving
+s_registration: Inscription
 ---
-s_speakers: Deelnemers
+s_speakers: Intervenants
 ---
-s_sunday: Zondag
+s_sunday: Dimanche
 ---
-s_thuesday: Dinsdag
+s_thuesday: Mardi
 ---
-s_wednesday: Woensdag
+s_wednesday: Mercredi
 ---
-s_intro_dates: 27-29 augustus 2018
+s_intro_dates: 27, 28, 29 août 2018
 ---
-s_intro_location_city: Brussel, België
+s_intro_location_city: Bruxelles, Belgique
 ---
-s_intro_location_institutions: Bozar, ESI & ISIB
+s_intro_location_institutions: Bozar & HE2B-ESI & HE2B-ISIB
 ---
-s_intro_location_institutions_2: Koninklijke academie
+s_intro_location_institutions_2:
 ---
 sunday:
 
-Op zondag 26 augustus 2018 om 18 uur aan de Koninklijke academie, zullen de leden van de academie en de lokale politiek machten de deelnemers aan de conferentie ontvangen. Tevens zal men die dag al zich kunnen inschrijven tot de conferentie. Men hoeft dus niet tot maandag te wachten om zich in te schrijven. Er is een mogelijkheid om elkaar te leren kennen op de diner cocktail. 
+Dimanche 26 aôut 2018 à 18h à Bozar, les organisateurs reçoivent les participants à la conférence, qui peuvent aussi déjà s'enregistrer pour être immédiatement prêt lundi matin. À l'occasion d'un verre suivi d'une visite du centre de Bruxelles, ce sera aussi une première chance de faire connaissance. 
 ---
-registration: Zich inschrijven zal zeer binnenkort beschikbaar zijn. 
-U kunt zich al aanmelden via het onderstaande formulier.
+registration:
+
+Les inscriptions définitives sont maintenant possibles en cliquant sur le bouton ci-dessous.
+
+**ATTENTION** : pour des raisons d'organisation de la journée, **chaque** personne qui participe aux ateliers du mardi 28 août doit s'inscrire dans le système. Il n'est donc possible d'acheter que **un seul** ticket à la fois pour cette journée. Nous reviendrons vers vous par mail dès que la liste des nombreux ateliers sera disponible et prête aux choix.
+
+## Journées des 27-28-29 août de 9h à 19h
+
+<table class="table table-hover table-bordered table-striped table-sm">
+<thead>
+ <tr>  
+ <th scope="col">Conférences <br> 27 août</td>
+ <th scope="col">Ateliers <br> 28 août</td>
+ <th scope="col">Échanges & mise en commun <br> 29 août  </td>
+</tr>
+<tr> 
+  <th scope="col">Bozar </td>
+  <th scope="col">HE2B </td>
+  <th scope="col">Bozar</td>
+</tr> 
+</thead>
+<tbody>
+<tr>
+  <td>  25 €  <br> 0  € prof </td>
+  <td>  25 €  <br> 0  € prof </td>
+  <td>  100 € <br> 0  € prof  </td>
+</tr> 
+</tbody>
+</table>
+
+Cette formation fait partie du programme des formations en interréseaux organisées par l’IFC. Elle est **gratuite pour les enseignants** de primaire et secondaire de la Fédération Wallonie-Bruxelles inscrits sur le site de IFC. Pour vous y inscrire, rendez-vous sur le site de l’IFC [www.ifc.cfwb.be](http://www.ifc.cfwb.be). Vous aurez besoin d’une clé d’inscription aux formations (C.I.F.) disponible auprès de votre direction. La référence du code consacré à ces 3 jours de formation educode porte le numéro 503001719. 
+
+Les **enseignants de primaire et secondaire qui seront inscrits à l'IFC** peuvent rentrer le code **EDUCODEIFC2018** lors de l'inscription et bénéficieront d'une entrée gratuite pour chaque journée. Les futurs enseignants et étudiants de hautes écoles par exemple pourront s'inscrire à l'IFC également à partir du 13 août et bénéficier de la même gratuité. Ils peuvent déjà s'inscrire sur notre site avec le code  **EDUCODEIFC2018HE**.
+
+Ces codes de réduction peuvent ne pas marcher, le temps de leur mise en place. Si ils ne fonctionnaient pas, écrivez-nous à [info@educode.be](mailto:info@educode?subject=les codes ne marchent pas encore) et mettant votre commentaire et vos souhaits de réservation. Nous reprendrons contact avec vous.
+
+## Concert festif du 27 août à 20h30
+
+<table class="table table-hover table-bordered table-striped table-sm">
+<thead>
+ <tr>  
+ <th scope="col">Cat 1 </td>
+ <th scope="col">Cat 2</td>
+ <th scope="col">Cat 3</td>
+ <th scope="col">Cat 4</td>
+ </tr>
+</thead>
+<tbody>
+<tr>
+  <td>  35 €  </td>
+  <td>  29 €  </td>
+  <td>  22 €  </td>
+  <td>  15 €  </td>
+ </tr> 
+</tbody>
+</table>
+
 ---
-press_text: Een persconferentie wordt gehouden op maandag 7 mei 2018
+press_text:
+
+Une conférence de presse s'est tenue le lundi 7 mai 2018 à 11h à l'Académie royale.Un point presse sera également organisé le premier jour de l’évènement, lundi 27 août vers 13h. 
+
+Vous pouvez également télécharger des documents utiles en cliquant sur le lien ci-dessous.
 ---
-s_submission: Een voorstel indienen
+s_submission: Appel à soumission
 ---
-s_submit_here: Hier je voorstel indienen
+s_submit_here: Soumettez ici
 ---
-submissions_text: Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un peintre anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte. Il n'a pas fait que survivre cinq siècles, mais s'est aussi adapté à la bureautique informatique, sans que son contenu n'en soit modifié. Il a été popularisé dans les années 1960 grâce à la vente de feuilles Letraset contenant des passages du Lorem Ipsum, et, plus récemment, par son inclusion dans des applications de mise en page de texte, comme Aldus PageMaker.
+submissions_text:
+
+Faites-nous part de vos propositions de stand au sein de l'exposition pour lundi 27 et de poster pour mercredi 29 en cliquant sur le bouton ci-dessous qui vous intéresse.
+
+Les propositions d'ateliers 28 et de communications orales pour le 29 sont maintenant cloturées. Vous trouverez bientôt la liste de ceux-ci sur ce site.
+
 ---
-s_submissions: Een voorstel indienen
+s_submissions: Appel à propositions
 ---
-s_may: mei
+s_may: mai
 ---
-s_monday_27: Maandag 27
+s_monday_27: Lundi 27
 ---
-s_sunday_26: Zondag 26
+s_sunday_26: Dimanche 26
 ---
-s_thuesday_28: Dinsdag 28
+s_thuesday_28: Mardi 28
 ---
-s_wednesday_29: Woensdag 29
+s_wednesday_29: Mercredi 29
 ---
-s_program: Programma
+s_program: Programme
+---
+practical_infos_hostels:
+---
+inscription_tarif: Il faut envoyer un courriel à [tickets@bozar.be & factures@educode.be](mailto:tickets@bozar.be,factures@educode.be?subject=Facture pour educode) pour obtenir une facture.
+---
+s_free_expose: Exposer et tenir un stand
+---
+s_propose_atelier: Proposer un atelier
+---
+s_submit_paper: Soumettre un poster
+---
+contact:
+
+Les plus technophiles d'entre vous (soit vous tous ;-), qui voulez apprendre et comme les apprenants de BeCentral qui le font, si mes informations sont correctes, dès les tous premiers jours de leur formation) peuvent le faire en (vous apprécierez l'algorithme, d'apprendre un peu le code et ce qui accompagne, et de pouvoir taper un peu dans un terminal ;-)
+
+*    installant sur votre machine (windows ou macos x ou gnulinux)
+ *        le logiciel libre avec lequel le site est fait Lektor (voir https://getlektor.org; c'est beaucoup plus facile sur une machine gnulinux que macox x ou windows, sans être difficile sur celles-ci)
+ *      le logiciel libre git (voir https://git-scm.com/download/)
+*    en vous créant un login sur http://github.com
+*    en allant sur https://github.com/EduCodeBe/educode.be et en forkant le projet (en haut à droite)
+*    tapant dans le terminal (git-bash sur windows)
+   *     git clone https://github.com/<votre login>/educode.be
+   *     cd <le répertoire où vous êtes>/educode.be/EduCode
+   *     lektor server
+   *     firefox http://localhost:5000/
+   *     (vous pouvez alors
+      *       éditer le site avec une jolie interface graphique dans le navigateur et un petit crayon à droite qui permet d'éditer, et
+      *       aller par exemple sur la page http://localhost:5000/admin/root:exposants/edit
+      *       ajouter une page "exposant" en cliquant sur la première ligne sur + et en ajoutant une page dont le modèle est "Exposant"
+      *       en complétant les champs au format markdown  https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet assez facile
+      *       en sauvant localement sur votre machine au bas de la page
+      *       si vous voulez aider à une traduction de n'importe quelle page, c'est ici que cela se passe en allant dans le menu à gauche de la langue. Les textes ont été traduits en espagnol déjà mais je n'ai pas eu le temps de les incorporer. Ils sont dans )
+      *      arrêtant le serveur local par CONTROL-C
+*     en faisant tout remonter sur le serveur central en tapant
+  *           git add *
+  *          git commit -m "une description de vos modifications et ajouts"
+  *          git push (vous rentrez alors vos logins et mots de passe)
+  *        en me prévenant que vous voulez que nous intégrions vos modifications par mail à site@educode.be
+  *     et si possible en faisant sur github un pull request (qui simplifie les procédures 6 di-dessus et suivantes pour moi)
+    *         vous allez sur votre page https://github.com/<mon login>/educode.be/pulls
+    *            vous cliquez à droite sur le bouton NEW PULL REQUEST et vérifiez que votre projet est bien lié à EducodeBe/educode.be (le master)
+    *            vous complétez un petit mot
+    *            et envoyer
+    *    j'accepte votre proposition si il n'y a pas de conflit et hop
+    *     je mets en ligne dès que je peux (ou un autre membre de l'équipe le fait)
+        comme cela, vraiment, tous ensemble nous mettons en œuvre la collaboration pour le site et tout le reste.
+
+#     La mise en pratique de la théorie et le numérique, c'est aussi pour nous !
