@@ -1,58 +1,49 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: EduCode 2019\n"
+"Project-Id-Version: educode\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-07-24 18:41+CET\n"
-"PO-Revision-Date: 2019-07-24 17:38+CET\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
-"Language: nl\n"
+"POT-Creation-Date: 2019-08-26 15:40+CET\n"
+"PO-Revision-Date: 2019-08-26 15:41+0200\n"
+"Last-Translator: npettiaux\n"
+"Language-Team: Flemish\n"
+"Language: vls\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid ""
-"- 14h00 à 15h00 : Table-ronde Enseignement et technologie dans le monde : ce "
-"qui marche ou pas, et pourquoi, ce qui pourrait être fait (avec des "
-"représentants nationaux de différents pays)"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "2. Une ouverte au grand public avec exposition et conférences"
-msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Crowdin-Project: educode\n"
+"X-Crowdin-Language: vls-BE\n"
+"X-Crowdin-File: educode2019.pot\n"
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid ""
 "- 15h30 à 16h00 : Conférence **État de la recherche en éducation et "
 "numérique** par Julie Henry (Unamur)"
 msgstr ""
+"2. Een opening voor het grote publiek met tentoonstellingen en conferenties "
+"- 15.30 uur tot 16.00 uur: conferentie **Staat van onderwijs en digitaal "
+"onderzoek** door Julie Henry (Unamur)"
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "#Objectifs"
-msgstr ""
+msgid "- Dr Nicolas Pettiaux"
+msgstr "- Dr Nicolas Pettiaux"
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid ""
-"- 9h - 17h : petites conférences et exposés pour les enseignants et toute "
-"personne intéressée. Durant les pauses, les écoles, associations, "
-"entreprises exposent leurs réalisations et projets liés au numérique et à "
-"l'éducation, et des projets faits dans les classes (dans les couloirs et "
-"autres espaces)"
-msgstr ""
+#: http://localhost/ (content/contents+fr.lr:page.s_saturday)
+msgid "Samedi"
+msgstr "Zaterdag"
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "- Françoise Bols (chargé de cours, HE2B-Nivelles)"
-msgstr ""
+#: http://localhost/ (content/contents+fr.lr:page.s_practical_infos)
+msgid "Infos pratiques"
+msgstr "Praktische informatie"
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "- Yves Robaye de HE2B (co-président) (tbc)"
-msgstr ""
+#: http://localhost/ (content/contents+fr.lr:page.s_submit_paper)
+msgid "Soumettre un poster"
+msgstr "Verzend een poster"
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "- Éric Deprins ex CEO de Toyota Belgium, Unilever, Mestdagh"
-msgstr ""
+#: http://localhost/ (content/contents+fr.lr:page.s_overview_program)
+msgid "Aperçu du programme"
+msgstr "Programma overzicht"
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid ""
@@ -61,111 +52,40 @@ msgid ""
 "et à la formation. Des solutions de garde d'enfants avec des activités "
 "seront organisées pour que tous les parents puissent participer."
 msgstr ""
+"Tijdens de pauzes kunnen ze een groot aantal actoren ontmoeten, voornamelijk "
+"verenigingen, die activiteiten aanbieden die verband houden met digitaal en "
+"training. Oplossingen voor kinderopvang met activiteiten worden "
+"georganiseerd zodat alle ouders kunnen deelnemen."
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid ""
-"L’objectif est d’organiser à nouveau une journée, autour de l’enseignement "
-"du numérique et de l’enseignement grâce au numérique tous niveaux confondus "
-"(primaires, secondaire et supérieur), avec une partie consacrée à la "
-"programmation ."
-msgstr ""
+#: http://localhost/ (content/contents+fr.lr:page.s_submissions)
+msgid "Appel à propositions"
+msgstr "Oproep tot het indienen van voorstellen"
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "- Olivier Goletti de Ulouvain & SIcarre (chercheur)"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.expo_about)
-msgid ""
-"Durant les pauses-café et repas, toutes les structures (associations, "
-"institutions publiques, écoles, sociétés commerciales ...) actives dans le "
-"milieu de l’éducation numérique en Belgique et ailleurs représentés lors de "
-"la conférence, présenteront leurs réalisations dans l'[exposition](/"
-"exposition)."
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "- Dr Nicolas Pettiaux de ESI-HE2B & ULB-Lisa (maître-assistant)"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.title)
-msgid "Bienvenue à EduCode"
-msgstr ""
-
-#: http://localhost/about/ (content/about/contents+fr.lr:page.about)
-msgid ""
-"Ce site est fait avec le [logiciel libre](https://fr.wikipedia.org/wiki/"
-"Logiciel_libre) multiplateforme et multilingue [Lektor](https://getlektor."
-"com)."
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.about)
-msgid ""
-"Toute  proposition d'aide peut être envoyée à [aider@educode.be](mailto://"
-"aider@educode.be?subject=Aider educode&body=Je souhaite aider educode  à ... "
-"en ... juin / ... juillet / ... août )."
-msgstr ""
-
-#: http://localhost/about/ (content/about/contents+fr.lr:page.title)
-msgid "About this Website"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "#Comité d’organisation"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.press_text)
-msgid ""
-"Une conférence de presse sera organisée début septembre 2019 à Bruxelles. Un "
-"point presse sera également organisé durant la conférence vers 13h."
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "# Comité de soutien"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.press_text)
-msgid ""
-"Vous pouvez également télécharger des documents utiles en cliquant sur le "
-"lien ci-dessous."
-msgstr ""
+#: http://localhost/ (content/contents+fr.lr:page.s_sunday)
+msgid "Dimanche"
+msgstr "Zondag"
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid ""
 "À la haute école Bruxelles-Brabant, Catégorie Defré, avenue Defré à 1180 "
 "Uccle, très aisément accessible en transports en commun, voiture et vélo."
 msgstr ""
+"Op de middelbare school Brussel-Brabant, Categorie Defré, De Frélaan in 1180 "
+"Ukkel, zeer gemakkelijk bereikbaar met het openbaar vervoer, auto en fiets."
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
+#: http://localhost/ (content/contents+fr.lr:page.expo_about)
 msgid ""
-"1. Des conférences, ateliers et expositions destinés essentiellement aux "
-"enseignants"
+"Ce sera l’occasion pour les enseignants, leurs directions, les élus et leurs "
+"équipes, ainsi que pour les pouvoirs publics de prendre connaissance de la "
+"grande diversité des acteurs du numérique dans le domaine de l’enseignement. "
+"Ceux-ci pourront assister et aider les écoles dans une mission "
+"d'accompagnement et de formation aux très nombreux usages du numérique."
 msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid ""
-"Les journées consacrées aux enseignants seront, autant que possible, "
-"organisées avec le soutien de IFC pour être  reconnues par elles comme "
-"journées de formation continue obligatoires pour les enseignants."
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.text_button)
-msgid "Devenir exposant"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.about)
-msgid ""
-"L'organisation de cette conférence est essentiellement *bénévole*. _Toute "
-"aide et tout soutien sont les bienvenus_."
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.about)
-msgid ""
-"Pour plus d'information et la préinscription, voir http://wiki.educode.be"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "#Activités"
-msgstr ""
+"Het zal een gelegenheid zijn voor leraren, hun directoraten, gekozen "
+"functionarissen en hun teams, evenals voor de overheid om kennis te maken "
+"met de grote verscheidenheid aan digitale actoren op het gebied van "
+"onderwijs. Ze zullen scholen kunnen helpen en helpen bij een missie van "
+"ondersteuning en training voor het vele gebruik van digitale technologie."
 
 #: http://localhost/ (content/contents+fr.lr:page.practical_infos_brussels)
 msgid ""
@@ -180,167 +100,121 @@ msgid ""
 "Catherine. Si vous souhaitez plus d'informations sur Bruxelles, cliquez [ici]"
 "(http://visit.brussels)"
 msgstr ""
+"Brussel is de hoofdstad van België en Europa. De middeleeuwse Grote Markt is "
+"enorm. Het heeft veel gebouwen uit de 17e eeuw en organiseert dagelijks "
+"bloemenmarkten. Het Atomium, de Eiffeltoren van Brussel, is in 2006 heropend "
+"en biedt een adembenemend uitzicht zowel van binnen als van buiten. "
+"Architectuurliefhebbers mogen het Horta Museum niet missen, dat is gevestigd "
+"in het huis van de grote Belgische architect Victor Horta. De clubs en bars "
+"van St. Gery Square falen nooit. Zeevruchten zijn er in overvloed in St. "
+"Catherine. Wilt u meer informatie over Brussel, klik dan [hier] (http://"
+"visit.brussels)"
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "﻿EduCode 2019 : enseignement, numérique et codage dans la classe"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.about)
-msgid ""
-"Educode 2019 est la seconde édition d’un colloque annuel international dédié "
-"à l’éducation, aux pratiques et à la recherche dans les domaines liés au "
-"numérique. Il est le résultat d’une collaboration entre différents acteurs-"
-"clé du numérique en Belgique et à l'étranger."
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.inscription_tarif)
-msgid ""
-"Il faut envoyer un courriel à [factures@educode.be](mailto:tfactures@educode."
-"be?subject=Facture pour educode) pour obtenir une facture."
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid ""
-"- 15h00 à 15h30 : Conférence par Françoise Bols (HE2B et ULiège) : Enseigner "
-"le numérique et l'informatique en haute école : défis et opportunités"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid ""
-"Les professeurs, directeurs d'école, parents et étudiants, chercheurs et "
-"toute personne intéressée par l'enseignement et le numérique comme par la "
-"formation continue sont invités à réfléchir sur l'usage du numérique dans "
-"l'enseignement et l’enseignement grâce au numérique tous niveaux confondus "
-"(primaire, secondaire, supérieur et enseignement de promotion sociale), avec "
-"une partie importante consacrée à la programmation. De nombreuses formations "
-"pratiques seront également organisées."
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "L’évènement comporte 3 parties pour 4 publics :"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "- Eric Robette (maître-assistant, HE2B-Defré)"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "#Contact"
-msgstr ""
+msgid "- Eric Robette (HE2B-Defré, maître-assistant)"
+msgstr "- Eric Robette (HE2B-Defré, assistent-master)"
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "- 17h à 18h : buffet de clôture"
-msgstr ""
+msgstr "- 17.00 tot 18.00 uur: buffet sluiten"
 
-#: http://localhost/ (content/contents+fr.lr:page.about)
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid "- Prof Thierry Massart (ULB)"
+msgstr "- Prof Thierry Massart (ULB)"
+
+#: http://localhost/ (content/contents+fr.lr:page.submissions_text)
+msgid "La liste des ateliers sera publiée pour le 5 septembre 2019"
+msgstr "De lijst met workshops wordt gepubliceerd voor 5 september 2019"
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid "- Alexia Pasini (HE2B, co-présidente)"
+msgstr "- Alexia Pasini (HE2B, co-voorzitter)"
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid "- Prof Colin de la Higuera (Université de Nantes)"
+msgstr "- Prof Colin de la Higuera (Universiteit van Nantes)"
+
+#: http://localhost/ (content/contents+fr.lr:page.submissions_text)
 msgid ""
-"La conférence est **gratuite** pour les enseignants francophones membres de "
-"l'association educode."
+"Faites-nous part de vos propositions de stand au sein de l'exposition  en "
+"cliquant sur le bouton ci-dessous qui vous intéresse."
 msgstr ""
+"Laat ons uw standvoorstellen binnen de tentoonstelling weten door op de "
+"onderstaande knop te klikken die u interesseert."
 
-#: http://localhost/projects/ (content/projects/contents+fr.lr:page.title)
-msgid "Projects"
+#: http://localhost/ (content/contents+fr.lr:page.s_registration)
+msgid "Inscription"
+msgstr "Inschrijving"
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid "#Contenu"
+msgstr "#Content"
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid "# Comité scientifique et de soutien"
+msgstr "# Wetenschappelijk en ondersteunend comité"
+
+#: http://localhost/ (content/contents+fr.lr:page.expo_about)
+msgid ""
+"Celle-ci sera accessible essentiellement durant les pauses-cafés et repas du "
+"midi et du soir."
 msgstr ""
+"Dit zal vooral toegankelijk zijn tijdens koffiepauzes en lunch en diner."
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid ""
-"Les enseignants et leurs directions pourront suivre des conférences, une "
-"table-ronde et participer à de nombreux ateliers pratiques durant lesquels "
-"ils seront les apprenants, de manière à retrouver leurs alter-egos, "
-"développer avec eux des contenus et des expériences pour pouvoir réutiliser "
-"en classe ce qu'ils ont appris. Ces ateliers d’échanges pratiques "
-"concerneront des sujets très variés autour de l’éducation et de l’usage du "
-"numérique et de la pensée informatique, et de nouvelles manières de travail "
-"adaptées au numérique."
+"- 16h00 à 18h00 : Projection du film **La bataille du libre** suivie d'une "
+"discussion avec son réalisateur, Philippe Borel"
 msgstr ""
+"- 16: 00 uur tot 18: 00 uur: vertoning van de film **The battle of the "
+"free** gevolgd door een discussie met de regisseur, Philippe Borel"
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "#Localisation"
-msgstr ""
-
-#: http://localhost/about/contact/
-#: (content/about/contact/contents+fr.lr:page.title)
-msgid "Contact"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.practical_infos)
-msgid ""
-"Merci de vous munir des documents d’inscription pour une vérification aisée."
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid ""
-"- 9h à 17h : plus de 30 ateliers pratiques sont organisés (100 ordinateurs "
-"seront installés dans des locaux de séminaires, et les participants seront "
-"invités à venir avec leurs portables)"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.about)
-msgid ""
-"<noscript><a href=\"https://liberapay.com/npettiaux/donate\"><img alt="
-"\"Donate using Liberapay\" src=\"https://liberapay.com/assets/widgets/donate."
-"svg\"></a></noscript>"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.about)
-msgid ""
-"En particulier, vous pouvez faire des dons <script src=\"https://liberapay."
-"com/npettiaux/widgets/button.js\"></script>"
-msgstr ""
-
-#: http://localhost/about/ (content/about/contents+fr.lr:page.about)
-msgid ""
-"Il est développé en commun sur [github](https://github.com/EduCodeBe/educode."
-"be) et toute personne qui veut aider, même modestement, contribuer aux "
-"corrections, modifications, traductions ... peut le faire facilement."
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "- Pierre De Buyl (chercheur, KU Leuven)"
-msgstr ""
+#: http://localhost/ (content/contents+fr.lr:page.s_expo)
+msgid "Exposition"
+msgstr "Blootstelling"
 
 #: http://localhost/ (content/contents+fr.lr:page.practical_infos)
 msgid ""
 "La journée se déroulera dans les locaux de la HE2B-Defré, avenue Defré 62 à "
 "1180 Bruxelles"
 msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.partners_about)
-msgid "Beaucoup participent à l'[exposition](/exposition) ."
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.s_wednesday)
-msgid "Mercredi"
-msgstr ""
+"De dag zal plaatsvinden in de lokalen van HE2B-Defré, Defrélaan 62 in 1180 "
+"Brussel"
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid ""
-"La conférence est ouverte et généraliste, et ne se limite pas au codage, "
-"même si les aspects liés à la résolution de problèmes, à la compréhension "
-"des mécanismes de fonctionnement des ordinateurs, des questions légales et "
-"éthiques liées à l'usage du numérique etc. sont très importantes."
+"- 14h00 à 15h00 : Table-ronde Enseignement et technologie dans le monde : ce "
+"qui marche ou pas, et pourquoi, ce qui pourrait être fait (avec des "
+"représentants nationaux de différents pays)"
 msgstr ""
+"- 14: 00 tot 15: 00: Round Table Education and Technology in the World: Wat "
+"werkt en wat niet, en waarom, wat zou kunnen worden gedaan (met nationale "
+"vertegenwoordigers uit verschillende landen)"
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid ""
-"- Denis Longrée (maitre en mathématique, président de roue de secours asbl)"
+msgid "2. Une ouverte au grand public avec exposition et conférences"
 msgstr ""
+"2. Een opening voor het grote publiek met tentoonstelling en conferenties"
 
-#: http://localhost/about/ (content/about/contents+fr.lr:page.about)
+#: http://localhost/ (content/contents+fr.lr:page.registration)
 msgid ""
-"Par exemple, pour une suggestion ou un commentaire, merci  de remplir le "
-"[formulaire](https://github.com/EduCodeBe/educode.be/issues/new)"
+"Il a été demandée que cette formation fasse partie du programme des "
+"formations en interréseaux organisées par l’IFC. Il nous a été confirmé que "
+"selon toute vraisemblance, ce sera le cas. La conférence sera donc "
+"**gratuite pour les enseignants** de primaire et secondaire de la Fédération "
+"Wallonie-Bruxelles inscrits sur le site de IFC.  Nous attendons la "
+"confirmation de IFC pour le 20 août 2019."
 msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.practical_infos)
-msgid ""
-"Les participants à Educode  sont attendus dès 8h30. Les conférences et "
-"ateliers commencent à 9h00 précise."
-msgstr ""
+"Er werd gevraagd om deze training deel te laten uitmaken van het "
+"internetwerkprogramma van IFC. Ons is bevestigd dat dit naar alle "
+"waarschijnlijkheid het geval zal zijn. De conferentie zal daarom ** ratis "
+"zijn voor leerkrachten** basisonderwijs en secundair onderwijs van de "
+"Federatie Wallonië-Brussel geregistreerd op de IFC-website. We wachten op "
+"bevestiging van IFC tegen 20 augustus 2019."
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "- Karin Van Loon de HE2B-ISIB (directrice)"
-msgstr ""
+msgid "- Michel Willemse (HE2B-ESI, directeur)"
+msgstr "- Michel Willemse (HE2B-ESI, directeur)"
 
 #: http://localhost/ (content/contents+fr.lr:page.practical_infos)
 msgid ""
@@ -348,29 +222,124 @@ msgid ""
 "commander à leur arrivée des sandwiches pour le midi. Du café, du thé et des "
 "boissons seront mis à disposition."
 msgstr ""
+"Als ze dit tijdens de registratie niet hebben gedaan, kunnen deelnemers bij "
+"aankomst broodjes voor de lunch bestellen. Koffie, thee en drankjes worden "
+"verstrekt."
 
-#: http://localhost/ (content/contents+fr.lr:page.about)
+#: http://localhost/ (content/contents+fr.lr:page.s_press)
+msgid "Presse"
+msgstr "Press"
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid "- Yves Robaey (HE2B, co-président)"
+msgstr "- Yves Robaey (HE2B, co-voorzitter)"
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid "#Comité d’organisation"
+msgstr "#Organisatiecomité"
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid "﻿#Introduction"
+msgstr "#Introductie"
+
+#: http://localhost/ (content/contents+fr.lr:page.press_text)
 msgid ""
-"Le colloque Educode se déroule le vendredi 27septembre 2019 à la Haute-École "
-"Bruxelles-Brabant dans ses locaux de l'avenue Defré à Uccle (HE2B-Defré)."
+"Une conférence de presse sera organisée début septembre 2019 à Bruxelles. Un "
+"point presse sera également organisé durant la conférence vers 13h."
 msgstr ""
+"Een persconferentie zal begin september 2019 in Brussel worden "
+"georganiseerd. Een perspunt zal ook worden georganiseerd tijdens de "
+"conferentie rond 13u."
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid ""
-"Elles devraient en 2019 faire partie des enseignements généraux du citoyen "
-"du XXI siècle."
+"- Laurence Bourguignon (Forsud, conseillère pédagogique - formatrice TICE et "
+"institutrice primaire, à Athénée Royal de Couvin - fondamental)"
 msgstr ""
+"- Laurence Bourguignon (Forsud, onderwijsadviseur - TICE trainer en "
+"leerkracht basisschool, op Koninklijk Atheneum van Couvin - fundamenteel)"
+
+#: http://localhost/ (content/contents+fr.lr:page.s_about_educode)
+msgid "À propos d'EduCode"
+msgstr "Over EduCode"
+
+#: http://localhost/ (content/contents+fr.lr:page.text_button)
+msgid "Devenir exposant"
+msgstr "Word exposant"
+
+#: http://localhost/ (content/contents+fr.lr:page.s_our_partners)
+msgid "Nos partenaires"
+msgstr "Onze partners"
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid "#Localisation"
+msgstr "#Localisation"
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid ""
+"- 15h00 à 15h30 : Conférence par Françoise Bols (HE2B et ULiège) : Enseigner "
+"le numérique et l'informatique en haute école : défis et opportunités"
+msgstr ""
+"- 15.00 uur tot 15.30 uur: Conferentie door Françoise Bols (HE2B en ULiège): "
+"Onderwijs in de digitale en informatica op de middelbare school: uitdagingen "
+"en kansen"
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid "L’évènement comporte 3 parties pour 4 publics :"
+msgstr "Het evenement bestaat uit 3 delen voor 4 doelgroepen:"
+
+#: http://localhost/projects/ (content/projects/contents+fr.lr:page.title)
+msgid "Projects"
+msgstr "Projecten"
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid "- Eric Robette"
+msgstr "- Eric Robette"
+
+#: http://localhost/ (content/contents+fr.lr:page.s_partners)
+msgid "Partenaires"
+msgstr "Partners"
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid ""
+"- 9h à 17h : plus de 30 ateliers pratiques sont organisés (100 ordinateurs "
+"seront installés dans des locaux de séminaires, et les participants seront "
+"invités à venir avec leurs portables)"
+msgstr ""
+"- 9u tot 17u: er worden meer dan 30 praktische workshops georganiseerd (er "
+"worden 100 computers geïnstalleerd in vergaderzalen en deelnemers worden "
+"uitgenodigd om met hun laptops te komen)"
+
+#: http://localhost/ (content/contents+fr.lr:page.practical_infos)
+msgid ""
+"Merci de vous munir des documents d’inscription pour une vérification aisée."
+msgstr "Breng registratiedocumenten mee voor eenvoudige verificatie."
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid "- Erick Mascart (Forsub, conseiller pédagogique et formateur)"
+msgstr "- Erick Mascart (Forsub, educatieve adviseur en trainer)"
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid "- Olivier Goletti (Ulouvain & SIcarre, chercheur)"
+msgstr "- Olivier Goletti (Ulouvain & SIcarre, onderzoeker)"
+
+#: http://localhost/ (content/contents+fr.lr:page.s_contact)
+#: http://localhost/about/contact/
+#: (content/about/contact/contents+fr.lr:page.title)
+msgid "Contact"
+msgstr "Contact"
+
+#: http://localhost/ (content/contents+fr.lr:page.partners_about)
+msgid "Beaucoup participent à l'[exposition](/exposition) ."
+msgstr "Velen nemen deel aan de [tentoonstelling] (/ tentoonstelling)."
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid ""
 "4. Une conférence consacrée à la recherche scientifique sur la pédagogie, "
 "l'enseignement et le numérique"
 msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid ""
-"3. Une conférence et des activités dédiées aux directeurs d’établissement"
-msgstr ""
+"4. Een conferentie gewijd aan wetenschappelijk onderzoek op het gebied van "
+"pedagogiek, onderwijs en digitaal"
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid ""
@@ -386,69 +355,257 @@ msgid ""
 "connaissance des acteurs et sa capacité d'organisation de rencontres entre "
 "professionnels d'horizon divers."
 msgstr ""
+"Sommige conferenties, maar meestal praktische workshops en presentaties, "
+"vooral door leraren en hun studenten, of door vertegenwoordigers van "
+"verschillende gespecialiseerde bedrijven of verenigingen die bijdragen aan "
+"de training in het gebruik van ICT op school (zoals HE2B, ULBrussels, "
+"ULiège, UNamur, UMons, USaintLouis, Devoxx4kids, SICarré, het "
+"computerbedrijf van Frankrijk, Class'Code, the Scientothèque, Fablabe'ke, "
+"OpenFab, WeAreCoders, Reservewiel, BxLug, Abelli, CESEP, ForSud ...) . De "
+"stuurgroep van de conferentie wil de actoren van het onderwijs en het Pact "
+"of excellentie zijn kennis van de actoren en zijn capaciteit voor het "
+"organiseren van vergaderingen tussen professionals van verschillende "
+"horizonten ten dienste stellen."
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "- Denis Matagne de HE2B-Defré (directeur) (tbc)"
-msgstr ""
+msgid "- Denis Longrée"
+msgstr "- Denis Longrée"
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "#Introduction"
-msgstr ""
+msgid "- Prof Pierre Wolper (Uliège, recteur)"
+msgstr "- Prof Pierre Wolper (Uliège, rector)"
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "#Contenu"
-msgstr ""
+msgid "- Dr Pierre De Buyl (KU Leuven, chercheur)"
+msgstr "- Dr Pierre De Buyl (KU Leuven, onderzoeker)"
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "- Michel Willemse de HE2B-ESI (directeur) (tbc)"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "- Prof Olivier Debeir de ULB (co-directeur du laboratoire Lisa)"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.s_thuesday)
-msgid "Mardi"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "de 8h30 à 19h à Bruxelles"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "- Prof Bernard Rentier de Uliège (ancien recteur)"
-msgstr ""
+#: http://localhost/ (content/contents+fr.lr:page.s_become_partner)
+msgid "Devenez partenaire"
+msgstr "Partner worden"
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid ""
 "Nicolas Pettiaux, président de l’asbl educode, nicolas@educode.be, gsm 496 "
 "24 55 01"
 msgstr ""
+"Nicolas Pettiaux, voorzitter van de Educode vzw, nicolas@educode.be, mobiel "
+"496 24 55 01"
+
+#: http://localhost/ (content/contents+fr.lr:page.s_submit_here)
+msgid "Soumettez ici"
+msgstr "Dien hier in"
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid "- Prof Bernard Rentier (Uliège, ancien recteur)"
+msgstr "- Prof. Bernard Rentier (ULiège, voormalig rector)"
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid ""
+"L’objectif est d’organiser à nouveau une journée, autour de l’enseignement "
+"du numérique et de l’enseignement grâce au numérique tous niveaux confondus "
+"(primaires, secondaire et supérieur), avec une partie consacrée à la "
+"programmation ."
+msgstr ""
+"Het doel is om een nieuwe dag te organiseren rond digitaal onderwijs en "
+"onderwijs via digitaal op alle niveaus (primair, secundair en hoger), met "
+"een gedeelte gewijd aan programmeren."
 
 #: http://localhost/ (content/contents+fr.lr:page.expo_about)
 msgid ""
-"Celle-ci sera accessible essentiellement durant les pauses-cafés et repas du "
-"midi et du soir."
+"Durant les pauses-café et repas, toutes les structures (associations, "
+"institutions publiques, écoles, sociétés commerciales ...) actives dans le "
+"milieu de l’éducation numérique en Belgique et ailleurs représentés lors de "
+"la conférence, présenteront leurs réalisations dans l'[exposition](/"
+"exposition)."
 msgstr ""
+"Tijdens de koffiepauzes en maaltijden zullen alle structuren (verenigingen, "
+"openbare instellingen, scholen, commerciële bedrijven ...) die actief zijn "
+"in de digitale onderwijssector in België en elders vertegenwoordigd tijdens "
+"de conferentie, hun prestaties presenteren in de [blootstelling] (/ "
+"blootstelling)."
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "HE2B-Defré, avenue Defré 62 à 1180 Bruxelles."
-msgstr ""
+msgid "- Prof Bibiana Boccolini (Université de Rosario, Argentine)"
+msgstr "- Prof Bibiana Boccolini (Universiteit van Rosario, Argentinië)"
 
-#: http://localhost/ (content/contents+fr.lr:page.registration)
-msgid ""
-"Les préinscriptions sont possibles dans https://wiki.educode.be/doku.php?"
-"id=educode2019preinscriptions"
-msgstr ""
+#: http://localhost/ (content/contents+fr.lr:page.s_hotel)
+msgid "Hôtels"
+msgstr "Hotels"
 
-#: http://localhost/ (content/contents+fr.lr:page.registration)
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid "#Activités"
+msgstr "#Activiteiten"
+
+#: http://localhost/ (content/contents+fr.lr:page.s_speakers)
+msgid "Intervenants"
+msgstr "Speakers"
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid ""
-"Il a été demandée que cette formation fasse partie du programme des "
-"formations en interréseaux organisées par l’IFC. Elle sera donc **gratuite "
-"pour les enseignants** de primaire et secondaire de la Fédération Wallonie-"
-"Bruxelles inscrits sur le site de IFC.  Nous attendons la confirmation de "
-"IFC."
+"Les enseignants et leurs directions pourront suivre des conférences, une "
+"table-ronde et participer à de nombreux ateliers pratiques durant lesquels "
+"ils seront les apprenants, de manière à retrouver leurs alter-egos, "
+"développer avec eux des contenus et des expériences pour pouvoir réutiliser "
+"en classe ce qu'ils ont appris. Ces ateliers d’échanges pratiques "
+"concerneront des sujets très variés autour de l’éducation et de l’usage du "
+"numérique et de la pensée informatique, et de nouvelles manières de travail "
+"adaptées au numérique."
 msgstr ""
+"Leraren en hun directies kunnen conferenties, een rondetafel bijwonen en "
+"deelnemen aan vele praktische workshops waarin zij de leerlingen zijn, om "
+"hun alter ego's te vinden, inhoud en ervaringen met hen te hergebruiken in "
+"de klas wat ze hebben geleerd. Deze hands-on workshops zullen zich richten "
+"op een breed scala aan onderwerpen rond onderwijs en het gebruik van "
+"digitaal en computerdenken, en nieuwe manieren van werken die digitaal zijn."
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid "- Prof Olivier Debeir (ULB)"
+msgstr "- Prof Olivier Debeir (ULB)"
+
+#: http://localhost/ (content/contents+fr.lr:page.s_intro_dates)
+msgid "27 septembre 2019"
+msgstr "27 september 2019"
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid "- Denis Matagne (HE2B-Defré, directeur)"
+msgstr "- Denis Matagne (HE2B-Defré, directeur)"
+
+#: http://localhost/ (content/contents+fr.lr:page.s_thursday)
+msgid "Jeudi"
+msgstr "Donderdag"
+
+#: http://localhost/ (content/contents+fr.lr:page.practical_infos)
+msgid ""
+"Les participants à Educode  sont attendus dès 8h30. Les conférences et "
+"ateliers commencent à 9h00 précise."
+msgstr ""
+"Educode-deelnemers worden vanaf 8.30 uur verwacht. Conferenties en workshops "
+"beginnen om 9: 00 uur."
+
+#: http://localhost/ (content/contents+fr.lr:page.s_program)
+msgid "Programme"
+msgstr "Programma"
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid "- Françoise Bols (HE2B-Nivelles, chargé de cours)"
+msgstr "- Françoise Bols (HE2B-Nivelles, lector)"
+
+#: http://localhost/ (content/contents+fr.lr:page.s_intro_location_city)
+msgid "Bruxelles, Belgique"
+msgstr "Brussel, België"
+
+#: http://localhost/ (content/contents+fr.lr:page.s_location)
+msgid "Lieux"
+msgstr "Plaatsen"
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid "#Comité de programme"
+msgstr "#Programmacommissie"
+
+#: http://localhost/ (content/contents+fr.lr:page.submissions_text)
+msgid ""
+"Les propositions d'ateliers devraient être entrées pour le 10 aout 2019 dans "
+"http://wiki.educode.be"
+msgstr ""
+"Workshopvoorstellen moeten vóór 10 augustus 2019 worden ingevoerd op http://"
+"wiki.educode.be"
+
+#: http://localhost/ (content/contents+fr.lr:page.s_monday)
+msgid "Lundi"
+msgstr "Maandag"
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid "- Dr Nicolas Pettiaux (ESI-HE2B & ULB-Lisa, maître-assistant)"
+msgstr "- Dr Nicolas Pettiaux (ESI-HE2B & ULB-Lisa, assistent-master)"
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid "#Objectifs"
+msgstr "#Objectifs"
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid ""
+"- 9h - 17h : petites conférences et exposés pour les enseignants et toute "
+"personne intéressée. Durant les pauses, les écoles, associations, "
+"entreprises exposent leurs réalisations et projets liés au numérique et à "
+"l'éducation, et des projets faits dans les classes (dans les couloirs et "
+"autres espaces)"
+msgstr ""
+"- 9u - 17u: kleine lezingen en presentaties voor docenten en "
+"geïnteresseerden. Tijdens pauzes, tonen scholen, verenigingen, bedrijven hun "
+"prestaties en projecten met betrekking tot digitaal en onderwijs, en "
+"projecten gemaakt in klaslokalen (in gangen en andere ruimtes)"
+
+#: http://localhost/ (content/contents+fr.lr:page.title)
+msgid "Bienvenue à EduCode"
+msgstr "Welkom bij EduCode"
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid "#Contact"
+msgstr "#Contact"
+
+#: http://localhost/ (content/contents+fr.lr:page.s_free_expose)
+msgid "Exposer et tenir un stand"
+msgstr "Stel een stand tentoon en houd vast"
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid "- Julie Henry (UNamur, chercheuse)"
+msgstr "- Julie Henry (UNamur, onderzoeker)"
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid "- Françoise Bols"
+msgstr "- Françoise Bols"
+
+#: http://localhost/ (content/contents+fr.lr:page.press_text)
+msgid ""
+"Vous pouvez également télécharger des documents utiles en cliquant sur le "
+"lien ci-dessous."
+msgstr ""
+"U kunt ook nuttige documenten downloaden door op de onderstaande link te "
+"klikken."
+
+#: http://localhost/ (content/contents+fr.lr:page.s_more_infos)
+msgid "Plus d'infos"
+msgstr "Meer info"
+
+#: http://localhost/ (content/contents+fr.lr:page.s_friday)
+msgid "Vendredi"
+msgstr "Vrijdag"
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid "- Éric Deprins, ex CEO de Toyota Belgium, Unilever, Mestdagh"
+msgstr "- Éric Deprins, voormalig CEO van Toyota Belgium, Unilever, Mestdagh"
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid ""
+"Les journées consacrées aux enseignants seront, autant que possible, "
+"organisées avec le soutien de IFC pour être  reconnues par elles comme "
+"journées de formation continue obligatoires pour les enseignants."
+msgstr ""
+"Voor zover mogelijk worden lerarendagen georganiseerd met de steun van IFC "
+"om door hen te worden erkend als verplichte dagen voor voortgezet onderwijs "
+"voor leraren."
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid "- Georges Khaznadar (Lycée Jean Bart, Dunkerque)"
+msgstr "- Georges Khaznadar (Lycee Jean Bart, Duinkerken)"
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid ""
+"Les professeurs, directeurs d'école, parents et étudiants, chercheurs et "
+"toute personne intéressée par l'enseignement et le numérique comme par la "
+"formation continue sont invités à réfléchir sur l'usage du numérique dans "
+"l'enseignement et l’enseignement grâce au numérique tous niveaux confondus "
+"(primaire, secondaire, supérieur et enseignement de promotion sociale), avec "
+"une partie importante consacrée à la programmation. De nombreuses formations "
+"pratiques seront également organisées."
+msgstr ""
+"Leraren, directeurs, ouders en studenten, onderzoekers en iedereen die "
+"geïnteresseerd is in lesgeven en digitaal, evenals in permanente educatie "
+"worden uitgenodigd om na te denken over het gebruik van digitale technologie "
+"bij het lesgeven en leren via digitale technologie van alle niveaus "
+"(primair, secundair, hoger en sociale vooruitgang), met een aanzienlijk deel "
+"gewijd aan programmeren. Er zullen ook veel praktische trainingen worden "
+"georganiseerd."
 
 #: http://localhost/ (content/contents+fr.lr:page.partners_about)
 msgid ""
@@ -460,36 +617,90 @@ msgid ""
 "des membres du comité d'organisation de la conférence, encadrent des "
 "ateliers..."
 msgstr ""
+"De partners van de conferentie zijn alle actoren die de kwestie belangrijk "
+"vinden en die willen bijdragen in de mate van hun middelen. Ze zijn "
+"Belgische en buitenlandse, meestal associatief. Sommige bieden essentiële "
+"financiële steun, de anderen nemen deel aan de promotie en verspreiding van "
+"informatie rond de conferentie, zijn lid van het organisatiecomité van de "
+"conferentie, houden toezicht op workshops..."
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid ""
-"- 16h00 à 18h00 : Projection du film **La bataille du libre** suivie d'une "
-"discussion avec son réalisateur, Philippe Borel"
+"La conférence est ouverte et généraliste, et ne se limite pas au codage, "
+"même si les aspects liés à la résolution de problèmes, à la compréhension "
+"des mécanismes de fonctionnement des ordinateurs, des questions légales et "
+"éthiques liées à l'usage du numérique etc. sont très importantes. Elles "
+"devraient en 2019 faire partie des enseignements généraux du citoyen du XXI "
+"siècle."
 msgstr ""
+"De conferentie is open en algemeen, en is niet beperkt tot codering, zelfs "
+"als de aspecten met betrekking tot het oplossen van problemen, inzicht in de "
+"mechanismen van de werking van computers, juridische en ethische kwesties in "
+"verband met het gebruik van digitale enz. zijn erg belangrijk."
+
+#: http://localhost/ (content/contents+fr.lr:page.s_wednesday)
+msgid "Mercredi"
+msgstr "Woensdag"
+
+#: http://localhost/ (content/contents+fr.lr:page.s_may)
+msgid "mai"
+msgstr "mei"
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "Vendredi 27 septembre 2019"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.expo_about)
 msgid ""
-"Ce sera l’occasion pour les enseignants, leurs directions, les élus et leurs "
-"équipes, ainsi que pour les pouvoirs publics de prendre connaissance de la "
-"grande diversité des acteurs du numérique dans le domaine de l’enseignement. "
-"Ceux-ci pourront assister et aider les écoles dans une mission "
-"d'accompagnement et de formation aux très nombreux usages du numérique."
+"1. Des conférences, ateliers et expositions destinés essentiellement aux "
+"enseignants"
 msgstr ""
+"1. Conferenties, workshops en tentoonstellingen voornamelijk voor "
+"leerkrachten"
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "- Nicolas Pettiaux de ESI-HE2B & ULB-Lisa (maître-assistant)"
+msgid ""
+"3. Une conférence et des activités dédiées aux directeurs d’établissement"
+msgstr "3. Een conferentie en activiteiten gewijd aan schoolhoofden"
+
+#: http://localhost/ (content/contents+fr.lr:page.s_propose_atelier)
+msgid "Proposer un atelier"
+msgstr "Stel een workshop voor"
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid "- Prof Hugues Bersini (ULB)"
+msgstr "- Prof Hugues Bersini (ULB)"
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid "- Karin Van Loon (HE2B-ISIB, directrice)"
+msgstr "- Karin Van Loon (HE2B-ISIB, director)"
+
+#: http://localhost/ (content/contents+fr.lr:page.s_thuesday)
+msgid "Mardi"
+msgstr "Dinsdag"
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid ""
+"- Denis Longrée (président de roue de secours asbl, maitre en mathématique)"
 msgstr ""
+"- Denis Longrée (president van Roue de secours asbl, meester in wiskunde)"
+
+#: http://localhost/ (content/contents+fr.lr:page.registration)
+msgid ""
+"Les préinscriptions sont possibles dans https://wiki.educode.be/doku.php?"
+"id=educode2019preinscriptions"
+msgstr ""
+"Pre-registratie is mogelijk in https://wiki.educode.be/doku.php?"
+"id=educode2019preinscriptions"
+
+#: http://localhost/about/ (content/about/contents+fr.lr:page.title)
+msgid "About this Website"
+msgstr "Over deze website"
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid "- Erick Mascart"
+msgstr "- Erick Mascart"
 
 #: http://localhost/ (content/contents+fr.lr:page.baseline)
 msgid ""
 "Une conférence internationale pour informer, former et susciter l'intérêt de "
 "tous les acteurs de l'enseignement aux défis du numérique."
 msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "- Dr Pierre De Buyl (chercheur, KU Leuven)"
-msgstr ""
+"Een internationale conferentie om alle belanghebbenden in het onderwijs te "
+"informeren, te informeren en te interesseren voor de digitale uitdagingen."

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: EduCode 2019\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-07-24 18:44+CET\n"
+"POT-Creation-Date: 2019-08-26 15:43+CET\n"
 "PO-Revision-Date: 2019-07-24 17:38+CET\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -14,40 +14,28 @@ msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid ""
-"- 14h00 à 15h00 : Table-ronde Enseignement et technologie dans le monde : ce "
-"qui marche ou pas, et pourquoi, ce qui pourrait être fait (avec des "
-"représentants nationaux de différents pays)"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "2. Une ouverte au grand public avec exposition et conférences"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid ""
 "- 15h30 à 16h00 : Conférence **État de la recherche en éducation et "
 "numérique** par Julie Henry (Unamur)"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "#Objectifs"
+msgid "- Dr Nicolas Pettiaux"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid ""
-"- 9h - 17h : petites conférences et exposés pour les enseignants et toute "
-"personne intéressée. Durant les pauses, les écoles, associations, "
-"entreprises exposent leurs réalisations et projets liés au numérique et à "
-"l'éducation, et des projets faits dans les classes (dans les couloirs et "
-"autres espaces)"
+#: http://localhost/ (content/contents+fr.lr:page.s_saturday)
+msgid "Samedi"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "- Françoise Bols (chargé de cours, HE2B-Nivelles)"
+#: http://localhost/ (content/contents+fr.lr:page.s_practical_infos)
+msgid "Infos pratiques"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "- Éric Deprins ex CEO de Toyota Belgium, Unilever, Mestdagh"
+#: http://localhost/ (content/contents+fr.lr:page.s_submit_paper)
+msgid "Soumettre un poster"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.s_overview_program)
+msgid "Aperçu du programme"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
@@ -58,47 +46,12 @@ msgid ""
 "seront organisées pour que tous les parents puissent participer."
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid ""
-"L’objectif est d’organiser à nouveau une journée, autour de l’enseignement "
-"du numérique et de l’enseignement grâce au numérique tous niveaux confondus "
-"(primaires, secondaire et supérieur), avec une partie consacrée à la "
-"programmation ."
+#: http://localhost/ (content/contents+fr.lr:page.s_submissions)
+msgid "Appel à propositions"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "- Olivier Goletti de Ulouvain & SIcarre (chercheur)"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.expo_about)
-msgid ""
-"Durant les pauses-café et repas, toutes les structures (associations, "
-"institutions publiques, écoles, sociétés commerciales ...) actives dans le "
-"milieu de l’éducation numérique en Belgique et ailleurs représentés lors de "
-"la conférence, présenteront leurs réalisations dans l'[exposition](/"
-"exposition)."
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "- Dr Nicolas Pettiaux de ESI-HE2B & ULB-Lisa (maître-assistant)"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.title)
-msgid "Bienvenue à EduCode"
-msgstr ""
-
-#: http://localhost/about/ (content/about/contents+fr.lr:page.title)
-msgid "About this Website"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "#Comité d’organisation"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.practical_infos)
-msgid ""
-"La journée se déroulera dans les locaux de la HE2B-Defré, avenue Defré 62 à "
-"1180 Bruxelles"
+#: http://localhost/ (content/contents+fr.lr:page.s_sunday)
+msgid "Dimanche"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
@@ -107,27 +60,13 @@ msgid ""
 "Uccle, très aisément accessible en transports en commun, voiture et vélo."
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "- Michel Willemse de HE2B-ESI (directeur) (tbc)"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.monday)
+#: http://localhost/ (content/contents+fr.lr:page.expo_about)
 msgid ""
-"Les journées consacrées aux enseignants seront, autant que possible, "
-"organisées avec le soutien de IFC pour être  reconnues par elles comme "
-"journées de formation continue obligatoires pour les enseignants."
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.text_button)
-msgid "Devenir exposant"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "- Yves Robaye de HE2B (co-président) (tbc)"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "#Activités"
+"Ce sera l’occasion pour les enseignants, leurs directions, les élus et leurs "
+"équipes, ainsi que pour les pouvoirs publics de prendre connaissance de la "
+"grande diversité des acteurs du numérique dans le domaine de l’enseignement. "
+"Ceux-ci pourront assister et aider les écoles dans une mission "
+"d'accompagnement et de formation aux très nombreux usages du numérique."
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.practical_infos_brussels)
@@ -145,7 +84,11 @@ msgid ""
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "﻿EduCode 2019 : enseignement, numérique et codage dans la classe"
+msgid "- Eric Robette (HE2B-Defré, maître-assistant)"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid "- 17h à 18h : buffet de clôture"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
@@ -153,36 +96,50 @@ msgid "#Localisation"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid "- Prof Thierry Massart (ULB)"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.submissions_text)
+msgid "La liste des ateliers sera publiée pour le 5 septembre 2019"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid "- Alexia Pasini (HE2B, co-présidente)"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid "- Prof Colin de la Higuera (Université de Nantes)"
+msgstr ""
+
+#: http://localhost/about/ (content/about/contents+fr.lr:page.about)
 msgid ""
-"- 15h00 à 15h30 : Conférence par Françoise Bols (HE2B et ULiège) : Enseigner "
-"le numérique et l'informatique en haute école : défis et opportunités"
+"Il est développé en commun sur [github](https://github.com/EduCodeBe/educode."
+"be) et toute personne qui veut aider, même modestement, contribuer aux "
+"corrections, modifications, traductions ... peut le faire facilement."
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
+#: http://localhost/ (content/contents+fr.lr:page.submissions_text)
 msgid ""
-"Les professeurs, directeurs d'école, parents et étudiants, chercheurs et "
-"toute personne intéressée par l'enseignement et le numérique comme par la "
-"formation continue sont invités à réfléchir sur l'usage du numérique dans "
-"l'enseignement et l’enseignement grâce au numérique tous niveaux confondus "
-"(primaire, secondaire, supérieur et enseignement de promotion sociale), avec "
-"une partie importante consacrée à la programmation. De nombreuses formations "
-"pratiques seront également organisées."
+"Faites-nous part de vos propositions de stand au sein de l'exposition  en "
+"cliquant sur le bouton ci-dessous qui vous intéresse."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.s_registration)
+msgid "Inscription"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "L’évènement comporte 3 parties pour 4 publics :"
+msgid "#Contenu"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "- Eric Robette (maître-assistant, HE2B-Defré)"
+msgid "# Comité scientifique et de soutien"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "#Contact"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "- 17h à 18h : buffet de clôture"
+#: http://localhost/ (content/contents+fr.lr:page.expo_about)
+msgid ""
+"Celle-ci sera accessible essentiellement durant les pauses-cafés et repas du "
+"midi et du soir."
 msgstr ""
 
 #: http://localhost/projects/ (content/projects/contents+fr.lr:page.title)
@@ -191,66 +148,43 @@ msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid ""
-"Les enseignants et leurs directions pourront suivre des conférences, une "
-"table-ronde et participer à de nombreux ateliers pratiques durant lesquels "
-"ils seront les apprenants, de manière à retrouver leurs alter-egos, "
-"développer avec eux des contenus et des expériences pour pouvoir réutiliser "
-"en classe ce qu'ils ont appris. Ces ateliers d’échanges pratiques "
-"concerneront des sujets très variés autour de l’éducation et de l’usage du "
-"numérique et de la pensée informatique, et de nouvelles manières de travail "
-"adaptées au numérique."
+"- 16h00 à 18h00 : Projection du film **La bataille du libre** suivie d'une "
+"discussion avec son réalisateur, Philippe Borel"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "# Comité de soutien"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid ""
-"- 9h à 17h : plus de 30 ateliers pratiques sont organisés (100 ordinateurs "
-"seront installés dans des locaux de séminaires, et les participants seront "
-"invités à venir avec leurs portables)"
+#: http://localhost/ (content/contents+fr.lr:page.s_expo)
+msgid "Exposition"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.practical_infos)
 msgid ""
-"Merci de vous munir des documents d’inscription pour une vérification aisée."
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "- Pierre De Buyl (chercheur, KU Leuven)"
-msgstr ""
-
-#: http://localhost/about/contact/
-#: (content/about/contact/contents+fr.lr:page.title)
-msgid "Contact"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.partners_about)
-msgid "Beaucoup participent à l'[exposition](/exposition) ."
+"La journée se déroulera dans les locaux de la HE2B-Defré, avenue Defré 62 à "
+"1180 Bruxelles"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid ""
-"La conférence est ouverte et généraliste, et ne se limite pas au codage, "
-"même si les aspects liés à la résolution de problèmes, à la compréhension "
-"des mécanismes de fonctionnement des ordinateurs, des questions légales et "
-"éthiques liées à l'usage du numérique etc. sont très importantes."
+"- 14h00 à 15h00 : Table-ronde Enseignement et technologie dans le monde : ce "
+"qui marche ou pas, et pourquoi, ce qui pourrait être fait (avec des "
+"représentants nationaux de différents pays)"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid ""
-"- Denis Longrée (maitre en mathématique, président de roue de secours asbl)"
+msgid "2. Une ouverte au grand public avec exposition et conférences"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.practical_infos)
+#: http://localhost/ (content/contents+fr.lr:page.registration)
 msgid ""
-"Les participants à Educode  sont attendus dès 8h30. Les conférences et "
-"ateliers commencent à 9h00 précise."
+"Il a été demandée que cette formation fasse partie du programme des "
+"formations en interréseaux organisées par l’IFC. Il nous a été confirmé que "
+"selon toute vraisemblance, ce sera le cas. La conférence sera donc "
+"**gratuite pour les enseignants** de primaire et secondaire de la Fédération "
+"Wallonie-Bruxelles inscrits sur le site de IFC.  Nous attendons la "
+"confirmation de IFC pour le 20 août 2019."
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "- Karin Van Loon de HE2B-ISIB (directrice)"
+msgid "- Michel Willemse (HE2B-ESI, directeur)"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.practical_infos)
@@ -260,27 +194,133 @@ msgid ""
 "boissons seront mis à disposition."
 msgstr ""
 
+#: http://localhost/ (content/contents+fr.lr:page.s_press)
+msgid "Presse"
+msgstr ""
+
 #: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid "- Yves Robaey (HE2B, co-président)"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid "#Comité d’organisation"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid "﻿#Introduction"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.press_text)
 msgid ""
-"1. Des conférences, ateliers et expositions destinés essentiellement aux "
-"enseignants"
+"Une conférence de presse sera organisée début septembre 2019 à Bruxelles. Un "
+"point presse sera également organisé durant la conférence vers 13h."
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid ""
-"Elles devraient en 2019 faire partie des enseignements généraux du citoyen "
-"du XXI siècle."
+"- Laurence Bourguignon (Forsud, conseillère pédagogique - formatrice TICE et "
+"institutrice primaire, à Athénée Royal de Couvin - fondamental)"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid "- Erick Mascart"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.text_button)
+msgid "Devenir exposant"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.about)
+msgid ""
+"Pour plus d'information et la préinscription, voir http://wiki.educode.be"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.s_our_partners)
+msgid "Nos partenaires"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.s_program)
+msgid "Programme"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.about)
+msgid ""
+"Educode 2019 est la seconde édition d’un colloque annuel international dédié "
+"à l’éducation, aux pratiques et à la recherche dans les domaines liés au "
+"numérique. Il est le résultat d’une collaboration entre différents acteurs-"
+"clé du numérique en Belgique et à l'étranger."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.s_partners)
+msgid "Partenaires"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid ""
+"- 15h00 à 15h30 : Conférence par Françoise Bols (HE2B et ULiège) : Enseigner "
+"le numérique et l'informatique en haute école : défis et opportunités"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid "L’évènement comporte 3 parties pour 4 publics :"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.about)
+msgid ""
+"La conférence est **gratuite** pour les enseignants francophones membres de "
+"l'association educode."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid "- Eric Robette"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.practical_infos)
+msgid ""
+"Merci de vous munir des documents d’inscription pour une vérification aisée."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid ""
+"- 9h à 17h : plus de 30 ateliers pratiques sont organisés (100 ordinateurs "
+"seront installés dans des locaux de séminaires, et les participants seront "
+"invités à venir avec leurs portables)"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.about)
+msgid ""
+"En particulier, vous pouvez faire des dons <script src=\"https://liberapay."
+"com/npettiaux/widgets/button.js\"></script>"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid "- Erick Mascart (Forsub, conseiller pédagogique et formateur)"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid "- Olivier Goletti (Ulouvain & SIcarre, chercheur)"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.s_contact)
+#: http://localhost/about/contact/
+#: (content/about/contact/contents+fr.lr:page.title)
+msgid "Contact"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.partners_about)
+msgid "Beaucoup participent à l'[exposition](/exposition) ."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.about)
+msgid ""
+"Le colloque Educode se déroule le vendredi 27septembre 2019 à la Haute-École "
+"Bruxelles-Brabant dans ses locaux de l'avenue Defré à Uccle (HE2B-Defré)."
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid ""
 "4. Une conférence consacrée à la recherche scientifique sur la pédagogie, "
 "l'enseignement et le numérique"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid ""
-"3. Une conférence et des activités dédiées aux directeurs d’établissement"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
@@ -299,27 +339,19 @@ msgid ""
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "- Denis Matagne de HE2B-Defré (directeur) (tbc)"
+msgid "- Denis Longrée"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "#Introduction"
+msgid "- Prof Pierre Wolper (Uliège, recteur)"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "#Contenu"
+msgid "- Dr Pierre De Buyl (KU Leuven, chercheur)"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "- Prof Olivier Debeir de ULB (co-directeur du laboratoire Lisa)"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "de 8h30 à 19h à Bruxelles"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "- Prof Bernard Rentier de Uliège (ancien recteur)"
+#: http://localhost/ (content/contents+fr.lr:page.s_become_partner)
+msgid "Devenez partenaire"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
@@ -328,29 +360,210 @@ msgid ""
 "24 55 01"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.expo_about)
-msgid ""
-"Celle-ci sera accessible essentiellement durant les pauses-cafés et repas du "
-"midi et du soir."
+#: http://localhost/ (content/contents+fr.lr:page.s_submit_here)
+msgid "Soumettez ici"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "HE2B-Defré, avenue Defré 62 à 1180 Bruxelles."
+msgid "- Prof Bernard Rentier (Uliège, ancien recteur)"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.registration)
+#: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid ""
-"Les préinscriptions sont possibles dans https://wiki.educode.be/doku.php?"
-"id=educode2019preinscriptions"
+"L’objectif est d’organiser à nouveau une journée, autour de l’enseignement "
+"du numérique et de l’enseignement grâce au numérique tous niveaux confondus "
+"(primaires, secondaire et supérieur), avec une partie consacrée à la "
+"programmation ."
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.registration)
+#: http://localhost/ (content/contents+fr.lr:page.expo_about)
 msgid ""
-"Il a été demandée que cette formation fasse partie du programme des "
-"formations en interréseaux organisées par l’IFC. Elle sera donc **gratuite "
-"pour les enseignants** de primaire et secondaire de la Fédération Wallonie-"
-"Bruxelles inscrits sur le site de IFC.  Nous attendons la confirmation de "
-"IFC."
+"Durant les pauses-café et repas, toutes les structures (associations, "
+"institutions publiques, écoles, sociétés commerciales ...) actives dans le "
+"milieu de l’éducation numérique en Belgique et ailleurs représentés lors de "
+"la conférence, présenteront leurs réalisations dans l'[exposition](/"
+"exposition)."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid "- Prof Bibiana Boccolini (Université de Rosario, Argentine)"
+msgstr ""
+
+#: http://localhost/about/ (content/about/contents+fr.lr:page.about)
+msgid ""
+"Ce site est fait avec le [logiciel libre](https://fr.wikipedia.org/wiki/"
+"Logiciel_libre) multiplateforme et multilingue [Lektor](https://getlektor."
+"com)."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.s_hotel)
+msgid "Hôtels"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid "#Activités"
+msgstr ""
+
+#: http://localhost/about/ (content/about/contents+fr.lr:page.about)
+msgid ""
+"Par exemple, pour une suggestion ou un commentaire, merci  de remplir le "
+"[formulaire](https://github.com/EduCodeBe/educode.be/issues/new)"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.s_speakers)
+msgid "Intervenants"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid ""
+"Les enseignants et leurs directions pourront suivre des conférences, une "
+"table-ronde et participer à de nombreux ateliers pratiques durant lesquels "
+"ils seront les apprenants, de manière à retrouver leurs alter-egos, "
+"développer avec eux des contenus et des expériences pour pouvoir réutiliser "
+"en classe ce qu'ils ont appris. Ces ateliers d’échanges pratiques "
+"concerneront des sujets très variés autour de l’éducation et de l’usage du "
+"numérique et de la pensée informatique, et de nouvelles manières de travail "
+"adaptées au numérique."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid "- Prof Olivier Debeir (ULB)"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.s_intro_dates)
+msgid "27 septembre 2019"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid "- Denis Matagne (HE2B-Defré, directeur)"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.s_thursday)
+msgid "Jeudi"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.practical_infos)
+msgid ""
+"Les participants à Educode  sont attendus dès 8h30. Les conférences et "
+"ateliers commencent à 9h00 précise."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid ""
+"- Denis Longrée (président de roue de secours asbl, maitre en mathématique)"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid "- Françoise Bols (HE2B-Nivelles, chargé de cours)"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.s_intro_location_city)
+msgid "Bruxelles, Belgique"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.s_location)
+msgid "Lieux"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid "#Comité de programme"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.submissions_text)
+msgid ""
+"Les propositions d'ateliers devraient être entrées pour le 10 aout 2019 dans "
+"http://wiki.educode.be"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.s_monday)
+msgid "Lundi"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid "- Dr Nicolas Pettiaux (ESI-HE2B & ULB-Lisa, maître-assistant)"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid "#Objectifs"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid ""
+"- 9h - 17h : petites conférences et exposés pour les enseignants et toute "
+"personne intéressée. Durant les pauses, les écoles, associations, "
+"entreprises exposent leurs réalisations et projets liés au numérique et à "
+"l'éducation, et des projets faits dans les classes (dans les couloirs et "
+"autres espaces)"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.s_free_expose)
+msgid "Exposer et tenir un stand"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid "#Contact"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.title)
+msgid "Bienvenue à EduCode"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.s_about_educode)
+msgid "À propos d'EduCode"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid "- Julie Henry (UNamur, chercheuse)"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid "- Françoise Bols"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.press_text)
+msgid ""
+"Vous pouvez également télécharger des documents utiles en cliquant sur le "
+"lien ci-dessous."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.s_more_infos)
+msgid "Plus d'infos"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.s_friday)
+msgid "Vendredi"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid "- Éric Deprins, ex CEO de Toyota Belgium, Unilever, Mestdagh"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid ""
+"Les journées consacrées aux enseignants seront, autant que possible, "
+"organisées avec le soutien de IFC pour être  reconnues par elles comme "
+"journées de formation continue obligatoires pour les enseignants."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.about)
+msgid ""
+"L'organisation de cette conférence est essentiellement *bénévole*. _Toute "
+"aide et tout soutien sont les bienvenus_."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid "- Georges Khaznadar (Lycée Jean Bart, Dunkerque)"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid ""
+"Les professeurs, directeurs d'école, parents et étudiants, chercheurs et "
+"toute personne intéressée par l'enseignement et le numérique comme par la "
+"formation continue sont invités à réfléchir sur l'usage du numérique dans "
+"l'enseignement et l’enseignement grâce au numérique tous niveaux confondus "
+"(primaire, secondaire, supérieur et enseignement de promotion sociale), avec "
+"une partie importante consacrée à la programmation. De nombreuses formations "
+"pratiques seront également organisées."
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.partners_about)
@@ -366,33 +579,74 @@ msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid ""
-"- 16h00 à 18h00 : Projection du film **La bataille du libre** suivie d'une "
-"discussion avec son réalisateur, Philippe Borel"
+"La conférence est ouverte et généraliste, et ne se limite pas au codage, "
+"même si les aspects liés à la résolution de problèmes, à la compréhension "
+"des mécanismes de fonctionnement des ordinateurs, des questions légales et "
+"éthiques liées à l'usage du numérique etc. sont très importantes. Elles "
+"devraient en 2019 faire partie des enseignements généraux du citoyen du XXI "
+"siècle."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.s_wednesday)
+msgid "Mercredi"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.s_may)
+msgid "mai"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "Vendredi 27 septembre 2019"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.expo_about)
 msgid ""
-"Ce sera l’occasion pour les enseignants, leurs directions, les élus et leurs "
-"équipes, ainsi que pour les pouvoirs publics de prendre connaissance de la "
-"grande diversité des acteurs du numérique dans le domaine de l’enseignement. "
-"Ceux-ci pourront assister et aider les écoles dans une mission "
-"d'accompagnement et de formation aux très nombreux usages du numérique."
+"1. Des conférences, ateliers et expositions destinés essentiellement aux "
+"enseignants"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "- Nicolas Pettiaux de ESI-HE2B & ULB-Lisa (maître-assistant)"
+msgid ""
+"3. Une conférence et des activités dédiées aux directeurs d’établissement"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.s_propose_atelier)
+msgid "Proposer un atelier"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid "- Prof Hugues Bersini (ULB)"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid "- Karin Van Loon (HE2B-ISIB, directrice)"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.s_thuesday)
+msgid "Mardi"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.about)
+msgid ""
+"Toute  proposition d'aide peut être envoyée à [aider@educode.be](mailto://"
+"aider@educode.be?subject=Aider educode&body=Je souhaite aider educode)."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.registration)
+msgid ""
+"Les préinscriptions sont possibles dans https://wiki.educode.be/doku.php?"
+"id=educode2019preinscriptions"
+msgstr ""
+
+#: http://localhost/about/ (content/about/contents+fr.lr:page.title)
+msgid "About this Website"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.about)
+msgid ""
+"<noscript><a href=\"https://liberapay.com/npettiaux/donate\"><img alt="
+"\"Donate using Liberapay\" src=\"https://liberapay.com/assets/widgets/donate."
+"svg\"></a></noscript>"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.baseline)
 msgid ""
 "Une conférence internationale pour informer, former et susciter l'intérêt de "
 "tous les acteurs de l'enseignement aux défis du numérique."
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "- Dr Pierre De Buyl (chercheur, KU Leuven)"
 msgstr ""
