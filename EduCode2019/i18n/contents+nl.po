@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: educode\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-08-26 15:43+CET\n"
-"PO-Revision-Date: 2019-08-26 19:03+0200\n"
+"PO-Revision-Date: 2019-08-26 20:08+0200\n"
 "Last-Translator: npettiaux\n"
 "Language-Team: Flemish\n"
 "Language: vls\n"
@@ -62,7 +62,7 @@ msgstr "Het zal een gelegenheid zijn voor leraren, hun directoraten, gekozen fun
 
 #: http://localhost/ (content/contents+fr.lr:page.practical_infos_brussels)
 msgid "Bruxelles est la capitale de la Belgique et de l'Europe. La Grand-Place médiévale est immense. Elle possède de nombreux immeubles du 17ème siècle et accueille quotidiennement des marchés aux fleurs.  Rouvert en 2006, l'Atomium, la Tour Eiffel de Bruxelles, offre une vue imprenable aussi bien à l'intérieur que sur l'extérieur. Les amateurs d'architecture ne devront pas manquer la visite du Musée Horta, aménagé dans la maison du grand architecte belge Victor Horta. Les clubs et les bars de la place St. Gery ne désemplissent jamais. Les plats de fruits de mer abondent à Sainte Catherine. Si vous souhaitez plus d'informations sur Bruxelles, cliquez [ici](http://visit.brussels)"
-msgstr "Brussel is de hoofdstad van België en Europa. De middeleeuwse Grote Markt is enorm. Het heeft veel gebouwen uit de 17e eeuw en organiseert dagelijks bloemenmarkten. Het Atomium, de Eiffeltoren van Brussel, is in 2006 heropend en biedt een adembenemend uitzicht zowel van binnen als van buiten. Architectuurliefhebbers mogen het Horta Museum niet missen, dat is gevestigd in het huis van de grote Belgische architect Victor Horta. De clubs en bars van St. Gery Square falen nooit. Zeevruchten zijn er in overvloed in St. Catherine. Wilt u meer informatie over Brussel, klik dan [hier] (http://visit.brussels)"
+msgstr "Brussel is de hoofdstad van België en Europa. De middeleeuwse Grote Markt is enorm. Het heeft veel gebouwen uit de 17e eeuw en organiseert dagelijks bloemenmarkten. Het Atomium, de Eiffeltoren van Brussel, is in 2006 heropend en biedt een adembenemend uitzicht zowel van binnen als van buiten. Architectuurliefhebbers mogen het Horta Museum niet missen, dat is gevestigd in het huis van de grote Belgische architect Victor Horta. De clubs en bars van St. Gery Square falen nooit. Zeevruchten zijn er in overvloed in St. Catherine. Wilt u meer informatie over Brussel, klik dan [hier](http://visit.brussels)"
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "- Eric Robette (HE2B-Defré, maître-assistant)"
@@ -94,7 +94,7 @@ msgstr "- Prof Colin de la Higuera (Universiteit van Nantes)"
 
 #: http://localhost/about/ (content/about/contents+fr.lr:page.about)
 msgid "Il est développé en commun sur [github](https://github.com/EduCodeBe/educode.be) et toute personne qui veut aider, même modestement, contribuer aux corrections, modifications, traductions ... peut le faire facilement."
-msgstr "Het is gezamenlijk ontwikkeld op [github] (https://github.com/EduCodeBe/educode.be) en iedereen die wil helpen, zelfs bescheiden, kan bijdragen aan correcties, aanpassingen, vertalingen ... kan het gemakkelijk doen."
+msgstr "Het is gezamenlijk ontwikkeld op [github](https://github.com/EduCodeBe/educode.be) en iedereen die wil helpen, zelfs bescheiden, kan bijdragen aan correcties, aanpassingen, vertalingen ... kan het gemakkelijk doen."
 
 #: http://localhost/ (content/contents+fr.lr:page.submissions_text)
 msgid "Faites-nous part de vos propositions de stand au sein de l'exposition  en cliquant sur le bouton ci-dessous qui vous intéresse."
@@ -230,7 +230,7 @@ msgstr "- 9u tot 17u: er worden meer dan 30 praktische workshops georganiseerd (
 
 #: http://localhost/ (content/contents+fr.lr:page.about)
 msgid "En particulier, vous pouvez faire des dons <script src=\"https://liberapay.com/npettiaux/widgets/button.js\"></script>"
-msgstr "In het bijzonder kunt u doneren  <script src=\"https://liberapay.com/npettiaux/widgets/button.js\"> </script>"
+msgstr "In het bijzonder kunt u doneren <script src=\"https://liberapay.com/npettiaux/widgets/button.js\"> </script>"
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "- Erick Mascart (Forsub, conseiller pédagogique et formateur)"
@@ -248,7 +248,7 @@ msgstr "Contact"
 
 #: http://localhost/ (content/contents+fr.lr:page.partners_about)
 msgid "Beaucoup participent à l'[exposition](/exposition) ."
-msgstr "Velen nemen deel aan de [tentoonstelling] (/ tentoonstelling)."
+msgstr "Velen nemen deel aan de [tentoonstelling](/exposition)."
 
 #: http://localhost/ (content/contents+fr.lr:page.about)
 msgid "Le colloque Educode se déroule le vendredi 27septembre 2019 à la Haute-École Bruxelles-Brabant dans ses locaux de l'avenue Defré à Uccle (HE2B-Defré)."
@@ -296,7 +296,7 @@ msgstr "Het doel is om een nieuwe dag te organiseren rond digitaal onderwijs en 
 
 #: http://localhost/ (content/contents+fr.lr:page.expo_about)
 msgid "Durant les pauses-café et repas, toutes les structures (associations, institutions publiques, écoles, sociétés commerciales ...) actives dans le milieu de l’éducation numérique en Belgique et ailleurs représentés lors de la conférence, présenteront leurs réalisations dans l'[exposition](/exposition)."
-msgstr "Tijdens de koffiepauzes en maaltijden zullen alle structuren (verenigingen, openbare instellingen, scholen, commerciële bedrijven ...) die actief zijn in de digitale onderwijssector in België en elders vertegenwoordigd tijdens de conferentie, hun prestaties presenteren in de [blootstelling] (/ blootstelling)."
+msgstr "Tijdens de koffiepauzes en maaltijden zullen alle structuren (verenigingen, openbare instellingen, scholen, commerciële bedrijven ...) die actief zijn in de digitale onderwijssector in België en elders vertegenwoordigd tijdens de conferentie, hun prestaties presenteren in de [blootstelling](/exposition)."
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "- Prof Bibiana Boccolini (Université de Rosario, Argentine)"
@@ -304,7 +304,7 @@ msgstr "- Prof Bibiana Boccolini (Universiteit van Rosario, Argentinië)"
 
 #: http://localhost/about/ (content/about/contents+fr.lr:page.about)
 msgid "Ce site est fait avec le [logiciel libre](https://fr.wikipedia.org/wiki/Logiciel_libre) multiplateforme et multilingue [Lektor](https://getlektor.com)."
-msgstr "Deze site is gemaakt met de [gratis software] (https://en.wikipedia.org/wiki/Library) multiplatform en meertalige [Lektor] (https://getlektor.com)."
+msgstr "Deze site is gemaakt met de [gratis software](https://en.wikipedia.org/wiki/Library) multiplatform en meertalige [Lektor](https://getlektor.com)."
 
 #: http://localhost/ (content/contents+fr.lr:page.s_hotel)
 msgid "Hôtels"
@@ -316,7 +316,7 @@ msgstr "#Activiteiten"
 
 #: http://localhost/about/ (content/about/contents+fr.lr:page.about)
 msgid "Par exemple, pour une suggestion ou un commentaire, merci  de remplir le [formulaire](https://github.com/EduCodeBe/educode.be/issues/new)"
-msgstr "Vul bijvoorbeeld voor een suggestie of opmerking het [formulier] in (https://github.com/EduCodeBe/educode.be/issues/new)"
+msgstr "Vul bijvoorbeeld voor een suggestie of opmerking het [formulier](https://github.com/EduCodeBe/educode.be/issues/new) in"
 
 #: http://localhost/ (content/contents+fr.lr:page.s_speakers)
 msgid "Intervenants"

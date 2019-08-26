@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: educode\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-08-26 15:43+CET\n"
-"PO-Revision-Date: 2019-08-26 14:06\n"
+"PO-Revision-Date: 2019-08-26 20:13+0200\n"
 "Last-Translator: npettiaux\n"
 "Language-Team: English\n"
 "Language: en\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: crowdin.com\n"
+"X-Generator: Poedit 2.0.6\n"
 "X-Crowdin-Project: educode\n"
 "X-Crowdin-Language: en\n"
 "X-Crowdin-File: educode2019.pot\n"
@@ -62,7 +62,7 @@ msgstr "It will be an opportunity for teachers, their directorates, elected repr
 
 #: http://localhost/ (content/contents+fr.lr:page.practical_infos_brussels)
 msgid "Bruxelles est la capitale de la Belgique et de l'Europe. La Grand-Place médiévale est immense. Elle possède de nombreux immeubles du 17ème siècle et accueille quotidiennement des marchés aux fleurs.  Rouvert en 2006, l'Atomium, la Tour Eiffel de Bruxelles, offre une vue imprenable aussi bien à l'intérieur que sur l'extérieur. Les amateurs d'architecture ne devront pas manquer la visite du Musée Horta, aménagé dans la maison du grand architecte belge Victor Horta. Les clubs et les bars de la place St. Gery ne désemplissent jamais. Les plats de fruits de mer abondent à Sainte Catherine. Si vous souhaitez plus d'informations sur Bruxelles, cliquez [ici](http://visit.brussels)"
-msgstr "Brussels is the capital of Belgium and Europe. The medieval Grand Place is huge. It has many buildings of the 17th century and hosts daily flower markets. Reopened in 2006, the Atomium, Brussels' Eiffel Tower, offers breathtaking views both inside and out. Architecture lovers should not miss visiting the Horta Museum, housed in the home of the great Belgian architect Victor Horta. The clubs and bars of St. Gery Square never fail. Seafood dishes abound in St. Catherine. If you want more information about Brussels, click [here] (http://visit.brussels)"
+msgstr "Brussels is the capital of Belgium and Europe. The medieval Grand Place is huge. It has many buildings of the 17th century and hosts daily flower markets. Reopened in 2006, the Atomium, Brussels' Eiffel Tower, offers breathtaking views both inside and out. Architecture lovers should not miss visiting the Horta Museum, housed in the home of the great Belgian architect Victor Horta. The clubs and bars of St. Gery Square never fail. Seafood dishes abound in St. Catherine. If you want more information about Brussels, click [here](http://visit.brussels)"
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "- Eric Robette (HE2B-Defré, maître-assistant)"
@@ -94,7 +94,7 @@ msgstr "- Prof Colin de la Higuera (University of Nantes)"
 
 #: http://localhost/about/ (content/about/contents+fr.lr:page.about)
 msgid "Il est développé en commun sur [github](https://github.com/EduCodeBe/educode.be) et toute personne qui veut aider, même modestement, contribuer aux corrections, modifications, traductions ... peut le faire facilement."
-msgstr "It is developed jointly on [github] (https://github.com/EduCodeBe/educode.be) and anyone who wants to help, even modestly, contribute to corrections, modifications, translations ... can do it easily."
+msgstr "It is developed jointly on [github](https://github.com/EduCodeBe/educode.be) and anyone who wants to help, even modestly, contribute to corrections, modifications, translations ... can do it easily."
 
 #: http://localhost/ (content/contents+fr.lr:page.submissions_text)
 msgid "Faites-nous part de vos propositions de stand au sein de l'exposition  en cliquant sur le bouton ci-dessous qui vous intéresse."
@@ -304,7 +304,7 @@ msgstr "- Prof Bibiana Boccolini (University of Rosario, Argentina)"
 
 #: http://localhost/about/ (content/about/contents+fr.lr:page.about)
 msgid "Ce site est fait avec le [logiciel libre](https://fr.wikipedia.org/wiki/Logiciel_libre) multiplateforme et multilingue [Lektor](https://getlektor.com)."
-msgstr "This site is made with the [free software] (https://en.wikipedia.org/wiki/Free_software) multiplatform and multilingual [Lektor] (https://getlektor.com)."
+msgstr "This site is made with the [free software](https://en.wikipedia.org/wiki/Free_software) multiplatform and multilingual [Lektor](https://getlektor.com)."
 
 #: http://localhost/ (content/contents+fr.lr:page.s_hotel)
 msgid "Hôtels"
@@ -316,7 +316,7 @@ msgstr "Activities"
 
 #: http://localhost/about/ (content/about/contents+fr.lr:page.about)
 msgid "Par exemple, pour une suggestion ou un commentaire, merci  de remplir le [formulaire](https://github.com/EduCodeBe/educode.be/issues/new)"
-msgstr "For example, for a suggestion or a comment, please fill out the [form] (https://github.com/EduCodeBe/educode.be/issues/new)"
+msgstr "For example, for a suggestion or a comment, please fill out the [form](https://github.com/EduCodeBe/educode.be/issues/new)"
 
 #: http://localhost/ (content/contents+fr.lr:page.s_speakers)
 msgid "Intervenants"
@@ -484,7 +484,7 @@ msgstr "Tuesday"
 
 #: http://localhost/ (content/contents+fr.lr:page.about)
 msgid "Toute  proposition d'aide peut être envoyée à [aider@educode.be](mailto://aider@educode.be?subject=Aider educode&body=Je souhaite aider educode)."
-msgstr "Any help proposal can be sent to [aider@educode.be] (mailto://aider@educode.be?subject=Help educode&body=I want to help educode)."
+msgstr "Any help proposal can be sent to [aider@educode.be](mailto://aider@educode.be?subject=Help educode&body=I want to help educode)."
 
 #: http://localhost/ (content/contents+fr.lr:page.registration)
 msgid "Les préinscriptions sont possibles dans https://wiki.educode.be/doku.php?id=educode2019preinscriptions"
@@ -501,4 +501,3 @@ msgstr "<noscript><a href=\"https://liberapay.com/npettiaux/donate\"><img alt=\"
 #: http://localhost/ (content/contents+fr.lr:page.baseline)
 msgid "Une conférence internationale pour informer, former et susciter l'intérêt de tous les acteurs de l'enseignement aux défis du numérique."
 msgstr "An international conference to inform, train and engage the interest of all education stakeholders in the digital challenges."
-
