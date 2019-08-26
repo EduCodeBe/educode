@@ -1,13 +1,439 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: EduCode 2018\n"
+"Project-Id-Version: educode\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-19 15:35+CET\n"
-"PO-Revision-Date: 2019-08-19 15:35+CET\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"POT-Creation-Date: 2019-08-26 14:39+CET\n"
+"PO-Revision-Date: 2019-08-26 11:11\n"
+"Last-Translator: npettiaux\n"
+"Language-Team: English\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: educode\n"
+"X-Crowdin-Language: en\n"
+"X-Crowdin-File: educode2018.pot\n"
+
+#: http://localhost/ (content/contents+fr.lr:page.about)
+msgid ""
+"La conférence est **gratuite** pour les enseignants francophones inscrits à "
+"IFC. Voir plus d'info à l'[inscription](#anchor-inscription)."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.registration)
+msgid "<th scope=\"col\">Bozar</td>"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.expo_about)
+msgid ""
+"Celle-ci sera accessible essentiellement durant les pauses cafés et repas du "
+"midi et du soir."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.about)
+msgid ""
+"Le colloque Educode se déroule du 27 au 29 août 2018 sur différents sites "
+"localisés à Bruxelles dans un rayon de 500 mètres autour du Palais Royal et "
+"du Parlement fédéral."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.submissions_text)
+msgid ""
+"Faites-nous part de vos propositions de stand au sein de l'exposition pour "
+"lundi 27 et de poster pour mercredi 29 en cliquant sur le bouton ci-dessous "
+"qui vous intéresse."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.registration)
+msgid "<th scope=\"col\">Conférences <br> 27 août</td>"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.registration)
+msgid "<td>  25 €  <br> 0  € prof </td>"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.practical_infos)
+msgid ""
+"Les lundi 27 et mardi 28 août, les participants pourront commander à leur "
+"arrivée des sandwiches pour le midi. Le café et les boissons seront mis à "
+"disposition."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.registration)
+msgid "</thead>"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.practical_infos_brussels)
+msgid ""
+"Bruxelles est la capitale de la Belgique et de l'Europe. La Grand-Place "
+"médiévale est immense. Elle possède de nombreux immeubles du 17ème siècle et "
+"accueille quotidiennement des marchés aux fleurs.  Rouvert en 2006, "
+"l'Atomium, la Tour Eiffel de Bruxelles, offre une vue imprenable aussi bien "
+"à l'intérieur que sur l'extérieur. Les amateurs d'architecture ne devront "
+"pas manquer la visite du Musée Horta, aménagé dans la maison du grand "
+"architecte belge Victor Horta. Les clubs et les bars de la place St. Gery ne "
+"désemplissent jamais. Les plats de fruits de mer abondent à Sainte "
+"Catherine. Si vous souhaitez plus d'information sur Bruxelles, cliquez [ici]"
+"(http://visit.brussels)"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.title)
+msgid "Bienvenue à EduCode"
+msgstr "Welcome to Educode"
+
+#: http://localhost/ (content/contents+fr.lr:page.about)
+msgid ""
+"Toute  proposition d'aide peut être envoyée à [aider@educode.be](mailto://"
+"aider@educode.be?subject=Aider educode&body=Je souhaite aider educode  à ... "
+"en ... juin / ... juillet / ... août )."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.partners_about)
+msgid ""
+"Les partenaires de la conférence sont tous les acteurs qui considèrent que "
+"la question est importante et qui souhaitent contribuer dans la mesure de "
+"leurs moyens. Ils sont belges et étrangers, la plupart associatifs. Les uns "
+"fournissent un indispensable soutien financier, les autres participent à la "
+"promotion et à la diffusion de l'information autour de la conférence, sont "
+"des membres du comité d'organisation de la conférence, encadrent des "
+"ateliers..."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.practical_infos)
+msgid ""
+"*  Le mercredi 29 août à Bozar, entrée dans la Galerie Ravenstein (1er étage "
+"- balcon)"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.registration)
+msgid "</table>"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.registration)
+msgid "## Concert festif du 27 août à 20h30"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.registration)
+msgid "<td>  100 € <br> 0  € prof  </td>"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.press_text)
+msgid ""
+"Vous pouvez également télécharger des documents utiles en cliquant sur le "
+"lien ci-dessous."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.registration)
+msgid "<td>  22 €  </td>"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.registration)
+msgid "## Journées des 27-28-29 août de 9h à 19h"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.thuesday)
+msgid ""
+"Mardi 28 août à [ESI](/lieux/he2b-esi), les enseignants seront invités à de "
+"nombreux ateliers pratiques durant lesquels ils seront les apprenants, de "
+"manière à retrouver leurs alter-egos, développer avec eux des contenus et "
+"des expériences pour pouvoir réutiliser en classe ce qu'ils ont appris. Ces "
+"ateliers d’échanges pratiques concerneront des sujets très variés autour de "
+"l’éducation et de l’usage du numérique et de la pensée informatique, et de "
+"nouvelles manières de travail adaptées au numérique."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.registration)
+msgid "<th scope=\"col\">Cat 2</td>"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.registration)
+msgid "<thead>"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.registration)
+msgid "<tr>"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.practical_infos)
+msgid ""
+"Le mercredi 29 août, le repas et les consommations sont compris dans "
+"l’inscription."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.about)
+msgid ""
+"L'organisation de cette conférence est essentiellement *bénévole*. _Toute "
+"aide et tout soutien sont les bienvenus_."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.expo_about)
+msgid ""
+"Ce sera l’occasion pour les enseignants, leurs directions, les élus et leurs "
+"équipes, ainsi que pour les pouvoirs publics de prendre connaissance de la "
+"grande diversité des acteurs du numérique dans le domaine de l’enseignement. "
+"Ceux-ci pourront assister et aider les écoles dans une mission "
+"d'accompagnement et de formation aux très nombreux usages du numérique."
+msgstr ""
+"It will be an opportunity for teachers, their directorates, elected "
+"representatives and their teams, as well as for public authorities to become "
+"acquainted with the great diversity of digital actors in the field of "
+"education. They will be able to assist and help schools in a mission of "
+"support and training for the many uses of digital technology."
+
+#: http://localhost/ (content/contents+fr.lr:page.practical_infos)
+msgid ""
+"*  Le lundi 27 août à Bozar, entrée rue Ravenstein, 23 à 1000  Bruxelles"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.about)
+msgid ""
+"Educode est la première édition d’un colloque annuel international dédié à "
+"l’éducation, aux pratiques et à la recherche dans les domaines liés au "
+"numérique. Il est le résultat d’une collaboration entre différents acteurs-"
+"clé du numérique en Belgique et à l'étranger."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.registration)
+msgid "<tbody>"
+msgstr ""
+
+#: http://localhost/projects/ (content/projects/contents+fr.lr:page.title)
+msgid "Projects"
+msgstr "Projects"
+
+#: http://localhost/ (content/contents+fr.lr:page.practical_infos)
+msgid "*  Le mardi 28 août à l’ISIB, entrée Rue Royale, 150 à 1000 Bruxelles"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.registration)
+msgid ""
+"Ces codes de réduction peuvent ne pas marcher, le temps de leur mise en "
+"place. Si ils ne fonctionnaient pas, écrivez-nous à [info@educode.be](mailto:"
+"info@educode?subject=les codes ne marchent pas encore) et mettant votre "
+"commentaire et vos souhaits de réservation. Nous reprendrons contact avec "
+"vous."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.registration)
+msgid ""
+"**ATTENTION** : pour des raisons d'organisation de la journée, **chaque** "
+"personne qui participe aux ateliers du mardi 28 août doit s'inscrire dans le "
+"système. Il n'est donc possible d'acheter que **un seul** ticket à la fois "
+"pour cette journée. Nous reviendrons vers vous par mail dès que la liste des "
+"nombreux ateliers sera disponible et prête aux choix."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.registration)
+msgid "<th scope=\"col\">HE2B </td>"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.practical_infos)
+msgid ""
+"Merci de vous munir des documents d’inscription pour une vérification aisée."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.registration)
+msgid "<td>  15 €  </td>"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.about)
+msgid ""
+"En particulier, vous pouvez faire des dons <script src=\"https://liberapay."
+"com/npettiaux/widgets/button.js\"></script>"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.registration)
+msgid "<th scope=\"col\">Cat 1 </td>"
+msgstr ""
+
+#: http://localhost/about/ (content/about/contents+fr.lr:page.about)
+msgid ""
+"Il est développé en commun sur [github](https://github.com/EduCodeBe/educode."
+"be) et toute personne qui veut aider, même modestement, contribuer aux "
+"corrections, modifications, traductions ... peut le faire facilement."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.practical_infos)
+msgid "Les journées se dérouleront :"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.registration)
+msgid "</tbody>"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.expo_about)
+msgid ""
+"Durant les pauses café et repas, toutes les structures (assocations, "
+"institutions publiques, écoles, sociétés commerciales ...) actives dans le "
+"milieu de l’éducation numérique en Belgique et ailleurs représentés lors de "
+"la conférence, présenteront leurs réalisations dans l'[exposition](/"
+"exposition)."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.registration)
+msgid ""
+"Les **enseignants de primaire et secondaire qui seront inscrits à l'IFC** "
+"peuvent rentrer le code **EDUCODEIFC2018** lors de l'inscription et "
+"bénéficieront d'une entrée gratuite pour chaque journée. Les futurs "
+"enseignants et étudiants de hautes écoles par exemple pourront s'inscrire à "
+"l'IFC également à partir du 13 août et bénéficier de la même gratuité. Ils "
+"peuvent déjà s'inscrire sur notre site avec le code  **EDUCODEIFC2018HE**."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.registration)
+msgid "<th scope=\"col\">Ateliers <br> 28 août</td>"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.wednesday)
+msgid ""
+"Mercredi 29 août à [Bozar](/lieux/bozar), dans la **galerie Ravenstein**, "
+"ceux qui réfléchissent aux usages et cherchent à les généraliser autant que "
+"les particulariser, les chercheurs en éducation sur les usages du numérique, "
+"les enseignants qui veulent échanger sur leurs pratiques, se retrouveront "
+"dans une conférence pour des échanges d'expériences et des présentations de "
+"recherches. Des solutions de garde d'enfants avec des activités seront "
+"organisées pour que tous les parents puissent participer."
+msgstr ""
+
+#: http://localhost/about/ (content/about/contents+fr.lr:page.about)
+msgid ""
+"Par exemple, pour une suggestion ou un commentaire, merci  de remplir le "
+"[formulaire](https://github.com/EduCodeBe/educode.be/issues/new)"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.registration)
+msgid ""
+"Cette formation fait partie du programme des formations en interréseaux "
+"organisées par l’IFC. Elle est **gratuite pour les enseignants** de primaire "
+"et secondaire de la Fédération Wallonie-Bruxelles inscrits sur le site de "
+"IFC. Pour vous y inscrire, rendez-vous sur le site de l’IFC [www.ifc.cfwb.be]"
+"(http://www.ifc.cfwb.be). Vous aurez besoin d’une clé d’inscription aux "
+"formations (C.I.F.) disponible auprès de votre direction. La référence du "
+"code consacré à ces 3 jours de formation educode porte le numéro 503001719."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.s_intro_dates)
+msgid "27, 28, 29 août 2018"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.s_intro_location_city)
+msgid "Bruxelles, Belgique"
+msgstr ""
+
+#: http://localhost/about/ (content/about/contents+fr.lr:page.about)
+msgid ""
+"Ce site est fait avec le [logiciel libre](https://fr.wikipedia.org/wiki/"
+"Logiciel_libre) multiplateforme et multilingue [Lektor](https://getlektor."
+"com)."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.sunday)
+msgid ""
+"Dimanche 26 aôut 2018 à 18h à Bozar, les organisateurs reçoivent les "
+"participants à la conférence, qui peuvent aussi déjà s'enregistrer pour être "
+"immédiatement prêt lundi matin. À l'occasion d'un verre suivi d'une visite "
+"du centre de Bruxelles, ce sera aussi une première chance de faire "
+"connaissance."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.registration)
+msgid "<td>  29 €  </td>"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.registration)
+msgid "</tr>"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.registration)
+msgid "<th scope=\"col\">Cat 4</td>"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid ""
+"Lundi 27 août 2018 à [Bozar](/lieux/bozar), les enseignants, directions et "
+"le grand public  pourront suivre des conférences, une table-ronde, un "
+"spectacle interactif pour appréhender ce nouveau monde fait de numérique, "
+"ses défis et ses opportunités. Durant les pauses, ils pourront rencontrer de "
+"très nombreux acteurs, essentiellement associatifs, qui proposent des "
+"activités liées au numérique et à la formation. Des solutions de garde "
+"d'enfants avec des activités seront organisées pour que tous les parents "
+"puissent participer."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.press_text)
+msgid ""
+"Une conférence de presse s'est tenue le lundi 7 mai 2018 à 11h à l'Académie "
+"royale.Un point presse sera également organisé le premier jour de "
+"l’évènement, lundi 27 août vers 13h."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.submissions_text)
+msgid ""
+"Les propositions d'ateliers 28 et de communications orales pour le 29 sont "
+"maintenant cloturées. Vous trouverez bientôt la liste de ceux-ci sur ce site."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.registration)
+msgid "<th scope=\"col\">Bozar </td>"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.registration)
+msgid "<td>  35 €  </td>"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.registration)
+msgid "<th scope=\"col\">Échanges & mise en commun <br> 29 août  </td>"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.registration)
+msgid ""
+"<table class=\"table table-hover table-bordered table-striped table-sm\">"
+msgstr ""
+
+#: http://localhost/about/contact/
+#: (content/about/contact/contents+fr.lr:page.title)
+msgid "Contact"
+msgstr "Contact"
+
+#: http://localhost/about/ (content/about/contents+fr.lr:page.title)
+msgid "About this Website"
+msgstr "About this Website"
+
+#: http://localhost/ (content/contents+fr.lr:page.registration)
+msgid ""
+"Les inscriptions définitives sont maintenant possibles en cliquant sur le "
+"bouton ci-dessous."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.registration)
+msgid "<th scope=\"col\">Cat 3</td>"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.about)
+msgid ""
+"<noscript><a href=\"https://liberapay.com/npettiaux/donate\"><img alt="
+"\"Donate using Liberapay\" src=\"https://liberapay.com/assets/widgets/donate."
+"svg\"></a></noscript>"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.practical_infos)
+msgid ""
+"Les participants à Educode  sont attendus dès 8h30 à chacune des trois "
+"journées. Les conférences et ateliers commencent à 9h00 précises."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.partners_about)
+msgid ""
+"Beaucoup participent à l'[exposition](/exposition) de [lundi 27](/lundi-27-"
+"aout) ."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.baseline)
+msgid ""
+"Une conférence internationale pour informer, former et susciter l'intérêt de "
+"tous les acteurs de l'enseignement aux défis du numérique."
+msgstr ""
+"An international conference to inform, train and engage the interest of all "
+"education stakeholders in the digital challenges."
