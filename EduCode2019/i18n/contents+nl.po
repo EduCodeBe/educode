@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: educode\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-08-26 15:43+CET\n"
-"PO-Revision-Date: 2019-08-26 14:06\n"
+"PO-Revision-Date: 2019-08-26 19:03+0200\n"
 "Last-Translator: npettiaux\n"
 "Language-Team: Flemish\n"
 "Language: vls\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: crowdin.com\n"
+"X-Generator: Poedit 2.0.6\n"
 "X-Crowdin-Project: educode\n"
 "X-Crowdin-Language: vls-BE\n"
 "X-Crowdin-File: educode2019.pot\n"
@@ -230,7 +230,7 @@ msgstr "- 9u tot 17u: er worden meer dan 30 praktische workshops georganiseerd (
 
 #: http://localhost/ (content/contents+fr.lr:page.about)
 msgid "En particulier, vous pouvez faire des dons <script src=\"https://liberapay.com/npettiaux/widgets/button.js\"></script>"
-msgstr "In het bijzonder kunt u <script src=\"https://liberapay.com/npettiaux/widgets/button.js\"> </script> doneren"
+msgstr "In het bijzonder kunt u doneren  <script src=\"https://liberapay.com/npettiaux/widgets/button.js\"> </script>"
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "- Erick Mascart (Forsub, conseiller pédagogique et formateur)"
@@ -484,7 +484,7 @@ msgstr "Dinsdag"
 
 #: http://localhost/ (content/contents+fr.lr:page.about)
 msgid "Toute  proposition d'aide peut être envoyée à [aider@educode.be](mailto://aider@educode.be?subject=Aider educode&body=Je souhaite aider educode)."
-msgstr "Elk hulpvoorstel kan worden gestuurd naar [aide@educode.be] (mailto://aider@educode.be?subject=Help educode&body=Ik wil educode helpen)."
+msgstr "Elk hulpvoorstel kan worden gestuurd naar [aider@educode.be](mailto://aider@educode.be?subject=Help educode&body=Ik wil educode helpen)."
 
 #: http://localhost/ (content/contents+fr.lr:page.registration)
 msgid "Les préinscriptions sont possibles dans https://wiki.educode.be/doku.php?id=educode2019preinscriptions"
@@ -501,4 +501,3 @@ msgstr "<noscript><a href=\"https://liberapay.com/npettiaux/donate\"><img alt=\"
 #: http://localhost/ (content/contents+fr.lr:page.baseline)
 msgid "Une conférence internationale pour informer, former et susciter l'intérêt de tous les acteurs de l'enseignement aux défis du numérique."
 msgstr "Een internationale conferentie om alle belanghebbenden in het onderwijs te informeren, te informeren en te interesseren voor de digitale uitdagingen."
-
