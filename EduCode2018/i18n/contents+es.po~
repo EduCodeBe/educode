@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: EduCode 2018\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-26 14:39+CET\n"
+"POT-Creation-Date: 2019-08-27 09:16+CET\n"
 "PO-Revision-Date: 2019-08-19 15:35+CET\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -12,27 +12,18 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: http://localhost/ (content/contents+fr.lr:page.about)
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
 msgid ""
-"La conférence est **gratuite** pour les enseignants francophones inscrits à "
-"IFC. Voir plus d'info à l'[inscription](#anchor-inscription)."
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" align="
+"\"center\" valign=\"middle\" bgcolor=\"#ED7D31\"><font size=\"2\" face="
+"\"Calibri\" color=\"#FFFFFF\">Des outils pratiques pour sensibiliser les "
+"élèves aux technologies <br/>p.11<br></font></td>"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.registration)
-msgid "<th scope=\"col\">Bozar</td>"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.expo_about)
-msgid ""
-"Celle-ci sera accessible essentiellement durant les pauses cafés et repas du "
-"midi et du soir."
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.about)
-msgid ""
-"Le colloque Educode se déroule du 27 au 29 août 2018 sur différents sites "
-"localisés à Bruxelles dans un rayon de 500 mètres autour du Palais Royal et "
-"du Parlement fédéral."
+#: http://localhost/ (content/contents+fr.lr:page.s_overview_program)
+msgid "Aperçu du programme"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.submissions_text)
@@ -42,23 +33,2123 @@ msgid ""
 "qui vous intéresse."
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.registration)
-msgid "<th scope=\"col\">Conférences <br> 27 août</td>"
+#: http://localhost/mercredi-29-aout/
+#: (content/mercredi-29-aout/contents+fr.lr:details-program.description)
+msgid "par Marine Roche (Université de Nantes)"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"* **9h30** **Atelier 1 - L'informatique de manière ludique avec [Ozobot]"
+"(https://ozobot.com/)** animé par Laurence Warnant ([CodeNPlay](https://www."
+"codenplay.be/))"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.s_sunday)
+msgid "Dimanche"
+msgstr ""
+
+#: http://localhost/promotion/
+#: (content/promotion/contents+fr.lr:details-program.description)
+msgid "* rollups"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid "Email:<br>"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+#: http://localhost/lundi-27-aout/
+#: (content/lundi-27-aout/contents+fr.lr:details-program.description)
+msgid ""
+"par [Yves Punie](/intervenants/yves-punie/) (Joint Research Center of the "
+"European Commission, Belgique)"
+msgstr ""
+
+#: http://localhost/concert/
+#: (content/concert/contents+fr.lr:concert.description)
+#: http://localhost/tickets/
+#: (content/tickets/contents+fr.lr:concert.description)
+msgid ""
+"* [Grégoire Blanc et Laurent Beeckmans (piano)](/concert/) dans _Chant du "
+"Cygne Noir_ de Villa-Lobos (compositeur brésilien)"
+msgstr ""
+
+#: http://localhost/dimanche-26-aout/
+#: (content/dimanche-26-aout/contents+fr.lr:details-program.description)
+msgid ""
+"Les organisateurs et des personnes impliquées dans la promotion de l'idée de "
+"la nécessité d'une formation au numérique et au codage pour tous, dans le "
+"tronc commun du secondaire ou plus tôt encore, accueilleront les "
+"participants."
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" align="
+"\"center\" valign=\"middle\" height=\"70\" bgcolor=\"#00B0F0\"><font size="
+"\"2\" face=\"Calibri\" color=\"#FFFFFF\">Primaire</font></td>"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td sdval=\"2\" sdnum=\"2060;\" align=\"center\" valign=\"middle\" height="
+"\"60\"><b>2</b></td>"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" align="
+"\"center\" valign=\"middle\" bgcolor=\"#ED7D31\"><font size=\"2\" face="
+"\"Calibri\" color=\"#FFFFFF\">Laboratoire scientifique de poche<br>p.9</"
+"font></td>"
+msgstr ""
+
+#: http://localhost/lundi-27-aout/
+#: (content/lundi-27-aout/contents+fr.lr:details-program.description)
+msgid ""
+"par  [Benjamin Marteau](/intervenants/benjamin-marteau) & [Françoise Tort](/"
+"intervenants/francoise-tort) (Start-up d'état Pix & ENS-Paris-Saclay, France)"
+msgstr ""
+
+#: http://localhost/lundi-27-aout/
+#: (content/lundi-27-aout/contents+fr.lr:details-program.description)
+msgid "- **20h30** **[Concert festif](/concert)** avec orchestre et chœurs"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid "<input type=\"submit\" value=\"Envoyer\">"
+msgstr ""
+
+#: http://localhost/stream/
+#: (content/stream/contents+fr.lr:details-program.description)
+msgid ""
+"Maandag 27 augustus, 2018, zullen we precies 90 jaar [Kellogg-Briand_Pact]"
+"(https://en.wikipedia.org/wiki/Briand-Kellogg_Pact) of Pact van Parijs te "
+"vieren, een verdrag ondertekend door drieënzestig landen die \"het gebruik "
+"van oorlog voor de beslechting van internationale geschillen veroordelen en "
+"het beschouwen als een instrument van nationaal beleid in hun onderlinge "
+"betrekkingen\"."
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.registration)
-msgid "<td>  25 €  <br> 0  € prof </td>"
+msgid "<th scope=\"col\">Cat 4</td>"
+msgstr ""
+
+#: http://localhost/lundi-27-aout/
+#: (content/lundi-27-aout/contents+fr.lr:details-program.description)
+msgid "8. [Lise Galuga](/intervenants/lise-galuga) (Ontario, Canada)"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td sdval=\"6\" sdnum=\"2060;\" align=\"center\" valign=\"middle\" height="
+"\"60\"><b>6</b></td>"
+msgstr ""
+
+#: http://localhost/volontaires/
+#: (content/volontaires/contents+fr.lr:details-program.description)
+msgid "4. dans la mesure du possible, un défraiement financier"
+msgstr ""
+
+#: http://localhost/dons/
+#: (content/dons/contents+fr.lr:details-program.description)
+msgid ""
+"* allant sur <script src=\"https://liberapay.com/EduCode/widgets/button.js"
+"\"></script>"
+msgstr ""
+
+#: http://localhost/concert/
+#: (content/concert/contents+fr.lr:concert.description)
+#: http://localhost/tickets/
+#: (content/tickets/contents+fr.lr:concert.description)
+msgid "#### Écouter pour connaître"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" align="
+"\"center\" valign=\"middle\" bgcolor=\"#ED7D31\"><font size=\"2\" face="
+"\"Calibri\" color=\"#FFFFFF\">Virtual-academy pour les professeurs<br>p.10</"
+"font></td>"
+msgstr ""
+
+#: http://localhost/lundi-27-aout/
+#: (content/lundi-27-aout/contents+fr.lr:details-program.description)
+msgid ""
+"Le lundi 27 août à [Bozar](/lieux/bozar), sera consacré à l’organisation "
+"d’expositions, de tables-rondes et de conférences ouvertes au grand public."
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td sdval=\"1\" sdnum=\"2060;\" align=\"center\" valign=\"middle\" height="
+"\"60\"><b>1</b></td>"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid "Nom et Prénom :<br>"
+msgstr ""
+
+#: http://localhost/lundi-27-aout/
+#: (content/lundi-27-aout/contents+fr.lr:details-program.description)
+msgid "- **9h00** **Acceuil**"
+msgstr ""
+
+#: http://localhost/asbl/ (content/asbl/contents+fr.lr:details-program.date)
+msgid "asbl"
+msgstr ""
+
+#: http://localhost/stream/
+#: (content/stream/contents+fr.lr:details-program.description)
+msgid ""
+"On Monday, August 27, 2018, we will celebrate exactly 90 years of the "
+"[Kellogg-Briand_Pact](https://en.wikipedia.org/wiki/Briand-Kellogg_Pact), "
+"(or Pact of Paris, officially **General Treaty for Renunciation of War as an "
+"Instrument of National Policy**) is a 1928 international agreement in which "
+"63 signatory states promised not to use war to resolve «_disputes or "
+"conflicts of whatever nature or of whatever origin they may be, which may "
+"arise among them_». Parties failing to abide by this promise \"should be "
+"denied of the benefits furnished by [the] treaty\"."
+msgstr ""
+
+#: http://localhost/dimanche-26-aout/
+#: (content/dimanche-26-aout/contents+fr.lr:details-program.description)
+msgid ""
+"Un verre permettra ensuite, de 18h à 20h de faire connaissance dans un cadre "
+"propice à la culture, aux échanges et aux divagations sur l'art, les "
+"sciences et les hommes avant d'entamer un tour du centre de Bruxelles."
+msgstr ""
+
+#: http://localhost/stream/
+#: (content/stream/contents+fr.lr:details-program.description)
+msgid ""
+"In 2018, there is still war. And it is led by countries that have signed "
+"this pact. Sometimes even, like the USA, who are at the origin of this pact."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.s_about_educode)
+msgid "À propos d'EduCode"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" rowspan="
+"\"2\" align=\"center\" valign=\"middle\" bgcolor=\"#00B0F0\"><font size="
+"\"2\" face=\"Calibri\" color=\"#FFFFFF\">La robotique comme outil ludique "
+"dans l'initiation aux sciences informatiques<br>p.5</font></td>"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" align="
+"\"center\" valign=\"middle\"><b><font size=\"2\" face=\"Calibri"
+"\">Cyberclasse 1</font></b></td>"
+msgstr ""
+
+#: http://localhost/concert/
+#: (content/concert/contents+fr.lr:concert.description)
+#: http://localhost/tickets/
+#: (content/tickets/contents+fr.lr:concert.description)
+msgid ""
+"* [Agnus Dei (Marc Henric)](https://www.youtube.com/watch?v=L-P5AAa6wZ0)"
+msgstr ""
+
+#: http://localhost/mercredi-29-aout/
+#: (content/mercredi-29-aout/contents+fr.lr:details-program.description)
+msgid ""
+"par [Anne Smal](/intervenants/anne-smal) & [Julie Henry](/intervenants/julie-"
+"henry/) (Université de Namur)"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"*  **11h00** **Atelier 2** animé par [We Are Coders](https://www.wearecoders."
+"org/)"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"Les présentations incluent des temps de discussion. Le planning est fourni à "
+"titre indicatif et les contenus peuvent encore changer."
+msgstr ""
+
+#: http://localhost/about/contact/
+#: (content/about/contact/contents+fr.lr:page.title)
+msgid "Contact"
+msgstr ""
+
+#: http://localhost/mercredi-29-aout/
+#: (content/mercredi-29-aout/contents+fr.lr:details-program.description)
+msgid "* **Apprendre à coder : la méthode CAR**"
+msgstr ""
+
+#: http://localhost/lundi-27-aout/
+#: (content/lundi-27-aout/contents+fr.lr:details-program.description)
+msgid "## Programme"
+msgstr ""
+
+#: http://localhost/mercredi-29-aout/
+#: (content/mercredi-29-aout/contents+fr.lr:details-program.description)
+msgid ""
+"par Margarida Romero (Université Côte d’Azur), Thierry Viéville (Université"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"Mickael Degeer est expert en compétences numériques désigné par le "
+"Gouvernement de la FWB, il accompagne la rédaction du futur référentiel de "
+"compétences numériques pour le Pacte d’excellence et participe au consortium "
+"numérique."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.sunday)
+msgid ""
+"Dimanche 26 aôut 2018 à 18h à Bozar, les organisateurs reçoivent les "
+"participants à la conférence, qui peuvent aussi déjà s'enregistrer pour être "
+"immédiatement prêt lundi matin. À l'occasion d'un verre suivi d'une visite "
+"du centre de Bruxelles, ce sera aussi une première chance de faire "
+"connaissance."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.press_text)
+msgid ""
+"Une conférence de presse s'est tenue le lundi 7 mai 2018 à 11h à l'Académie "
+"royale.Un point presse sera également organisé le premier jour de "
+"l’évènement, lundi 27 août vers 13h."
+msgstr ""
+
+#: http://localhost/mercredi-29-aout/
+#: (content/mercredi-29-aout/contents+fr.lr:details-program.description)
+msgid "* **10h30** **Pause-café et posters - Coffee break & Posters**"
+msgstr ""
+
+#: http://localhost/mercredi-29-aout/
+#: (content/mercredi-29-aout/contents+fr.lr:details-program.description)
+msgid ""
+"* **Session 1 : Enseignement de la programmation - Programming Education**"
+msgstr ""
+
+#: http://localhost/mercredi-29-aout/
+#: (content/mercredi-29-aout/contents+fr.lr:details-program.description)
+msgid ""
+"La conférence sera en *français* sauf les keynotes qui seront en anglais."
+msgstr ""
+
+#: http://localhost/dons/
+#: (content/dons/contents+fr.lr:details-program.description)
+msgid "* [emakina](/partenaires/emakina) (5000 €)"
+msgstr ""
+
+#: http://localhost/mercredi-29-aout/
+#: (content/mercredi-29-aout/contents+fr.lr:details-program.description)
+msgid ""
+"* **11h00** **[Comment se compare une activité d'apprentissage de la "
+"programmation branchée et débranchée ?](/mercredi-29-aout/educode_Romero."
+"pdf)**"
+msgstr ""
+
+#: http://localhost/mercredi-29-aout/
+#: (content/mercredi-29-aout/contents+fr.lr:details-program.description)
+msgid "*  **Session 3 : Formation des enseignants - Teachers Training**"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"* **9h00** **Intervention de Mikael Degeer, technopédagogue et expert en "
+"compétences numériques désigné par le Gouvernement de la FWB**"
+msgstr ""
+
+#: http://localhost/lundi-27-aout/
+#: (content/lundi-27-aout/contents+fr.lr:details-program.description)
+msgid ""
+"- **14h00** **État des réalisations de la législature relatives au numérique "
+"dans l'enseignement en Fédération Wallonie-Bruelles**"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" align="
+"\"center\" valign=\"middle\" bgcolor=\"#2F5395\"><font size=\"2\" face="
+"\"Calibri\" color=\"#FFFFFF\">Atelier de Techno-Sciences à la Scientothèque "
+"en extrascolaire<br>p.16</font></td>"
+msgstr ""
+
+#: http://localhost/asbl/
+#: (content/asbl/contents+fr.lr:details-program.description)
+msgid "* T.V.A.: BE 0695876317"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" align="
+"\"center\" valign=\"middle\"><b><font size=\"2\" face=\"Calibri\">Classe 3</"
+"font></b></td>"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.s_speakers)
+msgid "Intervenants"
+msgstr ""
+
+#: http://localhost/mercredi-29-aout/
+#: (content/mercredi-29-aout/contents+fr.lr:details-program.description)
+msgid ""
+"par Rupert Meurice de Dormale (Créateur de [fadagogo.com](http://fadagogo."
+"com/))"
+msgstr ""
+
+#: http://localhost/concert/ (content/concert/contents+fr.lr:concert.title)
+#: http://localhost/tickets/ (content/tickets/contents+fr.lr:concert.title)
+msgid "Concert Bozar"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid "- **16h05** **Fin**"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" align="
+"\"center\" valign=\"middle\"><b><font size=\"2\" face=\"Calibri\">Classe 2</"
+"font></b></td>"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid "* **9h00** **Accueil des enfants**"
+msgstr ""
+
+#: http://localhost/faq/
+#: (content/faq/contents+fr.lr:details-program.description)
+msgid "##Lundi 27 août - stands - « exposition - marché »"
+msgstr ""
+
+#: http://localhost/lundi-27-aout/
+#: (content/lundi-27-aout/contents+fr.lr:details-program.description)
+msgid ""
+"par [Sophie Touzé](/intervenants/sophie-touze) (Ministère de l'Éducation "
+"nationale, France)"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.registration)
+msgid "<th scope=\"col\">Cat 3</td>"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.s_program)
+msgid "Programme"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" align="
+"\"center\" valign=\"middle\"><b>10h25<br>-<br>11h10</b></td>"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.s_intro_location_city)
+msgid "Bruxelles, Belgique"
+msgstr ""
+
+#: http://localhost/stream/
+#: (content/stream/contents+fr.lr:details-program.description)
+msgid ""
+"À l'occasion de ce 90è anniversaire, nous voudrions beaucoup que le [concert "
+"Educode à 20h30 UTC+2](/concert), qui sera enregistré en bonne qualité, "
+"monté et streamé, soit projeté dans des salles de spectacles, des cinémas, "
+"des bibliothèques et salles scolaires, des écoles, des hômes de personnes "
+"agées ... bref beaucoup d'endroits dans au moins 63 pays du monde."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.registration)
+msgid "<td>  35 €  </td>"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.registration)
+msgid ""
+"<table class=\"table table-hover table-bordered table-striped table-sm\">"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"Des 14h à 17h, des conférences spécialement à destination des directions "
+"d'écoles seront organisées. En effet, pour elles, le défi est "
+"particulièrement grand de prendre en compte le numérique dans l'organisation "
+"des activités de l'école et des cours. Si la pression pour l'intégrer est "
+"grande, quand il ne s'agit pas d'une obligation ministérielle comme c'est le "
+"cas pour 800 écoles dans le cadre des plans de pilotage liés au pacte "
+"d'excellence à remettre pour la fin de l'année 2018, les moyens et manière "
+"de faire, comme la vision sont difficiles à déterminer."
+msgstr ""
+
+#: http://localhost/mercredi-29-aout/
+#: (content/mercredi-29-aout/contents+fr.lr:details-program.description)
+msgid ""
+"*  **Session 2** **Session 2 : Usage des TIC en classe - ICT in classrooms**"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" rowspan="
+"\"2\" align=\"center\" valign=\"middle\" bgcolor=\"#92D050\"><font size="
+"\"2\" face=\"Calibri\" color=\"#FFFFFF\">Ateliers déconnectés <br>p.6</"
+"font></td>"
+msgstr ""
+
+#: http://localhost/stream/
+#: (content/stream/contents+fr.lr:details-program.date)
+msgid "stream"
+msgstr ""
+
+#: http://localhost/stream/
+#: (content/stream/contents+fr.lr:details-program.description)
+msgid ""
+"On the occasion of this 90th anniversary, we would very much like the "
+"[Educode Concert at 20:30 UTC + 2](/ concert), which will be recorded in "
+"good quality, edited and streamed, to be screened in theaters, cinemas, "
+"libraries and classrooms, schools, seniors' homes ... in short, many places "
+"in at least 63 countries around the world."
+msgstr ""
+
+#: http://localhost/concert/
+#: (content/concert/contents+fr.lr:concert.description)
+#: http://localhost/tickets/
+#: (content/tickets/contents+fr.lr:concert.description)
+msgid ""
+"* [Halvorsen - Chant de Veslemøy](https://www.youtube.com/watch?"
+"v=smaG6QZPUh0) (version avec piano, au concert, ce sera avec orchestre)"
+msgstr ""
+
+#: http://localhost/stream/
+#: (content/stream/contents+fr.lr:details-program.description)
+msgid ""
+"Pourrez-vous nous aider à organiser de telles projections. Si oui, merci "
+"d'écrire à [aider@educode.be](mailto:aider@educode.be?suject=I want to help "
+"with the projection of the concert)."
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" align="
+"\"center\" valign=\"middle\" bgcolor=\"#00B0F0\"><font size=\"2\" face="
+"\"Calibri\" color=\"#FFFFFF\">Les écrans à l’école – en tandem avec les "
+"parents ?<br>p.4</font></td>"
+msgstr ""
+
+#: http://localhost/dons/
+#: (content/dons/contents+fr.lr:details-program.description)
+msgid "##Dons"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.s_become_partner)
+msgid "Devenez partenaire"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.practical_infos)
 msgid ""
-"Les lundi 27 et mardi 28 août, les participants pourront commander à leur "
-"arrivée des sandwiches pour le midi. Le café et les boissons seront mis à "
-"disposition."
+"Les participants à Educode  sont attendus dès 8h30 à chacune des trois "
+"journées. Les conférences et ateliers commencent à 9h00 précises."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.practical_infos)
+msgid ""
+"*  Le mercredi 29 août à Bozar, entrée dans la Galerie Ravenstein (1er étage "
+"- balcon)"
+msgstr ""
+
+#: http://localhost/lundi-27-aout/
+#: (content/lundi-27-aout/contents+fr.lr:details-program.description)
+msgid ""
+"par [Benoît Naveau](/intervenants/benoit-naveau) (Instituteur, Belgique) et "
+"les enfants de  l'équipe Éloïse,  Hugo, Justine, Louis et Nicolas."
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid "Institution / école :"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.press_text)
+msgid ""
+"Vous pouvez également télécharger des documents utiles en cliquant sur le "
+"lien ci-dessous."
+msgstr ""
+
+#: http://localhost/mercredi-29-aout/
+#: (content/mercredi-29-aout/contents+fr.lr:details-program.description)
+msgid ""
+"Des posters seront présentés durant toute la journée et particulièrement "
+"discutés durant les pauses cafés et le repas qui se tiendront dans les "
+"locaux des posters."
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" align="
+"\"center\" valign=\"middle\" bgcolor=\"#2F5395\"><font size=\"2\" face="
+"\"Calibri\" color=\"#FFFFFF\">Webetic : une rencontre pour aider à mieux "
+"gérer Internet au quotidien avec ses enfants et ses ados.<br>p.18</font></td>"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.registration)
+msgid "<thead>"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" rowspan="
+"\"2\" align=\"center\" valign=\"middle\" bgcolor=\"#00B0F0\"><font size="
+"\"2\" face=\"Calibri\" color=\"#FFFFFF\">Initiation à la résolution de "
+"problèmes avec Scratch<br>p.5</font></td>"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.practical_infos)
+msgid ""
+"*  Le lundi 27 août à Bozar, entrée rue Ravenstein, 23 à 1000  Bruxelles"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.registration)
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid "<tbody>"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td sdval=\"1\" sdnum=\"2060;\" align=\"center\" valign=\"middle\" height="
+"\"130\"><b>1</b></td>"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid "<h2>Inscription à la journée des directions du mardi 28 août</h2>"
+msgstr ""
+
+#: http://localhost/lundi-27-aout/
+#: (content/lundi-27-aout/contents+fr.lr:details-program.description)
+msgid ""
+"Dans la mesure du possible, une traduction gestuelle est fournie aussi, de "
+"même que la projection sur grand écran des activités sur scène."
+msgstr ""
+
+#: http://localhost/mercredi-29-aout/
+#: (content/mercredi-29-aout/contents+fr.lr:details-program.description)
+msgid "* **09h00** **Mot de bienvenue - Welcome addess** <br>"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid "<colgroup width=\"24\"></colgroup>"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid "* **14h00** Pause"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid "<td align=\"center\" valign=\"middle\" height=\"39\"><b><br></b></td>"
+msgstr ""
+
+#: http://localhost/stream/
+#: (content/stream/contents+fr.lr:details-program.description)
+msgid ""
+"Naar aanleiding van deze 90 jaar, willen we ten zeerste dat de [Educode "
+"concert om 20:30 GMT + 2](/ concert), die wordt opgenomen in hoogwaardige, "
+"bewerkt en gestreamd of geprojecteerd in theaters, bioscopen, bibliotheken "
+"en klaslokalen, scholen, seniorenhuizen ... kortom, veel plaatsen in "
+"minstens 63 landen over de hele wereld."
+msgstr ""
+
+#: http://localhost/mercredi-29-aout/
+#: (content/mercredi-29-aout/contents+fr.lr:details-program.description)
+msgid ""
+"by [Ivan Kalas](/intervenants/ivan-kalas)  (Comenius University, Slovenia)"
+msgstr ""
+
+#: http://localhost/asbl/
+#: (content/asbl/contents+fr.lr:details-program.description)
+msgid ""
+"La conférence est organisée par l'ASBL EDUCODE, sise Avenue du Pérou 29 à "
+"1000 Bruxelles"
+msgstr ""
+
+#: http://localhost/dons/
+#: (content/dons/contents+fr.lr:details-program.description)
+msgid ""
+"* en virant un montant sur le compte de l'*asbl EduCode* **BE73 0018 3913 "
+"576** chez [BNP ParibasFortis](https://www.bnpparibasfortis.be/) **et** en "
+"nous informant par mail à [don@educode.be](mailto:don@educode.be?"
+"subject=J'ai donné ... et attends un reçu). <br> (N'oubliez pas dans le mail "
+"d'indiquer vos coordonnées : structure, adresse complète, noms et prénoms, "
+"emails et si possible numéros de téléphone des personnes de contact, numéro "
+"de compte, si oui ou non vous voulez être mentionnés ci-dessous."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.s_intro_dates)
+msgid "27, 28, 29 août 2018"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<form action=\"mailto:journeedirections@educode.be\" method=\"post\" enctype="
+"\"text/plain\">"
+msgstr ""
+
+#: http://localhost/lundi-27-aout/
+#: (content/lundi-27-aout/contents+fr.lr:details-program.description)
+msgid ""
+"- **14h45** **Avec 123 codez et Class'Code, vivons et jouons quelques "
+"algorithmes pour comprendre l'ordinateur et son fonctionnement**"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.registration)
+msgid "<th scope=\"col\">Bozar </td>"
+msgstr ""
+
+#: http://localhost/lundi-27-aout/
+#: (content/lundi-27-aout/contents+fr.lr:details-program.description)
+msgid "- **19h00** Pause souper et visite de l'**exposition**"
+msgstr ""
+
+#: http://localhost/lundi-27-aout/
+#: (content/lundi-27-aout/contents+fr.lr:details-program.description)
+msgid "- **14h30** ** Le numérique au service du plaisir d'apprendre**"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"Des ateliers seront proposés pour les enfants à partir de 7 ans. Ceux-ci "
+"auront lieu dans les mêmes bâtiments ou dans des bâtiments proches."
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" align="
+"\"center\" valign=\"middle\"><b><font size=\"2\" face=\"Calibri\">Période</"
+"font></b></td>"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" rowspan="
+"\"2\" align=\"center\" valign=\"middle\" bgcolor=\"#92D050\"><font size="
+"\"2\" face=\"Calibri\" color=\"#FFFFFF\">Trier avec un algo...quoi ? "
+"Activité débranchée pour découvrir ce qu’est un algorithme<br>p.7</font></td>"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.s_practical_infos)
+msgid "Infos pratiques"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.expo_about)
+msgid ""
+"Celle-ci sera accessible essentiellement durant les pauses cafés et repas du "
+"midi et du soir."
+msgstr ""
+
+#: http://localhost/lundi-27-aout/
+#: (content/lundi-27-aout/contents+fr.lr:details-program.description)
+msgid "- **8h30** Inscription des participants pour début à 9h00 précises"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" align="
+"\"center\" valign=\"middle\" bgcolor=\"#FCCF28\"><font size=\"2\" face="
+"\"Calibri\" color=\"#FFFFFF\">Secondaire   inférieur</font></td>"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"- **14h25** **Utiliser PIX, un outil de suivi de la mise en œuvres des "
+"compétences numériques**"
+msgstr ""
+
+#: http://localhost/stream/
+#: (content/stream/contents+fr.lr:details-program.description)
+msgid ""
+"Kun je ons helpen dergelijke projecties te organiseren? Als dat zo is, dank "
+"u om te schrijven naar [aide@educode.be](mailto: aider@educode.be?subject=I "
+"want to help with the projection of the concert in ...)."
+msgstr ""
+
+#: http://localhost/mercredi-29-aout/
+#: (content/mercredi-29-aout/contents+fr.lr:details-program.description)
+msgid ""
+"par Cédric Libert, Fanny Boraita Fanny & Wim Vanhoof (Université de Namur)"
+msgstr ""
+
+#: http://localhost/mercredi-29-aout/
+#: (content/mercredi-29-aout/contents+fr.lr:details-program.description)
+msgid ""
+"* **16h30** **[Comment « décupler » la formation numérique des enseignants ? "
+"Les remplacer dans leurs classes pendant les formations !](/mercredi-29-aout/"
+"educode_Mascart.pdf)** <br>"
+msgstr ""
+
+#: http://localhost/mercredi-29-aout/
+#: (content/mercredi-29-aout/contents+fr.lr:details-program.description)
+msgid ""
+"* **09h30** **Keynote 1 : ** **Programming in Primary School: from Papert to "
+"the New Computer Science**"
+msgstr ""
+
+#: http://localhost/concert/
+#: (content/concert/contents+fr.lr:concert.description)
+#: http://localhost/tickets/
+#: (content/tickets/contents+fr.lr:concert.description)
+msgid "#### Vox Anima, chœur d'adultes"
+msgstr ""
+
+#: http://localhost/mercredi-29-aout/
+#: (content/mercredi-29-aout/contents+fr.lr:details-program.description)
+msgid "par Damien Scolari & Margarida Romero (Université Côte d’Azur)"
+msgstr ""
+
+#: http://localhost/lundi-27-aout/
+#: (content/lundi-27-aout/contents+fr.lr:details-program.description)
+msgid "- **16h15** Pause-café et visite de l'**exposition**"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.registration)
+msgid ""
+"Ces codes de réduction peuvent ne pas marcher, le temps de leur mise en "
+"place. Si ils ne fonctionnaient pas, écrivez-nous à [info@educode.be](mailto:"
+"info@educode?subject=les codes ne marchent pas encore) et mettant votre "
+"commentaire et vos souhaits de réservation. Nous reprendrons contact avec "
+"vous."
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+#: http://localhost/lundi-27-aout/
+#: (content/lundi-27-aout/contents+fr.lr:details-program.description)
+#: http://localhost/mercredi-29-aout/
+#: (content/mercredi-29-aout/contents+fr.lr:details-program.description)
+msgid "<br> <span style=\"margin-right:50px;\"> </span>"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" rowspan="
+"\"2\" align=\"center\" valign=\"middle\" bgcolor=\"#00B0F0\"><font size="
+"\"2\" face=\"Calibri\" color=\"#FFFFFF\">Introduction à la modélisation 3D "
+"en classe<br>p.3<br></font></td>"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td align=\"center\" valign=\"middle\"><b><font size=\"2\" face=\"Calibri"
+"\"><br></font></b></td>"
+msgstr ""
+
+#: http://localhost/lundi-27-aout/
+#: (content/lundi-27-aout/contents+fr.lr:details-program.description)
+msgid ""
+"3. [Stéphanie Pouchot](/intervenants/stepahnie-pouchot) (Département de "
+"l'instruction publique, Suisse)"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"a.comment-indicator:hover + comment { background:#ffd; position:absolute; "
+"display:block; border:1px solid black; padding:0.5em;  }"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" align="
+"\"center\" valign=\"middle\"><b><font size=\"2\" face=\"Calibri"
+"\">Cyberclasse 3</font></b></td>"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.s_registration)
+msgid "Inscription"
+msgstr ""
+
+#: http://localhost/concert/
+#: (content/concert/contents+fr.lr:concert.description)
+#: http://localhost/tickets/
+#: (content/tickets/contents+fr.lr:concert.description)
+msgid "#### Grégoire Blanc et son thérémine"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" rowspan="
+"\"2\" align=\"center\" valign=\"middle\" bgcolor=\"#92D050\"><font size="
+"\"2\" face=\"Calibri\" color=\"#FFFFFF\">Une Smart City, c’est quoi ? Une "
+"initiation ludique pour l'expliquer à mes élèves<br>p.6</font></td>"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"body,div,table,thead,tbody,tfoot,tr,th,td,p { font-family:\"Liberation Sans"
+"\";}"
+msgstr ""
+
+#: http://localhost/faq/
+#: (content/faq/contents+fr.lr:details-program.description)
+msgid ""
+"1. **Q**: L’affluence du stand sera-t-elle uniquement pendant les pauses "
+"repas et cafés du midi et du soir ?"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"par  [Benjamin Marteau](/intervenants/benjamin-marteau) & [Françoise Tort](/"
+"intervenants/francoise-tort) (Start-up d'état Pix & ENS-Cachan, France)"
+msgstr ""
+
+#: http://localhost/exposition/
+#: (content/exposition/contents+fr.lr:details-program.description)
+msgid ""
+"Le lundi 27 août, dans la salle Horta et autour de la salle Henri Lebœuf de "
+"[Bozar](/lieux/bozar), tous les acteurs de l'enseignement autour et par le "
+"numérique qui le souhaitent peuvent participer."
+msgstr ""
+
+#: http://localhost/stream/
+#: (content/stream/contents+fr.lr:details-program.description)
+msgid ""
+"En 2018, il y a toujours la guerre. Et celle-ci est menée par des pays qui "
+"ont signé ce pacte. Parfois même, comme les USA, qui sont à l'origine de ce "
+"pacte."
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"* **15h15** **Atelier 5 - Programme tes héros avec [Scratch](https://scratch."
+"mit.edu/)** animé par [Le Pass](http://pass.be/)"
+msgstr ""
+
+#: http://localhost/lundi-27-aout/
+#: (content/lundi-27-aout/contents+fr.lr:details-program.description)
+msgid ""
+"- **10h00** **DigComp, DigcompEdu, Selfie : le répertoire européen des "
+"compétences numériques, son pendant pour l'école et un outil d'évaluation**"
+msgstr ""
+
+#: http://localhost/lundi-27-aout/
+#: (content/lundi-27-aout/contents+fr.lr:details-program.description)
+msgid ""
+"par [Jonathan Ponsard](/intervenants/jonathan-ponsard) (Technopédagogue & "
+"Animateur Edulab à Technofutur TIC asbl)"
+msgstr ""
+
+#: http://localhost/concert/
+#: (content/concert/contents+fr.lr:concert.description)
+#: http://localhost/tickets/
+#: (content/tickets/contents+fr.lr:concert.description)
+msgid ""
+"* [Ave Maria - Tomás Luis da Vittoria](https://www.youtube.com/watch?v=2O-"
+"BruIxeaI)"
+msgstr ""
+
+#: http://localhost/promotion/
+#: (content/promotion/contents+fr.lr:details-program.description)
+msgid "Cette promotion est effectuée essentiellement grâce aux"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"Les enfants qui souhaitent participer doivent être inscrits auprès de [Julie "
+"Henry](mailto:julie@educode.be?Inscription aux ateliers enfants de educode). "
+"Les collations et repas ne sont pas pris en charge par les organisateurs."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.registration)
+msgid "<th scope=\"col\">HE2B </td>"
+msgstr ""
+
+#: http://localhost/asbl/
+#: (content/asbl/contents+fr.lr:details-program.description)
+msgid ""
+"ces institutions de mieux se connaître, et d’être mieux connues de tous les "
+"publics."
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" rowspan="
+"\"2\" align=\"center\" valign=\"middle\" bgcolor=\"#ED7D31\"><font size="
+"\"2\" face=\"Calibri\" color=\"#FFFFFF\">fadagogo.com coder en 25 défis. En "
+"es-tu capable ?<br>p.10</font></td>"
+msgstr ""
+
+#: http://localhost/mercredi-29-aout/
+#: (content/mercredi-29-aout/contents+fr.lr:details-program.description)
+msgid "* **17h10** **Mots de cloture - Closing words**"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"Le **catalogue** des ateliers en version **imprimable** est **[disponible "
+"ici](/mardi-28-aout/AteliersEduCode-1.compressed.pdf)**."
+msgstr ""
+
+#: http://localhost/mercredi-29-aout/
+#: (content/mercredi-29-aout/contents+fr.lr:details-program.description)
+msgid ""
+"* **08h30** **Enregistrement & rencontres rapides - Registration & "
+"speedmeetings**"
+msgstr ""
+
+#: http://localhost/dimanche-26-aout/
+#: (content/dimanche-26-aout/contents+fr.lr:details-program.date)
+msgid "Dimanche 26 août"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.registration)
+msgid "</tbody>"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.practical_infos)
+msgid ""
+"Merci de vous munir des documents d’inscription pour une vérification aisée."
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid "<colgroup width=\"150\" span=\"6\"></colgroup>"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid "##Programme"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.registration)
+msgid "<th scope=\"col\">Ateliers <br> 28 août</td>"
+msgstr ""
+
+#: http://localhost/mercredi-29-aout/
+#: (content/mercredi-29-aout/contents+fr.lr:details-program.description)
+msgid "par Jean-Louis Clerebaut (Service manager, CIRB-CIBG)"
+msgstr ""
+
+#: http://localhost/lundi-27-aout/
+#: (content/lundi-27-aout/contents+fr.lr:details-program.description)
+msgid ""
+"- **14h15**  **Des robots et des légos pour motiver au travail à l'école "
+"primaire**"
+msgstr ""
+
+#: http://localhost/mercredi-29-aout/
+#: (content/mercredi-29-aout/contents+fr.lr:details-program.description)
+msgid "*  **15h35** **Pause-café - Coffee break**"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.registration)
+msgid "<th scope=\"col\">Échanges & mise en commun <br> 29 août  </td>"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid "</head>"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.registration)
+msgid "<th scope=\"col\">Cat 2</td>"
+msgstr ""
+
+#: http://localhost/mercredi-29-aout/
+#: (content/mercredi-29-aout/contents+fr.lr:details-program.description)
+msgid "par Olivier Goletti ([SI²](https://sicarre.be/))"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid "<td align=\"center\" valign=\"middle\" height=\"21\"><b><br></b></td>"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.s_may)
+msgid "mai"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.registration)
 msgid "</thead>"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"Les **enseignants et autres acteurs de l'éducation** se verront proposer des "
+"**ateliers pratiques autour du numérique**, moments de formation, d’échanges "
+"entre pairs, de partage d'expérience et de démonstration. Plus de quarante "
+"ateliers sont planifiés."
+msgstr ""
+
+#: http://localhost/faq/
+#: (content/faq/contents+fr.lr:details-program.description)
+msgid ""
+"**R**: Nous allons essayer que l'affluence soit essentiellement durant les "
+"pauses café du matin et de l'après-midi et durant les pauses café de midi et "
+"du soir pour que les visiteurs suivent les conférences, la table-ronde et le "
+"spectacle. Les pauses ont été prévues assez longues pour permettre de bons "
+"échanges. Si certains veulent poursuivre les discussions entreprises durant "
+"ces pauses, nous demanderons de ne plus rentrer dans la salle pour ne pas "
+"déranger."
+msgstr ""
+
+#: http://localhost/asbl/
+#: (content/asbl/contents+fr.lr:details-program.description)
+msgid ""
+"l’éducation au numérique notamment les universités, écoles, hautes écoles, "
+"institutions"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.s_hotel)
+msgid "Hôtels"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.s_thuesday_28)
+msgid "Mardi 28"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td sdval=\"3\" sdnum=\"2060;\" align=\"center\" valign=\"middle\" height="
+"\"120\"><b>3</b></td>"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" rowspan="
+"\"2\" align=\"center\" valign=\"middle\" bgcolor=\"#ED7D31\"><font size="
+"\"2\" face=\"Calibri\" color=\"#FFFFFF\">La data science en "
+"pratique<br>p.10</font></td>"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" align="
+"\"center\" valign=\"middle\" bgcolor=\"#2F5395\"><font size=\"2\" face="
+"\"Calibri\" color=\"#FFFFFF\">Créer ses documents pour la classe avec Draw, "
+"c'est facile !<br>p.14</font></td>"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.practical_infos)
+msgid "*  Le mardi 28 août à l’ISIB, entrée Rue Royale, 150 à 1000 Bruxelles"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid "</form>"
+msgstr ""
+
+#: http://localhost/mercredi-29-aout/
+#: (content/mercredi-29-aout/contents+fr.lr:details-program.description)
+msgid ""
+"par Anne-Sophie Collard, Kathleen De Grove, Carole Delforge et Alyson "
+"Hernalesteen (UNamur - Centre de Recherche Information, Droit et Société "
+"(CRIDS))"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid "#Après-midi pour les Directions"
+msgstr ""
+
+#: http://localhost/faq/
+#: (content/faq/contents+fr.lr:details-program.description)
+msgid ""
+"2. **Q**: Quand est-il possible d'installer et de démonter les stands du "
+"_marché_ ?"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td sdval=\"5\" sdnum=\"2060;\" align=\"center\" valign=\"middle\" height="
+"\"70\"><b>6</b></td>"
+msgstr ""
+
+#: http://localhost/lundi-27-aout/
+#: (content/lundi-27-aout/contents+fr.lr:details-program.description)
+msgid ""
+"par [Richard Stallman](/intervenants/richard-stallman) (Président de la "
+"[Free Software Foundation](https://fsf.org))"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid "<input type=\"reset\" value=\"Reset\">"
+msgstr ""
+
+#: http://localhost/lundi-27-aout/
+#: (content/lundi-27-aout/contents+fr.lr:details-program.description)
+msgid ""
+"- **11h00** **Table-ronde 1 :** débat sur l'enseignement du numérique et les "
+"politiques publiques"
+msgstr ""
+
+#: http://localhost/concert/
+#: (content/concert/contents+fr.lr:concert.description)
+#: http://localhost/tickets/
+#: (content/tickets/contents+fr.lr:concert.description)
+msgid ""
+"* [Grégoire Blanc - Clair de Lune de Debussy](https://www.youtube.com/watch?"
+"v=PjnaciNT-wQ)"
+msgstr ""
+
+#: http://localhost/concert/
+#: (content/concert/contents+fr.lr:concert.description)
+#: http://localhost/tickets/
+#: (content/tickets/contents+fr.lr:concert.description)
+msgid ""
+"* [Cirandeiro](https://www.youtube.com/watch?v=ywUBc-sul2c) (populaire "
+"brésilien)"
+msgstr ""
+
+#: http://localhost/lundi-27-aout/
+#: (content/lundi-27-aout/contents+fr.lr:details-program.description)
+msgid ""
+"par [Nicolas Pettiaux](/intervenants/nicolas-pettiaux) (HE2B & ULB, Belgique)"
+msgstr ""
+
+#: http://localhost/stream/
+#: (content/stream/contents+fr.lr:details-program.description)
+msgid ""
+"Le lundi 27 août 2018, nous fêterons exactement les 90 ans du [pacte Briand-"
+"Kellogg](https://fr.wikipedia.org/wiki/Pacte_Briand-Kellogg), ou pacte de "
+"Paris, un traité signé par soixante-trois pays qui « condamnent le recours à "
+"la guerre pour le règlement des différends internationaux et y renoncent en "
+"tant qu'instrument de politique nationale dans leurs relations mutuelles »."
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" align="
+"\"center\" valign=\"middle\"><b>15h20<br>-<br>16h05</b></td>"
+msgstr ""
+
+#: http://localhost/lundi-27-aout/
+#: (content/lundi-27-aout/contents+fr.lr:details-program.description)
+msgid ""
+"2. [Laurent Cheno](/intervenants/laurent-cheno) (Ministère de l'Éducation "
+"nationale, France)"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" align="
+"\"center\" valign=\"middle\"><b><font size=\"2\" face=\"Calibri\">Classe 4</"
+"font></b></td>"
+msgstr ""
+
+#: http://localhost/stream/
+#: (content/stream/contents+fr.lr:details-program.description)
+msgid "#Streamen en tonen van het concert (nl)"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" align="
+"\"center\" valign=\"middle\" bgcolor=\"#ED7D31\"><font size=\"2\" face="
+"\"Calibri\" color=\"#FFFFFF\">Des outils pratiques pour sensibiliser les "
+"élèves aux technologies <br>p.11</font></td>"
+msgstr ""
+
+#: http://localhost/concert/
+#: (content/concert/contents+fr.lr:concert.description)
+#: http://localhost/tickets/
+#: (content/tickets/contents+fr.lr:concert.description)
+msgid ""
+"* [Skyfall (Adèle)](https://www.youtube.com/watch?"
+"v=HUVtOUgzmGI&index=17&list=UUlavALPTGaPcQKZbciJrICA)"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.about)
+msgid ""
+"La conférence est **gratuite** pour les enseignants francophones inscrits à "
+"IFC. Voir plus d'info à l'[inscription](#anchor-inscription)."
+msgstr ""
+
+#: http://localhost/lundi-27-aout/
+#: (content/lundi-27-aout/contents+fr.lr:details-program.description)
+msgid "- **17h30** **Contrôle ton ordinateur pour ne pas être contrôlé  !**"
+msgstr ""
+
+#: http://localhost/lundi-27-aout/
+#: (content/lundi-27-aout/contents+fr.lr:details-program.description)
+msgid ""
+"par [Mathieu Hirtzig](/intervenants/mathieu-hirtzig) (La main à la pâte, "
+"France) & [Marie Duflot-Kremer](/intervenants/marie-duflot-kremer) "
+"(Université de Lorraine, France)"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"**Inscription** : en complétant le formulaire ci-dessous qui sera envoyé par "
+"email"
+msgstr ""
+
+#: http://localhost/lundi-27-aout/
+#: (content/lundi-27-aout/contents+fr.lr:details-program.description)
+msgid ""
+"- **10h15** **PIX, un outil de suivi de la mise en œuvre des compétences "
+"numériques**"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.s_wednesday_29)
+msgid "Mercredi 29"
+msgstr ""
+
+#: http://localhost/mercredi-29-aout/
+#: (content/mercredi-29-aout/contents+fr.lr:details-program.description)
+msgid "#Réfléchir"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.registration)
+msgid "<td>  15 €  </td>"
+msgstr ""
+
+#: http://localhost/promotion/
+#: (content/promotion/contents+fr.lr:details-program.description)
+msgid "* affiches"
+msgstr ""
+
+#: http://localhost/concert/
+#: (content/concert/contents+fr.lr:concert.description)
+#: http://localhost/tickets/
+#: (content/tickets/contents+fr.lr:concert.description)
+msgid "#### Les petits chanteurs du Collège Saint-Pierre, chœur de garçons"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.s_wednesday)
+msgid "Mercredi"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.wednesday)
+msgid ""
+"Mercredi 29 août à [Bozar](/lieux/bozar), dans la **galerie Ravenstein**, "
+"ceux qui réfléchissent aux usages et cherchent à les généraliser autant que "
+"les particulariser, les chercheurs en éducation sur les usages du numérique, "
+"les enseignants qui veulent échanger sur leurs pratiques, se retrouveront "
+"dans une conférence pour des échanges d'expériences et des présentations de "
+"recherches. Des solutions de garde d'enfants avec des activités seront "
+"organisées pour que tous les parents puissent participer."
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid "<br><br>"
+msgstr ""
+
+#: http://localhost/stream/
+#: (content/stream/contents+fr.lr:details-program.description)
+msgid "#Streamer et projeter le concert (fr)"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.s_propose_atelier)
+msgid "Proposer un atelier"
+msgstr ""
+
+#: http://localhost/stream/
+#: (content/stream/contents+fr.lr:details-program.description)
+msgid "#Streaming and projection of the concert (en)"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid ""
+"Lundi 27 août 2018 à [Bozar](/lieux/bozar), les enseignants, directions et "
+"le grand public  pourront suivre des conférences, une table-ronde, un "
+"spectacle interactif pour appréhender ce nouveau monde fait de numérique, "
+"ses défis et ses opportunités. Durant les pauses, ils pourront rencontrer de "
+"très nombreux acteurs, essentiellement associatifs, qui proposent des "
+"activités liées au numérique et à la formation. Des solutions de garde "
+"d'enfants avec des activités seront organisées pour que tous les parents "
+"puissent participer."
+msgstr ""
+
+#: http://localhost/mercredi-29-aout/
+#: (content/mercredi-29-aout/contents+fr.lr:details-program.description)
+msgid ""
+"* **16h05** **[L'enseignement de la programmation informatique à l'école "
+"primaire en France : la réaction des professeurs des écoles](/mercredi-29-"
+"aout/educode_Roche.pdf)** <br>"
+msgstr ""
+
+#: http://localhost/lundi-27-aout/
+#: (content/lundi-27-aout/contents+fr.lr:details-program.description)
+msgid ""
+"par [Marie-Martine Schyns](/intervenants/marie-martine-schyns) (Ministre de "
+"l'enseignement obligatoire, Fédération Wallonie-Bruxelles)"
+msgstr ""
+
+#: http://localhost/stream/
+#: (content/stream/contents+fr.lr:details-program.description)
+msgid ""
+"Can you help us organize such projections? If yes, please write to "
+"[aide@educode.be](mailto: aider@educode.be?subject=I want to help with the "
+"projection of the concert in ...)."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.registration)
+msgid ""
+"Les inscriptions définitives sont maintenant possibles en cliquant sur le "
+"bouton ci-dessous."
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" rowspan="
+"\"2\" align=\"center\" valign=\"middle\" bgcolor=\"#2F5395\"><font size="
+"\"2\" face=\"Calibri\" color=\"#FFFFFF\">Yes, we Khan<br>p.12</font></td>"
+msgstr ""
+
+#: http://localhost/mercredi-29-aout/
+#: (content/mercredi-29-aout/contents+fr.lr:details-program.description)
+msgid "par les autorités - by the authorities"
+msgstr ""
+
+#: http://localhost/concert/
+#: (content/concert/contents+fr.lr:concert.description)
+#: http://localhost/tickets/
+#: (content/tickets/contents+fr.lr:concert.description)
+msgid ""
+"* [Caprice de Paganini - Floris and the Flames](https://www.youtube.com/"
+"watch?v=r-vh0ELke3w)"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid "<style type=\"text/css\">"
+msgstr ""
+
+#: http://localhost/lundi-27-aout/
+#: (content/lundi-27-aout/contents+fr.lr:details-program.description)
+msgid ""
+"- **9h30** **Ce que l'enseignement de l'informatique apporte au projet de "
+"l'École dans son ensemble**"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid "Programme envisagé :"
+msgstr ""
+
+#: http://localhost/promotion/
+#: (content/promotion/contents+fr.lr:details-program.description)
+msgid "* flyers"
+msgstr ""
+
+#: http://localhost/lundi-27-aout/
+#: (content/lundi-27-aout/contents+fr.lr:details-program.description)
+msgid ""
+"7. [Anne-Marie Lacombe](/intervenants/anne-marie-lacombe) (Bibliothèque de "
+"Montréal, Canada)"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.registration)
+msgid "<th scope=\"col\">Conférences <br> 27 août</td>"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.s_submissions)
+msgid "Appel à propositions"
+msgstr ""
+
+#: http://localhost/promotion/
+#: (content/promotion/contents+fr.lr:details-program.description)
+msgid "* à la radio"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.partners_about)
+msgid ""
+"Les partenaires de la conférence sont tous les acteurs qui considèrent que "
+"la question est importante et qui souhaitent contribuer dans la mesure de "
+"leurs moyens. Ils sont belges et étrangers, la plupart associatifs. Les uns "
+"fournissent un indispensable soutien financier, les autres participent à la "
+"promotion et à la diffusion de l'information autour de la conférence, sont "
+"des membres du comité d'organisation de la conférence, encadrent des "
+"ateliers..."
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid "<html><head>"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" align="
+"\"center\" valign=\"middle\" bgcolor=\"#2F5395\"><font size=\"2\" face="
+"\"Calibri\" color=\"#FFFFFF\">Build your own chatbot for Facebook Messenger "
+"using IBM Watson Assistant<br>p.17</font></td>"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.registration)
+msgid "<td>  100 € <br> 0  € prof  </td>"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.submissions_text)
+msgid ""
+"Les propositions d'ateliers 28 et de communications orales pour le 29 sont "
+"maintenant cloturées. Vous trouverez bientôt la liste de ceux-ci sur ce site."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.registration)
+msgid "<th scope=\"col\">Cat 1 </td>"
+msgstr ""
+
+#: http://localhost/faq/
+#: (content/faq/contents+fr.lr:details-program.description)
+msgid "##Mardi 28 août - ateliers"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" align="
+"\"center\" valign=\"middle\" bgcolor=\"#2F5395\"><font size=\"2\" face="
+"\"Calibri\" color=\"#FFFFFF\">Tous les niveaux</font></td>"
+msgstr ""
+
+#: http://localhost/concert/
+#: (content/concert/contents+fr.lr:concert.description)
+#: http://localhost/tickets/
+#: (content/tickets/contents+fr.lr:concert.description)
+msgid ""
+"* [Nova Radit Stala (Noël ukrainien)](https://www.youtube.com/watch?"
+"v=OwJoBZeUjxg&list=UUlavALPTGaPcQKZbciJrICA&index=18)"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.registration)
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid "<tr>"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" rowspan="
+"\"2\" align=\"center\" valign=\"middle\" bgcolor=\"#92D050\"><font size="
+"\"2\" face=\"Calibri\" color=\"#FFFFFF\">Thymio ou que faire avec un robot "
+"pédagogique dans sa classe<br>p.7</font></td>"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.s_submit_paper)
+msgid "Soumettre un poster"
+msgstr ""
+
+#: http://localhost/lundi-27-aout/
+#: (content/lundi-27-aout/contents+fr.lr:details-program.description)
+msgid ""
+"- **17h00** **Développons, partageons et utilisons des ressources éducatives "
+"ouvertes**"
+msgstr ""
+
+#: http://localhost/mercredi-29-aout/
+#: (content/mercredi-29-aout/contents+fr.lr:details-program.description)
+msgid ""
+"par Erick Mascart et Laurence Bourguignon ([forsud](https://www.forsud.be/))"
+msgstr ""
+
+#: http://localhost/lundi-27-aout/
+#: (content/lundi-27-aout/contents+fr.lr:details-program.description)
+msgid ""
+"- **9h15** **Formation et éducation : les mêmes droits pour toutes et tous **"
+msgstr ""
+
+#: http://localhost/asbl/
+#: (content/asbl/contents+fr.lr:details-program.description)
+msgid ""
+"L’asbl Educode est une association sans but lucratif qui veut rassembler les "
+"acteurs de"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.registration)
+msgid "<td>  29 €  </td>"
+msgstr ""
+
+#: http://localhost/mercredi-29-aout/
+#: (content/mercredi-29-aout/contents+fr.lr:details-program.description)
+msgid "* **12h15** **Présentation éclair 1 ** :"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid "comment { display:none;  }"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"En parallèle à ceux-ci, des **ateliers de codage** seront organisés <br>pour "
+"occuper les enfants à partir de 7 ans."
+msgstr ""
+
+#: http://localhost/dons/
+#: (content/dons/contents+fr.lr:details-program.description)
+msgid "#Dons et prêts"
+msgstr ""
+
+#: http://localhost/lundi-27-aout/
+#: (content/lundi-27-aout/contents+fr.lr:details-program.description)
+msgid ""
+"par  [Gilles Dowek](/intervenants/gilles-dowek/) (Inria et Société "
+"informatique de France, France)"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.practical_infos)
+msgid ""
+"Le mercredi 29 août, le repas et les consommations sont compris dans "
+"l’inscription."
+msgstr ""
+
+#: http://localhost/mercredi-29-aout/
+#: (content/mercredi-29-aout/contents+fr.lr:details-program.description)
+msgid ""
+"* **11h50** **[Un an d'évaluation continue en introduction à la "
+"programmation](/mercredi-29-aout/educode_Libert.pdf)** <br>"
+msgstr ""
+
+#: http://localhost/dons/
+#: (content/dons/contents+fr.lr:details-program.description)
+msgid ""
+"Nous avons besoin de vos soutiens financiers qui pourront, nous l'espérons "
+"très bientôt, être défiscalisés pour des dons supérieurs à 40 €."
+msgstr ""
+
+#: http://localhost/dimanche-26-aout/
+#: (content/dimanche-26-aout/contents+fr.lr:details-program.description)
+msgid ""
+"Le 26 août sera consacré à l’accueil des participants, à l'enregistrement et "
+"à une première présentation du programme des journées."
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td sdval=\"4\" sdnum=\"2060;\" align=\"center\" valign=\"middle\" height="
+"\"100\"><b>4</b></td>"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" align="
+"\"center\" valign=\"middle\" bgcolor=\"#ED7D31\"><font size=\"2\" face="
+"\"Calibri\" color=\"#FFFFFF\">Programmation d'applications durables pour les "
+"appareils mobiles<br>p.11</font></td>"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" align="
+"\"center\" valign=\"middle\" bgcolor=\"#C00000\"><font size=\"2\" face="
+"\"Calibri\" color=\"#FFFFFF\">Secondaire<br>supérieur</font></td>"
+msgstr ""
+
+#: http://localhost/lundi-27-aout/
+#: (content/lundi-27-aout/contents+fr.lr:details-program.description)
+msgid "- **17h15** **European START academies in Brussels and beyond**"
+msgstr ""
+
+#: http://localhost/concert/
+#: (content/concert/contents+fr.lr:concert.description)
+#: http://localhost/tickets/
+#: (content/tickets/contents+fr.lr:concert.description)
+msgid "#### Floris Willems"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td sdval=\"4\" sdnum=\"2060;\" align=\"center\" valign=\"middle\" height="
+"\"140\"><b>4</b></td>"
+msgstr ""
+
+#: http://localhost/stream/
+#: (content/stream/contents+fr.lr:details-program.description)
+msgid ""
+"On August 27, 2018, we, the @educode_belgium international conference at "
+"8h30 UTC+2 we shall broadcast freely a"
+msgstr ""
+
+#: http://localhost/mercredi-29-aout/
+#: (content/mercredi-29-aout/contents+fr.lr:details-program.description)
+msgid "* **12h30** **Fiber to the School à Bruxelles** <br>"
+msgstr ""
+
+#: http://localhost/mercredi-29-aout/
+#: (content/mercredi-29-aout/contents+fr.lr:details-program.description)
+msgid "* **12h45**  **Pause-déjeuner & posters - Lunch break & posters **"
+msgstr ""
+
+#: http://localhost/dons/
+#: (content/dons/contents+fr.lr:details-program.description)
+msgid "* [Visit.Brussels](/partenaires/visit-brussels) (10 000 €)"
+msgstr ""
+
+#: http://localhost/lundi-27-aout/
+#: (content/lundi-27-aout/contents+fr.lr:details-program.description)
+msgid ""
+"par [Jean-Claude Marcourt](/intervenants/jean-claude-marcourt) (Ministre de "
+"l'enseignement supérieur, la recherche et la formation des enseignants, "
+"Belgique)"
+msgstr ""
+
+#: http://localhost/lundi-27-aout/
+#: (content/lundi-27-aout/contents+fr.lr:details-program.description)
+msgid ""
+"- **18h30** **Perspectives sur l'enseignement des principes de "
+"l'informatique vue de l'université**"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" rowspan="
+"\"2\" align=\"center\" valign=\"middle\" bgcolor=\"#2F5395\"><font size="
+"\"2\" face=\"Calibri\" color=\"#FFFFFF\">Escape game, Scratch et App-"
+"inventor : des outils pour croiser les disciplines<br>p.19</font></td>"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.s_partners)
+msgid "Partenaires"
+msgstr ""
+
+#: http://localhost/concert/
+#: (content/concert/contents+fr.lr:concert.description)
+#: http://localhost/tickets/
+#: (content/tickets/contents+fr.lr:concert.description)
+msgid ""
+"* [La Quête (Jacques Brel)](https://www.youtube.com/watch?"
+"v=22lU2C473GQ&list=UUlavALPTGaPcQKZbciJrICA&index=4)"
+msgstr ""
+
+#: http://localhost/volontaires/
+#: (content/volontaires/contents+fr.lr:details-program.description)
+msgid ""
+"2. une invitation au [concert du lundi 27 août à 20h30](http://educode.be/"
+"concert)"
+msgstr ""
+
+#: http://localhost/dons/
+#: (content/dons/contents+fr.lr:details-program.description)
+msgid "##Prêts"
+msgstr ""
+
+#: http://localhost/volontaires/
+#: (content/volontaires/contents+fr.lr:details-program.description)
+msgid "Si cela vous intéresse, manifestez-vous en vous inscrivant à la liste ["
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" align="
+"\"center\" valign=\"middle\"><b><font size=\"2\" face=\"Calibri"
+"\">Cyberclasse 4</font></b></td>"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.about)
+msgid ""
+"En particulier, vous pouvez faire des dons <script src=\"https://liberapay."
+"com/npettiaux/widgets/button.js\"></script>"
+msgstr ""
+
+#: http://localhost/concert/
+#: (content/concert/contents+fr.lr:concert.description)
+#: http://localhost/tickets/
+#: (content/tickets/contents+fr.lr:concert.description)
+msgid ""
+"* [Utae ban ban](https://www.youtube.com/watch?v=PAzBcygZ1dU) (populaire "
+"japonais)"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.s_thuesday)
+msgid "Mardi"
+msgstr ""
+
+#: http://localhost/mercredi-29-aout/
+#: (content/mercredi-29-aout/contents+fr.lr:details-program.description)
+msgid ""
+"par [Julie Henry](/intervenants/julie-henry/) ([Université de Namur](http://"
+"unamur.be), Belgium) et"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" align="
+"\"center\" valign=\"middle\"><b>13h30<br>-<br>14h15</b></td>"
+msgstr ""
+
+#: http://localhost/lundi-27-aout/
+#: (content/lundi-27-aout/contents+fr.lr:details-program.description)
+msgid ""
+"par [Hugues Bersini](/intervenants/hugues-bersini) (Université libre de "
+"Bruxelles, Belgique)"
+msgstr ""
+
+#: http://localhost/dons/
+#: (content/dons/contents+fr.lr:details-program.description)
+msgid ""
+"Les associations et institutions qui soutiennent, font des dons en nature, "
+"aident à la promotion, participent activement, sont repris dans la page des "
+"[partenaires](/#anchor-partners)."
+msgstr ""
+
+#: http://localhost/volontaires/
+#: (content/volontaires/contents+fr.lr:details-program.description)
+msgid ""
+"Les bénévoles nécessaires sont nombreux, pour participer à l'encadrement de "
+"nombreuses activités, dès avant la conférence et durant les 2 journées des "
+"27, 28 et 29 août."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.s_submit_here)
+msgid "Soumettez ici"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid "* **10h30** Pause"
+msgstr ""
+
+#: http://localhost/volontaires/
+#: (content/volontaires/contents+fr.lr:details-program.date)
+msgid "Volontaires"
+msgstr ""
+
+#: http://localhost/dimanche-26-aout/
+#: (content/dimanche-26-aout/contents+fr.lr:details-program.description)
+msgid ""
+"Des invités de marque expliqueront pourquoi ils ont décidé de soutenir la "
+"conférence."
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid "<td align=\"center\" valign=\"middle\" height=\"30\"><b><br></b></td>"
+msgstr ""
+
+#: http://localhost/lundi-27-aout/
+#: (content/lundi-27-aout/contents+fr.lr:details-program.description)
+msgid ""
+"5. [Aurélien Fiévez](/intervenants/aurelien-fievez) (Ministère de la "
+"Fédération Wallonie-Bruxelles, Belgique)"
+msgstr ""
+
+#: http://localhost/stream/
+#: (content/stream/contents+fr.lr:details-program.description)
+msgid ""
+"L'échange, le partage, l'éducation, le fait de parler la même langue, comme "
+"la musique qui adoucit les mœurs selon le dicton ou les langages "
+"informatiques, sont des facteurs de paix. Educode est organisé pour "
+"informer, former, et susciter la réflexion de tous les acteurs du monde "
+"éducatifs, donc beaucoup les enseignants, aux défis du numérique qui "
+"transforme la Société. Et tout le contenu sera disponible librement, "
+"gratuitement, y compris le [concert](/concert)"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid "<input type=\"text\" name=\"nom\"><br>"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.about)
+msgid ""
+"Toute  proposition d'aide peut être envoyée à [aider@educode.be](mailto://"
+"aider@educode.be?subject=Aider educode&body=Je souhaite aider educode  à ... "
+"en ... juin / ... juillet / ... août )."
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid "Attentes :"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid "<colgroup width=\"70\" span=\"6\"></colgroup>"
+msgstr ""
+
+#: http://localhost/lundi-27-aout/
+#: (content/lundi-27-aout/contents+fr.lr:details-program.description)
+msgid "- **10h30** Pause-café et visite de l'**exposition**"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid "<input type=\"text\" name=\"attente\" size=\"50\"><br>"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.thuesday)
+msgid ""
+"Mardi 28 août à [ESI](/lieux/he2b-esi), les enseignants seront invités à de "
+"nombreux ateliers pratiques durant lesquels ils seront les apprenants, de "
+"manière à retrouver leurs alter-egos, développer avec eux des contenus et "
+"des expériences pour pouvoir réutiliser en classe ce qu'ils ont appris. Ces "
+"ateliers d’échanges pratiques concerneront des sujets très variés autour de "
+"l’éducation et de l’usage du numérique et de la pensée informatique, et de "
+"nouvelles manières de travail adaptées au numérique."
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" rowspan="
+"\"2\" align=\"center\" valign=\"middle\" bgcolor=\"#2F5395\"><font size="
+"\"2\" face=\"Calibri\" color=\"#FFFFFF\">Algorithmique sans ordinateur dès "
+"le primaire<br>p.13</font></td>"
+msgstr ""
+
+#: http://localhost/mercredi-29-aout/
+#: (content/mercredi-29-aout/contents+fr.lr:details-program.description)
+msgid ""
+"Le mercredi 29, tous les acteurs de l’enseignement ainsi que les décideurs "
+"en la matière pourront se retrouver et échanger sur leurs pratiques. La "
+"journée se déroulera à nouveau à [Bozar](/lieux/bozar)"
+msgstr ""
+
+#: http://localhost/promotion/
+#: (content/promotion/contents+fr.lr:details-program.description)
+msgid ""
+"La promotion est essentielle. Informer toutes et tous que educode est "
+"organisée pour elles et eux, de tous les âges, est difficile."
+msgstr ""
+
+#: http://localhost/mercredi-29-aout/
+#: (content/mercredi-29-aout/contents+fr.lr:details-program.description)
+msgid ""
+"* **16h45** **[Co-création d'une séquence d'introduction à l'informatique "
+"avec des enseignants non-informaticiens : retour d'expérience](/mercredi-29-"
+"aout/educode_Goletti.pdf)** <br>"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" align="
+"\"center\" valign=\"middle\" bgcolor=\"#00B0F0\"><font size=\"2\" face="
+"\"Calibri\" color=\"#FFFFFF\">Découverte et utilisation de GCompris<br>p.4</"
+"font></td>"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.registration)
+msgid ""
+"Cette formation fait partie du programme des formations en interréseaux "
+"organisées par l’IFC. Elle est **gratuite pour les enseignants** de primaire "
+"et secondaire de la Fédération Wallonie-Bruxelles inscrits sur le site de "
+"IFC. Pour vous y inscrire, rendez-vous sur le site de l’IFC [www.ifc.cfwb.be]"
+"(http://www.ifc.cfwb.be). Vous aurez besoin d’une clé d’inscription aux "
+"formations (C.I.F.) disponible auprès de votre direction. La référence du "
+"code consacré à ces 3 jours de formation educode porte le numéro 503001719."
+msgstr ""
+
+#: http://localhost/mercredi-29-aout/
+#: (content/mercredi-29-aout/contents+fr.lr:details-program.description)
+msgid ""
+"by [Felienne Hermans](/intervenants/felienne-hermans) (Delft University of "
+"Technology, Netherlands)"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid "* **15h00** Pause"
+msgstr ""
+
+#: http://localhost/volontaires/
+#: (content/volontaires/contents+fr.lr:details-program.description)
+msgid "3. la nourriture et des boissons"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.expo_about)
+msgid ""
+"Durant les pauses café et repas, toutes les structures (assocations, "
+"institutions publiques, écoles, sociétés commerciales ...) actives dans le "
+"milieu de l’éducation numérique en Belgique et ailleurs représentés lors de "
+"la conférence, présenteront leurs réalisations dans l'[exposition](/"
+"exposition)."
+msgstr ""
+
+#: http://localhost/concert/
+#: (content/concert/contents+fr.lr:concert.description)
+#: http://localhost/tickets/
+#: (content/tickets/contents+fr.lr:concert.description)
+msgid ""
+"* [Vois sur ton chemin](https://www.youtube.com/watch?v=nQOpPHnzmxk) "
+"(extrait du film 'Les Choristes' / Bruno Coulais)"
+msgstr ""
+
+#: http://localhost/asbl/
+#: (content/asbl/contents+fr.lr:details-program.description)
+msgid ""
+"d’enseignement et de formations, pouvoirs organisateurs et organiser toutes "
+"les activités pour"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"a.comment-indicator { background:red; display:inline-block; border:1px solid "
+"black; width:0.5em; height:0.5em;  }"
+msgstr ""
+
+#: http://localhost/faq/
+#: (content/faq/contents+fr.lr:details-program.description)
+msgid "1. **Q**:"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" align="
+"\"center\" valign=\"middle\" bgcolor=\"#2F5395\"><font size=\"2\" face="
+"\"Calibri\" color=\"#FFFFFF\">Venez découvrir comment je cartographie le "
+"monde !<br>p.13</font></td>"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid "#Ateliers codage pour enfants"
+msgstr ""
+
+#: http://localhost/dons/ (content/dons/contents+fr.lr:details-program.date)
+msgid "Dons"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" align="
+"\"center\" valign=\"middle\" bgcolor=\"#ED7D31\"><font size=\"2\" face="
+"\"Calibri\" color=\"#FFFFFF\">Réalité augmentée à la salle de "
+"classe<br>p.11</font></td>"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"- **13h30** **DigComp, DigcompEdu, Selfie : le répertoire européen des "
+"compétences numériques : comment les utiliser à l'école et dans les classes**"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.partners_about)
+msgid ""
+"Beaucoup participent à l'[exposition](/exposition) de [lundi 27](/lundi-27-"
+"aout) ."
+msgstr ""
+
+#: http://localhost/mercredi-29-aout/
+#: (content/mercredi-29-aout/contents+fr.lr:details-program.description)
+msgid ""
+"* **11h25** **[School-IT : Corriger la vision de l'informatique qu'ont les "
+"jeunes pour contrer le manque de ressources humaines dans le domaine](/"
+"mercredi-29-aout/educode_Smal.pdf)** <br>"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.about)
+msgid ""
+"Le colloque Educode se déroule du 27 au 29 août 2018 sur différents sites "
+"localisés à Bruxelles dans un rayon de 500 mètres autour du Palais Royal et "
+"du Parlement fédéral."
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<!-- "
+"************************************************************************** --"
+">"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.practical_infos_brussels)
@@ -75,192 +2166,86 @@ msgid ""
 "(http://visit.brussels)"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.title)
-msgid "Bienvenue à EduCode"
+#: http://localhost/ (content/contents+fr.lr:page.s_free_expose)
+msgid "Exposer et tenir un stand"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.about)
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid "</style>"
+msgstr ""
+
+#: http://localhost/volontaires/
+#: (content/volontaires/contents+fr.lr:details-program.description)
 msgid ""
-"Toute  proposition d'aide peut être envoyée à [aider@educode.be](mailto://"
-"aider@educode.be?subject=Aider educode&body=Je souhaite aider educode  à ... "
-"en ... juin / ... juillet / ... août )."
+"L'organisation d'une conférence comme educode repose beaucoup sur le "
+"bénévolat et le volontariat."
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.partners_about)
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid "<table cellspacing=\"0\" border=\"0\">"
+msgstr ""
+
+#: http://localhost/stream/
+#: (content/stream/contents+fr.lr:details-program.description)
 msgid ""
-"Les partenaires de la conférence sont tous les acteurs qui considèrent que "
-"la question est importante et qui souhaitent contribuer dans la mesure de "
-"leurs moyens. Ils sont belges et étrangers, la plupart associatifs. Les uns "
-"fournissent un indispensable soutien financier, les autres participent à la "
-"promotion et à la diffusion de l'information autour de la conférence, sont "
-"des membres du comité d'organisation de la conférence, encadrent des "
-"ateliers..."
+"Exchange, sharing, education, speaking the same language, like music that "
+"softens manners according to the saying or computer languages, are factors "
+"of peace. Educode is organized to inform, train, and spark the reflection of "
+"all the world's educational stakeholders, so many teachers, to the "
+"challenges of the digital that is transforming the Society. And all content "
+"will be freely available, free of charge, including the [concert](/ concert)"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.practical_infos)
+#: http://localhost/dons/
+#: (content/dons/contents+fr.lr:details-program.description)
 msgid ""
-"*  Le mercredi 29 août à Bozar, entrée dans la Galerie Ravenstein (1er étage "
-"- balcon)"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.registration)
-msgid "</table>"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.registration)
-msgid "## Concert festif du 27 août à 20h30"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.registration)
-msgid "<td>  100 € <br> 0  € prof  </td>"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.press_text)
-msgid ""
-"Vous pouvez également télécharger des documents utiles en cliquant sur le "
-"lien ci-dessous."
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.registration)
-msgid "<td>  22 €  </td>"
+"Sont repris ici, classés par ordre alphabétique des noms, toutes les "
+"donatrices et donateurs, et toutes les structures qui ont fait des dons, des "
+"prêts ou des subventions financières. Merci à elles et eux."
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.registration)
 msgid "## Journées des 27-28-29 août de 9h à 19h"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.thuesday)
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
 msgid ""
-"Mardi 28 août à [ESI](/lieux/he2b-esi), les enseignants seront invités à de "
-"nombreux ateliers pratiques durant lesquels ils seront les apprenants, de "
-"manière à retrouver leurs alter-egos, développer avec eux des contenus et "
-"des expériences pour pouvoir réutiliser en classe ce qu'ils ont appris. Ces "
-"ateliers d’échanges pratiques concerneront des sujets très variés autour de "
-"l’éducation et de l’usage du numérique et de la pensée informatique, et de "
-"nouvelles manières de travail adaptées au numérique."
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" align="
+"\"center\" valign=\"middle\" bgcolor=\"#2F5395\"><font size=\"2\" face="
+"\"Calibri\" color=\"#FFFFFF\">Python for Microcontrollers – Programming with "
+"MicroPython<br>p.18</font></td>"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.registration)
-msgid "<th scope=\"col\">Cat 2</td>"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.registration)
-msgid "<thead>"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.registration)
-msgid "<tr>"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.practical_infos)
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
 msgid ""
-"Le mercredi 29 août, le repas et les consommations sont compris dans "
-"l’inscription."
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" rowspan="
+"\"2\" align=\"center\" valign=\"middle\" bgcolor=\"#2F5395\"><font size="
+"\"2\" face=\"Calibri\" color=\"#FFFFFF\">Aventures numériques<br>p.19</"
+"font></td>"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.about)
+#: http://localhost/faq/
+#: (content/faq/contents+fr.lr:details-program.description)
 msgid ""
-"L'organisation de cette conférence est essentiellement *bénévole*. _Toute "
-"aide et tout soutien sont les bienvenus_."
+"**R**: Il est prévu que les stands soient mis en place le matin dès 7h00 "
+"pour être en place à 8h30  et démonté le soir avant 23h au plus tard (après "
+"la fin du concert) (horaire encore à valider et préciser peut-être)"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.expo_about)
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
 msgid ""
-"Ce sera l’occasion pour les enseignants, leurs directions, les élus et leurs "
-"équipes, ainsi que pour les pouvoirs publics de prendre connaissance de la "
-"grande diversité des acteurs du numérique dans le domaine de l’enseignement. "
-"Ceux-ci pourront assister et aider les écoles dans une mission "
-"d'accompagnement et de formation aux très nombreux usages du numérique."
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.practical_infos)
-msgid ""
-"*  Le lundi 27 août à Bozar, entrée rue Ravenstein, 23 à 1000  Bruxelles"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.about)
-msgid ""
-"Educode est la première édition d’un colloque annuel international dédié à "
-"l’éducation, aux pratiques et à la recherche dans les domaines liés au "
-"numérique. Il est le résultat d’une collaboration entre différents acteurs-"
-"clé du numérique en Belgique et à l'étranger."
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.registration)
-msgid "<tbody>"
-msgstr ""
-
-#: http://localhost/projects/ (content/projects/contents+fr.lr:page.title)
-msgid "Projects"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.practical_infos)
-msgid "*  Le mardi 28 août à l’ISIB, entrée Rue Royale, 150 à 1000 Bruxelles"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.registration)
-msgid ""
-"Ces codes de réduction peuvent ne pas marcher, le temps de leur mise en "
-"place. Si ils ne fonctionnaient pas, écrivez-nous à [info@educode.be](mailto:"
-"info@educode?subject=les codes ne marchent pas encore) et mettant votre "
-"commentaire et vos souhaits de réservation. Nous reprendrons contact avec "
-"vous."
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.registration)
-msgid ""
-"**ATTENTION** : pour des raisons d'organisation de la journée, **chaque** "
-"personne qui participe aux ateliers du mardi 28 août doit s'inscrire dans le "
-"système. Il n'est donc possible d'acheter que **un seul** ticket à la fois "
-"pour cette journée. Nous reviendrons vers vous par mail dès que la liste des "
-"nombreux ateliers sera disponible et prête aux choix."
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.registration)
-msgid "<th scope=\"col\">HE2B </td>"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.practical_infos)
-msgid ""
-"Merci de vous munir des documents d’inscription pour une vérification aisée."
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.registration)
-msgid "<td>  15 €  </td>"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.about)
-msgid ""
-"En particulier, vous pouvez faire des dons <script src=\"https://liberapay."
-"com/npettiaux/widgets/button.js\"></script>"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.registration)
-msgid "<th scope=\"col\">Cat 1 </td>"
-msgstr ""
-
-#: http://localhost/about/ (content/about/contents+fr.lr:page.about)
-msgid ""
-"Il est développé en commun sur [github](https://github.com/EduCodeBe/educode."
-"be) et toute personne qui veut aider, même modestement, contribuer aux "
-"corrections, modifications, traductions ... peut le faire facilement."
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.practical_infos)
-msgid "Les journées se dérouleront :"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.registration)
-msgid "</tbody>"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.expo_about)
-msgid ""
-"Durant les pauses café et repas, toutes les structures (assocations, "
-"institutions publiques, écoles, sociétés commerciales ...) actives dans le "
-"milieu de l’éducation numérique en Belgique et ailleurs représentés lors de "
-"la conférence, présenteront leurs réalisations dans l'[exposition](/"
-"exposition)."
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" align="
+"\"center\" valign=\"middle\" bgcolor=\"#2F5395\"><font size=\"2\" face="
+"\"Calibri\" color=\"#FFFFFF\">Comment décliner la robotique et "
+"l’informatique du primaire au secondaire supérieur ?<br>p.15</font></td>"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.registration)
@@ -273,19 +2258,355 @@ msgid ""
 "peuvent déjà s'inscrire sur notre site avec le code  **EDUCODEIFC2018HE**."
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.registration)
-msgid "<th scope=\"col\">Ateliers <br> 28 août</td>"
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" align="
+"\"center\" valign=\"middle\" bgcolor=\"#00C400\"><font size=\"2\" face="
+"\"Calibri\" color=\"#FFFFFF\">Primaire –<br>Secondaire</font></td>"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.wednesday)
+#: http://localhost/lundi-27-aout/
+#: (content/lundi-27-aout/contents+fr.lr:details-program.description)
+msgid "# Informer"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid "- **14h15** **Pause**"
+msgstr ""
+
+#: http://localhost/faq/
+#: (content/faq/contents+fr.lr:details-program.description)
+msgid "# Questions fréquentes"
+msgstr ""
+
+#: http://localhost/mercredi-29-aout/
+#: (content/mercredi-29-aout/contents+fr.lr:details-program.description)
 msgid ""
-"Mercredi 29 août à [Bozar](/lieux/bozar), dans la **galerie Ravenstein**, "
-"ceux qui réfléchissent aux usages et cherchent à les généraliser autant que "
-"les particulariser, les chercheurs en éducation sur les usages du numérique, "
-"les enseignants qui veulent échanger sur leurs pratiques, se retrouveront "
-"dans une conférence pour des échanges d'expériences et des présentations de "
-"recherches. Des solutions de garde d'enfants avec des activités seront "
-"organisées pour que tous les parents puissent participer."
+"* **15h10** **[S’inspirer d’une activité de création de jeu vidéo : "
+"opportunités et limites de la transformation du non formel vers le scolaire]"
+"(/mercredi-29-aout/educode_Collard.pdf)** <br>"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" align="
+"\"center\" valign=\"middle\"><b>14h25<br>-<br>15h10</b></td>"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.baseline)
+msgid ""
+"Une conférence internationale pour informer, former et susciter l'intérêt de "
+"tous les acteurs de l'enseignement aux défis du numérique."
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" rowspan="
+"\"2\" align=\"center\" valign=\"middle\" bgcolor=\"#2F5395\"><font size="
+"\"2\" face=\"Calibri\" color=\"#FFFFFF\">Le numérique au service de "
+"l'apprentissage des mathématiques<br>p.12</font></td>"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"L'objectif de ces conférences est de fournir de l'aide aux directions, des "
+"exemples, des documents qui peuvent illustrer ou être adaptés et complétés, "
+"servir de canevas, des informations sur des activités qui pourraient être "
+"faites et des listes de partenaires potentiels, permettant de former les "
+"enseignants comme d'encadrer les enfants dans des activités tant scolaires "
+"que péri- ou para-scolaires."
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid "<body>"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td sdval=\"5\" sdnum=\"2060;\" align=\"center\" valign=\"middle\" height="
+"\"70\"><b>5</b></td>"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" align="
+"\"center\" valign=\"middle\"><b>9h30<br>-<br>10h15</b></td>"
+msgstr ""
+
+#: http://localhost/mercredi-29-aout/
+#: (content/mercredi-29-aout/contents+fr.lr:details-program.description)
+msgid "* **13h45** **Keynote 2** : **Programming in the classroom** <br>"
+msgstr ""
+
+#: http://localhost/faq/ (content/faq/contents+fr.lr:details-program.date)
+msgid "Faq"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"Enfin, une **après-midi consacrée à la rédaction d'un plan de pilotage "
+"incluant le numérique** sera proposée aux **Directions d'établissements "
+"scolaires**."
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" align="
+"\"center\" valign=\"middle\" bgcolor=\"#2F5395\"><font size=\"2\" face="
+"\"Calibri\" color=\"#FFFFFF\">Devenez informagicien•ne!<br>p.13</font></td>"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.expo_about)
+msgid ""
+"Ce sera l’occasion pour les enseignants, leurs directions, les élus et leurs "
+"équipes, ainsi que pour les pouvoirs publics de prendre connaissance de la "
+"grande diversité des acteurs du numérique dans le domaine de l’enseignement. "
+"Ceux-ci pourront assister et aider les écoles dans une mission "
+"d'accompagnement et de formation aux très nombreux usages du numérique."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.about)
+msgid ""
+"Educode est la première édition d’un colloque annuel international dédié à "
+"l’éducation, aux pratiques et à la recherche dans les domaines liés au "
+"numérique. Il est le résultat d’une collaboration entre différents acteurs-"
+"clé du numérique en Belgique et à l'étranger."
+msgstr ""
+
+#: http://localhost/stream/
+#: (content/stream/contents+fr.lr:details-program.description)
+msgid ""
+"Uitwisseling, delen, onderwijs, dezelfde taal spreken, zoals muziek die "
+"manieren verzacht volgens het gezegde of computertalen, zijn factoren van "
+"vrede. Educode wordt georganiseerd om te informeren, op te voeden, en de "
+"reflectie van alle belanghebbenden te stimuleren in de onderwijswereld, "
+"zoveel leraren, de digitale uitdagingen die de onderneming transformeert. En "
+"alle inhoud is gratis beschikbaar, inclusief het [concert](/ concert)"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid "#Se former"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.practical_infos)
+msgid "Les journées se dérouleront :"
+msgstr ""
+
+#: http://localhost/about/ (content/about/contents+fr.lr:page.about)
+msgid ""
+"Il est développé en commun sur [github](https://github.com/EduCodeBe/educode."
+"be) et toute personne qui veut aider, même modestement, contribuer aux "
+"corrections, modifications, traductions ... peut le faire facilement."
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" align="
+"\"center\" valign=\"middle\" bgcolor=\"#ED7D31\"><font size=\"2\" face="
+"\"Calibri\" color=\"#FFFFFF\">Secondaire</font></td>"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.registration)
+msgid "## Concert festif du 27 août à 20h30"
+msgstr ""
+
+#: http://localhost/mercredi-29-aout/
+#: (content/mercredi-29-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<span style=\"margin-right:50px;\"> </span> par Rupert Meurice de Dormale "
+"(Créateur de [fadagogo.com](http://fadagogo.com/))"
+msgstr ""
+
+#: http://localhost/mercredi-29-aout/
+#: (content/mercredi-29-aout/contents+fr.lr:details-program.description)
+msgid "*  **15h55** **Présentation éclair 2** <br>"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+#: http://localhost/faq/
+#: (content/faq/contents+fr.lr:details-program.description)
+msgid "<br>"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" align="
+"\"center\" valign=\"middle\" bgcolor=\"#00B0F0\"><font size=\"2\" face="
+"\"Calibri\" color=\"#FFFFFF\">Animer un atelier robotique en classe avec le "
+"robot Cubetto<br>p.4</font></td>"
+msgstr ""
+
+#: http://localhost/mercredi-29-aout/
+#: (content/mercredi-29-aout/contents+fr.lr:details-program.description)
+msgid "<span style=\"margin-right:50px;\"> </span>"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid "<td align=\"left\"><br></td>"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"Si vous souhaitez participer aux ateliers, merci de suivre la procédure "
+"décrite dans le catalogue sans quoi vous ne bénéficierez pas des conditions "
+"proposées par les organisateurs. Seules les personnes inscrites à la journée "
+"du 28 août (via l'onglet \"inscription\" dans le menu ci-contre) verront "
+"leur inscription aux ateliers confirmée. Pour les enseignants, la gratuité "
+"ne sera possible qui s'ils sont inscrits sur le site de l'IFC. Cette "
+"procédure, très importante, est réexpliquée en debut du formulaire "
+"d'inscription aux ateliers, **[disponible ici](https://framaforms.org/"
+"inscription-aux-ateliers-1531208808)**."
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"- **15h20** **Des idées pour construire un plan de pilotage intégrant le "
+"numérique : exemples, références, modèles**"
+msgstr ""
+
+#: http://localhost/dimanche-26-aout/
+#: (content/dimanche-26-aout/contents+fr.lr:details-program.description)
+msgid "# Accueillir"
+msgstr ""
+
+#: http://localhost/lundi-27-aout/
+#: (content/lundi-27-aout/contents+fr.lr:details-program.description)
+msgid "- **9h05** **Ouverture de la conférence**"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.s_monday_27)
+msgid "Lundi 27"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" align="
+"\"center\" valign=\"middle\"><b><font size=\"2\" face=\"Calibri\">Classe 1</"
+"font></b></td>"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" align="
+"\"center\" valign=\"middle\"><b><font size=\"2\" face=\"Calibri\">Classe 5</"
+"font></b></td>"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.registration)
+msgid "<td>  22 €  </td>"
+msgstr ""
+
+#: http://localhost/mercredi-29-aout/
+#: (content/mercredi-29-aout/contents+fr.lr:details-program.description)
+msgid ""
+"* **9h15** **Ouverture - Opening** <br> <span style=\"margin-right:50px;\"> "
+"</span>"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.s_our_partners)
+msgid "Nos partenaires"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.s_sunday_26)
+msgid "Dimanche 26"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.practical_infos)
+msgid ""
+"Les lundi 27 et mardi 28 août, les participants pourront commander à leur "
+"arrivée des sandwiches pour le midi. Le café et les boissons seront mis à "
+"disposition."
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" rowspan="
+"\"2\" align=\"center\" valign=\"middle\" bgcolor=\"#2F5395\"><font size="
+"\"2\" face=\"Calibri\" color=\"#FFFFFF\">Découvrir Open-Sankoré &amp; "
+"OpenBoard pour le TBI/TNI<br>p.14</font></td>"
+msgstr ""
+
+#: http://localhost/projects/ (content/projects/contents+fr.lr:page.title)
+msgid "Projects"
+msgstr ""
+
+#: http://localhost/mercredi-29-aout/
+#: (content/mercredi-29-aout/contents+fr.lr:details-program.description)
+msgid ""
+"* **14h45** **[Analyse des usages de la tablette dans le secondaire selon "
+"l'engagement créatif de l'apprenan](/mercredi-29-aout/educode_Scolari.pdf)** "
+"<br>"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" rowspan="
+"\"2\" align=\"center\" valign=\"middle\" bgcolor=\"#ED7D31\"><font size="
+"\"2\" face=\"Calibri\" color=\"#FFFFFF\">Mesure scientifique &amp; "
+"Informatique avec ExpEYES<br>p.9</font></td>"
+msgstr ""
+
+#: http://localhost/promotion/
+#: (content/promotion/contents+fr.lr:details-program.description)
+msgid "* [La Première](https://www.rtbf.be/lapremiere/)"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td sdval=\"5\" sdnum=\"2060;\" align=\"center\" valign=\"middle\" height="
+"\"60\"><b>5</b></td>"
+msgstr ""
+
+#: http://localhost/lundi-27-aout/
+#: (content/lundi-27-aout/contents+fr.lr:details-program.date)
+msgid "Lundi 27 août"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" align="
+"\"center\" valign=\"middle\"><b><font size=\"2\" face=\"Calibri"
+"\">Cyberclasse 5</font></b></td>"
+msgstr ""
+
+#: http://localhost/promotion/
+#: (content/promotion/contents+fr.lr:details-program.date)
+msgid "Promotion"
 msgstr ""
 
 #: http://localhost/about/ (content/about/contents+fr.lr:page.about)
@@ -294,23 +2615,126 @@ msgid ""
 "[formulaire](https://github.com/EduCodeBe/educode.be/issues/new)"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.registration)
+#: http://localhost/dons/
+#: (content/dons/contents+fr.lr:details-program.description)
+msgid "* [Nicolas Pettiaux](/intervenants/nicolas-pettiaux) (10 000 €)"
+msgstr ""
+
+#: http://localhost/dons/
+#: (content/dons/contents+fr.lr:details-program.description)
+msgid "Merci de donner en"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
 msgid ""
-"Cette formation fait partie du programme des formations en interréseaux "
-"organisées par l’IFC. Elle est **gratuite pour les enseignants** de primaire "
-"et secondaire de la Fédération Wallonie-Bruxelles inscrits sur le site de "
-"IFC. Pour vous y inscrire, rendez-vous sur le site de l’IFC [www.ifc.cfwb.be]"
-"(http://www.ifc.cfwb.be). Vous aurez besoin d’une clé d’inscription aux "
-"formations (C.I.F.) disponible auprès de votre direction. La référence du "
-"code consacré à ces 3 jours de formation educode porte le numéro 503001719."
+"Le mardi 28 août proposera différentes formules, adaptées au public. Tout se "
+"déroulera à [HE2B-ESI](/lieux/he2b-esi)."
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.s_intro_dates)
-msgid "27, 28, 29 août 2018"
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid "</tbody></table>"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.s_intro_location_city)
-msgid "Bruxelles, Belgique"
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" align="
+"\"center\" valign=\"middle\" bgcolor=\"#2F5395\"><font size=\"2\" face="
+"\"Calibri\" color=\"#FFFFFF\">De la tortue Logo au chat Scratch, tout un "
+"univers de formes géométriques<br>p.17</font></td>"
+msgstr ""
+
+#: http://localhost/asbl/
+#: (content/asbl/contents+fr.lr:details-program.description)
+msgid ""
+"soutenir la formation au numérique et à la programmation en particulier et "
+"permettre à toutes"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid "<tbody><tr>"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"* **14h15** **Ateliers 4 - Premiers pas sur code.org\"** animé par Julie "
+"Henry (UNamur)"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.date)
+msgid "Mardi 28 août"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" align="
+"\"center\" valign=\"middle\"><b>11h30<br>-<br>12h15</b></td>"
+msgstr ""
+
+#: http://localhost/promotion/
+#: (content/promotion/contents+fr.lr:details-program.description)
+msgid "* partenaires médias"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" rowspan="
+"\"2\" align=\"center\" bgcolor=\"#FFC000\"><font size=\"2\" face=\"Calibri\" "
+"color=\"#FFFFFF\">Quels outils pour enseigner l’informatique dans "
+"l’enseignement secondaire ordinaire ?<br>p.8</font></td>"
+msgstr ""
+
+#: http://localhost/volontaires/
+#: (content/volontaires/contents+fr.lr:details-program.description)
+msgid "Pour remercier les bénévoles, ils reçoivent"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid "<input type=\"text\" name=\"email\"><br>"
+msgstr ""
+
+#: http://localhost/mercredi-29-aout/
+#: (content/mercredi-29-aout/contents+fr.lr:details-program.description)
+msgid ""
+"[Nicolas Pettiaux](/intervenants/nicolas-pettiaux) ([HE2B](http://he2b.be) & "
+"[Université libre de Bruxelles](http://ulb.ac.be), Belgium)"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.s_expo)
+#: http://localhost/exposition/
+#: (content/exposition/contents+fr.lr:details-program.date)
+msgid "Exposition"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" rowspan="
+"\"2\" align=\"center\" valign=\"middle\" bgcolor=\"#2F5395\"><font size="
+"\"2\" face=\"Calibri\" color=\"#FFFFFF\">Sciences du numérique : la "
+"cryptographie<br>p.15</font></td>"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" align="
+"\"center\" valign=\"middle\" bgcolor=\"#2F5395\"><font size=\"2\" face="
+"\"Calibri\" color=\"#FFFFFF\">ffDiaporama : la création facile d'un "
+"diaporama avec des photos et vidéos<br>p.14</font></td>"
 msgstr ""
 
 #: http://localhost/about/ (content/about/contents+fr.lr:page.about)
@@ -320,86 +2744,373 @@ msgid ""
 "com)."
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.sunday)
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
 msgid ""
-"Dimanche 26 aôut 2018 à 18h à Bozar, les organisateurs reçoivent les "
-"participants à la conférence, qui peuvent aussi déjà s'enregistrer pour être "
-"immédiatement prêt lundi matin. À l'occasion d'un verre suivi d'une visite "
-"du centre de Bruxelles, ce sera aussi une première chance de faire "
-"connaissance."
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" rowspan="
+"\"2\" align=\"center\" valign=\"middle\" bgcolor=\"#92D050\"><font size="
+"\"2\" face=\"Calibri\" color=\"#FFFFFF\">Découverte des réseaux "
+"informatiques de façon débranchée<br>p.7</font></td>"
+msgstr ""
+
+#: http://localhost/concert/
+#: (content/concert/contents+fr.lr:concert.description)
+#: http://localhost/tickets/
+#: (content/tickets/contents+fr.lr:concert.description)
+msgid "#### Mélopée, chœur de filles"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.registration)
-msgid "<td>  29 €  </td>"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.registration)
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
 msgid "</tr>"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.registration)
-msgid "<th scope=\"col\">Cat 4</td>"
+#: http://localhost/faq/
+#: (content/faq/contents+fr.lr:details-program.description)
+msgid "##Mercredi 29 août - échanges sur les pratiques et expériences"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
+#: http://localhost/concert/
+#: (content/concert/contents+fr.lr:concert.description)
+#: http://localhost/tickets/
+#: (content/tickets/contents+fr.lr:concert.description)
 msgid ""
-"Lundi 27 août 2018 à [Bozar](/lieux/bozar), les enseignants, directions et "
-"le grand public  pourront suivre des conférences, une table-ronde, un "
-"spectacle interactif pour appréhender ce nouveau monde fait de numérique, "
-"ses défis et ses opportunités. Durant les pauses, ils pourront rencontrer de "
-"très nombreux acteurs, essentiellement associatifs, qui proposent des "
-"activités liées au numérique et à la formation. Des solutions de garde "
-"d'enfants avec des activités seront organisées pour que tous les parents "
-"puissent participer."
+"####Achetez les tickets [ici](http://brussel.iticketsro.com/Bozar/search/"
+"EDUCODE)"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.press_text)
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
 msgid ""
-"Une conférence de presse s'est tenue le lundi 7 mai 2018 à 11h à l'Académie "
-"royale.Un point presse sera également organisé le premier jour de "
-"l’évènement, lundi 27 août vers 13h."
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" rowspan="
+"\"2\" align=\"center\" valign=\"middle\" bgcolor=\"#2F5395\"><font size="
+"\"2\" face=\"Calibri\" color=\"#FFFFFF\">Le numérique au service de la "
+"langue française. Exemples de pratiques enseignantes<br>p.12</font></td>"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.submissions_text)
+#: http://localhost/mercredi-29-aout/
+#: (content/mercredi-29-aout/contents+fr.lr:details-program.description)
 msgid ""
-"Les propositions d'ateliers 28 et de communications orales pour le 29 sont "
-"maintenant cloturées. Vous trouverez bientôt la liste de ceux-ci sur ce site."
+"Côte d’Azur & Inria), Benjamin Lille (Université Laval & Kids Code "
+"Jeunesse), [Marie Duflot-Kremer](/intervenants/marie-duflot-kremer) "
+"(Université de Lorraine, CNRS & Inria) & David Belhassein (Académie de Nice)"
+msgstr ""
+
+#: http://localhost/volontaires/
+#: (content/volontaires/contents+fr.lr:details-program.description)
+msgid "1. l'accès gratuit aux activités qu'ils participent à encadrer,"
+msgstr ""
+
+#: http://localhost/lundi-27-aout/
+#: (content/lundi-27-aout/contents+fr.lr:details-program.description)
+msgid ""
+"par [Indrajit Banerjee](/intervenants/indrajit-banerjee) (Division des "
+"sociétés du savoir, secteur de la communication et de l’information, UNESCO, "
+"Inde)"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid "- **15h10** **Pause**"
+msgstr ""
+
+#: http://localhost/lundi-27-aout/
+#: (content/lundi-27-aout/contents+fr.lr:details-program.description)
+msgid "- **18h45** **Conclusion de la journée**"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid "<input type=\"text\" name=\"ecole \" size=\"50\"><br>"
+msgstr ""
+
+#: http://localhost/mercredi-29-aout/
+#: (content/mercredi-29-aout/contents+fr.lr:details-program.description)
+msgid "* **17h25** **Verre partagé - Drinks**"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid "#Ateliers pratiques pour adultes"
+msgstr ""
+
+#: http://localhost/dons/
+#: (content/dons/contents+fr.lr:details-program.description)
+msgid ""
+"La conférence educode est soutenue et mise en œuvre par l'[association "
+"EduCode](/asbl). C'est essentiellement une activité bénévole pour le moment "
+"qui requiert une énergie très importante de la part d'un très petit nombre "
+"d'acteurs, femmes et hommes."
+msgstr ""
+
+#: http://localhost/faq/
+#: (content/faq/contents+fr.lr:details-program.description)
+msgid "**R**:"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.s_location)
+msgid "Lieux"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" rowspan="
+"\"2\" align=\"center\" valign=\"middle\" bgcolor=\"#00B0F0\"><font size="
+"\"2\" face=\"Calibri\" color=\"#FFFFFF\">Initiation aux sciences "
+"informatiques et à la pensée algorithmique en primaire<br>p.3</font></td>"
+msgstr ""
+
+#: http://localhost/lundi-27-aout/
+#: (content/lundi-27-aout/contents+fr.lr:details-program.description)
+msgid ""
+"sous les directions de [Laurent Beeckmans](/intervenants/laurent-beeckmans) "
+"et [Romain Verbeeren](/intervenants/romain-verbeeren)"
+msgstr ""
+
+#: http://localhost/concert/
+#: (content/concert/contents+fr.lr:concert.description)
+#: http://localhost/tickets/
+#: (content/tickets/contents+fr.lr:concert.description)
+msgid ""
+"Vous trouverez ci-dessous quelques morceaux que les chœurs et autres "
+"artistes qui donneront le concert joueront"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.s_monday)
+msgid "Lundi"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid "<colgroup width=\"73\"></colgroup>"
+msgstr ""
+
+#: http://localhost/concert/
+#: (content/concert/contents+fr.lr:concert.description)
+#: http://localhost/tickets/
+#: (content/tickets/contents+fr.lr:concert.description)
+msgid ""
+"* [Jubilate (Benedictus sit Deus) - W. A. Mozart](https://www.youtube.com/"
+"watch?v=BYKdWIf1Hqk)"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid "* **12h00** Repas"
+msgstr ""
+
+#: http://localhost/lundi-27-aout/
+#: (content/lundi-27-aout/contents+fr.lr:details-program.description)
+msgid ""
+"par Christophe Dejaegher (Manager Bozar Lab & Gluon) et Christophe Benoît "
+"(Start-up Coach Erasmus Hogeschool Brussel, Belgique)"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid "-->"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.registration)
-msgid "<th scope=\"col\">Bozar </td>"
+msgid "<th scope=\"col\">Bozar</td>"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" align="
+"\"center\" valign=\"middle\"><b><font size=\"2\" face=\"Calibri"
+"\">Cyberclasse 6</font></b></td>"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" align="
+"\"center\" valign=\"middle\"><b><font size=\"2\" face=\"Calibri"
+"\">Cyberclasse 2</font></b></td>"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.registration)
-msgid "<td>  35 €  </td>"
+msgid "<td>  25 €  <br> 0  € prof </td>"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.title)
+msgid "Bienvenue à EduCode"
+msgstr ""
+
+#: http://localhost/exposition/
+#: (content/exposition/contents+fr.lr:details-program.description)
+msgid "Revenez bientôt ici pour découvrir tous les exposants."
+msgstr ""
+
+#: http://localhost/lundi-27-aout/
+#: (content/lundi-27-aout/contents+fr.lr:details-program.description)
+msgid ""
+"6. [Julie Henry](/intervenants/julie-henry) (Université de Namur, Belgique "
+"francophone)"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.registration)
-msgid "<th scope=\"col\">Échanges & mise en commun <br> 29 août  </td>"
+msgid "</table>"
+msgstr ""
+
+#: http://localhost/lundi-27-aout/
+#: (content/lundi-27-aout/contents+fr.lr:details-program.description)
+msgid ""
+"L'exposition sera accessible durant les pauses et permettra à des nombreuses "
+"classes, associations, de montrer ce qu'ils et elles font avec les enfants "
+"pour appréhender ce nouveau monde, ses défis et ses opportunités."
+msgstr ""
+
+#: http://localhost/concert/
+#: (content/concert/contents+fr.lr:concert.description)
+#: http://localhost/tickets/
+#: (content/tickets/contents+fr.lr:concert.description)
+msgid ""
+"* [Saint-Saens - Havanaise](https://www.youtube.com/watch?v=zivKTJBVcfQ) "
+"(morceau classique joué par Floris à un concours)"
+msgstr ""
+
+#: http://localhost/stream/
+#: (content/stream/contents+fr.lr:details-program.description)
+msgid ""
+"In 2018 is er nog steeds oorlog. En het wordt geleid door landen die dit "
+"pact hebben ondertekend. Soms zelfs, zoals de VS, die aan de basis liggen "
+"van dit pact."
+msgstr ""
+
+#: http://localhost/lundi-27-aout/
+#: (content/lundi-27-aout/contents+fr.lr:details-program.description)
+msgid ""
+"1. [Bibiana Boccolini](/intervenants/bibiana-boccolini) (Université de "
+"Rosario, Argentine)"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.about)
+msgid ""
+"L'organisation de cette conférence est essentiellement *bénévole*. _Toute "
+"aide et tout soutien sont les bienvenus_."
+msgstr ""
+
+#: http://localhost/mercredi-29-aout/
+#: (content/mercredi-29-aout/contents+fr.lr:details-program.description)
+msgid "*  **ÉGO (Évaluation Gérée par Ordinateur), clé de la réussite** <br>"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" align="
+"\"center\" valign=\"middle\" bgcolor=\"#C00000\"><font size=\"2\" face="
+"\"Calibri\" color=\"#FFFFFF\">La concurrence : l'art de programmer des "
+"actions qui ont lieu en même temps<br>p.8</font></td>"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td sdval=\"2\" sdnum=\"2060;\" align=\"center\" valign=\"middle\" height="
+"\"110\"><b>2</b></td>"
+msgstr ""
+
+#: http://localhost/lundi-27-aout/
+#: (content/lundi-27-aout/contents+fr.lr:details-program.description)
+msgid "- **12h30**  Pause-repas et visite de l'**exposition**"
+msgstr ""
+
+#: http://localhost/asbl/
+#: (content/asbl/contents+fr.lr:details-program.description)
+msgid "* Compte BNP Paribas Fortis BE73 0018 3913 5760"
+msgstr ""
+
+#: http://localhost/lundi-27-aout/
+#: (content/lundi-27-aout/contents+fr.lr:details-program.description)
+msgid "- **12h00** **Table-ronde 2 :** partage d'expériences"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.registration)
 msgid ""
-"<table class=\"table table-hover table-bordered table-striped table-sm\">"
+"**ATTENTION** : pour des raisons d'organisation de la journée, **chaque** "
+"personne qui participe aux ateliers du mardi 28 août doit s'inscrire dans le "
+"système. Il n'est donc possible d'acheter que **un seul** ticket à la fois "
+"pour cette journée. Nous reviendrons vers vous par mail dès que la liste des "
+"nombreux ateliers sera disponible et prête aux choix."
 msgstr ""
 
-#: http://localhost/about/contact/
-#: (content/about/contact/contents+fr.lr:page.title)
-msgid "Contact"
+#: http://localhost/lundi-27-aout/
+#: (content/lundi-27-aout/contents+fr.lr:details-program.description)
+msgid ""
+"Les deux langues de travail du colloque sont l'anglais et le français. Les "
+"conférences, comme la table-ronde seront dans la langue de l'orateur et des "
+"traductions nécessaires seront fournies."
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"* **13h00** **Atelier 3** animé par Jonathan Smets ([LudiLab](www.ludilab."
+"eu))"
+msgstr ""
+
+#: http://localhost/mercredi-29-aout/
+#: (content/mercredi-29-aout/contents+fr.lr:details-program.description)
+msgid ""
+"* **[We Are Coders](https://www.wearecoders.org/), espace d'apprentissage de "
+"la programmation pour les jeunes à Bruxelles** par Nathalie Kuborn"
+msgstr ""
+
+#: http://localhost/mercredi-29-aout/
+#: (content/mercredi-29-aout/contents+fr.lr:details-program.description)
+msgid "*  **17h00** **Présentation éclair 3**"
+msgstr ""
+
+#: http://localhost/promotion/
+#: (content/promotion/contents+fr.lr:details-program.description)
+msgid "* [Music3](https://www.rtbf.be/musiq3/)"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid "<!--"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid "</body></html>"
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid "* **8h30** **Accueil**"
+msgstr ""
+
+#: http://localhost/concert/
+#: (content/concert/contents+fr.lr:concert.description)
+#: http://localhost/tickets/
+#: (content/tickets/contents+fr.lr:concert.description)
+msgid ""
+"Des réductions existent pour plusieurs publics, jeunes, [amis de Bozar]"
+"(https://www.bozar.be/fr/static-pages/54534-bozar-friends) ..."
+msgstr ""
+
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
+msgid ""
+"<td sdval=\"3\" sdnum=\"2060;\" align=\"center\" valign=\"middle\" height="
+"\"140\"><b>3</b></td>"
 msgstr ""
 
 #: http://localhost/about/ (content/about/contents+fr.lr:page.title)
 msgid "About this Website"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.registration)
-msgid ""
-"Les inscriptions définitives sont maintenant possibles en cliquant sur le "
-"bouton ci-dessous."
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.registration)
-msgid "<th scope=\"col\">Cat 3</td>"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.about)
@@ -409,20 +3120,71 @@ msgid ""
 "svg\"></a></noscript>"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.practical_infos)
+#: http://localhost/mardi-28-aout/
+#: (content/mardi-28-aout/contents+fr.lr:details-program.description)
 msgid ""
-"Les participants à Educode  sont attendus dès 8h30 à chacune des trois "
-"journées. Les conférences et ateliers commencent à 9h00 précises."
+"<td style=\"border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; "
+"border-left: 1px solid #00000a; border-right: 1px solid #00000a\" rowspan="
+"\"2\" align=\"center\" valign=\"middle\" bgcolor=\"#2F5395\"><font size="
+"\"2\" face=\"Calibri\" color=\"#FFFFFF\">Learn, play and imagine with Robo "
+"Wunderkind<br>p.17</font></td>"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.partners_about)
+#: templates/concert.html:14
 msgid ""
-"Beaucoup participent à l'[exposition](/exposition) de [lundi 27](/lundi-27-"
-"aout) ."
+"Dans la belle salle Henri Lebœuf de Bozar, ce lundi 27 août 2018 à 20h30, "
+"venez au Concert festif exceptionnel."
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.baseline)
+#: templates/concert.html:17
+msgid "Avec"
+msgstr ""
+
+#: templates/concert.html:19
+msgid "chœur mixte"
+msgstr ""
+
+#: templates/concert.html:20
+msgid "chœur de filles"
+msgstr ""
+
+#: templates/concert.html:21
+msgid "chœur de garçons"
+msgstr ""
+
+#: templates/concert.html:23
+msgid "au"
+msgstr ""
+
+#: templates/concert.html:23
+msgid "thérémine"
+msgstr ""
+
+#: templates/concert.html:28
+msgid "Sous la direction conjointe de"
+msgstr ""
+
+#: templates/concert.html:39
 msgid ""
-"Une conférence internationale pour informer, former et susciter l'intérêt de "
-"tous les acteurs de l'enseignement aux défis du numérique."
+"Sélection de quelques morceaux (vous trouverez une liste plus complète plus "
+"bas)"
+msgstr ""
+
+#: templates/concert.html:88
+msgid "Au programme des œuvres"
+msgstr ""
+
+#: templates/concert.html:90
+msgid "musique classique : Beethoven, Bizet, Franck, Dvořák, Gershwin …"
+msgstr ""
+
+#: templates/concert.html:91
+msgid ""
+"musique du monde : traditionnels japonais, américain, sud-africain, "
+"finlandais …"
+msgstr ""
+
+#: templates/concert.html:92
+msgid ""
+"musique de film et variété : Ennio Morricone, Freddie Mercury, Jacques Brel …"
 msgstr ""
