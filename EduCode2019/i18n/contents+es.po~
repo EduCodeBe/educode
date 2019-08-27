@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: EduCode 2019\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-26 15:40+CET\n"
+"POT-Creation-Date: 2019-08-26 15:43+CET\n"
 "PO-Revision-Date: 2019-07-24 17:38+CET\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -92,6 +92,10 @@ msgid "- 17h à 18h : buffet de clôture"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid "#Localisation"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "- Prof Thierry Massart (ULB)"
 msgstr ""
 
@@ -105,6 +109,13 @@ msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "- Prof Colin de la Higuera (Université de Nantes)"
+msgstr ""
+
+#: http://localhost/about/ (content/about/contents+fr.lr:page.about)
+msgid ""
+"Il est développé en commun sur [github](https://github.com/EduCodeBe/educode."
+"be) et toute personne qui veut aider, même modestement, contribuer aux "
+"corrections, modifications, traductions ... peut le faire facilement."
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.submissions_text)
@@ -129,6 +140,10 @@ msgstr ""
 msgid ""
 "Celle-ci sera accessible essentiellement durant les pauses-cafés et repas du "
 "midi et du soir."
+msgstr ""
+
+#: http://localhost/projects/ (content/projects/contents+fr.lr:page.title)
+msgid "Projects"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
@@ -207,20 +222,37 @@ msgid ""
 "institutrice primaire, à Athénée Royal de Couvin - fondamental)"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.s_about_educode)
-msgid "À propos d'EduCode"
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid "- Erick Mascart"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.text_button)
 msgid "Devenir exposant"
 msgstr ""
 
+#: http://localhost/ (content/contents+fr.lr:page.about)
+msgid ""
+"Pour plus d'information et la préinscription, voir http://wiki.educode.be"
+msgstr ""
+
 #: http://localhost/ (content/contents+fr.lr:page.s_our_partners)
 msgid "Nos partenaires"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "#Localisation"
+#: http://localhost/ (content/contents+fr.lr:page.s_program)
+msgid "Programme"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.about)
+msgid ""
+"Educode 2019 est la seconde édition d’un colloque annuel international dédié "
+"à l’éducation, aux pratiques et à la recherche dans les domaines liés au "
+"numérique. Il est le résultat d’une collaboration entre différents acteurs-"
+"clé du numérique en Belgique et à l'étranger."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.s_partners)
+msgid "Partenaires"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
@@ -233,16 +265,19 @@ msgstr ""
 msgid "L’évènement comporte 3 parties pour 4 publics :"
 msgstr ""
 
-#: http://localhost/projects/ (content/projects/contents+fr.lr:page.title)
-msgid "Projects"
+#: http://localhost/ (content/contents+fr.lr:page.about)
+msgid ""
+"La conférence est **gratuite** pour les enseignants francophones membres de "
+"l'association educode."
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "- Eric Robette"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.s_partners)
-msgid "Partenaires"
+#: http://localhost/ (content/contents+fr.lr:page.practical_infos)
+msgid ""
+"Merci de vous munir des documents d’inscription pour une vérification aisée."
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
@@ -252,9 +287,10 @@ msgid ""
 "invités à venir avec leurs portables)"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.practical_infos)
+#: http://localhost/ (content/contents+fr.lr:page.about)
 msgid ""
-"Merci de vous munir des documents d’inscription pour une vérification aisée."
+"En particulier, vous pouvez faire des dons <script src=\"https://liberapay."
+"com/npettiaux/widgets/button.js\"></script>"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
@@ -273,6 +309,12 @@ msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.partners_about)
 msgid "Beaucoup participent à l'[exposition](/exposition) ."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.about)
+msgid ""
+"Le colloque Educode se déroule le vendredi 27septembre 2019 à la Haute-École "
+"Bruxelles-Brabant dans ses locaux de l'avenue Defré à Uccle (HE2B-Defré)."
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
@@ -347,12 +389,25 @@ msgstr ""
 msgid "- Prof Bibiana Boccolini (Université de Rosario, Argentine)"
 msgstr ""
 
+#: http://localhost/about/ (content/about/contents+fr.lr:page.about)
+msgid ""
+"Ce site est fait avec le [logiciel libre](https://fr.wikipedia.org/wiki/"
+"Logiciel_libre) multiplateforme et multilingue [Lektor](https://getlektor."
+"com)."
+msgstr ""
+
 #: http://localhost/ (content/contents+fr.lr:page.s_hotel)
 msgid "Hôtels"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "#Activités"
+msgstr ""
+
+#: http://localhost/about/ (content/about/contents+fr.lr:page.about)
+msgid ""
+"Par exemple, pour une suggestion ou un commentaire, merci  de remplir le "
+"[formulaire](https://github.com/EduCodeBe/educode.be/issues/new)"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.s_speakers)
@@ -393,8 +448,9 @@ msgid ""
 "ateliers commencent à 9h00 précise."
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.s_program)
-msgid "Programme"
+#: http://localhost/ (content/contents+fr.lr:page.monday)
+msgid ""
+"- Denis Longrée (président de roue de secours asbl, maitre en mathématique)"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
@@ -440,16 +496,20 @@ msgid ""
 "autres espaces)"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.title)
-msgid "Bienvenue à EduCode"
+#: http://localhost/ (content/contents+fr.lr:page.s_free_expose)
+msgid "Exposer et tenir un stand"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "#Contact"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.s_free_expose)
-msgid "Exposer et tenir un stand"
+#: http://localhost/ (content/contents+fr.lr:page.title)
+msgid "Bienvenue à EduCode"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.s_about_educode)
+msgid "À propos d'EduCode"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
@@ -483,6 +543,12 @@ msgid ""
 "Les journées consacrées aux enseignants seront, autant que possible, "
 "organisées avec le soutien de IFC pour être  reconnues par elles comme "
 "journées de formation continue obligatoires pour les enseignants."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.about)
+msgid ""
+"L'organisation de cette conférence est essentiellement *bénévole*. _Toute "
+"aide et tout soutien sont les bienvenus_."
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
@@ -556,9 +622,10 @@ msgstr ""
 msgid "Mardi"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
+#: http://localhost/ (content/contents+fr.lr:page.about)
 msgid ""
-"- Denis Longrée (président de roue de secours asbl, maitre en mathématique)"
+"Toute  proposition d'aide peut être envoyée à [aider@educode.be](mailto://"
+"aider@educode.be?subject=Aider educode&body=Je souhaite aider educode)."
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.registration)
@@ -571,8 +638,11 @@ msgstr ""
 msgid "About this Website"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "- Erick Mascart"
+#: http://localhost/ (content/contents+fr.lr:page.about)
+msgid ""
+"<noscript><a href=\"https://liberapay.com/npettiaux/donate\"><img alt="
+"\"Donate using Liberapay\" src=\"https://liberapay.com/assets/widgets/donate."
+"svg\"></a></noscript>"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.baseline)
