@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: EduCode 2019\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-27 09:27+CET\n"
+"POT-Creation-Date: 2019-09-05 15:43+CET\n"
 "PO-Revision-Date: 2019-08-27 09:29+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -12,10 +12,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Poedit 2.0.6\n"
-
-#: (dynamic)
-msgid "contrebasse"
-msgstr "contrebasse"
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid ""
@@ -50,17 +46,6 @@ msgstr "Aperçu du programme"
 msgid "* flyers"
 msgstr "* flyers"
 
-#: http://localhost/stream/
-#: (content/stream/contents+fr.lr:details-program.description)
-msgid ""
-"Can you help us organize such projections? If yes, please write to "
-"[aide@educode.be](mailto: aider@educode.be?subject=I want to help with the "
-"projection of the concert in ...)."
-msgstr ""
-"Can you help us organize such projections? If yes, please write to "
-"[aide@educode.be](mailto: aider@educode.be?subject=I want to help with the "
-"projection of the concert in ...)."
-
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid ""
 "Durant les pauses, ils pourront rencontrer de très nombreux acteurs, "
@@ -91,51 +76,6 @@ msgstr "* à la radio"
 msgid "Dimanche"
 msgstr "Dimanche"
 
-#: http://localhost/stream/
-#: (content/stream/contents+fr.lr:details-program.description)
-msgid ""
-"Kun je ons helpen dergelijke projecties te organiseren? Als dat zo is, dank "
-"u om te schrijven naar [aide@educode.be](mailto: aider@educode.be?subject=I "
-"want to help with the projection of the concert in ...)."
-msgstr ""
-"Kun je ons helpen dergelijke projecties te organiseren? Als dat zo is, dank "
-"u om te schrijven naar [aide@educode.be](mailto: aider@educode.be?subject=I "
-"want to help with the projection of the concert in ...)."
-
-#: http://localhost/tickets/
-#: (content/tickets/contents+fr.lr:concert.description)
-msgid ""
-"* [Grégoire Blanc - Clair de Lune de Debussy](https://www.youtube.com/watch?"
-"v=PjnaciNT-wQ)"
-msgstr ""
-"* [Grégoire Blanc - Clair de Lune de Debussy](https://www.youtube.com/watch?"
-"v=PjnaciNT-wQ)"
-
-#: (dynamic)
-msgid "violon"
-msgstr "violon"
-
-#: http://localhost/faq/
-#: (content/faq/contents+fr.lr:details-program.description)
-msgid "1. **Q**:"
-msgstr "1. **Q**:"
-
-#: http://localhost/faq/
-#: (content/faq/contents+fr.lr:details-program.description)
-msgid ""
-"**R**: Il est prévu que les stands soient mis en place le matin dès 7h00 "
-"pour être en place à 8h30  et démonté le soir avant 23h au plus tard (après "
-"la fin du concert) (horaire encore à valider et préciser peut-être)"
-msgstr ""
-"**R**: Il est prévu que les stands soient mis en place le matin dès 7h00 "
-"pour être en place à 8h30  et démonté le soir avant 23h au plus tard (après "
-"la fin du concert) (horaire encore à valider et préciser peut-être)"
-
-#: http://localhost/faq/
-#: (content/faq/contents+fr.lr:details-program.description)
-msgid "##Mardi 28 août - ateliers"
-msgstr "##Mardi 28 août - ateliers"
-
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid ""
 "À la haute école Bruxelles-Brabant, Catégorie Defré, avenue Defré à 1180 "
@@ -143,47 +83,6 @@ msgid ""
 msgstr ""
 "À la haute école Bruxelles-Brabant, Catégorie Defré, avenue Defré à 1180 "
 "Uccle, très aisément accessible en transports en commun, voiture et vélo."
-
-#: http://localhost/tickets/
-#: (content/tickets/contents+fr.lr:concert.description)
-msgid ""
-"* [Nova Radit Stala (Noël ukrainien)](https://www.youtube.com/watch?"
-"v=OwJoBZeUjxg&list=UUlavALPTGaPcQKZbciJrICA&index=18)"
-msgstr ""
-"* [Nova Radit Stala (Noël ukrainien)](https://www.youtube.com/watch?"
-"v=OwJoBZeUjxg&list=UUlavALPTGaPcQKZbciJrICA&index=18)"
-
-#: http://localhost/tickets/
-#: (content/tickets/contents+fr.lr:concert.description)
-msgid ""
-"* [Grégoire Blanc et Laurent Beeckmans (piano)](/concert/) dans _Chant du "
-"Cygne Noir_ de Villa-Lobos (compositeur brésilien)"
-msgstr ""
-"* [Grégoire Blanc et Laurent Beeckmans (piano)](/concert/) dans _Chant du "
-"Cygne Noir_ de Villa-Lobos (compositeur brésilien)"
-
-#: http://localhost/faq/ (content/faq/contents+fr.lr:details-program.date)
-msgid "Faq"
-msgstr "Faq"
-
-#: http://localhost/stream/
-#: (content/stream/contents+fr.lr:details-program.description)
-msgid ""
-"L'échange, le partage, l'éducation, le fait de parler la même langue, comme "
-"la musique qui adoucit les mœurs selon le dicton ou les langages "
-"informatiques, sont des facteurs de paix. Educode est organisé pour "
-"informer, former, et susciter la réflexion de tous les acteurs du monde "
-"éducatifs, donc beaucoup les enseignants, aux défis du numérique qui "
-"transforme la Société. Et tout le contenu sera disponible librement, "
-"gratuitement, y compris le [concert](/concert)"
-msgstr ""
-"L'échange, le partage, l'éducation, le fait de parler la même langue, comme "
-"la musique qui adoucit les mœurs selon le dicton ou les langages "
-"informatiques, sont des facteurs de paix. Educode est organisé pour "
-"informer, former, et susciter la réflexion de tous les acteurs du monde "
-"éducatifs, donc beaucoup les enseignants, aux défis du numérique qui "
-"transforme la Société. Et tout le contenu sera disponible librement, "
-"gratuitement, y compris le [concert](/concert)"
 
 #: http://localhost/ (content/contents+fr.lr:page.expo_about)
 msgid ""
@@ -228,14 +127,6 @@ msgstr ""
 msgid "####Achetez les tickets [ici](https://educode.be)"
 msgstr "####Achetez les tickets [ici](https://educode.be)"
 
-#: (dynamic)
-msgid "alto"
-msgstr "alto"
-
-#: (dynamic)
-msgid "piano"
-msgstr "piano"
-
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "- Eric Robette (HE2B-Defré, maître-assistant)"
 msgstr "- Eric Robette (HE2B-Defré, maître-assistant)"
@@ -243,13 +134,6 @@ msgstr "- Eric Robette (HE2B-Defré, maître-assistant)"
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "- 17h à 18h : buffet de clôture"
 msgstr "- 17h à 18h : buffet de clôture"
-
-#: http://localhost/intervenants/georges-khaznadar/
-#: (content/intervenants/georges-khaznadar/contents+fr.lr:speaker.dates)
-#: http://localhost/intervenants/francoise-bols/
-#: (content/intervenants/francoise-bols/contents+fr.lr:speaker.dates)
-msgid "mardi-28-aout"
-msgstr "mardi-28-aout"
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "#Localisation"
@@ -267,18 +151,13 @@ msgstr "La liste des ateliers sera publiée pour le 5 septembre 2019"
 msgid "- Alexia Pasini (HE2B, co-présidente)"
 msgstr "- Alexia Pasini (HE2B, co-présidente)"
 
-#: (dynamic)
-msgid "de"
-msgstr "de"
-
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "- Prof Colin de la Higuera (Université de Nantes)"
 msgstr "- Prof Colin de la Higuera (Université de Nantes)"
 
-#: http://localhost/faq/
-#: (content/faq/contents+fr.lr:details-program.description)
-msgid "**R**:"
-msgstr "**R**:"
+#: http://localhost/dons/ (content/dons/contents+fr.lr:details-program.date)
+msgid "Dons"
+msgstr "Dons"
 
 #: http://localhost/about/ (content/about/contents+fr.lr:page.about)
 msgid ""
@@ -307,59 +186,6 @@ msgstr ""
 "Faites-nous part de vos propositions de stand au sein de l'exposition  en "
 "cliquant sur le bouton ci-dessous qui vous intéresse."
 
-#: http://localhost/stream/
-#: (content/stream/contents+fr.lr:details-program.description)
-msgid ""
-"Maandag 27 augustus, 2018, zullen we precies 90 jaar [Kellogg-Briand_Pact]"
-"(https://en.wikipedia.org/wiki/Briand-Kellogg_Pact) of Pact van Parijs te "
-"vieren, een verdrag ondertekend door drieënzestig landen die \"het gebruik "
-"van oorlog voor de beslechting van internationale geschillen veroordelen en "
-"het beschouwen als een instrument van nationaal beleid in hun onderlinge "
-"betrekkingen\"."
-msgstr ""
-"Maandag 27 augustus, 2018, zullen we precies 90 jaar [Kellogg-Briand_Pact]"
-"(https://en.wikipedia.org/wiki/Briand-Kellogg_Pact) of Pact van Parijs te "
-"vieren, een verdrag ondertekend door drieënzestig landen die \"het gebruik "
-"van oorlog voor de beslechting van internationale geschillen veroordelen en "
-"het beschouwen als een instrument van nationaal beleid in hun onderlinge "
-"betrekkingen\"."
-
-#: (dynamic)
-msgid "Concert festif exceptionnel"
-msgstr "Concert festif exceptionnel"
-
-#: http://localhost/stream/
-#: (content/stream/contents+fr.lr:details-program.description)
-msgid ""
-"Uitwisseling, delen, onderwijs, dezelfde taal spreken, zoals muziek die "
-"manieren verzacht volgens het gezegde of computertalen, zijn factoren van "
-"vrede. Educode wordt georganiseerd om te informeren, op te voeden, en de "
-"reflectie van alle belanghebbenden te stimuleren in de onderwijswereld, "
-"zoveel leraren, de digitale uitdagingen die de onderneming transformeert. En "
-"alle inhoud is gratis beschikbaar, inclusief het [concert](/ concert)"
-msgstr ""
-"Uitwisseling, delen, onderwijs, dezelfde taal spreken, zoals muziek die "
-"manieren verzacht volgens het gezegde of computertalen, zijn factoren van "
-"vrede. Educode wordt georganiseerd om te informeren, op te voeden, en de "
-"reflectie van alle belanghebbenden te stimuleren in de onderwijswereld, "
-"zoveel leraren, de digitale uitdagingen die de onderneming transformeert. En "
-"alle inhoud is gratis beschikbaar, inclusief het [concert](/ concert)"
-
-#: http://localhost/stream/
-#: (content/stream/contents+fr.lr:details-program.description)
-msgid ""
-"À l'occasion de ce 90è anniversaire, nous voudrions beaucoup que le [concert "
-"Educode à 20h30 UTC+2](/concert), qui sera enregistré en bonne qualité, "
-"monté et streamé, soit projeté dans des salles de spectacles, des cinémas, "
-"des bibliothèques et salles scolaires, des écoles, des hômes de personnes "
-"agées ... bref beaucoup d'endroits dans au moins 63 pays du monde."
-msgstr ""
-"À l'occasion de ce 90è anniversaire, nous voudrions beaucoup que le [concert "
-"Educode à 20h30 UTC+2](/concert), qui sera enregistré en bonne qualité, "
-"monté et streamé, soit projeté dans des salles de spectacles, des cinémas, "
-"des bibliothèques et salles scolaires, des écoles, des hômes de personnes "
-"agées ... bref beaucoup d'endroits dans au moins 63 pays du monde."
-
 #: http://localhost/ (content/contents+fr.lr:page.s_registration)
 msgid "Inscription"
 msgstr "Inscription"
@@ -373,28 +199,9 @@ msgstr "#Contenu"
 msgid "* [Nicolas Pettiaux](/intervenants/nicolas-pettiaux) (10 000 €)"
 msgstr "* [Nicolas Pettiaux](/intervenants/nicolas-pettiaux) (10 000 €)"
 
-#: http://localhost/tickets/
-#: (content/tickets/contents+fr.lr:concert.description)
-msgid "#### Grégoire Blanc et son thérémine"
-msgstr "#### Grégoire Blanc et son thérémine"
-
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "# Comité scientifique et de soutien"
 msgstr "# Comité scientifique et de soutien"
-
-#: http://localhost/faq/
-#: (content/faq/contents+fr.lr:details-program.description)
-msgid ""
-"1. **Q**: L’affluence du stand sera-t-elle uniquement pendant les pauses "
-"repas et cafés du midi et du soir ?"
-msgstr ""
-"1. **Q**: L’affluence du stand sera-t-elle uniquement pendant les pauses "
-"repas et cafés du midi et du soir ?"
-
-#: http://localhost/faq/
-#: (content/faq/contents+fr.lr:details-program.description)
-msgid "<br>"
-msgstr "<br>"
 
 #: http://localhost/dons/
 #: (content/dons/contents+fr.lr:details-program.description)
@@ -421,20 +228,12 @@ msgstr ""
 "- 16h00 à 18h00 : Projection du film **La bataille du libre** suivie d'une "
 "discussion avec son réalisateur, Philippe Borel"
 
-#: http://localhost/exposition/
-#: (content/exposition/contents+fr.lr:details-program.description)
-msgid ""
-"Le lundi 27 août, dans la salle Horta et autour de la salle Henri Lebœuf de "
-"[Bozar](/lieux/bozar), tous les acteurs de l'enseignement autour et par le "
-"numérique qui le souhaitent peuvent participer."
-msgstr ""
-"Le lundi 27 août, dans la salle Horta et autour de la salle Henri Lebœuf de "
-"[Bozar](/lieux/bozar), tous les acteurs de l'enseignement autour et par le "
-"numérique qui le souhaitent peuvent participer."
+#: http://localhost/volontaires/
+#: (content/volontaires/contents+fr.lr:details-program.description)
+msgid "4. dans la mesure du possible, un défraiement financier"
+msgstr "4. dans la mesure du possible, un défraiement financier"
 
 #: http://localhost/ (content/contents+fr.lr:page.s_expo)
-#: http://localhost/exposition/
-#: (content/exposition/contents+fr.lr:details-program.date)
 msgid "Exposition"
 msgstr "Exposition"
 
@@ -508,20 +307,6 @@ msgstr ""
 "commander à leur arrivée des sandwiches pour le midi. Du café, du thé et des "
 "boissons seront mis à disposition."
 
-#: http://localhost/tickets/
-#: (content/tickets/contents+fr.lr:concert.description)
-msgid ""
-"* [Ave Maria - Tomás Luis da Vittoria](https://www.youtube.com/watch?v=2O-"
-"BruIxeaI)"
-msgstr ""
-"* [Ave Maria - Tomás Luis da Vittoria](https://www.youtube.com/watch?v=2O-"
-"BruIxeaI)"
-
-#: http://localhost/intervenants/benoit-naveau/
-#: (content/intervenants/benoit-naveau/contents+fr.lr:speaker.dates)
-msgid "lundi-27-aout, mardi-28-aout"
-msgstr "lundi-27-aout, mardi-28-aout"
-
 #: http://localhost/promotion/
 #: (content/promotion/contents+fr.lr:details-program.description)
 msgid "Cette promotion est effectuée essentiellement grâce aux"
@@ -552,9 +337,10 @@ msgstr "- Yves Robaey (HE2B, co-président)"
 msgid "lundi-27-aout"
 msgstr "lundi-27-aout"
 
-#: (dynamic)
-msgid "conteuse"
-msgstr "conteuse"
+#: http://localhost/dons/
+#: (content/dons/contents+fr.lr:details-program.description)
+msgid "* [Visit.Brussels](/partenaires/visit-brussels) (10 000 €)"
+msgstr "* [Visit.Brussels](/partenaires/visit-brussels) (10 000 €)"
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "#Comité d’organisation"
@@ -576,36 +362,6 @@ msgstr ""
 msgid "asbl"
 msgstr "asbl"
 
-#: http://localhost/stream/
-#: (content/stream/contents+fr.lr:details-program.description)
-msgid ""
-"On Monday, August 27, 2018, we will celebrate exactly 90 years of the "
-"[Kellogg-Briand_Pact](https://en.wikipedia.org/wiki/Briand-Kellogg_Pact), "
-"(or Pact of Paris, officially **General Treaty for Renunciation of War as an "
-"Instrument of National Policy**) is a 1928 international agreement in which "
-"63 signatory states promised not to use war to resolve «_disputes or "
-"conflicts of whatever nature or of whatever origin they may be, which may "
-"arise among them_». Parties failing to abide by this promise \"should be "
-"denied of the benefits furnished by [the] treaty\"."
-msgstr ""
-"On Monday, August 27, 2018, we will celebrate exactly 90 years of the "
-"[Kellogg-Briand_Pact](https://en.wikipedia.org/wiki/Briand-Kellogg_Pact), "
-"(or Pact of Paris, officially **General Treaty for Renunciation of War as an "
-"Instrument of National Policy**) is a 1928 international agreement in which "
-"63 signatory states promised not to use war to resolve «_disputes or "
-"conflicts of whatever nature or of whatever origin they may be, which may "
-"arise among them_». Parties failing to abide by this promise \"should be "
-"denied of the benefits furnished by [the] treaty\"."
-
-#: http://localhost/stream/
-#: (content/stream/contents+fr.lr:details-program.description)
-msgid ""
-"In 2018, there is still war. And it is led by countries that have signed "
-"this pact. Sometimes even, like the USA, who are at the origin of this pact."
-msgstr ""
-"In 2018, there is still war. And it is led by countries that have signed "
-"this pact. Sometimes even, like the USA, who are at the origin of this pact."
-
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid ""
 "- Laurence Bourguignon (Forsud, conseillère pédagogique - formatrice TICE et "
@@ -622,23 +378,11 @@ msgstr "- Erick Mascart"
 msgid "Devenir exposant"
 msgstr "Devenir exposant"
 
-#: http://localhost/tickets/
-#: (content/tickets/contents+fr.lr:concert.description)
-msgid ""
-"* [Agnus Dei (Marc Henric)](https://www.youtube.com/watch?v=L-P5AAa6wZ0)"
-msgstr ""
-"* [Agnus Dei (Marc Henric)](https://www.youtube.com/watch?v=L-P5AAa6wZ0)"
-
 #: http://localhost/ (content/contents+fr.lr:page.about)
 msgid ""
 "Pour plus d'information et la préinscription, voir http://wiki.educode.be"
 msgstr ""
 "Pour plus d'information et la préinscription, voir http://wiki.educode.be"
-
-#: http://localhost/exposition/
-#: (content/exposition/contents+fr.lr:details-program.description)
-msgid "Revenez bientôt ici pour découvrir tous les exposants."
-msgstr "Revenez bientôt ici pour découvrir tous les exposants."
 
 #: http://localhost/ (content/contents+fr.lr:page.s_our_partners)
 msgid "Nos partenaires"
@@ -671,15 +415,6 @@ msgid ""
 msgstr ""
 "- 15h00 à 15h30 : Conférence par Françoise Bols (HE2B et ULiège) : Enseigner "
 "le numérique et l'informatique en haute école : défis et opportunités"
-
-#: http://localhost/tickets/
-#: (content/tickets/contents+fr.lr:concert.description)
-msgid ""
-"* [La Quête (Jacques Brel)](https://www.youtube.com/watch?"
-"v=22lU2C473GQ&list=UUlavALPTGaPcQKZbciJrICA&index=4)"
-msgstr ""
-"* [La Quête (Jacques Brel)](https://www.youtube.com/watch?"
-"v=22lU2C473GQ&list=UUlavALPTGaPcQKZbciJrICA&index=4)"
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "L’évènement comporte 3 parties pour 4 publics :"
@@ -729,11 +464,6 @@ msgstr ""
 "seront installés dans des locaux de séminaires, et les participants seront "
 "invités à venir avec leurs portables)"
 
-#: http://localhost/volontaires/
-#: (content/volontaires/contents+fr.lr:details-program.description)
-msgid "4. dans la mesure du possible, un défraiement financier"
-msgstr "4. dans la mesure du possible, un défraiement financier"
-
 #: http://localhost/ (content/contents+fr.lr:page.about)
 msgid ""
 "En particulier, vous pouvez faire des dons <script src=\"https://liberapay."
@@ -745,11 +475,6 @@ msgstr ""
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "- Erick Mascart (Forsub, conseiller pédagogique et formateur)"
 msgstr "- Erick Mascart (Forsub, conseiller pédagogique et formateur)"
-
-#: http://localhost/dons/
-#: (content/dons/contents+fr.lr:details-program.description)
-msgid "* [emakina](/partenaires/emakina) (5000 €)"
-msgstr "* [emakina](/partenaires/emakina) (5000 €)"
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "- Olivier Goletti (Ulouvain & SIcarre, chercheur)"
@@ -765,9 +490,10 @@ msgstr "Contact"
 msgid "Beaucoup participent à l'[exposition](/exposition) ."
 msgstr "Beaucoup participent à l'[exposition](/exposition) ."
 
-#: (dynamic)
-msgid "violoncelle"
-msgstr "violoncelle"
+#: http://localhost/concert/
+#: (content/concert/contents+fr.lr:concert.description)
+msgid "Sans cocktail : 25€ / 18€ (étudiant) / 12€ (sans emploi)"
+msgstr "Sans cocktail : 25€ / 18€ (étudiant) / 12€ (sans emploi)"
 
 #: http://localhost/promotion/
 #: (content/promotion/contents+fr.lr:details-program.date)
@@ -889,20 +615,15 @@ msgstr "- Prof Bernard Rentier (Uliège, ancien recteur)"
 msgid "* partenaires médias"
 msgstr "* partenaires médias"
 
-#: http://localhost/concert/
-#: (content/concert/contents+fr.lr:concert.description)
-msgid "Sans cocktail : 25€ / 18€ (étudiant) / 12€ (sans emploi)"
-msgstr "Sans cocktail : 25€ / 18€ (étudiant) / 12€ (sans emploi)"
+#: http://localhost/dons/
+#: (content/dons/contents+fr.lr:details-program.description)
+msgid "* [emakina](/partenaires/emakina) (5000 €)"
+msgstr "* [emakina](/partenaires/emakina) (5000 €)"
 
 #: http://localhost/volontaires/
 #: (content/volontaires/contents+fr.lr:details-program.description)
 msgid "Pour remercier les bénévoles, ils reçoivent"
 msgstr "Pour remercier les bénévoles, ils reçoivent"
-
-#: http://localhost/intervenants/colin-de-la-higuera/
-#: (content/intervenants/colin-de-la-higuera/contents+fr.lr:speaker.dates)
-msgid "mercredi-29-aout"
-msgstr "mercredi-29-aout"
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid ""
@@ -930,24 +651,10 @@ msgstr ""
 "la conférence, présenteront leurs réalisations dans l'[exposition](/"
 "exposition)."
 
-#: http://localhost/faq/
-#: (content/faq/contents+fr.lr:details-program.description)
-msgid ""
-"**R**: Nous allons essayer que l'affluence soit essentiellement durant les "
-"pauses café du matin et de l'après-midi et durant les pauses café de midi et "
-"du soir pour que les visiteurs suivent les conférences, la table-ronde et le "
-"spectacle. Les pauses ont été prévues assez longues pour permettre de bons "
-"échanges. Si certains veulent poursuivre les discussions entreprises durant "
-"ces pauses, nous demanderons de ne plus rentrer dans la salle pour ne pas "
-"déranger."
-msgstr ""
-"**R**: Nous allons essayer que l'affluence soit essentiellement durant les "
-"pauses café du matin et de l'après-midi et durant les pauses café de midi et "
-"du soir pour que les visiteurs suivent les conférences, la table-ronde et le "
-"spectacle. Les pauses ont été prévues assez longues pour permettre de bons "
-"échanges. Si certains veulent poursuivre les discussions entreprises durant "
-"ces pauses, nous demanderons de ne plus rentrer dans la salle pour ne pas "
-"déranger."
+#: http://localhost/intervenants/benoit-naveau/
+#: (content/intervenants/benoit-naveau/contents+fr.lr:speaker.dates)
+msgid "lundi-27-aout, mardi-28-aout"
+msgstr "lundi-27-aout, mardi-28-aout"
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "- Prof Bibiana Boccolini (Université de Rosario, Argentine)"
@@ -963,24 +670,6 @@ msgstr ""
 "Logiciel_libre) multiplateforme et multilingue [Lektor](https://getlektor."
 "com)."
 
-#: http://localhost/tickets/
-#: (content/tickets/contents+fr.lr:concert.description)
-msgid ""
-"####Achetez les tickets [ici](http://brussel.iticketsro.com/Bozar/search/"
-"EDUCODE)"
-msgstr ""
-"####Achetez les tickets [ici](http://brussel.iticketsro.com/Bozar/search/"
-"EDUCODE)"
-
-#: http://localhost/tickets/
-#: (content/tickets/contents+fr.lr:concert.description)
-msgid "#### Mélopée, chœur de filles"
-msgstr "#### Mélopée, chœur de filles"
-
-#: (dynamic)
-msgid "percussion"
-msgstr "percussion"
-
 #: http://localhost/concert/ (content/concert/contents+fr.lr:concert.title)
 msgid "Concert Festif Educode"
 msgstr "Concert Festif Educode"
@@ -989,15 +678,10 @@ msgstr "Concert Festif Educode"
 msgid "Hôtels"
 msgstr "Hôtels"
 
-#: http://localhost/tickets/
-#: (content/tickets/contents+fr.lr:concert.description)
-msgid "#### Écouter pour connaître"
-msgstr "#### Écouter pour connaître"
-
-#: http://localhost/faq/
-#: (content/faq/contents+fr.lr:details-program.description)
-msgid "##Mercredi 29 août - échanges sur les pratiques et expériences"
-msgstr "##Mercredi 29 août - échanges sur les pratiques et expériences"
+#: http://localhost/intervenants/colin-de-la-higuera/
+#: (content/intervenants/colin-de-la-higuera/contents+fr.lr:speaker.dates)
+msgid "mercredi-29-aout"
+msgstr "mercredi-29-aout"
 
 #: http://localhost/promotion/
 #: (content/promotion/contents+fr.lr:details-program.description)
@@ -1028,10 +712,6 @@ msgid ""
 msgstr ""
 "Par exemple, pour une suggestion ou un commentaire, merci  de remplir le "
 "[formulaire](https://github.com/EduCodeBe/educode.be/issues/new)"
-
-#: (dynamic)
-msgid "Avec"
-msgstr "Avec"
 
 #: http://localhost/asbl/
 #: (content/asbl/contents+fr.lr:details-program.description)
@@ -1075,24 +755,6 @@ msgstr ""
 "2. une invitation au [concert du lundi 27 août à 20h30](http://educode.be/"
 "concert)"
 
-#: http://localhost/faq/
-#: (content/faq/contents+fr.lr:details-program.description)
-msgid ""
-"2. **Q**: Quand est-il possible d'installer et de démonter les stands du "
-"_marché_ ?"
-msgstr ""
-"2. **Q**: Quand est-il possible d'installer et de démonter les stands du "
-"_marché_ ?"
-
-#: http://localhost/tickets/
-#: (content/tickets/contents+fr.lr:concert.description)
-msgid ""
-"* [Halvorsen - Chant de Veslemøy](https://www.youtube.com/watch?"
-"v=smaG6QZPUh0) (version avec piano, au concert, ce sera avec orchestre)"
-msgstr ""
-"* [Halvorsen - Chant de Veslemøy](https://www.youtube.com/watch?"
-"v=smaG6QZPUh0) (version avec piano, au concert, ce sera avec orchestre)"
-
 #: http://localhost/ (content/contents+fr.lr:page.s_intro_dates)
 msgid "27 septembre 2019"
 msgstr "27 septembre 2019"
@@ -1106,34 +768,9 @@ msgstr "- Denis Matagne (HE2B-Defré, directeur)"
 msgid "3. la nourriture et des boissons"
 msgstr "3. la nourriture et des boissons"
 
-#: http://localhost/faq/
-#: (content/faq/contents+fr.lr:details-program.description)
-msgid "##Lundi 27 août - stands - « exposition - marché »"
-msgstr "##Lundi 27 août - stands - « exposition - marché »"
-
 #: http://localhost/ (content/contents+fr.lr:page.s_thursday)
 msgid "Jeudi"
 msgstr "Jeudi"
-
-#: http://localhost/stream/
-#: (content/stream/contents+fr.lr:details-program.description)
-msgid ""
-"En 2018, il y a toujours la guerre. Et celle-ci est menée par des pays qui "
-"ont signé ce pacte. Parfois même, comme les USA, qui sont à l'origine de ce "
-"pacte."
-msgstr ""
-"En 2018, il y a toujours la guerre. Et celle-ci est menée par des pays qui "
-"ont signé ce pacte. Parfois même, comme les USA, qui sont à l'origine de ce "
-"pacte."
-
-#: http://localhost/tickets/
-#: (content/tickets/contents+fr.lr:concert.description)
-msgid ""
-"* [Vois sur ton chemin](https://www.youtube.com/watch?v=nQOpPHnzmxk) "
-"(extrait du film 'Les Choristes' / Bruno Coulais)"
-msgstr ""
-"* [Vois sur ton chemin](https://www.youtube.com/watch?v=nQOpPHnzmxk) "
-"(extrait du film 'Les Choristes' / Bruno Coulais)"
 
 #: http://localhost/asbl/
 #: (content/asbl/contents+fr.lr:details-program.description)
@@ -1161,20 +798,6 @@ msgstr "* rollups"
 #: (content/concert/contents+fr.lr:concert.description)
 msgid "Avec cocktail : 50€ / 43€ (étudiant) / 30€ (sans emploi)"
 msgstr "Avec cocktail : 50€ / 43€ (étudiant) / 30€ (sans emploi)"
-
-#: http://localhost/tickets/
-#: (content/tickets/contents+fr.lr:concert.description)
-msgid "#### Vox Anima, chœur d'adultes"
-msgstr "#### Vox Anima, chœur d'adultes"
-
-#: http://localhost/tickets/
-#: (content/tickets/contents+fr.lr:concert.description)
-msgid ""
-"* [Utae ban ban](https://www.youtube.com/watch?v=PAzBcygZ1dU) (populaire "
-"japonais)"
-msgstr ""
-"* [Utae ban ban](https://www.youtube.com/watch?v=PAzBcygZ1dU) (populaire "
-"japonais)"
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid ""
@@ -1207,30 +830,6 @@ msgstr "Lieux"
 msgid "#Comité de programme"
 msgstr "#Comité de programme"
 
-#: http://localhost/tickets/
-#: (content/tickets/contents+fr.lr:concert.description)
-msgid ""
-"* [Cirandeiro](https://www.youtube.com/watch?v=ywUBc-sul2c) (populaire "
-"brésilien)"
-msgstr ""
-"* [Cirandeiro](https://www.youtube.com/watch?v=ywUBc-sul2c) (populaire "
-"brésilien)"
-
-#: http://localhost/stream/
-#: (content/stream/contents+fr.lr:details-program.description)
-msgid ""
-"Le lundi 27 août 2018, nous fêterons exactement les 90 ans du [pacte Briand-"
-"Kellogg](https://fr.wikipedia.org/wiki/Pacte_Briand-Kellogg), ou pacte de "
-"Paris, un traité signé par soixante-trois pays qui « condamnent le recours à "
-"la guerre pour le règlement des différends internationaux et y renoncent en "
-"tant qu'instrument de politique nationale dans leurs relations mutuelles »."
-msgstr ""
-"Le lundi 27 août 2018, nous fêterons exactement les 90 ans du [pacte Briand-"
-"Kellogg](https://fr.wikipedia.org/wiki/Pacte_Briand-Kellogg), ou pacte de "
-"Paris, un traité signé par soixante-trois pays qui « condamnent le recours à "
-"la guerre pour le règlement des différends internationaux et y renoncent en "
-"tant qu'instrument de politique nationale dans leurs relations mutuelles »."
-
 #: http://localhost/ (content/contents+fr.lr:page.submissions_text)
 msgid ""
 "Les propositions d'ateliers devraient être entrées pour le 10 aout 2019 dans "
@@ -1239,72 +838,20 @@ msgstr ""
 "Les propositions d'ateliers devraient être entrées pour le 10 aout 2019 dans "
 "http://wiki.educode.be"
 
-#: http://localhost/tickets/
-#: (content/tickets/contents+fr.lr:concert.description)
-msgid ""
-"Vous trouverez ci-dessous quelques morceaux que les chœurs et autres "
-"artistes qui donneront le concert joueront"
-msgstr ""
-"Vous trouverez ci-dessous quelques morceaux que les chœurs et autres "
-"artistes qui donneront le concert joueront"
-
-#: http://localhost/faq/
-#: (content/faq/contents+fr.lr:details-program.description)
-msgid "# Questions fréquentes"
-msgstr "# Questions fréquentes"
-
-#: http://localhost/stream/
-#: (content/stream/contents+fr.lr:details-program.description)
-msgid ""
-"On August 27, 2018, we, the @educode_belgium international conference at "
-"8h30 UTC+2 we shall broadcast freely a"
-msgstr ""
-"On August 27, 2018, we, the @educode_belgium international conference at "
-"8h30 UTC+2 we shall broadcast freely a"
+#: http://localhost/intervenants/georges-khaznadar/
+#: (content/intervenants/georges-khaznadar/contents+fr.lr:speaker.dates)
+#: http://localhost/intervenants/francoise-bols/
+#: (content/intervenants/francoise-bols/contents+fr.lr:speaker.dates)
+msgid "mardi-28-aout"
+msgstr "mardi-28-aout"
 
 #: http://localhost/ (content/contents+fr.lr:page.s_monday)
 msgid "Lundi"
 msgstr "Lundi"
 
-#: (dynamic)
-msgid "clarinette"
-msgstr "clarinette"
-
-#: http://localhost/tickets/
-#: (content/tickets/contents+fr.lr:concert.description)
-msgid ""
-"* [Jubilate (Benedictus sit Deus) - W. A. Mozart](https://www.youtube.com/"
-"watch?v=BYKdWIf1Hqk)"
-msgstr ""
-"* [Jubilate (Benedictus sit Deus) - W. A. Mozart](https://www.youtube.com/"
-"watch?v=BYKdWIf1Hqk)"
-
-#: http://localhost/stream/
-#: (content/stream/contents+fr.lr:details-program.description)
-msgid "#Streamen en tonen van het concert (nl)"
-msgstr "#Streamen en tonen van het concert (nl)"
-
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "- Dr Nicolas Pettiaux (ESI-HE2B & ULB-Lisa, maître-assistant)"
 msgstr "- Dr Nicolas Pettiaux (ESI-HE2B & ULB-Lisa, maître-assistant)"
-
-#: http://localhost/dons/ (content/dons/contents+fr.lr:details-program.date)
-msgid "Dons"
-msgstr "Dons"
-
-#: http://localhost/tickets/
-#: (content/tickets/contents+fr.lr:concert.description)
-msgid ""
-"* [Skyfall (Adèle)](https://www.youtube.com/watch?"
-"v=HUVtOUgzmGI&index=17&list=UUlavALPTGaPcQKZbciJrICA)"
-msgstr ""
-"* [Skyfall (Adèle)](https://www.youtube.com/watch?"
-"v=HUVtOUgzmGI&index=17&list=UUlavALPTGaPcQKZbciJrICA)"
-
-#: http://localhost/stream/
-#: (content/stream/contents+fr.lr:details-program.date)
-msgid "stream"
-msgstr "stream"
 
 #: http://localhost/volontaires/
 #: (content/volontaires/contents+fr.lr:details-program.description)
@@ -1314,21 +861,6 @@ msgstr "1. l'accès gratuit aux activités qu'ils participent à encadrer,"
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "#Objectifs"
 msgstr "#Objectifs"
-
-#: http://localhost/stream/
-#: (content/stream/contents+fr.lr:details-program.description)
-msgid ""
-"On the occasion of this 90th anniversary, we would very much like the "
-"[Educode Concert at 20:30 UTC + 2](/ concert), which will be recorded in "
-"good quality, edited and streamed, to be screened in theaters, cinemas, "
-"libraries and classrooms, schools, seniors' homes ... in short, many places "
-"in at least 63 countries around the world."
-msgstr ""
-"On the occasion of this 90th anniversary, we would very much like the "
-"[Educode Concert at 20:30 UTC + 2](/ concert), which will be recorded in "
-"good quality, edited and streamed, to be screened in theaters, cinemas, "
-"libraries and classrooms, schools, seniors' homes ... in short, many places "
-"in at least 63 countries around the world."
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid ""
@@ -1352,17 +884,6 @@ msgstr "Exposer et tenir un stand"
 msgid "#Contact"
 msgstr "#Contact"
 
-#: http://localhost/stream/
-#: (content/stream/contents+fr.lr:details-program.description)
-msgid ""
-"Pourrez-vous nous aider à organiser de telles projections. Si oui, merci "
-"d'écrire à [aider@educode.be](mailto:aider@educode.be?suject=I want to help "
-"with the projection of the concert)."
-msgstr ""
-"Pourrez-vous nous aider à organiser de telles projections. Si oui, merci "
-"d'écrire à [aider@educode.be](mailto:aider@educode.be?suject=I want to help "
-"with the projection of the concert)."
-
 #: http://localhost/concert/
 #: (content/concert/contents+fr.lr:concert.description)
 msgid "####Prix"
@@ -1372,10 +893,6 @@ msgstr "####Prix"
 #: (content/dons/contents+fr.lr:details-program.description)
 msgid "##Dons"
 msgstr "##Dons"
-
-#: http://localhost/tickets/ (content/tickets/contents+fr.lr:concert.title)
-msgid "Concert Bozar"
-msgstr "Concert Bozar"
 
 #: http://localhost/ (content/contents+fr.lr:page.title)
 msgid "Bienvenue à EduCode"
@@ -1401,23 +918,6 @@ msgstr "- Julie Henry (UNamur, chercheuse)"
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "- Françoise Bols"
 msgstr "- Françoise Bols"
-
-#: http://localhost/stream/
-#: (content/stream/contents+fr.lr:details-program.description)
-msgid ""
-"Exchange, sharing, education, speaking the same language, like music that "
-"softens manners according to the saying or computer languages, are factors "
-"of peace. Educode is organized to inform, train, and spark the reflection of "
-"all the world's educational stakeholders, so many teachers, to the "
-"challenges of the digital that is transforming the Society. And all content "
-"will be freely available, free of charge, including the [concert](/ concert)"
-msgstr ""
-"Exchange, sharing, education, speaking the same language, like music that "
-"softens manners according to the saying or computer languages, are factors "
-"of peace. Educode is organized to inform, train, and spark the reflection of "
-"all the world's educational stakeholders, so many teachers, to the "
-"challenges of the digital that is transforming the Society. And all content "
-"will be freely available, free of charge, including the [concert](/ concert)"
 
 #: http://localhost/ (content/contents+fr.lr:page.press_text)
 msgid ""
@@ -1488,17 +988,6 @@ msgstr ""
 "organisées avec le soutien de IFC pour être  reconnues par elles comme "
 "journées de formation continue obligatoires pour les enseignants."
 
-#: http://localhost/stream/
-#: (content/stream/contents+fr.lr:details-program.description)
-msgid ""
-"In 2018 is er nog steeds oorlog. En het wordt geleid door landen die dit "
-"pact hebben ondertekend. Soms zelfs, zoals de VS, die aan de basis liggen "
-"van dit pact."
-msgstr ""
-"In 2018 is er nog steeds oorlog. En het wordt geleid door landen die dit "
-"pact hebben ondertekend. Soms zelfs, zoals de VS, die aan de basis liggen "
-"van dit pact."
-
 #: http://localhost/dons/
 #: (content/dons/contents+fr.lr:details-program.description)
 msgid ""
@@ -1520,22 +1009,9 @@ msgstr ""
 "L'organisation de cette conférence est essentiellement *bénévole*. _Toute "
 "aide et tout soutien sont les bienvenus_."
 
-#: (dynamic)
-msgid "Le carnaval des animaux"
-msgstr "Le carnaval des animaux"
-
-#: (dynamic)
-msgid "flûte"
-msgstr "flûte"
-
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "- Georges Khaznadar (Lycée Jean Bart, Dunkerque)"
 msgstr "- Georges Khaznadar (Lycée Jean Bart, Dunkerque)"
-
-#: http://localhost/dons/
-#: (content/dons/contents+fr.lr:details-program.description)
-msgid "* [Visit.Brussels](/partenaires/visit-brussels) (10 000 €)"
-msgstr "* [Visit.Brussels](/partenaires/visit-brussels) (10 000 €)"
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid ""
@@ -1573,37 +1049,15 @@ msgstr ""
 "des membres du comité d'organisation de la conférence, encadrent des "
 "ateliers..."
 
-#: (dynamic)
-msgid ""
-"Dans la salle gothique de l'hôtel de ville de Bruxelles, à la Grand-Place, "
-"lundi 7 octobre 2019 de 19h à 20h30 avec cocktail dinatoire."
-msgstr ""
-"Dans la salle gothique de l'hôtel de ville de Bruxelles, à la Grand-Place, "
-"lundi 7 octobre 2019 de 19h à 20h30 avec cocktail dinatoire."
-
 #: http://localhost/asbl/
 #: (content/asbl/contents+fr.lr:details-program.description)
 msgid "* Compte BNP Paribas Fortis BE73 0018 3913 5760"
 msgstr "* Compte BNP Paribas Fortis BE73 0018 3913 5760"
 
-#: http://localhost/tickets/
-#: (content/tickets/contents+fr.lr:concert.description)
-msgid ""
-"* [Saint-Saens - Havanaise](https://www.youtube.com/watch?v=zivKTJBVcfQ) "
-"(morceau classique joué par Floris à un concours)"
-msgstr ""
-"* [Saint-Saens - Havanaise](https://www.youtube.com/watch?v=zivKTJBVcfQ) "
-"(morceau classique joué par Floris à un concours)"
-
 #: http://localhost/promotion/
 #: (content/promotion/contents+fr.lr:details-program.description)
 msgid "* affiches"
 msgstr "* affiches"
-
-#: http://localhost/tickets/
-#: (content/tickets/contents+fr.lr:concert.description)
-msgid "#### Les petits chanteurs du Collège Saint-Pierre, chœur de garçons"
-msgstr "#### Les petits chanteurs du Collège Saint-Pierre, chœur de garçons"
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid ""
@@ -1634,21 +1088,6 @@ msgstr "mai"
 msgid "* [Music3](https://www.rtbf.be/musiq3/)"
 msgstr "* [Music3](https://www.rtbf.be/musiq3/)"
 
-#: http://localhost/stream/
-#: (content/stream/contents+fr.lr:details-program.description)
-msgid ""
-"Naar aanleiding van deze 90 jaar, willen we ten zeerste dat de [Educode "
-"concert om 20:30 GMT + 2](/ concert), die wordt opgenomen in hoogwaardige, "
-"bewerkt en gestreamd of geprojecteerd in theaters, bioscopen, bibliotheken "
-"en klaslokalen, scholen, seniorenhuizen ... kortom, veel plaatsen in "
-"minstens 63 landen over de hele wereld."
-msgstr ""
-"Naar aanleiding van deze 90 jaar, willen we ten zeerste dat de [Educode "
-"concert om 20:30 GMT + 2](/ concert), die wordt opgenomen in hoogwaardige, "
-"bewerkt en gestreamd of geprojecteerd in theaters, bioscopen, bibliotheken "
-"en klaslokalen, scholen, seniorenhuizen ... kortom, veel plaatsen in "
-"minstens 63 landen over de hele wereld."
-
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid ""
 "1. Des conférences, ateliers et expositions destinés essentiellement aux "
@@ -1672,41 +1111,17 @@ msgid ""
 msgstr ""
 "3. Une conférence et des activités dédiées aux directeurs d’établissement"
 
-#: http://localhost/stream/
-#: (content/stream/contents+fr.lr:details-program.description)
-msgid "#Streamer et projeter le concert (fr)"
-msgstr "#Streamer et projeter le concert (fr)"
-
 #: http://localhost/ (content/contents+fr.lr:page.s_propose_atelier)
 msgid "Proposer un atelier"
 msgstr "Proposer un atelier"
-
-#: http://localhost/stream/
-#: (content/stream/contents+fr.lr:details-program.description)
-msgid "#Streaming and projection of the concert (en)"
-msgstr "#Streaming and projection of the concert (en)"
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "- Prof Hugues Bersini (ULB)"
 msgstr "- Prof Hugues Bersini (ULB)"
 
-#: http://localhost/tickets/
-#: (content/tickets/contents+fr.lr:concert.description)
-msgid ""
-"* [Caprice de Paganini - Floris and the Flames](https://www.youtube.com/"
-"watch?v=r-vh0ELke3w)"
-msgstr ""
-"* [Caprice de Paganini - Floris and the Flames](https://www.youtube.com/"
-"watch?v=r-vh0ELke3w)"
-
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "- Karin Van Loon (HE2B-ISIB, directrice)"
 msgstr "- Karin Van Loon (HE2B-ISIB, directrice)"
-
-#: http://localhost/tickets/
-#: (content/tickets/contents+fr.lr:concert.description)
-msgid "#### Floris Willems"
-msgstr "#### Floris Willems"
 
 #: http://localhost/ (content/contents+fr.lr:page.s_thuesday)
 msgid "Mardi"
@@ -1742,15 +1157,6 @@ msgstr ""
 "\"Donate using Liberapay\" src=\"https://liberapay.com/assets/widgets/donate."
 "svg\"></a></noscript>"
 
-#: http://localhost/tickets/
-#: (content/tickets/contents+fr.lr:concert.description)
-msgid ""
-"Des réductions existent pour plusieurs publics, jeunes, [amis de Bozar]"
-"(https://www.bozar.be/fr/static-pages/54534-bozar-friends) ..."
-msgstr ""
-"Des réductions existent pour plusieurs publics, jeunes, [amis de Bozar]"
-"(https://www.bozar.be/fr/static-pages/54534-bozar-friends) ..."
-
 #: http://localhost/ (content/contents+fr.lr:page.baseline)
 msgid ""
 "Une conférence internationale pour informer, former et susciter l'intérêt de "
@@ -1758,6 +1164,492 @@ msgid ""
 msgstr ""
 "Une conférence internationale pour informer, former et susciter l'intérêt de "
 "tous les acteurs de l'enseignement aux défis du numérique."
+
+#: templates/concert.html:12
+msgid "Concert festif exceptionnel"
+msgstr "Concert festif exceptionnel"
+
+#: templates/concert.html:14
+msgid ""
+"Dans la salle gothique de l'hôtel de ville de Bruxelles, à la Grand-Place, "
+"lundi 7 octobre 2019 de 19h à 20h30 avec cocktail dinatoire."
+msgstr ""
+"Dans la salle gothique de l'hôtel de ville de Bruxelles, à la Grand-Place, "
+"lundi 7 octobre 2019 de 19h à 20h30 avec cocktail dinatoire."
+
+#: templates/concert.html:18
+msgid "Le carnaval des animaux"
+msgstr "Le carnaval des animaux"
+
+#: templates/concert.html:19
+msgid "de"
+msgstr "de"
+
+#: templates/concert.html:21
+msgid "Avec"
+msgstr "Avec"
+
+#: templates/concert.html:23
+msgid "flûte"
+msgstr "flûte"
+
+#: templates/concert.html:24
+msgid "clarinette"
+msgstr "clarinette"
+
+#: templates/concert.html:25 templates/concert.html:26
+msgid "violon"
+msgstr "violon"
+
+#: templates/concert.html:27
+msgid "alto"
+msgstr "alto"
+
+#: templates/concert.html:28
+msgid "violoncelle"
+msgstr "violoncelle"
+
+#: templates/concert.html:29
+msgid "contrebasse"
+msgstr "contrebasse"
+
+#: templates/concert.html:30 templates/concert.html:31
+msgid "piano"
+msgstr "piano"
+
+#: templates/concert.html:32
+msgid "percussion"
+msgstr "percussion"
+
+#: templates/concert.html:33
+msgid "conteuse"
+msgstr "conteuse"
+
+#~ msgid ""
+#~ "* [Nova Radit Stala (Noël ukrainien)](https://www.youtube.com/watch?"
+#~ "v=OwJoBZeUjxg&list=UUlavALPTGaPcQKZbciJrICA&index=18)"
+#~ msgstr ""
+#~ "* [Nova Radit Stala (Noël ukrainien)](https://www.youtube.com/watch?"
+#~ "v=OwJoBZeUjxg&list=UUlavALPTGaPcQKZbciJrICA&index=18)"
+
+#~ msgid ""
+#~ "* [Grégoire Blanc et Laurent Beeckmans (piano)](/concert/) dans _Chant du "
+#~ "Cygne Noir_ de Villa-Lobos (compositeur brésilien)"
+#~ msgstr ""
+#~ "* [Grégoire Blanc et Laurent Beeckmans (piano)](/concert/) dans _Chant du "
+#~ "Cygne Noir_ de Villa-Lobos (compositeur brésilien)"
+
+#~ msgid "#### Vox Anima, chœur d'adultes"
+#~ msgstr "#### Vox Anima, chœur d'adultes"
+
+#~ msgid ""
+#~ "* [Grégoire Blanc - Clair de Lune de Debussy](https://www.youtube.com/"
+#~ "watch?v=PjnaciNT-wQ)"
+#~ msgstr ""
+#~ "* [Grégoire Blanc - Clair de Lune de Debussy](https://www.youtube.com/"
+#~ "watch?v=PjnaciNT-wQ)"
+
+#~ msgid "#### Grégoire Blanc et son thérémine"
+#~ msgstr "#### Grégoire Blanc et son thérémine"
+
+#~ msgid ""
+#~ "* [Ave Maria - Tomás Luis da Vittoria](https://www.youtube.com/watch?v=2O-"
+#~ "BruIxeaI)"
+#~ msgstr ""
+#~ "* [Ave Maria - Tomás Luis da Vittoria](https://www.youtube.com/watch?v=2O-"
+#~ "BruIxeaI)"
+
+#~ msgid ""
+#~ "* [Agnus Dei (Marc Henric)](https://www.youtube.com/watch?v=L-P5AAa6wZ0)"
+#~ msgstr ""
+#~ "* [Agnus Dei (Marc Henric)](https://www.youtube.com/watch?v=L-P5AAa6wZ0)"
+
+#~ msgid ""
+#~ "* [La Quête (Jacques Brel)](https://www.youtube.com/watch?"
+#~ "v=22lU2C473GQ&list=UUlavALPTGaPcQKZbciJrICA&index=4)"
+#~ msgstr ""
+#~ "* [La Quête (Jacques Brel)](https://www.youtube.com/watch?"
+#~ "v=22lU2C473GQ&list=UUlavALPTGaPcQKZbciJrICA&index=4)"
+
+#~ msgid ""
+#~ "* [Utae ban ban](https://www.youtube.com/watch?v=PAzBcygZ1dU) (populaire "
+#~ "japonais)"
+#~ msgstr ""
+#~ "* [Utae ban ban](https://www.youtube.com/watch?v=PAzBcygZ1dU) (populaire "
+#~ "japonais)"
+
+#~ msgid ""
+#~ "####Achetez les tickets [ici](http://brussel.iticketsro.com/Bozar/search/"
+#~ "EDUCODE)"
+#~ msgstr ""
+#~ "####Achetez les tickets [ici](http://brussel.iticketsro.com/Bozar/search/"
+#~ "EDUCODE)"
+
+#~ msgid "#### Mélopée, chœur de filles"
+#~ msgstr "#### Mélopée, chœur de filles"
+
+#~ msgid "#### Écouter pour connaître"
+#~ msgstr "#### Écouter pour connaître"
+
+#~ msgid ""
+#~ "* [Halvorsen - Chant de Veslemøy](https://www.youtube.com/watch?"
+#~ "v=smaG6QZPUh0) (version avec piano, au concert, ce sera avec orchestre)"
+#~ msgstr ""
+#~ "* [Halvorsen - Chant de Veslemøy](https://www.youtube.com/watch?"
+#~ "v=smaG6QZPUh0) (version avec piano, au concert, ce sera avec orchestre)"
+
+#~ msgid ""
+#~ "* [Vois sur ton chemin](https://www.youtube.com/watch?v=nQOpPHnzmxk) "
+#~ "(extrait du film 'Les Choristes' / Bruno Coulais)"
+#~ msgstr ""
+#~ "* [Vois sur ton chemin](https://www.youtube.com/watch?v=nQOpPHnzmxk) "
+#~ "(extrait du film 'Les Choristes' / Bruno Coulais)"
+
+#~ msgid ""
+#~ "* [Cirandeiro](https://www.youtube.com/watch?v=ywUBc-sul2c) (populaire "
+#~ "brésilien)"
+#~ msgstr ""
+#~ "* [Cirandeiro](https://www.youtube.com/watch?v=ywUBc-sul2c) (populaire "
+#~ "brésilien)"
+
+#~ msgid ""
+#~ "Vous trouverez ci-dessous quelques morceaux que les chœurs et autres "
+#~ "artistes qui donneront le concert joueront"
+#~ msgstr ""
+#~ "Vous trouverez ci-dessous quelques morceaux que les chœurs et autres "
+#~ "artistes qui donneront le concert joueront"
+
+#~ msgid ""
+#~ "* [Jubilate (Benedictus sit Deus) - W. A. Mozart](https://www.youtube.com/"
+#~ "watch?v=BYKdWIf1Hqk)"
+#~ msgstr ""
+#~ "* [Jubilate (Benedictus sit Deus) - W. A. Mozart](https://www.youtube.com/"
+#~ "watch?v=BYKdWIf1Hqk)"
+
+#~ msgid ""
+#~ "* [Skyfall (Adèle)](https://www.youtube.com/watch?"
+#~ "v=HUVtOUgzmGI&index=17&list=UUlavALPTGaPcQKZbciJrICA)"
+#~ msgstr ""
+#~ "* [Skyfall (Adèle)](https://www.youtube.com/watch?"
+#~ "v=HUVtOUgzmGI&index=17&list=UUlavALPTGaPcQKZbciJrICA)"
+
+#~ msgid "Concert Bozar"
+#~ msgstr "Concert Bozar"
+
+#~ msgid ""
+#~ "* [Saint-Saens - Havanaise](https://www.youtube.com/watch?v=zivKTJBVcfQ) "
+#~ "(morceau classique joué par Floris à un concours)"
+#~ msgstr ""
+#~ "* [Saint-Saens - Havanaise](https://www.youtube.com/watch?v=zivKTJBVcfQ) "
+#~ "(morceau classique joué par Floris à un concours)"
+
+#~ msgid "#### Les petits chanteurs du Collège Saint-Pierre, chœur de garçons"
+#~ msgstr "#### Les petits chanteurs du Collège Saint-Pierre, chœur de garçons"
+
+#~ msgid ""
+#~ "* [Caprice de Paganini - Floris and the Flames](https://www.youtube.com/"
+#~ "watch?v=r-vh0ELke3w)"
+#~ msgstr ""
+#~ "* [Caprice de Paganini - Floris and the Flames](https://www.youtube.com/"
+#~ "watch?v=r-vh0ELke3w)"
+
+#~ msgid "#### Floris Willems"
+#~ msgstr "#### Floris Willems"
+
+#~ msgid ""
+#~ "Des réductions existent pour plusieurs publics, jeunes, [amis de Bozar]"
+#~ "(https://www.bozar.be/fr/static-pages/54534-bozar-friends) ..."
+#~ msgstr ""
+#~ "Des réductions existent pour plusieurs publics, jeunes, [amis de Bozar]"
+#~ "(https://www.bozar.be/fr/static-pages/54534-bozar-friends) ..."
+
+#~ msgid ""
+#~ "Can you help us organize such projections? If yes, please write to "
+#~ "[aide@educode.be](mailto: aider@educode.be?subject=I want to help with "
+#~ "the projection of the concert in ...)."
+#~ msgstr ""
+#~ "Can you help us organize such projections? If yes, please write to "
+#~ "[aide@educode.be](mailto: aider@educode.be?subject=I want to help with "
+#~ "the projection of the concert in ...)."
+
+#~ msgid ""
+#~ "Kun je ons helpen dergelijke projecties te organiseren? Als dat zo is, "
+#~ "dank u om te schrijven naar [aide@educode.be](mailto: aider@educode.be?"
+#~ "subject=I want to help with the projection of the concert in ...)."
+#~ msgstr ""
+#~ "Kun je ons helpen dergelijke projecties te organiseren? Als dat zo is, "
+#~ "dank u om te schrijven naar [aide@educode.be](mailto: aider@educode.be?"
+#~ "subject=I want to help with the projection of the concert in ...)."
+
+#~ msgid "1. **Q**:"
+#~ msgstr "1. **Q**:"
+
+#~ msgid ""
+#~ "**R**: Il est prévu que les stands soient mis en place le matin dès 7h00 "
+#~ "pour être en place à 8h30  et démonté le soir avant 23h au plus tard "
+#~ "(après la fin du concert) (horaire encore à valider et préciser peut-être)"
+#~ msgstr ""
+#~ "**R**: Il est prévu que les stands soient mis en place le matin dès 7h00 "
+#~ "pour être en place à 8h30  et démonté le soir avant 23h au plus tard "
+#~ "(après la fin du concert) (horaire encore à valider et préciser peut-être)"
+
+#~ msgid "##Mardi 28 août - ateliers"
+#~ msgstr "##Mardi 28 août - ateliers"
+
+#~ msgid "Faq"
+#~ msgstr "Faq"
+
+#~ msgid ""
+#~ "L'échange, le partage, l'éducation, le fait de parler la même langue, "
+#~ "comme la musique qui adoucit les mœurs selon le dicton ou les langages "
+#~ "informatiques, sont des facteurs de paix. Educode est organisé pour "
+#~ "informer, former, et susciter la réflexion de tous les acteurs du monde "
+#~ "éducatifs, donc beaucoup les enseignants, aux défis du numérique qui "
+#~ "transforme la Société. Et tout le contenu sera disponible librement, "
+#~ "gratuitement, y compris le [concert](/concert)"
+#~ msgstr ""
+#~ "L'échange, le partage, l'éducation, le fait de parler la même langue, "
+#~ "comme la musique qui adoucit les mœurs selon le dicton ou les langages "
+#~ "informatiques, sont des facteurs de paix. Educode est organisé pour "
+#~ "informer, former, et susciter la réflexion de tous les acteurs du monde "
+#~ "éducatifs, donc beaucoup les enseignants, aux défis du numérique qui "
+#~ "transforme la Société. Et tout le contenu sera disponible librement, "
+#~ "gratuitement, y compris le [concert](/concert)"
+
+#~ msgid "**R**:"
+#~ msgstr "**R**:"
+
+#~ msgid ""
+#~ "Maandag 27 augustus, 2018, zullen we precies 90 jaar [Kellogg-Briand_Pact]"
+#~ "(https://en.wikipedia.org/wiki/Briand-Kellogg_Pact) of Pact van Parijs te "
+#~ "vieren, een verdrag ondertekend door drieënzestig landen die \"het "
+#~ "gebruik van oorlog voor de beslechting van internationale geschillen "
+#~ "veroordelen en het beschouwen als een instrument van nationaal beleid in "
+#~ "hun onderlinge betrekkingen\"."
+#~ msgstr ""
+#~ "Maandag 27 augustus, 2018, zullen we precies 90 jaar [Kellogg-Briand_Pact]"
+#~ "(https://en.wikipedia.org/wiki/Briand-Kellogg_Pact) of Pact van Parijs te "
+#~ "vieren, een verdrag ondertekend door drieënzestig landen die \"het "
+#~ "gebruik van oorlog voor de beslechting van internationale geschillen "
+#~ "veroordelen en het beschouwen als een instrument van nationaal beleid in "
+#~ "hun onderlinge betrekkingen\"."
+
+#~ msgid ""
+#~ "Uitwisseling, delen, onderwijs, dezelfde taal spreken, zoals muziek die "
+#~ "manieren verzacht volgens het gezegde of computertalen, zijn factoren van "
+#~ "vrede. Educode wordt georganiseerd om te informeren, op te voeden, en de "
+#~ "reflectie van alle belanghebbenden te stimuleren in de onderwijswereld, "
+#~ "zoveel leraren, de digitale uitdagingen die de onderneming transformeert. "
+#~ "En alle inhoud is gratis beschikbaar, inclusief het [concert](/ concert)"
+#~ msgstr ""
+#~ "Uitwisseling, delen, onderwijs, dezelfde taal spreken, zoals muziek die "
+#~ "manieren verzacht volgens het gezegde of computertalen, zijn factoren van "
+#~ "vrede. Educode wordt georganiseerd om te informeren, op te voeden, en de "
+#~ "reflectie van alle belanghebbenden te stimuleren in de onderwijswereld, "
+#~ "zoveel leraren, de digitale uitdagingen die de onderneming transformeert. "
+#~ "En alle inhoud is gratis beschikbaar, inclusief het [concert](/ concert)"
+
+#~ msgid ""
+#~ "À l'occasion de ce 90è anniversaire, nous voudrions beaucoup que le "
+#~ "[concert Educode à 20h30 UTC+2](/concert), qui sera enregistré en bonne "
+#~ "qualité, monté et streamé, soit projeté dans des salles de spectacles, "
+#~ "des cinémas, des bibliothèques et salles scolaires, des écoles, des hômes "
+#~ "de personnes agées ... bref beaucoup d'endroits dans au moins 63 pays du "
+#~ "monde."
+#~ msgstr ""
+#~ "À l'occasion de ce 90è anniversaire, nous voudrions beaucoup que le "
+#~ "[concert Educode à 20h30 UTC+2](/concert), qui sera enregistré en bonne "
+#~ "qualité, monté et streamé, soit projeté dans des salles de spectacles, "
+#~ "des cinémas, des bibliothèques et salles scolaires, des écoles, des hômes "
+#~ "de personnes agées ... bref beaucoup d'endroits dans au moins 63 pays du "
+#~ "monde."
+
+#~ msgid ""
+#~ "1. **Q**: L’affluence du stand sera-t-elle uniquement pendant les pauses "
+#~ "repas et cafés du midi et du soir ?"
+#~ msgstr ""
+#~ "1. **Q**: L’affluence du stand sera-t-elle uniquement pendant les pauses "
+#~ "repas et cafés du midi et du soir ?"
+
+#~ msgid "<br>"
+#~ msgstr "<br>"
+
+#~ msgid ""
+#~ "Le lundi 27 août, dans la salle Horta et autour de la salle Henri Lebœuf "
+#~ "de [Bozar](/lieux/bozar), tous les acteurs de l'enseignement autour et "
+#~ "par le numérique qui le souhaitent peuvent participer."
+#~ msgstr ""
+#~ "Le lundi 27 août, dans la salle Horta et autour de la salle Henri Lebœuf "
+#~ "de [Bozar](/lieux/bozar), tous les acteurs de l'enseignement autour et "
+#~ "par le numérique qui le souhaitent peuvent participer."
+
+#~ msgid ""
+#~ "On Monday, August 27, 2018, we will celebrate exactly 90 years of the "
+#~ "[Kellogg-Briand_Pact](https://en.wikipedia.org/wiki/Briand-Kellogg_Pact), "
+#~ "(or Pact of Paris, officially **General Treaty for Renunciation of War as "
+#~ "an Instrument of National Policy**) is a 1928 international agreement in "
+#~ "which 63 signatory states promised not to use war to resolve «_disputes "
+#~ "or conflicts of whatever nature or of whatever origin they may be, which "
+#~ "may arise among them_». Parties failing to abide by this promise \"should "
+#~ "be denied of the benefits furnished by [the] treaty\"."
+#~ msgstr ""
+#~ "On Monday, August 27, 2018, we will celebrate exactly 90 years of the "
+#~ "[Kellogg-Briand_Pact](https://en.wikipedia.org/wiki/Briand-Kellogg_Pact), "
+#~ "(or Pact of Paris, officially **General Treaty for Renunciation of War as "
+#~ "an Instrument of National Policy**) is a 1928 international agreement in "
+#~ "which 63 signatory states promised not to use war to resolve «_disputes "
+#~ "or conflicts of whatever nature or of whatever origin they may be, which "
+#~ "may arise among them_». Parties failing to abide by this promise \"should "
+#~ "be denied of the benefits furnished by [the] treaty\"."
+
+#~ msgid ""
+#~ "In 2018, there is still war. And it is led by countries that have signed "
+#~ "this pact. Sometimes even, like the USA, who are at the origin of this "
+#~ "pact."
+#~ msgstr ""
+#~ "In 2018, there is still war. And it is led by countries that have signed "
+#~ "this pact. Sometimes even, like the USA, who are at the origin of this "
+#~ "pact."
+
+#~ msgid "Revenez bientôt ici pour découvrir tous les exposants."
+#~ msgstr "Revenez bientôt ici pour découvrir tous les exposants."
+
+#~ msgid ""
+#~ "**R**: Nous allons essayer que l'affluence soit essentiellement durant "
+#~ "les pauses café du matin et de l'après-midi et durant les pauses café de "
+#~ "midi et du soir pour que les visiteurs suivent les conférences, la table-"
+#~ "ronde et le spectacle. Les pauses ont été prévues assez longues pour "
+#~ "permettre de bons échanges. Si certains veulent poursuivre les "
+#~ "discussions entreprises durant ces pauses, nous demanderons de ne plus "
+#~ "rentrer dans la salle pour ne pas déranger."
+#~ msgstr ""
+#~ "**R**: Nous allons essayer que l'affluence soit essentiellement durant "
+#~ "les pauses café du matin et de l'après-midi et durant les pauses café de "
+#~ "midi et du soir pour que les visiteurs suivent les conférences, la table-"
+#~ "ronde et le spectacle. Les pauses ont été prévues assez longues pour "
+#~ "permettre de bons échanges. Si certains veulent poursuivre les "
+#~ "discussions entreprises durant ces pauses, nous demanderons de ne plus "
+#~ "rentrer dans la salle pour ne pas déranger."
+
+#~ msgid "##Mercredi 29 août - échanges sur les pratiques et expériences"
+#~ msgstr "##Mercredi 29 août - échanges sur les pratiques et expériences"
+
+#~ msgid ""
+#~ "2. **Q**: Quand est-il possible d'installer et de démonter les stands du "
+#~ "_marché_ ?"
+#~ msgstr ""
+#~ "2. **Q**: Quand est-il possible d'installer et de démonter les stands du "
+#~ "_marché_ ?"
+
+#~ msgid "##Lundi 27 août - stands - « exposition - marché »"
+#~ msgstr "##Lundi 27 août - stands - « exposition - marché »"
+
+#~ msgid ""
+#~ "En 2018, il y a toujours la guerre. Et celle-ci est menée par des pays "
+#~ "qui ont signé ce pacte. Parfois même, comme les USA, qui sont à l'origine "
+#~ "de ce pacte."
+#~ msgstr ""
+#~ "En 2018, il y a toujours la guerre. Et celle-ci est menée par des pays "
+#~ "qui ont signé ce pacte. Parfois même, comme les USA, qui sont à l'origine "
+#~ "de ce pacte."
+
+#~ msgid ""
+#~ "Le lundi 27 août 2018, nous fêterons exactement les 90 ans du [pacte "
+#~ "Briand-Kellogg](https://fr.wikipedia.org/wiki/Pacte_Briand-Kellogg), ou "
+#~ "pacte de Paris, un traité signé par soixante-trois pays qui « condamnent "
+#~ "le recours à la guerre pour le règlement des différends internationaux et "
+#~ "y renoncent en tant qu'instrument de politique nationale dans leurs "
+#~ "relations mutuelles »."
+#~ msgstr ""
+#~ "Le lundi 27 août 2018, nous fêterons exactement les 90 ans du [pacte "
+#~ "Briand-Kellogg](https://fr.wikipedia.org/wiki/Pacte_Briand-Kellogg), ou "
+#~ "pacte de Paris, un traité signé par soixante-trois pays qui « condamnent "
+#~ "le recours à la guerre pour le règlement des différends internationaux et "
+#~ "y renoncent en tant qu'instrument de politique nationale dans leurs "
+#~ "relations mutuelles »."
+
+#~ msgid "# Questions fréquentes"
+#~ msgstr "# Questions fréquentes"
+
+#~ msgid ""
+#~ "On August 27, 2018, we, the @educode_belgium international conference at "
+#~ "8h30 UTC+2 we shall broadcast freely a"
+#~ msgstr ""
+#~ "On August 27, 2018, we, the @educode_belgium international conference at "
+#~ "8h30 UTC+2 we shall broadcast freely a"
+
+#~ msgid "#Streamen en tonen van het concert (nl)"
+#~ msgstr "#Streamen en tonen van het concert (nl)"
+
+#~ msgid "stream"
+#~ msgstr "stream"
+
+#~ msgid ""
+#~ "On the occasion of this 90th anniversary, we would very much like the "
+#~ "[Educode Concert at 20:30 UTC + 2](/ concert), which will be recorded in "
+#~ "good quality, edited and streamed, to be screened in theaters, cinemas, "
+#~ "libraries and classrooms, schools, seniors' homes ... in short, many "
+#~ "places in at least 63 countries around the world."
+#~ msgstr ""
+#~ "On the occasion of this 90th anniversary, we would very much like the "
+#~ "[Educode Concert at 20:30 UTC + 2](/ concert), which will be recorded in "
+#~ "good quality, edited and streamed, to be screened in theaters, cinemas, "
+#~ "libraries and classrooms, schools, seniors' homes ... in short, many "
+#~ "places in at least 63 countries around the world."
+
+#~ msgid ""
+#~ "Pourrez-vous nous aider à organiser de telles projections. Si oui, merci "
+#~ "d'écrire à [aider@educode.be](mailto:aider@educode.be?suject=I want to "
+#~ "help with the projection of the concert)."
+#~ msgstr ""
+#~ "Pourrez-vous nous aider à organiser de telles projections. Si oui, merci "
+#~ "d'écrire à [aider@educode.be](mailto:aider@educode.be?suject=I want to "
+#~ "help with the projection of the concert)."
+
+#~ msgid ""
+#~ "Exchange, sharing, education, speaking the same language, like music that "
+#~ "softens manners according to the saying or computer languages, are "
+#~ "factors of peace. Educode is organized to inform, train, and spark the "
+#~ "reflection of all the world's educational stakeholders, so many teachers, "
+#~ "to the challenges of the digital that is transforming the Society. And "
+#~ "all content will be freely available, free of charge, including the "
+#~ "[concert](/ concert)"
+#~ msgstr ""
+#~ "Exchange, sharing, education, speaking the same language, like music that "
+#~ "softens manners according to the saying or computer languages, are "
+#~ "factors of peace. Educode is organized to inform, train, and spark the "
+#~ "reflection of all the world's educational stakeholders, so many teachers, "
+#~ "to the challenges of the digital that is transforming the Society. And "
+#~ "all content will be freely available, free of charge, including the "
+#~ "[concert](/ concert)"
+
+#~ msgid ""
+#~ "In 2018 is er nog steeds oorlog. En het wordt geleid door landen die dit "
+#~ "pact hebben ondertekend. Soms zelfs, zoals de VS, die aan de basis liggen "
+#~ "van dit pact."
+#~ msgstr ""
+#~ "In 2018 is er nog steeds oorlog. En het wordt geleid door landen die dit "
+#~ "pact hebben ondertekend. Soms zelfs, zoals de VS, die aan de basis liggen "
+#~ "van dit pact."
+
+#~ msgid ""
+#~ "Naar aanleiding van deze 90 jaar, willen we ten zeerste dat de [Educode "
+#~ "concert om 20:30 GMT + 2](/ concert), die wordt opgenomen in "
+#~ "hoogwaardige, bewerkt en gestreamd of geprojecteerd in theaters, "
+#~ "bioscopen, bibliotheken en klaslokalen, scholen, seniorenhuizen ... "
+#~ "kortom, veel plaatsen in minstens 63 landen over de hele wereld."
+#~ msgstr ""
+#~ "Naar aanleiding van deze 90 jaar, willen we ten zeerste dat de [Educode "
+#~ "concert om 20:30 GMT + 2](/ concert), die wordt opgenomen in "
+#~ "hoogwaardige, bewerkt en gestreamd of geprojecteerd in theaters, "
+#~ "bioscopen, bibliotheken en klaslokalen, scholen, seniorenhuizen ... "
+#~ "kortom, veel plaatsen in minstens 63 landen over de hele wereld."
+
+#~ msgid "#Streamer et projeter le concert (fr)"
+#~ msgstr "#Streamer et projeter le concert (fr)"
+
+#~ msgid "#Streaming and projection of the concert (en)"
+#~ msgstr "#Streaming and projection of the concert (en)"
 
 #~ msgid "- Françoise Bols (chargé de cours, HE2B-Nivelles)"
 #~ msgstr "- Françoise Bols (chargé de cours, HE2B-Nivelles)"
