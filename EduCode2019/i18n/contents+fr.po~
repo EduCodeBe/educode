@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: EduCode 2019\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-05 15:43+CET\n"
+"POT-Creation-Date: 2019-09-06 19:44+CET\n"
 "PO-Revision-Date: 2019-08-27 09:29+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -12,6 +12,10 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Poedit 2.0.6\n"
+
+#: (dynamic)
+msgid "contrebasse"
+msgstr "contrebasse"
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid ""
@@ -41,11 +45,6 @@ msgstr "Soumettre un poster"
 msgid "Aperçu du programme"
 msgstr "Aperçu du programme"
 
-#: http://localhost/promotion/
-#: (content/promotion/contents+fr.lr:details-program.description)
-msgid "* flyers"
-msgstr "* flyers"
-
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid ""
 "Durant les pauses, ils pourront rencontrer de très nombreux acteurs, "
@@ -58,23 +57,17 @@ msgstr ""
 "et à la formation. Des solutions de garde d'enfants avec des activités "
 "seront organisées pour que tous les parents puissent participer."
 
-#: http://localhost/volontaires/
-#: (content/volontaires/contents+fr.lr:details-program.date)
-msgid "Volontaires"
-msgstr "Volontaires"
-
 #: http://localhost/ (content/contents+fr.lr:page.s_submissions)
 msgid "Appel à propositions"
 msgstr "Appel à propositions"
 
-#: http://localhost/promotion/
-#: (content/promotion/contents+fr.lr:details-program.description)
-msgid "* à la radio"
-msgstr "* à la radio"
-
 #: http://localhost/ (content/contents+fr.lr:page.s_sunday)
 msgid "Dimanche"
 msgstr "Dimanche"
+
+#: (dynamic)
+msgid "violon"
+msgstr "violon"
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid ""
@@ -127,6 +120,14 @@ msgstr ""
 msgid "####Achetez les tickets [ici](https://educode.be)"
 msgstr "####Achetez les tickets [ici](https://educode.be)"
 
+#: (dynamic)
+msgid "alto"
+msgstr "alto"
+
+#: (dynamic)
+msgid "piano"
+msgstr "piano"
+
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "- Eric Robette (HE2B-Defré, maître-assistant)"
 msgstr "- Eric Robette (HE2B-Defré, maître-assistant)"
@@ -147,36 +148,31 @@ msgstr "- Prof Thierry Massart (ULB)"
 msgid "La liste des ateliers sera publiée pour le 5 septembre 2019"
 msgstr "La liste des ateliers sera publiée pour le 5 septembre 2019"
 
+#: (dynamic)
+msgid "Journée principale"
+msgstr ""
+
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "- Alexia Pasini (HE2B, co-présidente)"
 msgstr "- Alexia Pasini (HE2B, co-présidente)"
+
+#: (dynamic)
+msgid "de"
+msgstr "de"
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "- Prof Colin de la Higuera (Université de Nantes)"
 msgstr "- Prof Colin de la Higuera (Université de Nantes)"
 
-#: http://localhost/dons/ (content/dons/contents+fr.lr:details-program.date)
-msgid "Dons"
-msgstr "Dons"
-
-#: http://localhost/about/ (content/about/contents+fr.lr:page.about)
-msgid ""
-"Il est développé en commun sur [github](https://github.com/EduCodeBe/educode."
-"be) et toute personne qui veut aider, même modestement, contribuer aux "
-"corrections, modifications, traductions ... peut le faire facilement."
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.date)
+msgid "journée principale"
 msgstr ""
-"Il est développé en commun sur [github](https://github.com/EduCodeBe/educode."
-"be) et toute personne qui veut aider, même modestement, contribuer aux "
-"corrections, modifications, traductions ... peut le faire facilement."
 
-#: http://localhost/asbl/
-#: (content/asbl/contents+fr.lr:details-program.description)
-msgid ""
-"L’asbl Educode est une association sans but lucratif qui veut rassembler les "
-"acteurs de"
+#: http://localhost/vendredi-27-septembre/
+#: (content/vendredi-27-septembre/contents+fr.lr:details-program.description)
+msgid "Description du programme du vendredi 27 semptembre"
 msgstr ""
-"L’asbl Educode est une association sans but lucratif qui veut rassembler les "
-"acteurs de"
 
 #: http://localhost/ (content/contents+fr.lr:page.submissions_text)
 msgid ""
@@ -186,27 +182,31 @@ msgstr ""
 "Faites-nous part de vos propositions de stand au sein de l'exposition  en "
 "cliquant sur le bouton ci-dessous qui vous intéresse."
 
+#: (dynamic)
+msgid "Concert festif exceptionnel"
+msgstr "Concert festif exceptionnel"
+
+#: http://localhost/vendredi-27-septembre/
+#: (content/vendredi-27-septembre/contents+fr.lr:details-program.date)
+msgid "vendredi 27 septembre"
+msgstr ""
+
 #: http://localhost/ (content/contents+fr.lr:page.s_registration)
 msgid "Inscription"
 msgstr "Inscription"
+
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
+msgid "A faire : description du 27"
+msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "#Contenu"
 msgstr "#Contenu"
 
-#: http://localhost/dons/
-#: (content/dons/contents+fr.lr:details-program.description)
-msgid "* [Nicolas Pettiaux](/intervenants/nicolas-pettiaux) (10 000 €)"
-msgstr "* [Nicolas Pettiaux](/intervenants/nicolas-pettiaux) (10 000 €)"
-
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "# Comité scientifique et de soutien"
 msgstr "# Comité scientifique et de soutien"
-
-#: http://localhost/dons/
-#: (content/dons/contents+fr.lr:details-program.description)
-msgid "#Dons et prêts"
-msgstr "#Dons et prêts"
 
 #: http://localhost/ (content/contents+fr.lr:page.expo_about)
 msgid ""
@@ -216,10 +216,6 @@ msgstr ""
 "Celle-ci sera accessible essentiellement durant les pauses-cafés et repas du "
 "midi et du soir."
 
-#: http://localhost/projects/ (content/projects/contents+fr.lr:page.title)
-msgid "Projects"
-msgstr "Projects"
-
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid ""
 "- 16h00 à 18h00 : Projection du film **La bataille du libre** suivie d'une "
@@ -228,32 +224,9 @@ msgstr ""
 "- 16h00 à 18h00 : Projection du film **La bataille du libre** suivie d'une "
 "discussion avec son réalisateur, Philippe Borel"
 
-#: http://localhost/volontaires/
-#: (content/volontaires/contents+fr.lr:details-program.description)
-msgid "4. dans la mesure du possible, un défraiement financier"
-msgstr "4. dans la mesure du possible, un défraiement financier"
-
 #: http://localhost/ (content/contents+fr.lr:page.s_expo)
 msgid "Exposition"
 msgstr "Exposition"
-
-#: http://localhost/dons/
-#: (content/dons/contents+fr.lr:details-program.description)
-msgid ""
-"Nous avons besoin de vos soutiens financiers qui pourront, nous l'espérons "
-"très bientôt, être défiscalisés pour des dons supérieurs à 40 €."
-msgstr ""
-"Nous avons besoin de vos soutiens financiers qui pourront, nous l'espérons "
-"très bientôt, être défiscalisés pour des dons supérieurs à 40 €."
-
-#: http://localhost/dons/
-#: (content/dons/contents+fr.lr:details-program.description)
-msgid ""
-"* allant sur <script src=\"https://liberapay.com/EduCode/widgets/button.js"
-"\"></script>"
-msgstr ""
-"* allant sur <script src=\"https://liberapay.com/EduCode/widgets/button.js"
-"\"></script>"
 
 #: http://localhost/ (content/contents+fr.lr:page.practical_infos)
 msgid ""
@@ -307,10 +280,12 @@ msgstr ""
 "commander à leur arrivée des sandwiches pour le midi. Du café, du thé et des "
 "boissons seront mis à disposition."
 
-#: http://localhost/promotion/
-#: (content/promotion/contents+fr.lr:details-program.description)
-msgid "Cette promotion est effectuée essentiellement grâce aux"
-msgstr "Cette promotion est effectuée essentiellement grâce aux"
+#: http://localhost/intervenants/georges-khaznadar/
+#: (content/intervenants/georges-khaznadar/contents+fr.lr:speaker.dates)
+#: http://localhost/intervenants/francoise-bols/
+#: (content/intervenants/francoise-bols/contents+fr.lr:speaker.dates)
+msgid "mardi-28-aout"
+msgstr "mardi-28-aout"
 
 #: http://localhost/ (content/contents+fr.lr:page.s_press)
 msgid "Presse"
@@ -337,10 +312,9 @@ msgstr "- Yves Robaey (HE2B, co-président)"
 msgid "lundi-27-aout"
 msgstr "lundi-27-aout"
 
-#: http://localhost/dons/
-#: (content/dons/contents+fr.lr:details-program.description)
-msgid "* [Visit.Brussels](/partenaires/visit-brussels) (10 000 €)"
-msgstr "* [Visit.Brussels](/partenaires/visit-brussels) (10 000 €)"
+#: (dynamic)
+msgid "conteuse"
+msgstr "conteuse"
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "#Comité d’organisation"
@@ -357,10 +331,6 @@ msgid ""
 msgstr ""
 "Une conférence de presse sera organisée début septembre 2019 à Bruxelles. Un "
 "point presse sera également organisé durant la conférence vers 13h."
-
-#: http://localhost/asbl/ (content/asbl/contents+fr.lr:details-program.date)
-msgid "asbl"
-msgstr "asbl"
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid ""
@@ -428,21 +398,9 @@ msgstr ""
 "La conférence est **gratuite** pour les enseignants francophones membres de "
 "l'association educode."
 
-#: http://localhost/promotion/
-#: (content/promotion/contents+fr.lr:details-program.description)
-msgid "* [La Première](https://www.rtbf.be/lapremiere/)"
-msgstr "* [La Première](https://www.rtbf.be/lapremiere/)"
-
-#: http://localhost/dons/
-#: (content/dons/contents+fr.lr:details-program.description)
-msgid "##Prêts"
-msgstr "##Prêts"
-
-#: http://localhost/volontaires/
-#: (content/volontaires/contents+fr.lr:details-program.description)
-msgid "Si cela vous intéresse, manifestez-vous en vous inscrivant à la liste ["
+#: (dynamic)
+msgid "Concert festif avant première"
 msgstr ""
-"Si cela vous intéresse, manifestez-vous en vous inscrivant à la liste ["
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "- Eric Robette"
@@ -481,8 +439,6 @@ msgid "- Olivier Goletti (Ulouvain & SIcarre, chercheur)"
 msgstr "- Olivier Goletti (Ulouvain & SIcarre, chercheur)"
 
 #: http://localhost/ (content/contents+fr.lr:page.s_contact)
-#: http://localhost/about/contact/
-#: (content/about/contact/contents+fr.lr:page.title)
 msgid "Contact"
 msgstr "Contact"
 
@@ -494,11 +450,6 @@ msgstr "Beaucoup participent à l'[exposition](/exposition) ."
 #: (content/concert/contents+fr.lr:concert.description)
 msgid "Sans cocktail : 25€ / 18€ (étudiant) / 12€ (sans emploi)"
 msgstr "Sans cocktail : 25€ / 18€ (étudiant) / 12€ (sans emploi)"
-
-#: http://localhost/promotion/
-#: (content/promotion/contents+fr.lr:details-program.date)
-msgid "Promotion"
-msgstr "Promotion"
 
 #: http://localhost/ (content/contents+fr.lr:page.about)
 msgid ""
@@ -546,11 +497,6 @@ msgstr ""
 msgid "- Denis Longrée"
 msgstr "- Denis Longrée"
 
-#: http://localhost/dons/
-#: (content/dons/contents+fr.lr:details-program.description)
-msgid "Merci de donner en"
-msgstr "Merci de donner en"
-
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "- Prof Pierre Wolper (Uliège, recteur)"
 msgstr "- Prof Pierre Wolper (Uliège, recteur)"
@@ -559,40 +505,9 @@ msgstr "- Prof Pierre Wolper (Uliège, recteur)"
 msgid "- Dr Pierre De Buyl (KU Leuven, chercheur)"
 msgstr "- Dr Pierre De Buyl (KU Leuven, chercheur)"
 
-#: http://localhost/dons/
-#: (content/dons/contents+fr.lr:details-program.description)
-msgid ""
-"Les associations et institutions qui soutiennent, font des dons en nature, "
-"aident à la promotion, participent activement, sont repris dans la page des "
-"[partenaires](/#anchor-partners)."
-msgstr ""
-"Les associations et institutions qui soutiennent, font des dons en nature, "
-"aident à la promotion, participent activement, sont repris dans la page des "
-"[partenaires](/#anchor-partners)."
-
 #: http://localhost/ (content/contents+fr.lr:page.s_become_partner)
 msgid "Devenez partenaire"
 msgstr "Devenez partenaire"
-
-#: http://localhost/asbl/
-#: (content/asbl/contents+fr.lr:details-program.description)
-msgid ""
-"soutenir la formation au numérique et à la programmation en particulier et "
-"permettre à toutes"
-msgstr ""
-"soutenir la formation au numérique et à la programmation en particulier et "
-"permettre à toutes"
-
-#: http://localhost/volontaires/
-#: (content/volontaires/contents+fr.lr:details-program.description)
-msgid ""
-"Les bénévoles nécessaires sont nombreux, pour participer à l'encadrement de "
-"nombreuses activités, dès avant la conférence et durant les 2 journées des "
-"27, 28 et 29 août."
-msgstr ""
-"Les bénévoles nécessaires sont nombreux, pour participer à l'encadrement de "
-"nombreuses activités, dès avant la conférence et durant les 2 journées des "
-"27, 28 et 29 août."
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid ""
@@ -610,20 +525,15 @@ msgstr "Soumettez ici"
 msgid "- Prof Bernard Rentier (Uliège, ancien recteur)"
 msgstr "- Prof Bernard Rentier (Uliège, ancien recteur)"
 
-#: http://localhost/promotion/
-#: (content/promotion/contents+fr.lr:details-program.description)
-msgid "* partenaires médias"
-msgstr "* partenaires médias"
+#: (dynamic)
+msgid "violoncelle"
+msgstr "violoncelle"
 
-#: http://localhost/dons/
-#: (content/dons/contents+fr.lr:details-program.description)
-msgid "* [emakina](/partenaires/emakina) (5000 €)"
-msgstr "* [emakina](/partenaires/emakina) (5000 €)"
-
-#: http://localhost/volontaires/
-#: (content/volontaires/contents+fr.lr:details-program.description)
-msgid "Pour remercier les bénévoles, ils reçoivent"
-msgstr "Pour remercier les bénévoles, ils reçoivent"
+#: http://localhost/concert-festif/
+#: (content/concert-festif/contents+fr.lr:details-program.description)
+msgid ""
+"A faire : Conférence de Gilles Dowek, concert festif et cocktail dînatoire"
+msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid ""
@@ -660,19 +570,18 @@ msgstr "lundi-27-aout, mardi-28-aout"
 msgid "- Prof Bibiana Boccolini (Université de Rosario, Argentine)"
 msgstr "- Prof Bibiana Boccolini (Université de Rosario, Argentine)"
 
-#: http://localhost/about/ (content/about/contents+fr.lr:page.about)
-msgid ""
-"Ce site est fait avec le [logiciel libre](https://fr.wikipedia.org/wiki/"
-"Logiciel_libre) multiplateforme et multilingue [Lektor](https://getlektor."
-"com)."
-msgstr ""
-"Ce site est fait avec le [logiciel libre](https://fr.wikipedia.org/wiki/"
-"Logiciel_libre) multiplateforme et multilingue [Lektor](https://getlektor."
-"com)."
+#: (dynamic)
+msgid "percussion"
+msgstr "percussion"
 
 #: http://localhost/concert/ (content/concert/contents+fr.lr:concert.title)
 msgid "Concert Festif Educode"
 msgstr "Concert Festif Educode"
+
+#: http://localhost/concert-festif-avant-premiere/
+#: (content/concert-festif-avant-premiere/contents+fr.lr:details-program.date)
+msgid "Concert festif - Avant première"
+msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.s_hotel)
 msgid "Hôtels"
@@ -683,40 +592,24 @@ msgstr "Hôtels"
 msgid "mercredi-29-aout"
 msgstr "mercredi-29-aout"
 
-#: http://localhost/promotion/
-#: (content/promotion/contents+fr.lr:details-program.description)
-msgid ""
-"La promotion est essentielle. Informer toutes et tous que educode est "
-"organisée pour elles et eux, de tous les âges, est difficile."
-msgstr ""
-"La promotion est essentielle. Informer toutes et tous que educode est "
-"organisée pour elles et eux, de tous les âges, est difficile."
-
-#: http://localhost/asbl/
-#: (content/asbl/contents+fr.lr:details-program.description)
-msgid ""
-"l’éducation au numérique notamment les universités, écoles, hautes écoles, "
-"institutions"
-msgstr ""
-"l’éducation au numérique notamment les universités, écoles, hautes écoles, "
-"institutions"
-
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "#Activités"
 msgstr "#Activités"
 
-#: http://localhost/about/ (content/about/contents+fr.lr:page.about)
-msgid ""
-"Par exemple, pour une suggestion ou un commentaire, merci  de remplir le "
-"[formulaire](https://github.com/EduCodeBe/educode.be/issues/new)"
+#: http://localhost/journee-info-sans-ordi/
+#: (content/journee-info-sans-ordi/contents+fr.lr:details-program.date)
+#: (dynamic)
+msgid "Journée info sans ordi"
 msgstr ""
-"Par exemple, pour une suggestion ou un commentaire, merci  de remplir le "
-"[formulaire](https://github.com/EduCodeBe/educode.be/issues/new)"
 
-#: http://localhost/asbl/
-#: (content/asbl/contents+fr.lr:details-program.description)
-msgid "* T.V.A.: BE 0695876317"
-msgstr "* T.V.A.: BE 0695876317"
+#: (dynamic)
+msgid "Avec"
+msgstr "Avec"
+
+#: http://localhost/concert-festif/
+#: (content/concert-festif/contents+fr.lr:details-program.date)
+msgid "concert festif"
+msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.s_speakers)
 msgid "Intervenants"
@@ -746,15 +639,6 @@ msgstr ""
 msgid "- Prof Olivier Debeir (ULB)"
 msgstr "- Prof Olivier Debeir (ULB)"
 
-#: http://localhost/volontaires/
-#: (content/volontaires/contents+fr.lr:details-program.description)
-msgid ""
-"2. une invitation au [concert du lundi 27 août à 20h30](http://educode.be/"
-"concert)"
-msgstr ""
-"2. une invitation au [concert du lundi 27 août à 20h30](http://educode.be/"
-"concert)"
-
 #: http://localhost/ (content/contents+fr.lr:page.s_intro_dates)
 msgid "27 septembre 2019"
 msgstr "27 septembre 2019"
@@ -763,23 +647,9 @@ msgstr "27 septembre 2019"
 msgid "- Denis Matagne (HE2B-Defré, directeur)"
 msgstr "- Denis Matagne (HE2B-Defré, directeur)"
 
-#: http://localhost/volontaires/
-#: (content/volontaires/contents+fr.lr:details-program.description)
-msgid "3. la nourriture et des boissons"
-msgstr "3. la nourriture et des boissons"
-
 #: http://localhost/ (content/contents+fr.lr:page.s_thursday)
 msgid "Jeudi"
 msgstr "Jeudi"
-
-#: http://localhost/asbl/
-#: (content/asbl/contents+fr.lr:details-program.description)
-msgid ""
-"d’enseignement et de formations, pouvoirs organisateurs et organiser toutes "
-"les activités pour"
-msgstr ""
-"d’enseignement et de formations, pouvoirs organisateurs et organiser toutes "
-"les activités pour"
 
 #: http://localhost/ (content/contents+fr.lr:page.practical_infos)
 msgid ""
@@ -788,11 +658,6 @@ msgid ""
 msgstr ""
 "Les participants à Educode  sont attendus dès 8h30. Les conférences et "
 "ateliers commencent à 9h00 précise."
-
-#: http://localhost/promotion/
-#: (content/promotion/contents+fr.lr:details-program.description)
-msgid "* rollups"
-msgstr "* rollups"
 
 #: http://localhost/concert/
 #: (content/concert/contents+fr.lr:concert.description)
@@ -826,6 +691,11 @@ msgstr "Bruxelles, Belgique"
 msgid "Lieux"
 msgstr "Lieux"
 
+#: http://localhost/concert-festif-avant-premiere/
+#: (content/concert-festif-avant-premiere/contents+fr.lr:details-program.description)
+msgid "A faire : détail"
+msgstr ""
+
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "#Comité de programme"
 msgstr "#Comité de programme"
@@ -838,25 +708,25 @@ msgstr ""
 "Les propositions d'ateliers devraient être entrées pour le 10 aout 2019 dans "
 "http://wiki.educode.be"
 
-#: http://localhost/intervenants/georges-khaznadar/
-#: (content/intervenants/georges-khaznadar/contents+fr.lr:speaker.dates)
-#: http://localhost/intervenants/francoise-bols/
-#: (content/intervenants/francoise-bols/contents+fr.lr:speaker.dates)
-msgid "mardi-28-aout"
-msgstr "mardi-28-aout"
-
 #: http://localhost/ (content/contents+fr.lr:page.s_monday)
 msgid "Lundi"
 msgstr "Lundi"
+
+#: (dynamic)
+msgid "clarinette"
+msgstr "clarinette"
+
+#: (dynamic)
+msgid "Concert festif"
+msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "- Dr Nicolas Pettiaux (ESI-HE2B & ULB-Lisa, maître-assistant)"
 msgstr "- Dr Nicolas Pettiaux (ESI-HE2B & ULB-Lisa, maître-assistant)"
 
-#: http://localhost/volontaires/
-#: (content/volontaires/contents+fr.lr:details-program.description)
-msgid "1. l'accès gratuit aux activités qu'ils participent à encadrer,"
-msgstr "1. l'accès gratuit aux activités qu'ils participent à encadrer,"
+#: (dynamic)
+msgid "Avant première du concert"
+msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "#Objectifs"
@@ -889,11 +759,6 @@ msgstr "#Contact"
 msgid "####Prix"
 msgstr "####Prix"
 
-#: http://localhost/dons/
-#: (content/dons/contents+fr.lr:details-program.description)
-msgid "##Dons"
-msgstr "##Dons"
-
 #: http://localhost/ (content/contents+fr.lr:page.title)
 msgid "Bienvenue à EduCode"
 msgstr "Bienvenue à EduCode"
@@ -901,15 +766,6 @@ msgstr "Bienvenue à EduCode"
 #: http://localhost/ (content/contents+fr.lr:page.s_about_educode)
 msgid "À propos d'EduCode"
 msgstr "À propos d'EduCode"
-
-#: http://localhost/volontaires/
-#: (content/volontaires/contents+fr.lr:details-program.description)
-msgid ""
-"L'organisation d'une conférence comme educode repose beaucoup sur le "
-"bénévolat et le volontariat."
-msgstr ""
-"L'organisation d'une conférence comme educode repose beaucoup sur le "
-"bénévolat et le volontariat."
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "- Julie Henry (UNamur, chercheuse)"
@@ -926,45 +782,6 @@ msgid ""
 msgstr ""
 "Vous pouvez également télécharger des documents utiles en cliquant sur le "
 "lien ci-dessous."
-
-#: http://localhost/asbl/
-#: (content/asbl/contents+fr.lr:details-program.description)
-msgid ""
-"ces institutions de mieux se connaître, et d’être mieux connues de tous les "
-"publics."
-msgstr ""
-"ces institutions de mieux se connaître, et d’être mieux connues de tous les "
-"publics."
-
-#: http://localhost/dons/
-#: (content/dons/contents+fr.lr:details-program.description)
-msgid ""
-"Sont repris ici, classés par ordre alphabétique des noms, toutes les "
-"donatrices et donateurs, et toutes les structures qui ont fait des dons, des "
-"prêts ou des subventions financières. Merci à elles et eux."
-msgstr ""
-"Sont repris ici, classés par ordre alphabétique des noms, toutes les "
-"donatrices et donateurs, et toutes les structures qui ont fait des dons, des "
-"prêts ou des subventions financières. Merci à elles et eux."
-
-#: http://localhost/dons/
-#: (content/dons/contents+fr.lr:details-program.description)
-msgid ""
-"* en virant un montant sur le compte de l'*asbl EduCode* **BE73 0018 3913 "
-"576** chez [BNP ParibasFortis](https://www.bnpparibasfortis.be/) **et** en "
-"nous informant par mail à [don@educode.be](mailto:don@educode.be?"
-"subject=J'ai donné ... et attends un reçu). <br> (N'oubliez pas dans le mail "
-"d'indiquer vos coordonnées : structure, adresse complète, noms et prénoms, "
-"emails et si possible numéros de téléphone des personnes de contact, numéro "
-"de compte, si oui ou non vous voulez être mentionnés ci-dessous."
-msgstr ""
-"* en virant un montant sur le compte de l'*asbl EduCode* **BE73 0018 3913 "
-"576** chez [BNP ParibasFortis](https://www.bnpparibasfortis.be/) **et** en "
-"nous informant par mail à [don@educode.be](mailto:don@educode.be?"
-"subject=J'ai donné ... et attends un reçu). <br> (N'oubliez pas dans le mail "
-"d'indiquer vos coordonnées : structure, adresse complète, noms et prénoms, "
-"emails et si possible numéros de téléphone des personnes de contact, numéro "
-"de compte, si oui ou non vous voulez être mentionnés ci-dessous."
 
 #: http://localhost/ (content/contents+fr.lr:page.s_more_infos)
 msgid "Plus d'infos"
@@ -988,19 +805,6 @@ msgstr ""
 "organisées avec le soutien de IFC pour être  reconnues par elles comme "
 "journées de formation continue obligatoires pour les enseignants."
 
-#: http://localhost/dons/
-#: (content/dons/contents+fr.lr:details-program.description)
-msgid ""
-"La conférence educode est soutenue et mise en œuvre par l'[association "
-"EduCode](/asbl). C'est essentiellement une activité bénévole pour le moment "
-"qui requiert une énergie très importante de la part d'un très petit nombre "
-"d'acteurs, femmes et hommes."
-msgstr ""
-"La conférence educode est soutenue et mise en œuvre par l'[association "
-"EduCode](/asbl). C'est essentiellement une activité bénévole pour le moment "
-"qui requiert une énergie très importante de la part d'un très petit nombre "
-"d'acteurs, femmes et hommes."
-
 #: http://localhost/ (content/contents+fr.lr:page.about)
 msgid ""
 "L'organisation de cette conférence est essentiellement *bénévole*. _Toute "
@@ -1008,6 +812,19 @@ msgid ""
 msgstr ""
 "L'organisation de cette conférence est essentiellement *bénévole*. _Toute "
 "aide et tout soutien sont les bienvenus_."
+
+#: http://localhost/vendredi-27-septembre/
+#: (content/vendredi-27-septembre/contents+fr.lr:details-program.description)
+msgid "A faire"
+msgstr ""
+
+#: (dynamic)
+msgid "Le carnaval des animaux"
+msgstr "Le carnaval des animaux"
+
+#: (dynamic)
+msgid "flûte"
+msgstr "flûte"
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "- Georges Khaznadar (Lycée Jean Bart, Dunkerque)"
@@ -1049,15 +866,13 @@ msgstr ""
 "des membres du comité d'organisation de la conférence, encadrent des "
 "ateliers..."
 
-#: http://localhost/asbl/
-#: (content/asbl/contents+fr.lr:details-program.description)
-msgid "* Compte BNP Paribas Fortis BE73 0018 3913 5760"
-msgstr "* Compte BNP Paribas Fortis BE73 0018 3913 5760"
-
-#: http://localhost/promotion/
-#: (content/promotion/contents+fr.lr:details-program.description)
-msgid "* affiches"
-msgstr "* affiches"
+#: (dynamic)
+msgid ""
+"Dans la salle gothique de l'hôtel de ville de Bruxelles, à la Grand-Place, "
+"lundi 7 octobre 2019 de 19h à 20h30 avec cocktail dinatoire."
+msgstr ""
+"Dans la salle gothique de l'hôtel de ville de Bruxelles, à la Grand-Place, "
+"lundi 7 octobre 2019 de 19h à 20h30 avec cocktail dinatoire."
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid ""
@@ -1083,11 +898,6 @@ msgstr "Mercredi"
 msgid "mai"
 msgstr "mai"
 
-#: http://localhost/promotion/
-#: (content/promotion/contents+fr.lr:details-program.description)
-msgid "* [Music3](https://www.rtbf.be/musiq3/)"
-msgstr "* [Music3](https://www.rtbf.be/musiq3/)"
-
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid ""
 "1. Des conférences, ateliers et expositions destinés essentiellement aux "
@@ -1095,15 +905,6 @@ msgid ""
 msgstr ""
 "1. Des conférences, ateliers et expositions destinés essentiellement aux "
 "enseignants"
-
-#: http://localhost/asbl/
-#: (content/asbl/contents+fr.lr:details-program.description)
-msgid ""
-"La conférence est organisée par l'ASBL EDUCODE, sise Avenue du Pérou 29 à "
-"1000 Bruxelles"
-msgstr ""
-"La conférence est organisée par l'ASBL EDUCODE, sise Avenue du Pérou 29 à "
-"1000 Bruxelles"
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid ""
@@ -1143,10 +944,6 @@ msgstr ""
 "Les préinscriptions sont possibles dans https://wiki.educode.be/doku.php?"
 "id=educode2019preinscriptions"
 
-#: http://localhost/about/ (content/about/contents+fr.lr:page.title)
-msgid "About this Website"
-msgstr "About this Website"
-
 #: http://localhost/ (content/contents+fr.lr:page.about)
 msgid ""
 "<noscript><a href=\"https://liberapay.com/npettiaux/donate\"><img alt="
@@ -1165,107 +962,254 @@ msgstr ""
 "Une conférence internationale pour informer, former et susciter l'intérêt de "
 "tous les acteurs de l'enseignement aux défis du numérique."
 
-#: templates/concert.html:14
-msgid ""
-"Dans la belle salle Henri Lebœuf de Bozar, ce lundi 27 août 2018 à 20h30, "
-"venez au Concert festif exceptionnel."
-msgstr ""
+#~ msgid "* flyers"
+#~ msgstr "* flyers"
 
-#: templates/concert.html:17
-msgid "Avec"
-msgstr "Avec"
+#~ msgid "Volontaires"
+#~ msgstr "Volontaires"
 
-#: templates/concert.html:19
-msgid "chœur mixte"
-msgstr ""
+#~ msgid "* à la radio"
+#~ msgstr "* à la radio"
 
-#: templates/concert.html:20
-msgid "chœur de filles"
-msgstr ""
-
-#: templates/concert.html:21
-msgid "chœur de garçons"
-msgstr ""
-
-#: templates/concert.html:23
-msgid "au"
-msgstr ""
-
-#: templates/concert.html:23
-msgid "thérémine"
-msgstr ""
-
-#: templates/concert.html:28
-msgid "Sous la direction conjointe de"
-msgstr ""
-
-#: templates/concert.html:39
-msgid ""
-"Sélection de quelques morceaux (vous trouverez une liste plus complète plus "
-"bas)"
-msgstr ""
-
-#: templates/concert.html:88
-msgid "Au programme des œuvres"
-msgstr ""
-
-#: templates/concert.html:90
-msgid "musique classique : Beethoven, Bizet, Franck, Dvořák, Gershwin …"
-msgstr ""
-
-#: templates/concert.html:91
-msgid ""
-"musique du monde : traditionnels japonais, américain, sud-africain, "
-"finlandais …"
-msgstr ""
-
-#: templates/concert.html:92
-msgid ""
-"musique de film et variété : Ennio Morricone, Freddie Mercury, Jacques Brel …"
-msgstr ""
-
-#~ msgid "Concert festif exceptionnel"
-#~ msgstr "Concert festif exceptionnel"
+#~ msgid "Dons"
+#~ msgstr "Dons"
 
 #~ msgid ""
-#~ "Dans la salle gothique de l'hôtel de ville de Bruxelles, à la Grand-"
-#~ "Place, lundi 7 octobre 2019 de 19h à 20h30 avec cocktail dinatoire."
+#~ "Il est développé en commun sur [github](https://github.com/EduCodeBe/"
+#~ "educode.be) et toute personne qui veut aider, même modestement, "
+#~ "contribuer aux corrections, modifications, traductions ... peut le faire "
+#~ "facilement."
 #~ msgstr ""
-#~ "Dans la salle gothique de l'hôtel de ville de Bruxelles, à la Grand-"
-#~ "Place, lundi 7 octobre 2019 de 19h à 20h30 avec cocktail dinatoire."
+#~ "Il est développé en commun sur [github](https://github.com/EduCodeBe/"
+#~ "educode.be) et toute personne qui veut aider, même modestement, "
+#~ "contribuer aux corrections, modifications, traductions ... peut le faire "
+#~ "facilement."
 
-#~ msgid "Le carnaval des animaux"
-#~ msgstr "Le carnaval des animaux"
+#~ msgid ""
+#~ "L’asbl Educode est une association sans but lucratif qui veut rassembler "
+#~ "les acteurs de"
+#~ msgstr ""
+#~ "L’asbl Educode est une association sans but lucratif qui veut rassembler "
+#~ "les acteurs de"
 
-#~ msgid "de"
-#~ msgstr "de"
+#~ msgid "* [Nicolas Pettiaux](/intervenants/nicolas-pettiaux) (10 000 €)"
+#~ msgstr "* [Nicolas Pettiaux](/intervenants/nicolas-pettiaux) (10 000 €)"
 
-#~ msgid "flûte"
-#~ msgstr "flûte"
+#~ msgid "#Dons et prêts"
+#~ msgstr "#Dons et prêts"
 
-#~ msgid "clarinette"
-#~ msgstr "clarinette"
+#~ msgid "Projects"
+#~ msgstr "Projects"
 
-#~ msgid "violon"
-#~ msgstr "violon"
+#~ msgid "4. dans la mesure du possible, un défraiement financier"
+#~ msgstr "4. dans la mesure du possible, un défraiement financier"
 
-#~ msgid "alto"
-#~ msgstr "alto"
+#~ msgid ""
+#~ "Nous avons besoin de vos soutiens financiers qui pourront, nous "
+#~ "l'espérons très bientôt, être défiscalisés pour des dons supérieurs à 40 "
+#~ "€."
+#~ msgstr ""
+#~ "Nous avons besoin de vos soutiens financiers qui pourront, nous "
+#~ "l'espérons très bientôt, être défiscalisés pour des dons supérieurs à 40 "
+#~ "€."
 
-#~ msgid "violoncelle"
-#~ msgstr "violoncelle"
+#~ msgid ""
+#~ "* allant sur <script src=\"https://liberapay.com/EduCode/widgets/button.js"
+#~ "\"></script>"
+#~ msgstr ""
+#~ "* allant sur <script src=\"https://liberapay.com/EduCode/widgets/button.js"
+#~ "\"></script>"
 
-#~ msgid "contrebasse"
-#~ msgstr "contrebasse"
+#~ msgid "Cette promotion est effectuée essentiellement grâce aux"
+#~ msgstr "Cette promotion est effectuée essentiellement grâce aux"
 
-#~ msgid "piano"
-#~ msgstr "piano"
+#~ msgid "asbl"
+#~ msgstr "asbl"
 
-#~ msgid "percussion"
-#~ msgstr "percussion"
+#~ msgid "* [La Première](https://www.rtbf.be/lapremiere/)"
+#~ msgstr "* [La Première](https://www.rtbf.be/lapremiere/)"
 
-#~ msgid "conteuse"
-#~ msgstr "conteuse"
+#~ msgid "##Prêts"
+#~ msgstr "##Prêts"
+
+#~ msgid ""
+#~ "Si cela vous intéresse, manifestez-vous en vous inscrivant à la liste ["
+#~ msgstr ""
+#~ "Si cela vous intéresse, manifestez-vous en vous inscrivant à la liste ["
+
+#~ msgid "* [emakina](/partenaires/emakina) (5000 €)"
+#~ msgstr "* [emakina](/partenaires/emakina) (5000 €)"
+
+#~ msgid "Promotion"
+#~ msgstr "Promotion"
+
+#~ msgid "Merci de donner en"
+#~ msgstr "Merci de donner en"
+
+#~ msgid ""
+#~ "Les associations et institutions qui soutiennent, font des dons en "
+#~ "nature, aident à la promotion, participent activement, sont repris dans "
+#~ "la page des [partenaires](/#anchor-partners)."
+#~ msgstr ""
+#~ "Les associations et institutions qui soutiennent, font des dons en "
+#~ "nature, aident à la promotion, participent activement, sont repris dans "
+#~ "la page des [partenaires](/#anchor-partners)."
+
+#~ msgid ""
+#~ "soutenir la formation au numérique et à la programmation en particulier "
+#~ "et permettre à toutes"
+#~ msgstr ""
+#~ "soutenir la formation au numérique et à la programmation en particulier "
+#~ "et permettre à toutes"
+
+#~ msgid ""
+#~ "Les bénévoles nécessaires sont nombreux, pour participer à l'encadrement "
+#~ "de nombreuses activités, dès avant la conférence et durant les 2 journées "
+#~ "des 27, 28 et 29 août."
+#~ msgstr ""
+#~ "Les bénévoles nécessaires sont nombreux, pour participer à l'encadrement "
+#~ "de nombreuses activités, dès avant la conférence et durant les 2 journées "
+#~ "des 27, 28 et 29 août."
+
+#~ msgid "* partenaires médias"
+#~ msgstr "* partenaires médias"
+
+#~ msgid "Pour remercier les bénévoles, ils reçoivent"
+#~ msgstr "Pour remercier les bénévoles, ils reçoivent"
+
+#~ msgid ""
+#~ "Ce site est fait avec le [logiciel libre](https://fr.wikipedia.org/wiki/"
+#~ "Logiciel_libre) multiplateforme et multilingue [Lektor](https://getlektor."
+#~ "com)."
+#~ msgstr ""
+#~ "Ce site est fait avec le [logiciel libre](https://fr.wikipedia.org/wiki/"
+#~ "Logiciel_libre) multiplateforme et multilingue [Lektor](https://getlektor."
+#~ "com)."
+
+#~ msgid ""
+#~ "La promotion est essentielle. Informer toutes et tous que educode est "
+#~ "organisée pour elles et eux, de tous les âges, est difficile."
+#~ msgstr ""
+#~ "La promotion est essentielle. Informer toutes et tous que educode est "
+#~ "organisée pour elles et eux, de tous les âges, est difficile."
+
+#~ msgid ""
+#~ "l’éducation au numérique notamment les universités, écoles, hautes "
+#~ "écoles, institutions"
+#~ msgstr ""
+#~ "l’éducation au numérique notamment les universités, écoles, hautes "
+#~ "écoles, institutions"
+
+#~ msgid ""
+#~ "Par exemple, pour une suggestion ou un commentaire, merci  de remplir le "
+#~ "[formulaire](https://github.com/EduCodeBe/educode.be/issues/new)"
+#~ msgstr ""
+#~ "Par exemple, pour une suggestion ou un commentaire, merci  de remplir le "
+#~ "[formulaire](https://github.com/EduCodeBe/educode.be/issues/new)"
+
+#~ msgid "* T.V.A.: BE 0695876317"
+#~ msgstr "* T.V.A.: BE 0695876317"
+
+#~ msgid ""
+#~ "2. une invitation au [concert du lundi 27 août à 20h30](http://educode.be/"
+#~ "concert)"
+#~ msgstr ""
+#~ "2. une invitation au [concert du lundi 27 août à 20h30](http://educode.be/"
+#~ "concert)"
+
+#~ msgid "3. la nourriture et des boissons"
+#~ msgstr "3. la nourriture et des boissons"
+
+#~ msgid ""
+#~ "d’enseignement et de formations, pouvoirs organisateurs et organiser "
+#~ "toutes les activités pour"
+#~ msgstr ""
+#~ "d’enseignement et de formations, pouvoirs organisateurs et organiser "
+#~ "toutes les activités pour"
+
+#~ msgid "* rollups"
+#~ msgstr "* rollups"
+
+#~ msgid "1. l'accès gratuit aux activités qu'ils participent à encadrer,"
+#~ msgstr "1. l'accès gratuit aux activités qu'ils participent à encadrer,"
+
+#~ msgid "##Dons"
+#~ msgstr "##Dons"
+
+#~ msgid ""
+#~ "L'organisation d'une conférence comme educode repose beaucoup sur le "
+#~ "bénévolat et le volontariat."
+#~ msgstr ""
+#~ "L'organisation d'une conférence comme educode repose beaucoup sur le "
+#~ "bénévolat et le volontariat."
+
+#~ msgid ""
+#~ "ces institutions de mieux se connaître, et d’être mieux connues de tous "
+#~ "les publics."
+#~ msgstr ""
+#~ "ces institutions de mieux se connaître, et d’être mieux connues de tous "
+#~ "les publics."
+
+#~ msgid ""
+#~ "Sont repris ici, classés par ordre alphabétique des noms, toutes les "
+#~ "donatrices et donateurs, et toutes les structures qui ont fait des dons, "
+#~ "des prêts ou des subventions financières. Merci à elles et eux."
+#~ msgstr ""
+#~ "Sont repris ici, classés par ordre alphabétique des noms, toutes les "
+#~ "donatrices et donateurs, et toutes les structures qui ont fait des dons, "
+#~ "des prêts ou des subventions financières. Merci à elles et eux."
+
+#~ msgid ""
+#~ "* en virant un montant sur le compte de l'*asbl EduCode* **BE73 0018 3913 "
+#~ "576** chez [BNP ParibasFortis](https://www.bnpparibasfortis.be/) **et** "
+#~ "en nous informant par mail à [don@educode.be](mailto:don@educode.be?"
+#~ "subject=J'ai donné ... et attends un reçu). <br> (N'oubliez pas dans le "
+#~ "mail d'indiquer vos coordonnées : structure, adresse complète, noms et "
+#~ "prénoms, emails et si possible numéros de téléphone des personnes de "
+#~ "contact, numéro de compte, si oui ou non vous voulez être mentionnés ci-"
+#~ "dessous."
+#~ msgstr ""
+#~ "* en virant un montant sur le compte de l'*asbl EduCode* **BE73 0018 3913 "
+#~ "576** chez [BNP ParibasFortis](https://www.bnpparibasfortis.be/) **et** "
+#~ "en nous informant par mail à [don@educode.be](mailto:don@educode.be?"
+#~ "subject=J'ai donné ... et attends un reçu). <br> (N'oubliez pas dans le "
+#~ "mail d'indiquer vos coordonnées : structure, adresse complète, noms et "
+#~ "prénoms, emails et si possible numéros de téléphone des personnes de "
+#~ "contact, numéro de compte, si oui ou non vous voulez être mentionnés ci-"
+#~ "dessous."
+
+#~ msgid ""
+#~ "La conférence educode est soutenue et mise en œuvre par l'[association "
+#~ "EduCode](/asbl). C'est essentiellement une activité bénévole pour le "
+#~ "moment qui requiert une énergie très importante de la part d'un très "
+#~ "petit nombre d'acteurs, femmes et hommes."
+#~ msgstr ""
+#~ "La conférence educode est soutenue et mise en œuvre par l'[association "
+#~ "EduCode](/asbl). C'est essentiellement une activité bénévole pour le "
+#~ "moment qui requiert une énergie très importante de la part d'un très "
+#~ "petit nombre d'acteurs, femmes et hommes."
+
+#~ msgid "* [Visit.Brussels](/partenaires/visit-brussels) (10 000 €)"
+#~ msgstr "* [Visit.Brussels](/partenaires/visit-brussels) (10 000 €)"
+
+#~ msgid "* Compte BNP Paribas Fortis BE73 0018 3913 5760"
+#~ msgstr "* Compte BNP Paribas Fortis BE73 0018 3913 5760"
+
+#~ msgid "* affiches"
+#~ msgstr "* affiches"
+
+#~ msgid "* [Music3](https://www.rtbf.be/musiq3/)"
+#~ msgstr "* [Music3](https://www.rtbf.be/musiq3/)"
+
+#~ msgid ""
+#~ "La conférence est organisée par l'ASBL EDUCODE, sise Avenue du Pérou 29 à "
+#~ "1000 Bruxelles"
+#~ msgstr ""
+#~ "La conférence est organisée par l'ASBL EDUCODE, sise Avenue du Pérou 29 à "
+#~ "1000 Bruxelles"
+
+#~ msgid "About this Website"
+#~ msgstr "About this Website"
 
 #~ msgid ""
 #~ "* [Nova Radit Stala (Noël ukrainien)](https://www.youtube.com/watch?"
