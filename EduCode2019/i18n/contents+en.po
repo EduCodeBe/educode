@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: educode\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-06 19:58+CET\n"
+"POT-Creation-Date: 2019-09-06 20:03+CET\n"
 "PO-Revision-Date: 2019-08-26 20:13+0200\n"
 "Last-Translator: npettiaux\n"
 "Language-Team: English\n"
@@ -15,6 +15,10 @@ msgstr ""
 "X-Crowdin-Project: educode\n"
 "X-Crowdin-Language: en\n"
 "X-Crowdin-File: educode2019.pot\n"
+
+#: (dynamic)
+msgid "contrebasse"
+msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid ""
@@ -40,7 +44,7 @@ msgstr "Practical information"
 msgid "Soumettre un poster"
 msgstr "Submit a poster"
 
-#: http://localhost/ (content/contents+fr.lr:page.s_overview_program)
+#: http://localhost/ (content/contents+fr.lr:page.s_overview_program) (dynamic)
 msgid "Aperçu du programme"
 msgstr "Program Overview"
 
@@ -62,6 +66,10 @@ msgstr "Call for proposals"
 #: http://localhost/ (content/contents+fr.lr:page.s_sunday)
 msgid "Dimanche"
 msgstr "Sunday"
+
+#: (dynamic)
+msgid "violon"
+msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid ""
@@ -112,6 +120,14 @@ msgstr ""
 msgid "####Achetez les tickets [ici](https://educode.be)"
 msgstr ""
 
+#: (dynamic)
+msgid "alto"
+msgstr ""
+
+#: (dynamic)
+msgid "piano"
+msgstr ""
+
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "- Eric Robette (HE2B-Defré, maître-assistant)"
 msgstr "- Eric Robette (HE2B-Defré, lecturer)"
@@ -136,6 +152,10 @@ msgstr "The list of workshops will be published for September 5, 2019"
 msgid "- Alexia Pasini (HE2B, co-présidente)"
 msgstr "- Alexia Pasini (HE2B, co-chair)"
 
+#: (dynamic)
+msgid "de"
+msgstr ""
+
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "- Prof Colin de la Higuera (Université de Nantes)"
 msgstr "- Prof Colin de la Higuera (University of Nantes)"
@@ -152,6 +172,10 @@ msgid ""
 msgstr ""
 "Let us know your stand proposals within the exhibition by clicking on the "
 "button below that interests you."
+
+#: (dynamic)
+msgid "Concert festif exceptionnel"
+msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.s_registration)
 msgid "Inscription"
@@ -271,6 +295,10 @@ msgstr "- Yves Robaey (HE2B, Co-Chair)"
 msgid "lundi-27-aout"
 msgstr ""
 
+#: (dynamic)
+msgid "conteuse"
+msgstr ""
+
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "#Comité d’organisation"
 msgstr "Steering committee"
@@ -308,11 +336,11 @@ msgid ""
 "Pour plus d'information et la préinscription, voir http://wiki.educode.be"
 msgstr "For more information and pre-registration, see http://wiki.educode.be"
 
-#: http://localhost/ (content/contents+fr.lr:page.s_our_partners)
-msgid "Nos partenaires"
-msgstr "Our partners"
+#: (dynamic)
+msgid "Journée principale"
+msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.s_program)
+#: http://localhost/ (content/contents+fr.lr:page.s_program) (dynamic)
 msgid "Programme"
 msgstr "Program"
 
@@ -339,6 +367,10 @@ msgid ""
 msgstr ""
 "- 15:00 to 15:30 : Conference by Françoise Bols (HE2B and ULiège): Teaching "
 "digital and computing in high schools: challenges and opportunities"
+
+#: http://localhost/ (content/contents+fr.lr:page.s_our_partners)
+msgid "Nos partenaires"
+msgstr "Our partners"
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "L’évènement comporte 3 parties pour 4 publics :"
@@ -474,6 +506,10 @@ msgstr "Submit here"
 msgid "- Prof Bernard Rentier (Uliège, ancien recteur)"
 msgstr "- Prof Bernard Rentier (Uliège, former rector)"
 
+#: (dynamic)
+msgid "violoncelle"
+msgstr ""
+
 #: http://localhost/concert-festif/
 #: (content/concert-festif/contents+fr.lr:details-program.description)
 msgid ""
@@ -513,6 +549,10 @@ msgstr ""
 msgid "- Prof Bibiana Boccolini (Université de Rosario, Argentine)"
 msgstr "- Prof Bibiana Boccolini (University of Rosario, Argentina)"
 
+#: (dynamic)
+msgid "percussion"
+msgstr ""
+
 #: http://localhost/concert/ (content/concert/contents+fr.lr:concert.title)
 msgid "Concert Festif Educode"
 msgstr ""
@@ -531,9 +571,13 @@ msgstr ""
 msgid "#Activités"
 msgstr "Activities"
 
-#: http://localhost/journee-info-sans-ordi/
+#: (dynamic) http://localhost/journee-info-sans-ordi/
 #: (content/journee-info-sans-ordi/contents+fr.lr:details-program.date)
 msgid "Journée info sans ordi"
+msgstr ""
+
+#: (dynamic)
+msgid "Avec"
 msgstr ""
 
 #: http://localhost/concert-festif/
@@ -541,9 +585,9 @@ msgstr ""
 msgid "concert festif"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.s_speakers)
-msgid "Intervenants"
-msgstr "Speakers"
+#: (dynamic)
+msgid "Concert festif"
+msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid ""
@@ -639,9 +683,21 @@ msgstr ""
 msgid "Lundi"
 msgstr "Monday"
 
+#: (dynamic)
+msgid "clarinette"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.s_speakers)
+msgid "Intervenants"
+msgstr "Speakers"
+
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "- Dr Nicolas Pettiaux (ESI-HE2B & ULB-Lisa, maître-assistant)"
 msgstr "- Dr Nicolas Pettiaux (ESI-HE2B & ULB-Lisa, lecturer)"
+
+#: (dynamic)
+msgid "Avant première du concert"
+msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "#Objectifs"
@@ -724,6 +780,14 @@ msgstr ""
 "The organization of this conference is essentially *voluntary*. _All help "
 "and support are welcome_."
 
+#: (dynamic)
+msgid "Le carnaval des animaux"
+msgstr ""
+
+#: (dynamic)
+msgid "flûte"
+msgstr ""
+
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "- Georges Khaznadar (Lycée Jean Bart, Dunkerque)"
 msgstr "- Georges Khaznadar (Lycée Jean Bart, Dunkirk)"
@@ -761,6 +825,12 @@ msgstr ""
 "essential financial support, the others participate in the promotion and "
 "dissemination of information around the conference, are members of the "
 "organizing committee of the conference, supervise workshops..."
+
+#: (dynamic)
+msgid ""
+"Dans la salle gothique de l'hôtel de ville de Bruxelles, à la Grand-Place, "
+"lundi 7 octobre 2019 de 19h à 20h30 avec cocktail dinatoire."
+msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid ""
@@ -845,76 +915,6 @@ msgid ""
 msgstr ""
 "An international conference to inform, train and engage the interest of all "
 "education stakeholders in the digital challenges."
-
-#: templates/concert.html:12
-msgid "Concert festif exceptionnel"
-msgstr ""
-
-#: templates/concert.html:14
-msgid ""
-"Dans la salle gothique de l'hôtel de ville de Bruxelles, à la Grand-Place, "
-"lundi 7 octobre 2019 de 19h à 20h30 avec cocktail dinatoire."
-msgstr ""
-
-#: templates/concert.html:18
-msgid "Le carnaval des animaux"
-msgstr ""
-
-#: templates/concert.html:19
-msgid "de"
-msgstr ""
-
-#: templates/concert.html:21
-msgid "Avec"
-msgstr ""
-
-#: templates/concert.html:23
-msgid "flûte"
-msgstr ""
-
-#: templates/concert.html:24
-msgid "clarinette"
-msgstr ""
-
-#: templates/concert.html:25 templates/concert.html:26
-msgid "violon"
-msgstr ""
-
-#: templates/concert.html:27
-msgid "alto"
-msgstr ""
-
-#: templates/concert.html:28
-msgid "violoncelle"
-msgstr ""
-
-#: templates/concert.html:29
-msgid "contrebasse"
-msgstr ""
-
-#: templates/concert.html:30 templates/concert.html:31
-msgid "piano"
-msgstr ""
-
-#: templates/concert.html:32
-msgid "percussion"
-msgstr ""
-
-#: templates/concert.html:33
-msgid "conteuse"
-msgstr ""
-
-#: templates/macros/sections.html:20 templates/macros/sections.html:46
-msgid "Journée principale"
-msgstr ""
-
-#: templates/macros/sections.html:22 templates/macros/sections.html:48
-msgid "Avant première du concert"
-msgstr ""
-
-#: templates/macros/sections.html:23 templates/macros/sections.html:49
-msgid "Concert festif"
-msgstr ""
 
 #~ msgid "Hôtels"
 #~ msgstr "Hotels"

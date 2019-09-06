@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: educode\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-06 19:44+CET\n"
+"POT-Creation-Date: 2019-09-06 20:02+CET\n"
 "PO-Revision-Date: 2019-08-26 20:08+0200\n"
 "Last-Translator: npettiaux\n"
 "Language-Team: Flemish\n"
@@ -151,10 +151,6 @@ msgstr "- Prof Thierry Massart (ULB)"
 msgid "La liste des ateliers sera publiée pour le 5 septembre 2019"
 msgstr "De lijst met workshops wordt gepubliceerd voor 5 september 2019"
 
-#: (dynamic)
-msgid "Journée principale"
-msgstr ""
-
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "- Alexia Pasini (HE2B, co-présidente)"
 msgstr "- Alexia Pasini (HE2B, co-voorzitter)"
@@ -172,11 +168,6 @@ msgstr "- Prof Colin de la Higuera (Universiteit van Nantes)"
 msgid "journée principale"
 msgstr ""
 
-#: http://localhost/vendredi-27-septembre/
-#: (content/vendredi-27-septembre/contents+fr.lr:details-program.description)
-msgid "Description du programme du vendredi 27 semptembre"
-msgstr ""
-
 #: http://localhost/ (content/contents+fr.lr:page.submissions_text)
 msgid ""
 "Faites-nous part de vos propositions de stand au sein de l'exposition  en "
@@ -187,11 +178,6 @@ msgstr ""
 
 #: (dynamic)
 msgid "Concert festif exceptionnel"
-msgstr ""
-
-#: http://localhost/vendredi-27-septembre/
-#: (content/vendredi-27-septembre/contents+fr.lr:details-program.date)
-msgid "vendredi 27 septembre"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.s_registration)
@@ -357,9 +343,9 @@ msgid ""
 "Pour plus d'information et la préinscription, voir http://wiki.educode.be"
 msgstr "Voor meer informatie en pre-registratie, zie http://wiki.educode.be"
 
-#: http://localhost/ (content/contents+fr.lr:page.s_our_partners)
-msgid "Nos partenaires"
-msgstr "Onze partners"
+#: (dynamic)
+msgid "Journée principale"
+msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.s_program)
 msgid "Programme"
@@ -390,6 +376,10 @@ msgstr ""
 "Onderwijs in de digitale en informatica op de middelbare school: uitdagingen "
 "en kansen"
 
+#: http://localhost/ (content/contents+fr.lr:page.s_our_partners)
+msgid "Nos partenaires"
+msgstr "Onze partners"
+
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "L’évènement comporte 3 parties pour 4 publics :"
 msgstr "Het evenement bestaat uit 3 delen voor 4 doelgroepen:"
@@ -401,10 +391,6 @@ msgid ""
 msgstr ""
 "De conferentie is **gratis** voor Franstalige leraren die lid zijn van de "
 "educode-vereniging."
-
-#: (dynamic)
-msgid "Concert festif avant première"
-msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "- Eric Robette"
@@ -586,10 +572,6 @@ msgstr ""
 msgid "Concert festif - Avant première"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.s_hotel)
-msgid "Hôtels"
-msgstr "Hotels"
-
 #: http://localhost/intervenants/colin-de-la-higuera/
 #: (content/intervenants/colin-de-la-higuera/contents+fr.lr:speaker.dates)
 msgid "mercredi-29-aout"
@@ -599,9 +581,8 @@ msgstr ""
 msgid "#Activités"
 msgstr "#Activiteiten"
 
-#: http://localhost/journee-info-sans-ordi/
+#: (dynamic) http://localhost/journee-info-sans-ordi/
 #: (content/journee-info-sans-ordi/contents+fr.lr:details-program.date)
-#: (dynamic)
 msgid "Journée info sans ordi"
 msgstr ""
 
@@ -614,9 +595,9 @@ msgstr ""
 msgid "concert festif"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.s_speakers)
-msgid "Intervenants"
-msgstr "Speakers"
+#: (dynamic)
+msgid "Concert festif"
+msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid ""
@@ -715,9 +696,9 @@ msgstr "Maandag"
 msgid "clarinette"
 msgstr ""
 
-#: (dynamic)
-msgid "Concert festif"
-msgstr ""
+#: http://localhost/ (content/contents+fr.lr:page.s_speakers)
+msgid "Intervenants"
+msgstr "Speakers"
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "- Dr Nicolas Pettiaux (ESI-HE2B & ULB-Lisa, maître-assistant)"
@@ -810,11 +791,6 @@ msgid ""
 msgstr ""
 "De organisatie van deze conferentie is in wezen * vrijwillig *. _Alle hulp "
 "en ondersteuning zijn welkom_."
-
-#: http://localhost/vendredi-27-septembre/
-#: (content/vendredi-27-septembre/contents+fr.lr:details-program.description)
-msgid "A faire"
-msgstr ""
 
 #: (dynamic)
 msgid "Le carnaval des animaux"
@@ -953,6 +929,9 @@ msgid ""
 msgstr ""
 "Een internationale conferentie om alle belanghebbenden in het onderwijs te "
 "informeren, te informeren en te interesseren voor de digitale uitdagingen."
+
+#~ msgid "Hôtels"
+#~ msgstr "Hotels"
 
 #~ msgid ""
 #~ "Il est développé en commun sur [github](https://github.com/EduCodeBe/"

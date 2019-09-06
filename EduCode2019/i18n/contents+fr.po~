@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: EduCode 2019\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-06 19:44+CET\n"
+"POT-Creation-Date: 2019-09-06 20:02+CET\n"
 "PO-Revision-Date: 2019-08-27 09:29+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -148,10 +148,6 @@ msgstr "- Prof Thierry Massart (ULB)"
 msgid "La liste des ateliers sera publiée pour le 5 septembre 2019"
 msgstr "La liste des ateliers sera publiée pour le 5 septembre 2019"
 
-#: (dynamic)
-msgid "Journée principale"
-msgstr ""
-
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "- Alexia Pasini (HE2B, co-présidente)"
 msgstr "- Alexia Pasini (HE2B, co-présidente)"
@@ -169,11 +165,6 @@ msgstr "- Prof Colin de la Higuera (Université de Nantes)"
 msgid "journée principale"
 msgstr ""
 
-#: http://localhost/vendredi-27-septembre/
-#: (content/vendredi-27-septembre/contents+fr.lr:details-program.description)
-msgid "Description du programme du vendredi 27 semptembre"
-msgstr ""
-
 #: http://localhost/ (content/contents+fr.lr:page.submissions_text)
 msgid ""
 "Faites-nous part de vos propositions de stand au sein de l'exposition  en "
@@ -185,11 +176,6 @@ msgstr ""
 #: (dynamic)
 msgid "Concert festif exceptionnel"
 msgstr "Concert festif exceptionnel"
-
-#: http://localhost/vendredi-27-septembre/
-#: (content/vendredi-27-septembre/contents+fr.lr:details-program.date)
-msgid "vendredi 27 septembre"
-msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.s_registration)
 msgid "Inscription"
@@ -354,9 +340,9 @@ msgid ""
 msgstr ""
 "Pour plus d'information et la préinscription, voir http://wiki.educode.be"
 
-#: http://localhost/ (content/contents+fr.lr:page.s_our_partners)
-msgid "Nos partenaires"
-msgstr "Nos partenaires"
+#: (dynamic)
+msgid "Journée principale"
+msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.s_program)
 msgid "Programme"
@@ -386,6 +372,10 @@ msgstr ""
 "- 15h00 à 15h30 : Conférence par Françoise Bols (HE2B et ULiège) : Enseigner "
 "le numérique et l'informatique en haute école : défis et opportunités"
 
+#: http://localhost/ (content/contents+fr.lr:page.s_our_partners)
+msgid "Nos partenaires"
+msgstr "Nos partenaires"
+
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "L’évènement comporte 3 parties pour 4 publics :"
 msgstr "L’évènement comporte 3 parties pour 4 publics :"
@@ -397,10 +387,6 @@ msgid ""
 msgstr ""
 "La conférence est **gratuite** pour les enseignants francophones membres de "
 "l'association educode."
-
-#: (dynamic)
-msgid "Concert festif avant première"
-msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "- Eric Robette"
@@ -583,10 +569,6 @@ msgstr "Concert Festif Educode"
 msgid "Concert festif - Avant première"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.s_hotel)
-msgid "Hôtels"
-msgstr "Hôtels"
-
 #: http://localhost/intervenants/colin-de-la-higuera/
 #: (content/intervenants/colin-de-la-higuera/contents+fr.lr:speaker.dates)
 msgid "mercredi-29-aout"
@@ -596,9 +578,8 @@ msgstr "mercredi-29-aout"
 msgid "#Activités"
 msgstr "#Activités"
 
-#: http://localhost/journee-info-sans-ordi/
+#: (dynamic) http://localhost/journee-info-sans-ordi/
 #: (content/journee-info-sans-ordi/contents+fr.lr:details-program.date)
-#: (dynamic)
 msgid "Journée info sans ordi"
 msgstr ""
 
@@ -611,9 +592,9 @@ msgstr "Avec"
 msgid "concert festif"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.s_speakers)
-msgid "Intervenants"
-msgstr "Intervenants"
+#: (dynamic)
+msgid "Concert festif"
+msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid ""
@@ -716,9 +697,9 @@ msgstr "Lundi"
 msgid "clarinette"
 msgstr "clarinette"
 
-#: (dynamic)
-msgid "Concert festif"
-msgstr ""
+#: http://localhost/ (content/contents+fr.lr:page.s_speakers)
+msgid "Intervenants"
+msgstr "Intervenants"
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "- Dr Nicolas Pettiaux (ESI-HE2B & ULB-Lisa, maître-assistant)"
@@ -812,11 +793,6 @@ msgid ""
 msgstr ""
 "L'organisation de cette conférence est essentiellement *bénévole*. _Toute "
 "aide et tout soutien sont les bienvenus_."
-
-#: http://localhost/vendredi-27-septembre/
-#: (content/vendredi-27-septembre/contents+fr.lr:details-program.description)
-msgid "A faire"
-msgstr ""
 
 #: (dynamic)
 msgid "Le carnaval des animaux"
@@ -961,6 +937,9 @@ msgid ""
 msgstr ""
 "Une conférence internationale pour informer, former et susciter l'intérêt de "
 "tous les acteurs de l'enseignement aux défis du numérique."
+
+#~ msgid "Hôtels"
+#~ msgstr "Hôtels"
 
 #~ msgid "* flyers"
 #~ msgstr "* flyers"

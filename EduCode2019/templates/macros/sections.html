@@ -14,12 +14,12 @@
 		 {
                     "expandable": True,
                     "href": "#program",
-                    "text": context.s_program,
+                    "text": _("Programme"),
                     "children": [
-                        {"href": "#anchor-overview",  "text": context.s_overview_program},
+                        {"href": alt + "/#anchor-overview",  "text": _("Aperçu du programme")},
                         {"href": "/journee-principale"    | url, "text": _("Journée principale")},
                         {"href": "/journee-info-sans-ordi"    | url, "text": _("Journée info sans ordi")},
-                        {"href": "/concert-festif-avant-première"    | url, "text": _("Avant première du concert")},
+                        {"href": "/concert-festif-avant-premiere"    | url, "text": _("Avant première du concert")},
                         {"href": "/concert-festif"    | url, "text": _("Concert festif")}
                     ]
                 },
@@ -40,22 +40,22 @@
 		 {
                     "expandable": True,
                     "href": "#program",
-                    "text": context.s_program,
+                    "text": _("Programme"),
                     "children": [
-                        {"href": "#anchor-overview",  "text": root_page.s_overview_program},
+                        {"href": alt + "/#anchor-overview",  "text": _("Aperçu du programme")},
                         {"href": "/journee-principale"    | url, "text": _("Journée principale")},
                         {"href": "/journee-info-sans-ordi"    | url, "text": _("Journée info sans ordi")},
-                        {"href": "/concert-festif-avant-première"    | url, "text": _("Avant première du concert")},
+                        {"href": "/concert-festif-avant-premiere"    | url, "text": _("Avant première du concert")},
                         {"href": "/concert-festif"    | url, "text": _("Concert festif")}
                     ]
                 },
-                {"expandable": False, "href": '#anchor-speakers',        "text": root_page.s_speakers},
-                {"expandable": False, "href": '#anchor-expo',            "text": root_page.s_expo},
-                {"expandable": False, "href": '#anchor-partners',        "text": root_page.s_partners},
-                {"expandable": False, "href": '#anchor-inscription',     "text": root_page.s_registration},
-                {"expandable": False, "href": '#anchor-practical-infos',     "text": "Info pratiques"},
-                {"expandable": False, "href": '#anchor-press',           "text": root_page.s_press},    
-                {"expandable": False, "href": '#anchor-contact',         "text": root_page.s_contact}
+                {"expandable": False, "href": alt + '/#anchor-speakers',        "text": root_page.s_speakers},
+                {"expandable": False, "href": alt + '/#anchor-expo',            "text": root_page.s_expo},
+                {"expandable": False, "href": alt + '/#anchor-partners',        "text": root_page.s_partners},
+                {"expandable": False, "href": alt + '/#anchor-inscription',     "text": root_page.s_registration},
+                {"expandable": False, "href": alt + '/#anchor-practical-infos',     "text": "Info pratiques"},
+                {"expandable": False, "href": alt + '/#anchor-press',           "text": root_page.s_press},    
+                {"expandable": False, "href": alt + '/#anchor-contact',         "text": root_page.s_contact}
             ]
         %}
     {% endif %}

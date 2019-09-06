@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: EduCode 2019\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-06 19:44+CET\n"
+"POT-Creation-Date: 2019-09-06 20:02+CET\n"
 "PO-Revision-Date: 2019-07-24 17:38+CET\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -124,10 +124,6 @@ msgstr ""
 msgid "La liste des ateliers sera publiée pour le 5 septembre 2019"
 msgstr ""
 
-#: (dynamic)
-msgid "Journée principale"
-msgstr ""
-
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "- Alexia Pasini (HE2B, co-présidente)"
 msgstr ""
@@ -145,11 +141,6 @@ msgstr ""
 msgid "journée principale"
 msgstr ""
 
-#: http://localhost/vendredi-27-septembre/
-#: (content/vendredi-27-septembre/contents+fr.lr:details-program.description)
-msgid "Description du programme du vendredi 27 semptembre"
-msgstr ""
-
 #: http://localhost/ (content/contents+fr.lr:page.submissions_text)
 msgid ""
 "Faites-nous part de vos propositions de stand au sein de l'exposition  en "
@@ -158,11 +149,6 @@ msgstr ""
 
 #: (dynamic)
 msgid "Concert festif exceptionnel"
-msgstr ""
-
-#: http://localhost/vendredi-27-septembre/
-#: (content/vendredi-27-septembre/contents+fr.lr:details-program.date)
-msgid "vendredi 27 septembre"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.s_registration)
@@ -305,8 +291,8 @@ msgid ""
 "Pour plus d'information et la préinscription, voir http://wiki.educode.be"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.s_our_partners)
-msgid "Nos partenaires"
+#: (dynamic)
+msgid "Journée principale"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.s_program)
@@ -331,6 +317,10 @@ msgid ""
 "le numérique et l'informatique en haute école : défis et opportunités"
 msgstr ""
 
+#: http://localhost/ (content/contents+fr.lr:page.s_our_partners)
+msgid "Nos partenaires"
+msgstr ""
+
 #: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "L’évènement comporte 3 parties pour 4 publics :"
 msgstr ""
@@ -339,10 +329,6 @@ msgstr ""
 msgid ""
 "La conférence est **gratuite** pour les enseignants francophones membres de "
 "l'association educode."
-msgstr ""
-
-#: (dynamic)
-msgid "Concert festif avant première"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
@@ -494,10 +480,6 @@ msgstr ""
 msgid "Concert festif - Avant première"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.s_hotel)
-msgid "Hôtels"
-msgstr ""
-
 #: http://localhost/intervenants/colin-de-la-higuera/
 #: (content/intervenants/colin-de-la-higuera/contents+fr.lr:speaker.dates)
 msgid "mercredi-29-aout"
@@ -507,9 +489,8 @@ msgstr ""
 msgid "#Activités"
 msgstr ""
 
-#: http://localhost/journee-info-sans-ordi/
+#: (dynamic) http://localhost/journee-info-sans-ordi/
 #: (content/journee-info-sans-ordi/contents+fr.lr:details-program.date)
-#: (dynamic)
 msgid "Journée info sans ordi"
 msgstr ""
 
@@ -522,8 +503,8 @@ msgstr ""
 msgid "concert festif"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.s_speakers)
-msgid "Intervenants"
+#: (dynamic)
+msgid "Concert festif"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
@@ -612,8 +593,8 @@ msgstr ""
 msgid "clarinette"
 msgstr ""
 
-#: (dynamic)
-msgid "Concert festif"
+#: http://localhost/ (content/contents+fr.lr:page.s_speakers)
+msgid "Intervenants"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.monday)
@@ -695,11 +676,6 @@ msgstr ""
 msgid ""
 "L'organisation de cette conférence est essentiellement *bénévole*. _Toute "
 "aide et tout soutien sont les bienvenus_."
-msgstr ""
-
-#: http://localhost/vendredi-27-septembre/
-#: (content/vendredi-27-septembre/contents+fr.lr:details-program.description)
-msgid "A faire"
 msgstr ""
 
 #: (dynamic)
