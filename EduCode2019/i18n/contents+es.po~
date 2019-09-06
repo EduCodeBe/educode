@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: EduCode 2019\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-06 20:02+CET\n"
+"POT-Creation-Date: 2019-09-06 20:33+CET\n"
 "PO-Revision-Date: 2019-07-24 17:38+CET\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -16,18 +16,21 @@ msgstr ""
 msgid "contrebasse"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid ""
 "- 15h30 à 16h00 : Conférence **État de la recherche en éducation et "
 "numérique** par Julie Henry (Unamur)"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "- Dr Nicolas Pettiaux"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.s_saturday)
-msgid "Samedi"
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
+msgid "- Prof Bernard Rentier (Uliège, ancien recteur)"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.s_practical_infos)
@@ -38,11 +41,12 @@ msgstr ""
 msgid "Soumettre un poster"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.s_overview_program)
+#: http://localhost/ (content/contents+fr.lr:page.s_overview_program) (dynamic)
 msgid "Aperçu du programme"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid ""
 "Durant les pauses, ils pourront rencontrer de très nombreux acteurs, "
 "essentiellement associatifs, qui proposent des activités liées au numérique "
@@ -62,7 +66,8 @@ msgstr ""
 msgid "violon"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid ""
 "À la haute école Bruxelles-Brabant, Catégorie Defré, avenue Defré à 1180 "
 "Uccle, très aisément accessible en transports en commun, voiture et vélo."
@@ -104,19 +109,23 @@ msgstr ""
 msgid "piano"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "- Eric Robette (HE2B-Defré, maître-assistant)"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "- 17h à 18h : buffet de clôture"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "#Localisation"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "- Prof Thierry Massart (ULB)"
 msgstr ""
 
@@ -124,7 +133,12 @@ msgstr ""
 msgid "La liste des ateliers sera publiée pour le 5 septembre 2019"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
+#: (dynamic)
+msgid "Journée principale"
+msgstr ""
+
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "- Alexia Pasini (HE2B, co-présidente)"
 msgstr ""
 
@@ -132,13 +146,13 @@ msgstr ""
 msgid "de"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "- Prof Colin de la Higuera (Université de Nantes)"
 msgstr ""
 
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.date)
-msgid "journée principale"
+#: (dynamic)
+msgid "Avant première du concert festif"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.submissions_text)
@@ -157,14 +171,11 @@ msgstr ""
 
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
-msgid "A faire : description du 27"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.monday)
 msgid "#Contenu"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "# Comité scientifique et de soutien"
 msgstr ""
 
@@ -174,7 +185,8 @@ msgid ""
 "midi et du soir."
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid ""
 "- 16h00 à 18h00 : Projection du film **La bataille du libre** suivie d'une "
 "discussion avec son réalisateur, Philippe Borel"
@@ -190,14 +202,16 @@ msgid ""
 "1180 Bruxelles"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid ""
 "- 14h00 à 15h00 : Table-ronde Enseignement et technologie dans le monde : ce "
 "qui marche ou pas, et pourquoi, ce qui pourrait être fait (avec des "
 "représentants nationaux de différents pays)"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "2. Une ouverte au grand public avec exposition et conférences"
 msgstr ""
 
@@ -211,7 +225,8 @@ msgid ""
 "confirmation de IFC pour le 20 août 2019."
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "- Michel Willemse (HE2B-ESI, directeur)"
 msgstr ""
 
@@ -233,8 +248,13 @@ msgstr ""
 msgid "Presse"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "- Yves Robaey (HE2B, co-président)"
+msgstr ""
+
+#: (dynamic)
+msgid "avant première"
 msgstr ""
 
 #: http://localhost/intervenants/gilles-dowek/
@@ -258,28 +278,32 @@ msgstr ""
 msgid "conteuse"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "#Comité d’organisation"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "﻿#Introduction"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.press_text)
-msgid ""
-"Une conférence de presse sera organisée début septembre 2019 à Bruxelles. Un "
-"point presse sera également organisé durant la conférence vers 13h."
+#: http://localhost/ (content/contents+fr.lr:page.journee_principale)
+#: (content/contents+fr.lr:page.journee_sans_ordi)
+#: (content/contents+fr.lr:page.concert_avant_premiere)
+#: (content/contents+fr.lr:page.concert)
+msgid "A faire"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid ""
 "- Laurence Bourguignon (Forsud, conseillère pédagogique - formatrice TICE et "
 "institutrice primaire, à Athénée Royal de Couvin - fondamental)"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "- Erick Mascart"
+#: http://localhost/ (content/contents+fr.lr:page.s_about_educode)
+msgid "À propos d'EduCode"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.text_button)
@@ -291,12 +315,8 @@ msgid ""
 "Pour plus d'information et la préinscription, voir http://wiki.educode.be"
 msgstr ""
 
-#: (dynamic)
-msgid "Journée principale"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.s_program)
-msgid "Programme"
+#: http://localhost/ (content/contents+fr.lr:page.s_our_partners)
+msgid "Nos partenaires"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.about)
@@ -311,17 +331,15 @@ msgstr ""
 msgid "Partenaires"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid ""
 "- 15h00 à 15h30 : Conférence par Françoise Bols (HE2B et ULiège) : Enseigner "
 "le numérique et l'informatique en haute école : défis et opportunités"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.s_our_partners)
-msgid "Nos partenaires"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.monday)
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "L’évènement comporte 3 parties pour 4 publics :"
 msgstr ""
 
@@ -331,20 +349,9 @@ msgid ""
 "l'association educode."
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "- Eric Robette"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.practical_infos)
-msgid ""
-"Merci de vous munir des documents d’inscription pour une vérification aisée."
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid ""
-"- 9h à 17h : plus de 30 ateliers pratiques sont organisés (100 ordinateurs "
-"seront installés dans des locaux de séminaires, et les participants seront "
-"invités à venir avec leurs portables)"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.about)
@@ -353,11 +360,26 @@ msgid ""
 "com/npettiaux/widgets/button.js\"></script>"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
+msgid ""
+"- 9h à 17h : plus de 30 ateliers pratiques sont organisés (100 ordinateurs "
+"seront installés dans des locaux de séminaires, et les participants seront "
+"invités à venir avec leurs portables)"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.practical_infos)
+msgid ""
+"Merci de vous munir des documents d’inscription pour une vérification aisée."
+msgstr ""
+
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "- Erick Mascart (Forsub, conseiller pédagogique et formateur)"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "- Olivier Goletti (Ulouvain & SIcarre, chercheur)"
 msgstr ""
 
@@ -380,36 +402,29 @@ msgid ""
 "Bruxelles-Brabant dans ses locaux de l'avenue Defré à Uccle (HE2B-Defré)."
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid ""
 "4. Une conférence consacrée à la recherche scientifique sur la pédagogie, "
 "l'enseignement et le numérique"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid ""
-"Quelques conférences mais surtout des ateliers pratiques et des "
-"présentations, notamment par des enseignants  et leurs étudiants, ou par des "
-"représentants des diverses sociétés spécialisées ou des associations qui "
-"contribuent à la formation à l'utilisation des TICE à l'école (telles que "
-"HE2B, ULBruxelles, ULiège, Unamur, UMons, USaintLouis, Devoxx4kids, SICarré, "
-"La société informatique de France, Class'Code, la  Scientothèque, "
-"Fablabe'ke, OpenFab, WeAreCoders, Roue de secours, BxLug, Abelli, CESEP, "
-"ForSud ... ). L'équipe de pilotage de la conférence souhaite mettre au "
-"service des acteurs de l'enseignement et du Pacte d'excellence sa "
-"connaissance des acteurs et sa capacité d'organisation de rencontres entre "
-"professionnels d'horizon divers."
+#: http://localhost/ (content/contents+fr.lr:page.s_thuesday)
+msgid "Mardi"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "- Denis Longrée"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "- Prof Pierre Wolper (Uliège, recteur)"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "- Dr Pierre De Buyl (KU Leuven, chercheur)"
 msgstr ""
 
@@ -417,7 +432,8 @@ msgstr ""
 msgid "Devenez partenaire"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid ""
 "Nicolas Pettiaux, président de l’asbl educode, nicolas@educode.be, gsm 496 "
 "24 55 01"
@@ -427,8 +443,8 @@ msgstr ""
 msgid "Soumettez ici"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "- Prof Bernard Rentier (Uliège, ancien recteur)"
+#: http://localhost/ (content/contents+fr.lr:page.s_saturday)
+msgid "Samedi"
 msgstr ""
 
 #: (dynamic)
@@ -441,7 +457,8 @@ msgid ""
 "A faire : Conférence de Gilles Dowek, concert festif et cocktail dînatoire"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid ""
 "L’objectif est d’organiser à nouveau une journée, autour de l’enseignement "
 "du numérique et de l’enseignement grâce au numérique tous niveaux confondus "
@@ -463,7 +480,8 @@ msgstr ""
 msgid "lundi-27-aout, mardi-28-aout"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "- Prof Bibiana Boccolini (Université de Rosario, Argentine)"
 msgstr ""
 
@@ -471,8 +489,11 @@ msgstr ""
 msgid "percussion"
 msgstr ""
 
-#: http://localhost/concert/ (content/concert/contents+fr.lr:concert.title)
-msgid "Concert Festif Educode"
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
+msgid ""
+"1. Des conférences, ateliers et expositions destinés essentiellement aux "
+"enseignants"
 msgstr ""
 
 #: http://localhost/concert-festif-avant-premiere/
@@ -485,12 +506,14 @@ msgstr ""
 msgid "mercredi-29-aout"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "#Activités"
 msgstr ""
 
-#: (dynamic) http://localhost/journee-info-sans-ordi/
+#: http://localhost/journee-info-sans-ordi/
 #: (content/journee-info-sans-ordi/contents+fr.lr:details-program.date)
+#: (dynamic)
 msgid "Journée info sans ordi"
 msgstr ""
 
@@ -503,11 +526,12 @@ msgstr ""
 msgid "concert festif"
 msgstr ""
 
-#: (dynamic)
-msgid "Concert festif"
+#: http://localhost/ (content/contents+fr.lr:page.s_speakers)
+msgid "Intervenants"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid ""
 "Les enseignants et leurs directions pourront suivre des conférences, une "
 "table-ronde et participer à de nombreux ateliers pratiques durant lesquels "
@@ -519,15 +543,24 @@ msgid ""
 "adaptées au numérique."
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "- Prof Olivier Debeir (ULB)"
 msgstr ""
 
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
+msgid "- Françoise Bols"
+msgstr ""
+
 #: http://localhost/ (content/contents+fr.lr:page.s_intro_dates)
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.date)
 msgid "27 septembre 2019"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "- Denis Matagne (HE2B-Defré, directeur)"
 msgstr ""
 
@@ -546,12 +579,12 @@ msgstr ""
 msgid "Avec cocktail : 50€ / 43€ (étudiant) / 30€ (sans emploi)"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid ""
-"- Denis Longrée (président de roue de secours asbl, maitre en mathématique)"
+#: http://localhost/ (content/contents+fr.lr:page.s_program) (dynamic)
+msgid "Programme"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "- Françoise Bols (HE2B-Nivelles, chargé de cours)"
 msgstr ""
 
@@ -575,7 +608,8 @@ msgstr ""
 msgid "A faire : détail"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "#Comité de programme"
 msgstr ""
 
@@ -593,11 +627,12 @@ msgstr ""
 msgid "clarinette"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.s_speakers)
-msgid "Intervenants"
+#: (dynamic)
+msgid "Concert festif"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "- Dr Nicolas Pettiaux (ESI-HE2B & ULB-Lisa, maître-assistant)"
 msgstr ""
 
@@ -605,11 +640,13 @@ msgstr ""
 msgid "Avant première du concert"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "#Objectifs"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid ""
 "- 9h - 17h : petites conférences et exposés pour les enseignants et toute "
 "personne intéressée. Durant les pauses, les écoles, associations, "
@@ -618,11 +655,12 @@ msgid ""
 "autres espaces)"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.s_free_expose)
-msgid "Exposer et tenir un stand"
+#: http://localhost/ (content/contents+fr.lr:page.title)
+msgid "Bienvenue à EduCode"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "#Contact"
 msgstr ""
 
@@ -631,20 +669,29 @@ msgstr ""
 msgid "####Prix"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.title)
-msgid "Bienvenue à EduCode"
+#: http://localhost/ (content/contents+fr.lr:page.s_free_expose)
+msgid "Exposer et tenir un stand"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.s_about_educode)
-msgid "À propos d'EduCode"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.monday)
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "- Julie Henry (UNamur, chercheuse)"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "- Françoise Bols"
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
+msgid ""
+"Quelques conférences mais surtout des ateliers pratiques et des "
+"présentations, notamment par des enseignants  et leurs étudiants, ou par des "
+"représentants des diverses sociétés spécialisées ou des associations qui "
+"contribuent à la formation à l'utilisation des TICE à l'école (telles que "
+"HE2B, ULBruxelles, ULiège, Unamur, UMons, USaintLouis, Devoxx4kids, SICarré, "
+"La société informatique de France, Class'Code, la  Scientothèque, "
+"Fablabe'ke, OpenFab, WeAreCoders, Roue de secours, BxLug, Abelli, CESEP, "
+"ForSud ... ). L'équipe de pilotage de la conférence souhaite mettre au "
+"service des acteurs de l'enseignement et du Pacte d'excellence sa "
+"connaissance des acteurs et sa capacité d'organisation de rencontres entre "
+"professionnels d'horizon divers."
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.press_text)
@@ -657,15 +704,17 @@ msgstr ""
 msgid "Plus d'infos"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.s_friday)
+#: http://localhost/ (content/contents+fr.lr:page.s_friday) (dynamic)
 msgid "Vendredi"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid "- Éric Deprins, ex CEO de Toyota Belgium, Unilever, Mestdagh"
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
+msgid "- Erick Mascart"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid ""
 "Les journées consacrées aux enseignants seront, autant que possible, "
 "organisées avec le soutien de IFC pour être  reconnues par elles comme "
@@ -678,6 +727,12 @@ msgid ""
 "aide et tout soutien sont les bienvenus_."
 msgstr ""
 
+#: http://localhost/ (content/contents+fr.lr:page.press_text)
+msgid ""
+"Une conférence de presse sera organisée début septembre 2019 à Bruxelles. Un "
+"point presse sera également organisé durant la conférence vers 13h."
+msgstr ""
+
 #: (dynamic)
 msgid "Le carnaval des animaux"
 msgstr ""
@@ -686,11 +741,13 @@ msgstr ""
 msgid "flûte"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "- Georges Khaznadar (Lycée Jean Bart, Dunkerque)"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid ""
 "Les professeurs, directeurs d'école, parents et étudiants, chercheurs et "
 "toute personne intéressée par l'enseignement et le numérique comme par la "
@@ -718,7 +775,8 @@ msgid ""
 "lundi 7 octobre 2019 de 19h à 20h30 avec cocktail dinatoire."
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid ""
 "La conférence est ouverte et généraliste, et ne se limite pas au codage, "
 "même si les aspects liés à la résolution de problèmes, à la compréhension "
@@ -736,13 +794,12 @@ msgstr ""
 msgid "mai"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
-msgid ""
-"1. Des conférences, ateliers et expositions destinés essentiellement aux "
-"enseignants"
+#: http://localhost/concert/ (content/concert/contents+fr.lr:concert.title)
+msgid "Concert Festif Educode"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid ""
 "3. Une conférence et des activités dédiées aux directeurs d’établissement"
 msgstr ""
@@ -751,22 +808,26 @@ msgstr ""
 msgid "Proposer un atelier"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "- Prof Hugues Bersini (ULB)"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.monday)
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "- Karin Van Loon (HE2B-ISIB, directrice)"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.s_thuesday)
-msgid "Mardi"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.about)
 msgid ""
 "Toute  proposition d'aide peut être envoyée à [aider@educode.be](mailto://"
 "aider@educode.be?subject=Aider educode&body=Je souhaite aider educode)."
+msgstr ""
+
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
+msgid ""
+"- Denis Longrée (président de roue de secours asbl, maitre en mathématique)"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.registration)
@@ -780,6 +841,11 @@ msgid ""
 "<noscript><a href=\"https://liberapay.com/npettiaux/donate\"><img alt="
 "\"Donate using Liberapay\" src=\"https://liberapay.com/assets/widgets/donate."
 "svg\"></a></noscript>"
+msgstr ""
+
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
+msgid "- Éric Deprins, ex CEO de Toyota Belgium, Unilever, Mestdagh"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.baseline)
