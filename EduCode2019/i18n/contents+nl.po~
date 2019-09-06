@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: educode\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-06 20:33+CET\n"
+"POT-Creation-Date: 2019-09-06 21:00+CET\n"
 "PO-Revision-Date: 2019-08-26 20:08+0200\n"
 "Last-Translator: npettiaux\n"
 "Language-Team: Flemish\n"
@@ -123,11 +123,6 @@ msgstr ""
 "Catherine. Wilt u meer informatie over Brussel, klik dan [hier](http://visit."
 "brussels)"
 
-#: http://localhost/concert/
-#: (content/concert/contents+fr.lr:concert.description)
-msgid "####Achetez les tickets [ici](https://educode.be)"
-msgstr ""
-
 #: (dynamic)
 msgid "alto"
 msgstr ""
@@ -140,6 +135,11 @@ msgstr ""
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "- Eric Robette (HE2B-Defré, maître-assistant)"
 msgstr "- Eric Robette (HE2B-Defré, assistent-master)"
+
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
+msgid "- Erick Mascart"
+msgstr "- Erick Mascart"
 
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
@@ -181,6 +181,10 @@ msgstr "- Prof Colin de la Higuera (Universiteit van Nantes)"
 #: (dynamic)
 msgid "Avant première du concert festif"
 msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.s_intro_location_city)
+msgid "Bruxelles, Belgique"
+msgstr "Brussel, België"
 
 #: http://localhost/ (content/contents+fr.lr:page.submissions_text)
 msgid ""
@@ -300,10 +304,6 @@ msgstr "Press"
 msgid "- Yves Robaey (HE2B, co-président)"
 msgstr "- Yves Robaey (HE2B, co-voorzitter)"
 
-#: (dynamic)
-msgid "avant première"
-msgstr ""
-
 #: http://localhost/intervenants/gilles-dowek/
 #: (content/intervenants/gilles-dowek/contents+fr.lr:speaker.dates)
 #: http://localhost/intervenants/laurent-beeckmans/
@@ -330,14 +330,14 @@ msgstr ""
 msgid "#Comité d’organisation"
 msgstr "#Organisatiecomité"
 
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
-msgid "﻿#Introduction"
-msgstr "#Introductie"
+#: http://localhost/concert/
+#: (content/concert/contents+fr.lr:concert.description)
+msgid "Avec cocktail : 50€ / 40€ / 30€ (étudiant) / 25€ (sans emploi)"
+msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.journee_principale)
-#: (content/contents+fr.lr:page.journee_sans_ordi)
 #: (content/contents+fr.lr:page.concert_avant_premiere)
+#: (content/contents+fr.lr:page.journee_sans_ordi)
 #: (content/contents+fr.lr:page.concert)
 msgid "A faire"
 msgstr ""
@@ -367,6 +367,11 @@ msgstr "Voor meer informatie en pre-registratie, zie http://wiki.educode.be"
 #: http://localhost/ (content/contents+fr.lr:page.s_our_partners)
 msgid "Nos partenaires"
 msgstr "Onze partners"
+
+#: http://localhost/concert/
+#: (content/concert/contents+fr.lr:concert.description)
+msgid "Sans cocktail : 30€ / 20€ / 15€ (étudiant) / 12€ (sans emploi)"
+msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.about)
 msgid ""
@@ -454,9 +459,8 @@ msgstr "Contact"
 msgid "Beaucoup participent à l'[exposition](/exposition) ."
 msgstr "Velen nemen deel aan de [tentoonstelling](/exposition)."
 
-#: http://localhost/concert/
-#: (content/concert/contents+fr.lr:concert.description)
-msgid "Sans cocktail : 25€ / 18€ (étudiant) / 12€ (sans emploi)"
+#: (dynamic)
+msgid "violoncelle"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.about)
@@ -517,8 +521,11 @@ msgstr "Dien hier in"
 msgid "Samedi"
 msgstr "Zaterdag"
 
-#: (dynamic)
-msgid "violoncelle"
+#: http://localhost/concert/
+#: (content/concert/contents+fr.lr:concert.description)
+msgid ""
+"Des réductions existent pour  les étudiants et les sans emploi. Possibilité "
+"de réservation avec cocktail."
 msgstr ""
 
 #: http://localhost/concert-festif/
@@ -662,11 +669,6 @@ msgstr ""
 "Educode-deelnemers worden vanaf 8.30 uur verwacht. Conferenties en workshops "
 "beginnen om 9: 00 uur."
 
-#: http://localhost/concert/
-#: (content/concert/contents+fr.lr:concert.description)
-msgid "Avec cocktail : 50€ / 43€ (étudiant) / 30€ (sans emploi)"
-msgstr ""
-
 #: http://localhost/ (content/contents+fr.lr:page.s_program) (dynamic)
 msgid "Programme"
 msgstr "Programma"
@@ -678,14 +680,8 @@ msgstr "- Françoise Bols (HE2B-Nivelles, lector)"
 
 #: http://localhost/concert/
 #: (content/concert/contents+fr.lr:concert.description)
-msgid ""
-"Des réductions existent pour plusieurs les étudiants et les sans emploi. "
-"Possibilité de réservation avec cocktail."
+msgid "####Achetez les tickets [ici](https://pretix.eu/educode2019/principal/)"
 msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.s_intro_location_city)
-msgid "Bruxelles, Belgique"
-msgstr "Brussel, België"
 
 #: http://localhost/ (content/contents+fr.lr:page.s_location)
 msgid "Lieux"
@@ -811,14 +807,14 @@ msgstr ""
 msgid "Plus d'infos"
 msgstr "Meer info"
 
-#: http://localhost/ (content/contents+fr.lr:page.s_friday) (dynamic)
+#: http://localhost/ (content/contents+fr.lr:page.s_friday)
 msgid "Vendredi"
 msgstr "Vrijdag"
 
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
-msgid "- Erick Mascart"
-msgstr "- Erick Mascart"
+msgid "﻿#Introduction"
+msgstr "#Introductie"
 
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
