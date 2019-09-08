@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: EduCode 2019\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-08 20:09+CET\n"
+"POT-Creation-Date: 2019-09-08 20:41+CET\n"
 "PO-Revision-Date: 2019-08-27 09:29+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -12,6 +12,10 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Poedit 2.0.6\n"
+
+#: (dynamic)
+msgid "contrebasse"
+msgstr "contrebasse"
 
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
@@ -40,7 +44,7 @@ msgstr "Infos pratiques"
 msgid "Soumettre un poster"
 msgstr "Soumettre un poster"
 
-#: http://localhost/ (content/contents+fr.lr:page.s_overview_program)
+#: http://localhost/ (content/contents+fr.lr:page.s_overview_program) (dynamic)
 msgid "Aperçu du programme"
 msgstr "Aperçu du programme"
 
@@ -76,6 +80,10 @@ msgid ""
 "L'organisation de cette conférence est essentiellement bénévole. Toute aide "
 "et tout soutien sont les bienvenus."
 msgstr ""
+
+#: (dynamic)
+msgid "violon"
+msgstr "violon"
 
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
@@ -124,6 +132,14 @@ msgstr ""
 "Catherine. Si vous souhaitez plus d'informations sur Bruxelles, cliquez [ici]"
 "(http://visit.brussels)"
 
+#: (dynamic)
+msgid "alto"
+msgstr "alto"
+
+#: (dynamic)
+msgid "piano"
+msgstr "piano"
+
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "- Eric Robette (HE2B-Defré, maître-assistant)"
@@ -153,15 +169,27 @@ msgstr "- Prof Thierry Massart (ULB)"
 msgid "La liste des ateliers sera publiée pour le 5 septembre 2019"
 msgstr "La liste des ateliers sera publiée pour le 5 septembre 2019"
 
+#: (dynamic)
+msgid "Journée principale"
+msgstr ""
+
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "- Alexia Pasini (HE2B, co-présidente)"
 msgstr "- Alexia Pasini (HE2B, co-présidente)"
 
+#: (dynamic)
+msgid "de"
+msgstr "de"
+
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "- Prof Colin de la Higuera (Université de Nantes)"
 msgstr "- Prof Colin de la Higuera (Université de Nantes)"
+
+#: (dynamic)
+msgid "Avant première du concert festif"
+msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.concert)
 msgid "Un soirée exceptionnelle dans un lieu d'exception"
@@ -179,6 +207,10 @@ msgstr ""
 #: (content/lieux/he2b-defre/contents+fr.lr:location.address)
 msgid "Avenue Defré 62 à 1180 Bruxelles (Uccle)"
 msgstr ""
+
+#: (dynamic)
+msgid "Concert festif exceptionnel"
+msgstr "Concert festif exceptionnel"
 
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
@@ -228,6 +260,10 @@ msgid ""
 msgstr ""
 "- 16h00 à 18h00 : Projection du film **La bataille du libre** suivie d'une "
 "discussion avec son réalisateur, Philippe Borel"
+
+#: (dynamic)
+msgid "violoncelle"
+msgstr "violoncelle"
 
 #: http://localhost/dons/
 #: (content/dons/contents+fr.lr:details-program.description)
@@ -292,9 +328,15 @@ msgstr ""
 msgid "- Michel Willemse (HE2B-ESI, directeur)"
 msgstr "- Michel Willemse (HE2B-ESI, directeur)"
 
-#: http://localhost/ (content/contents+fr.lr:page.journee_principale)
-msgid "[Plus d'informations...](journee-principale)"
+#: http://localhost/ (content/contents+fr.lr:page.practical_infos)
+msgid ""
+"S'ils ne l'ont pas fait lors de leur inscription, les participants pourront "
+"commander à leur arrivée des sandwiches pour le midi. Du café, du thé et des "
+"boissons seront mis à disposition."
 msgstr ""
+"S'ils ne l'ont pas fait lors de leur inscription, les participants pourront "
+"commander à leur arrivée des sandwiches pour le midi. Du café, du thé et des "
+"boissons seront mis à disposition."
 
 #: http://localhost/intervenants/georges-khaznadar/
 #: (content/intervenants/georges-khaznadar/contents+fr.lr:speaker.dates)
@@ -328,6 +370,10 @@ msgstr "- Yves Robaey (HE2B, co-président)"
 #: (content/intervenants/hugues-bersini/contents+fr.lr:speaker.dates)
 msgid "lundi-27-aout"
 msgstr "lundi-27-aout"
+
+#: (dynamic)
+msgid "conteuse"
+msgstr "conteuse"
 
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
@@ -607,6 +653,14 @@ msgstr "- Prof Bibiana Boccolini (Université de Rosario, Argentine)"
 msgid "####Achetez les tickets [ici](inscriptions.educode.be)"
 msgstr ""
 
+#: (dynamic)
+msgid "Avant première du concert"
+msgstr ""
+
+#: (dynamic)
+msgid "percussion"
+msgstr "percussion"
+
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid ""
@@ -638,12 +692,24 @@ msgstr "#Activités"
 
 #: http://localhost/journee-info-sans-ordi/
 #: (content/journee-info-sans-ordi/contents+fr.lr:details-program.date)
+#: (dynamic)
 msgid "Journée info sans ordi"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.concert_avant_premiere)
+msgid "[Plus d'informations...](concert-festif-avant-premiere)"
 msgstr ""
 
 #: http://localhost/concert-festif/
 #: (content/concert-festif/contents+fr.lr:details-program.date)
 msgid "concert festif"
+msgstr ""
+
+#: http://localhost/lieux/he2b-defre/
+#: (content/lieux/he2b-defre/contents+fr.lr:location.directions)
+#: http://localhost/lieux/cellule133a/
+#: (content/lieux/cellule133a/contents+fr.lr:location.directions)
+msgid "Plus tard"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.s_speakers)
@@ -710,17 +776,15 @@ msgstr ""
 "Les participants à Educode  sont attendus dès 8h30. Les conférences et "
 "ateliers commencent à 9h00 précise."
 
-#: http://localhost/ (content/contents+fr.lr:page.practical_infos)
-msgid ""
-"S'ils ne l'ont pas fait lors de leur inscription, les participants pourront "
-"commander à leur arrivée des sandwiches pour le midi. Du café, du thé et des "
-"boissons seront mis à disposition."
+#: http://localhost/ (content/contents+fr.lr:page.journee_principale)
+msgid "[Plus d'informations...](journee-principale)"
 msgstr ""
-"S'ils ne l'ont pas fait lors de leur inscription, les participants pourront "
-"commander à leur arrivée des sandwiches pour le midi. Du café, du thé et des "
-"boissons seront mis à disposition."
 
-#: http://localhost/ (content/contents+fr.lr:page.s_program)
+#: (dynamic)
+msgid "Avec"
+msgstr "Avec"
+
+#: http://localhost/ (content/contents+fr.lr:page.s_program) (dynamic)
 msgid "Programme"
 msgstr "Programme"
 
@@ -730,6 +794,7 @@ msgid "- Françoise Bols (HE2B-Nivelles, chargé de cours)"
 msgstr "- Françoise Bols (HE2B-Nivelles, chargé de cours)"
 
 #: http://localhost/dons/ (content/dons/contents+fr.lr:details-program.date)
+#: (dynamic)
 msgid "Dons"
 msgstr "Dons"
 
@@ -772,11 +837,8 @@ msgstr ""
 "Les propositions d'ateliers devraient être entrées pour le 10 aout 2019 dans "
 "http://wiki.educode.be"
 
-#: http://localhost/lieux/he2b-defre/
-#: (content/lieux/he2b-defre/contents+fr.lr:location.directions)
-#: http://localhost/lieux/cellule133a/
-#: (content/lieux/cellule133a/contents+fr.lr:location.directions)
-msgid "Plus tard"
+#: http://localhost/ (content/contents+fr.lr:page.journee_principale)
+msgid "[Plus d'informations...](./journee-principale)"
 msgstr ""
 
 #: http://localhost/lieux/cellule133a/
@@ -787,6 +849,14 @@ msgstr ""
 #: http://localhost/ (content/contents+fr.lr:page.s_monday)
 msgid "Lundi"
 msgstr "Lundi"
+
+#: (dynamic)
+msgid "clarinette"
+msgstr "clarinette"
+
+#: (dynamic)
+msgid "Concert festif"
+msgstr ""
 
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
@@ -891,6 +961,10 @@ msgstr ""
 "connaissance des acteurs et sa capacité d'organisation de rencontres entre "
 "professionnels d'horizon divers."
 
+#: http://localhost/ (content/contents+fr.lr:page.concert)
+msgid "[Plus d'informations...](concert)"
+msgstr ""
+
 #: http://localhost/ (content/contents+fr.lr:page.press_text)
 msgid ""
 "Vous pouvez également télécharger des documents utiles en cliquant sur le "
@@ -898,6 +972,10 @@ msgid ""
 msgstr ""
 "Vous pouvez également télécharger des documents utiles en cliquant sur le "
 "lien ci-dessous."
+
+#: http://localhost/ (content/contents+fr.lr:page.journee_sans_ordi)
+msgid "[Plus d'informations...](journee-info-sans-ordi)"
+msgstr ""
 
 #: http://localhost/dons/
 #: (content/dons/contents+fr.lr:details-program.description)
@@ -968,6 +1046,14 @@ msgstr ""
 msgid "- Françoise Bols"
 msgstr "- Françoise Bols"
 
+#: (dynamic)
+msgid "Le carnaval des animaux"
+msgstr "Le carnaval des animaux"
+
+#: (dynamic)
+msgid "flûte"
+msgstr "flûte"
+
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "- Georges Khaznadar (Lycée Jean Bart, Dunkerque)"
@@ -1009,6 +1095,14 @@ msgstr ""
 "promotion et à la diffusion de l'information autour de la conférence, sont "
 "des membres du comité d'organisation de la conférence, encadrent des "
 "ateliers..."
+
+#: (dynamic)
+msgid ""
+"Dans la salle gothique de l'hôtel de ville de Bruxelles, à la Grand-Place, "
+"lundi 7 octobre 2019 de 19h à 20h30 avec cocktail dinatoire."
+msgstr ""
+"Dans la salle gothique de l'hôtel de ville de Bruxelles, à la Grand-Place, "
+"lundi 7 octobre 2019 de 19h à 20h30 avec cocktail dinatoire."
 
 #: http://localhost/lieux/villebxl/
 #: (content/lieux/villebxl/contents+fr.lr:location.address)
@@ -1109,84 +1203,6 @@ msgid ""
 msgstr ""
 "Une conférence internationale pour informer, former et susciter l'intérêt de "
 "tous les acteurs de l'enseignement aux défis du numérique."
-
-#: templates/concert.html:12
-msgid "Concert festif exceptionnel"
-msgstr "Concert festif exceptionnel"
-
-#: templates/concert.html:14
-msgid ""
-"Dans la salle gothique de l'hôtel de ville de Bruxelles, à la Grand-Place, "
-"lundi 7 octobre 2019 de 19h à 20h30 avec cocktail dinatoire."
-msgstr ""
-"Dans la salle gothique de l'hôtel de ville de Bruxelles, à la Grand-Place, "
-"lundi 7 octobre 2019 de 19h à 20h30 avec cocktail dinatoire."
-
-#: templates/concert.html:18
-msgid "Le carnaval des animaux"
-msgstr "Le carnaval des animaux"
-
-#: templates/concert.html:19
-msgid "de"
-msgstr "de"
-
-#: templates/concert.html:21
-msgid "Avec"
-msgstr "Avec"
-
-#: templates/concert.html:23
-msgid "flûte"
-msgstr "flûte"
-
-#: templates/concert.html:24
-msgid "clarinette"
-msgstr "clarinette"
-
-#: templates/concert.html:25 templates/concert.html:26
-msgid "violon"
-msgstr "violon"
-
-#: templates/concert.html:27
-msgid "alto"
-msgstr "alto"
-
-#: templates/concert.html:28
-msgid "violoncelle"
-msgstr "violoncelle"
-
-#: templates/concert.html:29
-msgid "contrebasse"
-msgstr "contrebasse"
-
-#: templates/concert.html:30 templates/concert.html:31
-msgid "piano"
-msgstr "piano"
-
-#: templates/concert.html:32
-msgid "percussion"
-msgstr "percussion"
-
-#: templates/concert.html:33
-msgid "conteuse"
-msgstr "conteuse"
-
-#: templates/macros/sections.html:20 templates/macros/sections.html:46
-#: templates/page.html:51
-msgid "Journée principale"
-msgstr ""
-
-#: templates/page.html:60
-msgid "Avant première du concert festif"
-msgstr ""
-
-#: templates/macros/sections.html:23 templates/macros/sections.html:49
-#: templates/page.html:78
-msgid "Concert festif"
-msgstr ""
-
-#: templates/macros/sections.html:22 templates/macros/sections.html:48
-msgid "Avant première du concert"
-msgstr ""
 
 #~ msgid "Beaucoup participent à l'[exposition](/exposition) ."
 #~ msgstr "Beaucoup participent à l'[exposition](/exposition) ."

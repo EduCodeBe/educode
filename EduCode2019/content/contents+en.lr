@@ -241,8 +241,14 @@ Un soirée exceptionnelle dans un lieu d'exception
 - 21h Cocktail dînatoire
 
 Voir l'[affiche](https://wiki.educode.be/lib/exe/fetch.php/educode_2019/concertcarnavaldesanimaux.png)
+
+[Plus d'informations...](concert)
 ---
-concert_avant_premiere: Une avant première du [concert festif](/concert) en petit commité.
+concert_avant_premiere:
+
+Une avant première du [concert festif](/concert) en petit commité.
+
+[Plus d'informations...](concert-festif-avant-premiere)
 ---
 journee_principale:
 
@@ -254,7 +260,7 @@ L'organisation de cette conférence est essentiellement bénévole. Toute don es
 
 Localisation sur une [carte](https://osm.org/go/0EoSK76Bo--?m=)
 
-[Plus d'informations...](./journee-principale)
+[Plus d'informations...](journee-principale)
 ---
 journee_sans_ordi:
 
@@ -265,3 +271,5 @@ La journée est gratuite pour les enseignants francophones membres de l'associat
 Pour plus d'information et la préinscription, voir http://wiki.educode.be ou par email à info@educode.be
 
 L'organisation de cette conférence est essentiellement bénévole. Toute aide et tout soutien sont les bienvenus.
+
+[Plus d'informations...](journee-info-sans-ordi)
