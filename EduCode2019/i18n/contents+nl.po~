@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: educode\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-06 21:00+CET\n"
+"POT-Creation-Date: 2019-09-08 19:19+CET\n"
 "PO-Revision-Date: 2019-08-26 20:08+0200\n"
 "Last-Translator: npettiaux\n"
 "Language-Team: Flemish\n"
@@ -48,7 +48,7 @@ msgstr "Praktische informatie"
 msgid "Soumettre un poster"
 msgstr "Verzend een poster"
 
-#: http://localhost/ (content/contents+fr.lr:page.s_overview_program) (dynamic)
+#: (dynamic) http://localhost/ (content/contents+fr.lr:page.s_overview_program)
 msgid "Aperçu du programme"
 msgstr "Programma overzicht"
 
@@ -77,14 +77,9 @@ msgstr "Zondag"
 msgid "violon"
 msgstr ""
 
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
-msgid ""
-"À la haute école Bruxelles-Brabant, Catégorie Defré, avenue Defré à 1180 "
-"Uccle, très aisément accessible en transports en commun, voiture et vélo."
+#: (dynamic)
+msgid "Journée principale"
 msgstr ""
-"Op de middelbare school Brussel-Brabant, Categorie Defré, De Frélaan in 1180 "
-"Ukkel, zeer gemakkelijk bereikbaar met het openbaar vervoer, auto en fiets."
 
 #: http://localhost/ (content/contents+fr.lr:page.expo_about)
 msgid ""
@@ -124,10 +119,6 @@ msgstr ""
 "brussels)"
 
 #: (dynamic)
-msgid "alto"
-msgstr ""
-
-#: (dynamic)
 msgid "piano"
 msgstr ""
 
@@ -148,6 +139,11 @@ msgstr "- 17.00 tot 18.00 uur: buffet sluiten"
 
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
+msgid "- Prof Pierre Wolper (Uliège, recteur)"
+msgstr "- Prof Pierre Wolper (Uliège, rector)"
+
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "#Localisation"
 msgstr "#Localisation"
 
@@ -159,10 +155,6 @@ msgstr "- Prof Thierry Massart (ULB)"
 #: http://localhost/ (content/contents+fr.lr:page.submissions_text)
 msgid "La liste des ateliers sera publiée pour le 5 septembre 2019"
 msgstr "De lijst met workshops wordt gepubliceerd voor 5 september 2019"
-
-#: (dynamic)
-msgid "Journée principale"
-msgstr ""
 
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
@@ -194,6 +186,11 @@ msgstr ""
 "Laat ons uw standvoorstellen binnen de tentoonstelling weten door op de "
 "onderstaande knop te klikken die u interesseert."
 
+#: http://localhost/lieux/he2b-defre/
+#: (content/lieux/he2b-defre/contents+fr.lr:location.address)
+msgid "Avenue Defré 62 à 1180 Bruxelles (Uccle)"
+msgstr ""
+
 #: (dynamic)
 msgid "Concert festif exceptionnel"
 msgstr ""
@@ -212,6 +209,11 @@ msgstr "#Content"
 msgid "# Comité scientifique et de soutien"
 msgstr "# Wetenschappelijk en ondersteunend comité"
 
+#: http://localhost/lieux/becentral/
+#: (content/lieux/becentral/contents+fr.lr:location.name)
+msgid "BeCentral"
+msgstr ""
+
 #: http://localhost/ (content/contents+fr.lr:page.expo_about)
 msgid ""
 "Celle-ci sera accessible essentiellement durant les pauses-cafés et repas du "
@@ -228,9 +230,23 @@ msgstr ""
 "- 16: 00 uur tot 18: 00 uur: vertoning van de film **The battle of the "
 "free** gevolgd door een discussie met de regisseur, Philippe Borel"
 
-#: http://localhost/ (content/contents+fr.lr:page.s_expo)
-msgid "Exposition"
-msgstr "Blootstelling"
+#: (dynamic)
+msgid "violoncelle"
+msgstr ""
+
+#: http://localhost/dons/
+#: (content/dons/contents+fr.lr:details-program.description)
+msgid ""
+"Nous avons besoin de vos soutiens financiers qui pourront, nous l'espérons "
+"très bientôt, être défiscalisés pour des dons supérieurs à 40 €."
+msgstr ""
+
+#: http://localhost/dons/
+#: (content/dons/contents+fr.lr:details-program.description)
+msgid ""
+"* allant sur <script src=\"https://liberapay.com/EduCode/widgets/button.js"
+"\"></script>"
+msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.practical_infos)
 msgid ""
@@ -340,6 +356,11 @@ msgstr ""
 #: (content/contents+fr.lr:page.journee_sans_ordi)
 #: (content/contents+fr.lr:page.concert)
 msgid "A faire"
+msgstr ""
+
+#: http://localhost/lieux/becentral/
+#: (content/lieux/becentral/contents+fr.lr:location.directions)
+msgid "Au dessus de la gare centrale"
 msgstr ""
 
 #: http://localhost/journee-principale/
@@ -459,10 +480,6 @@ msgstr "Contact"
 msgid "Beaucoup participent à l'[exposition](/exposition) ."
 msgstr "Velen nemen deel aan de [tentoonstelling](/exposition)."
 
-#: (dynamic)
-msgid "violoncelle"
-msgstr ""
-
 #: http://localhost/ (content/contents+fr.lr:page.about)
 msgid ""
 "Le colloque Educode se déroule le vendredi 27septembre 2019 à la Haute-École "
@@ -481,28 +498,46 @@ msgstr ""
 "4. Een conferentie gewijd aan wetenschappelijk onderzoek op het gebied van "
 "pedagogiek, onderwijs en digitaal"
 
-#: http://localhost/ (content/contents+fr.lr:page.s_thuesday)
-msgid "Mardi"
-msgstr "Dinsdag"
+#: (dynamic)
+msgid "alto"
+msgstr ""
 
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "- Denis Longrée"
 msgstr "- Denis Longrée"
 
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
-msgid "- Prof Pierre Wolper (Uliège, recteur)"
-msgstr "- Prof Pierre Wolper (Uliège, rector)"
+#: http://localhost/dons/
+#: (content/dons/contents+fr.lr:details-program.description)
+msgid "Merci de donner en"
+msgstr ""
+
+#: (dynamic)
+msgid "flûte"
+msgstr ""
 
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "- Dr Pierre De Buyl (KU Leuven, chercheur)"
 msgstr "- Dr Pierre De Buyl (KU Leuven, onderzoeker)"
 
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
+msgid ""
+"À la haute école Bruxelles-Brabant, Catégorie Defré, avenue Defré à 1180 "
+"Uccle, très aisément accessible en transports en commun, voiture et vélo."
+msgstr ""
+"Op de middelbare school Brussel-Brabant, Categorie Defré, De Frélaan in 1180 "
+"Ukkel, zeer gemakkelijk bereikbaar met het openbaar vervoer, auto en fiets."
+
 #: http://localhost/ (content/contents+fr.lr:page.s_become_partner)
 msgid "Devenez partenaire"
 msgstr "Partner worden"
+
+#: http://localhost/lieux/becentral/
+#: (content/lieux/becentral/contents+fr.lr:location.address)
+msgid "Gare centrale, 1000 Bruxelles"
+msgstr ""
 
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
@@ -560,6 +595,10 @@ msgstr ""
 "de conferentie, hun prestaties presenteren in de [blootstelling](/"
 "exposition)."
 
+#: http://localhost/ (content/contents+fr.lr:page.s_expo)
+msgid "Exposition"
+msgstr "Blootstelling"
+
 #: http://localhost/intervenants/benoit-naveau/
 #: (content/intervenants/benoit-naveau/contents+fr.lr:speaker.dates)
 msgid "lundi-27-aout, mardi-28-aout"
@@ -570,9 +609,15 @@ msgstr ""
 msgid "- Prof Bibiana Boccolini (Université de Rosario, Argentine)"
 msgstr "- Prof Bibiana Boccolini (Universiteit van Rosario, Argentinië)"
 
-#: (dynamic)
-msgid "percussion"
+#: http://localhost/lieux/cellule133a/
+#: (content/lieux/cellule133a/contents+fr.lr:location.address)
+msgid "Avenue Ducpétiaux 133A, 1060 Saint-Gilles"
 msgstr ""
+
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
+msgid "#Activités"
+msgstr "#Activiteiten"
 
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
@@ -593,14 +638,12 @@ msgstr ""
 msgid "mercredi-29-aout"
 msgstr ""
 
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
-msgid "#Activités"
-msgstr "#Activiteiten"
-
-#: http://localhost/journee-info-sans-ordi/
-#: (content/journee-info-sans-ordi/contents+fr.lr:details-program.date)
 #: (dynamic)
+msgid "percussion"
+msgstr ""
+
+#: (dynamic) http://localhost/journee-info-sans-ordi/
+#: (content/journee-info-sans-ordi/contents+fr.lr:details-program.date)
 msgid "Journée info sans ordi"
 msgstr ""
 
@@ -613,9 +656,9 @@ msgstr ""
 msgid "concert festif"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.s_speakers)
-msgid "Intervenants"
-msgstr "Speakers"
+#: (dynamic)
+msgid "Concert festif"
+msgstr ""
 
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
@@ -646,6 +689,11 @@ msgstr "- Prof Olivier Debeir (ULB)"
 msgid "- Françoise Bols"
 msgstr "- Françoise Bols"
 
+#: http://localhost/lieux/villebxl/
+#: (content/lieux/villebxl/contents+fr.lr:location.directions)
+msgid "Sur la Grand place de Bruxelles"
+msgstr ""
+
 #: http://localhost/ (content/contents+fr.lr:page.s_intro_dates)
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.date)
@@ -669,7 +717,7 @@ msgstr ""
 "Educode-deelnemers worden vanaf 8.30 uur verwacht. Conferenties en workshops "
 "beginnen om 9: 00 uur."
 
-#: http://localhost/ (content/contents+fr.lr:page.s_program) (dynamic)
+#: (dynamic) http://localhost/ (content/contents+fr.lr:page.s_program)
 msgid "Programme"
 msgstr "Programma"
 
@@ -677,6 +725,10 @@ msgstr "Programma"
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "- Françoise Bols (HE2B-Nivelles, chargé de cours)"
 msgstr "- Françoise Bols (HE2B-Nivelles, lector)"
+
+#: http://localhost/dons/ (content/dons/contents+fr.lr:details-program.date)
+msgid "Dons"
+msgstr ""
 
 #: http://localhost/concert/
 #: (content/concert/contents+fr.lr:concert.description)
@@ -697,6 +749,11 @@ msgstr ""
 msgid "#Comité de programme"
 msgstr "#Programmacommissie"
 
+#: http://localhost/lieux/villebxl/
+#: (content/lieux/villebxl/contents+fr.lr:location.name)
+msgid "Salle gothique de l'hôtel de ville de Bruxelles"
+msgstr ""
+
 #: http://localhost/ (content/contents+fr.lr:page.submissions_text)
 msgid ""
 "Les propositions d'ateliers devraient être entrées pour le 10 aout 2019 dans "
@@ -705,17 +762,25 @@ msgstr ""
 "Workshopvoorstellen moeten vóór 10 augustus 2019 worden ingevoerd op http://"
 "wiki.educode.be"
 
+#: http://localhost/lieux/he2b-defre/
+#: (content/lieux/he2b-defre/contents+fr.lr:location.directions)
+#: http://localhost/lieux/cellule133a/
+#: (content/lieux/cellule133a/contents+fr.lr:location.directions)
+msgid "Plus tard"
+msgstr ""
+
+#: http://localhost/lieux/cellule133a/
+#: (content/lieux/cellule133a/contents+fr.lr:location.name)
+msgid "Cellule 133a"
+msgstr ""
+
 #: http://localhost/ (content/contents+fr.lr:page.s_monday)
 msgid "Lundi"
 msgstr "Maandag"
 
-#: (dynamic)
-msgid "clarinette"
-msgstr ""
-
-#: (dynamic)
-msgid "Concert festif"
-msgstr ""
+#: http://localhost/ (content/contents+fr.lr:page.s_speakers)
+msgid "Intervenants"
+msgstr "Speakers"
 
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
@@ -757,6 +822,11 @@ msgstr "#Contact"
 #: http://localhost/concert/
 #: (content/concert/contents+fr.lr:concert.description)
 msgid "####Prix"
+msgstr ""
+
+#: http://localhost/lieux/he2b-defre/
+#: (content/lieux/he2b-defre/contents+fr.lr:location.name)
+msgid "HE2B-Defré"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.s_free_expose)
@@ -803,6 +873,18 @@ msgstr ""
 "U kunt ook nuttige documenten downloaden door op de onderstaande link te "
 "klikken."
 
+#: http://localhost/dons/
+#: (content/dons/contents+fr.lr:details-program.description)
+msgid ""
+"* en virant un montant sur le compte de l'*asbl EduCode* **BE73 0018 3913 "
+"576** chez [BNP ParibasFortis](https://www.bnpparibasfortis.be/) **et** en "
+"nous informant par mail à [don@educode.be](mailto:don@educode.be?"
+"subject=J'ai donné ... et attends un reçu). <br> (N'oubliez pas dans le mail "
+"d'indiquer vos coordonnées : structure, adresse complète, noms et prénoms, "
+"emails et si possible numéros de téléphone des personnes de contact, numéro "
+"de compte, si oui ou non vous voulez être mentionnés ci-dessous."
+msgstr ""
+
 #: http://localhost/ (content/contents+fr.lr:page.s_more_infos)
 msgid "Plus d'infos"
 msgstr "Meer info"
@@ -827,6 +909,15 @@ msgstr ""
 "om door hen te worden erkend als verplichte dagen voor voortgezet onderwijs "
 "voor leraren."
 
+#: http://localhost/dons/
+#: (content/dons/contents+fr.lr:details-program.description)
+msgid ""
+"La conférence educode est soutenue et mise en œuvre par l'[association "
+"EduCode](/asbl). C'est essentiellement une activité bénévole pour le moment "
+"qui requiert une énergie très importante de la part d'un très petit nombre "
+"d'acteurs, femmes et hommes."
+msgstr ""
+
 #: http://localhost/ (content/contents+fr.lr:page.about)
 msgid ""
 "L'organisation de cette conférence est essentiellement *bénévole*. _Toute "
@@ -846,10 +937,6 @@ msgstr ""
 
 #: (dynamic)
 msgid "Le carnaval des animaux"
-msgstr ""
-
-#: (dynamic)
-msgid "flûte"
 msgstr ""
 
 #: http://localhost/journee-principale/
@@ -899,6 +986,21 @@ msgid ""
 "lundi 7 octobre 2019 de 19h à 20h30 avec cocktail dinatoire."
 msgstr ""
 
+#: http://localhost/ (content/contents+fr.lr:page.about)
+msgid ""
+"<noscript><a href=\"https://liberapay.com/npettiaux/donate\"><img alt="
+"\"Donate using Liberapay\" src=\"https://liberapay.com/assets/widgets/donate."
+"svg\"></a></noscript>"
+msgstr ""
+"<noscript><a href=\"https://liberapay.com/npettiaux/donate\"><img alt="
+"\"Donate using Liberapay\" src=\"https://liberapay.com/assets/widgets/donate."
+"svg\"></a></noscript>"
+
+#: http://localhost/lieux/villebxl/
+#: (content/lieux/villebxl/contents+fr.lr:location.address)
+msgid "Grand-place, 1000 Bruxelles"
+msgstr ""
+
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid ""
@@ -946,6 +1048,10 @@ msgstr "- Prof Hugues Bersini (ULB)"
 msgid "- Karin Van Loon (HE2B-ISIB, directrice)"
 msgstr "- Karin Van Loon (HE2B-ISIB, director)"
 
+#: http://localhost/ (content/contents+fr.lr:page.s_thuesday)
+msgid "Mardi"
+msgstr "Dinsdag"
+
 #: http://localhost/ (content/contents+fr.lr:page.about)
 msgid ""
 "Toute  proposition d'aide peut être envoyée à [aider@educode.be](mailto://"
@@ -969,15 +1075,9 @@ msgstr ""
 "Pre-registratie is mogelijk in https://wiki.educode.be/doku.php?"
 "id=educode2019preinscriptions"
 
-#: http://localhost/ (content/contents+fr.lr:page.about)
-msgid ""
-"<noscript><a href=\"https://liberapay.com/npettiaux/donate\"><img alt="
-"\"Donate using Liberapay\" src=\"https://liberapay.com/assets/widgets/donate."
-"svg\"></a></noscript>"
+#: (dynamic)
+msgid "clarinette"
 msgstr ""
-"<noscript><a href=\"https://liberapay.com/npettiaux/donate\"><img alt="
-"\"Donate using Liberapay\" src=\"https://liberapay.com/assets/widgets/donate."
-"svg\"></a></noscript>"
 
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)

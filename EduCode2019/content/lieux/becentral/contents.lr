@@ -1,0 +1,11 @@
+_model: location
+---
+name: BeCentral
+---
+address: Gare centrale, 1000 Bruxelles
+---
+directions: Au dessus de la gare centrale 
+---
+type_location: Lieu normal
+---
+url: https://www.becentral.org/

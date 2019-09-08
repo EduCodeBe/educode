@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: educode\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-06 21:01+CET\n"
+"POT-Creation-Date: 2019-09-08 19:21+CET\n"
 "PO-Revision-Date: 2019-08-26 20:13+0200\n"
 "Last-Translator: npettiaux\n"
 "Language-Team: English\n"
@@ -163,6 +163,11 @@ msgstr ""
 "Let us know your stand proposals within the exhibition by clicking on the "
 "button below that interests you."
 
+#: http://localhost/lieux/he2b-defre/
+#: (content/lieux/he2b-defre/contents+fr.lr:location.address)
+msgid "Avenue Defré 62 à 1180 Bruxelles (Uccle)"
+msgstr ""
+
 #: http://localhost/ (content/contents+fr.lr:page.s_registration)
 msgid "Inscription"
 msgstr "Registration"
@@ -176,6 +181,11 @@ msgstr "#Contents"
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "# Comité scientifique et de soutien"
 msgstr "# Scientific and Support Committee"
+
+#: http://localhost/lieux/becentral/
+#: (content/lieux/becentral/contents+fr.lr:location.name)
+msgid "BeCentral"
+msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.expo_about)
 msgid ""
@@ -196,6 +206,20 @@ msgstr ""
 #: http://localhost/ (content/contents+fr.lr:page.s_expo)
 msgid "Exposition"
 msgstr "Exposition"
+
+#: http://localhost/dons/
+#: (content/dons/contents+fr.lr:details-program.description)
+msgid ""
+"Nous avons besoin de vos soutiens financiers qui pourront, nous l'espérons "
+"très bientôt, être défiscalisés pour des dons supérieurs à 40 €."
+msgstr ""
+
+#: http://localhost/dons/
+#: (content/dons/contents+fr.lr:details-program.description)
+msgid ""
+"* allant sur <script src=\"https://liberapay.com/EduCode/widgets/button.js"
+"\"></script>"
+msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.practical_infos)
 msgid ""
@@ -443,6 +467,11 @@ msgstr "Tuesday"
 msgid "- Denis Longrée"
 msgstr "- Denis Longrée"
 
+#: http://localhost/dons/
+#: (content/dons/contents+fr.lr:details-program.description)
+msgid "Merci de donner en"
+msgstr ""
+
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "- Prof Pierre Wolper (Uliège, recteur)"
@@ -453,9 +482,19 @@ msgstr "- Prof Pierre Wolper (Uliège, rector)"
 msgid "- Dr Pierre De Buyl (KU Leuven, chercheur)"
 msgstr "- Dr Pierre De Buyl (KU Leuven, searcher)"
 
+#: http://localhost/lieux/becentral/
+#: (content/lieux/becentral/contents+fr.lr:location.directions)
+msgid "Au dessus de la gare centrale"
+msgstr ""
+
 #: http://localhost/ (content/contents+fr.lr:page.s_become_partner)
 msgid "Devenez partenaire"
 msgstr "Become a partner"
+
+#: http://localhost/lieux/becentral/
+#: (content/lieux/becentral/contents+fr.lr:location.address)
+msgid "Gare centrale, 1000 Bruxelles"
+msgstr ""
 
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
@@ -588,6 +627,11 @@ msgstr "- Prof Olivier Debeir (ULB)"
 msgid "- Françoise Bols"
 msgstr "- Françoise Bols"
 
+#: http://localhost/lieux/villebxl/
+#: (content/lieux/villebxl/contents+fr.lr:location.directions)
+msgid "Sur la Grand place de Bruxelles"
+msgstr ""
+
 #: http://localhost/ (content/contents+fr.lr:page.s_intro_dates)
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.date)
@@ -620,6 +664,10 @@ msgstr "Program"
 msgid "- Françoise Bols (HE2B-Nivelles, chargé de cours)"
 msgstr "- Françoise Bols (HE2B-Nivelles, lecturer)"
 
+#: http://localhost/dons/ (content/dons/contents+fr.lr:details-program.date)
+msgid "Dons"
+msgstr ""
+
 #: http://localhost/concert/
 #: (content/concert/contents+fr.lr:concert.description)
 msgid "####Achetez les tickets [ici](https://pretix.eu/educode2019/principal/)"
@@ -639,6 +687,11 @@ msgstr ""
 msgid "#Comité de programme"
 msgstr "#Program Committee"
 
+#: http://localhost/lieux/villebxl/
+#: (content/lieux/villebxl/contents+fr.lr:location.name)
+msgid "Salle gothique de l'hôtel de ville de Bruxelles"
+msgstr ""
+
 #: http://localhost/ (content/contents+fr.lr:page.submissions_text)
 msgid ""
 "Les propositions d'ateliers devraient être entrées pour le 10 aout 2019 dans "
@@ -646,6 +699,18 @@ msgid ""
 msgstr ""
 "Workshop proposals should be entered by August 10, 2019 in http://wiki."
 "educode.be"
+
+#: http://localhost/lieux/he2b-defre/
+#: (content/lieux/he2b-defre/contents+fr.lr:location.directions)
+#: http://localhost/lieux/cellule133a/
+#: (content/lieux/cellule133a/contents+fr.lr:location.directions)
+msgid "Plus tard"
+msgstr ""
+
+#: http://localhost/lieux/cellule133a/
+#: (content/lieux/cellule133a/contents+fr.lr:location.name)
+msgid "Cellule 133a"
+msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.s_monday)
 msgid "Lundi"
@@ -655,6 +720,11 @@ msgstr "Monday"
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "- Dr Nicolas Pettiaux (ESI-HE2B & ULB-Lisa, maître-assistant)"
 msgstr "- Dr Nicolas Pettiaux (ESI-HE2B & ULB-Lisa, lecturer)"
+
+#: http://localhost/lieux/cellule133a/
+#: (content/lieux/cellule133a/contents+fr.lr:location.address)
+msgid "Avenue Ducpétiaux 133A, 1060 Saint-Gilles"
+msgstr ""
 
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
@@ -687,6 +757,11 @@ msgstr "#Contact"
 #: http://localhost/concert/
 #: (content/concert/contents+fr.lr:concert.description)
 msgid "####Prix"
+msgstr ""
+
+#: http://localhost/lieux/he2b-defre/
+#: (content/lieux/he2b-defre/contents+fr.lr:location.name)
+msgid "HE2B-Defré"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.s_free_expose)
@@ -730,6 +805,18 @@ msgid ""
 "lien ci-dessous."
 msgstr "You can also download useful documents by clicking on the link below."
 
+#: http://localhost/dons/
+#: (content/dons/contents+fr.lr:details-program.description)
+msgid ""
+"* en virant un montant sur le compte de l'*asbl EduCode* **BE73 0018 3913 "
+"576** chez [BNP ParibasFortis](https://www.bnpparibasfortis.be/) **et** en "
+"nous informant par mail à [don@educode.be](mailto:don@educode.be?"
+"subject=J'ai donné ... et attends un reçu). <br> (N'oubliez pas dans le mail "
+"d'indiquer vos coordonnées : structure, adresse complète, noms et prénoms, "
+"emails et si possible numéros de téléphone des personnes de contact, numéro "
+"de compte, si oui ou non vous voulez être mentionnés ci-dessous."
+msgstr ""
+
 #: http://localhost/ (content/contents+fr.lr:page.s_more_infos)
 msgid "Plus d'infos"
 msgstr "More info"
@@ -752,6 +839,15 @@ msgid ""
 msgstr ""
 "As far as possible, teachers' days will be organized with the support of IFC "
 "to be recognized by them as mandatory continuing education days for teachers."
+
+#: http://localhost/dons/
+#: (content/dons/contents+fr.lr:details-program.description)
+msgid ""
+"La conférence educode est soutenue et mise en œuvre par l'[association "
+"EduCode](/asbl). C'est essentiellement une activité bénévole pour le moment "
+"qui requiert une énergie très importante de la part d'un très petit nombre "
+"d'acteurs, femmes et hommes."
+msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.about)
 msgid ""
@@ -808,6 +904,11 @@ msgstr ""
 "essential financial support, the others participate in the promotion and "
 "dissemination of information around the conference, are members of the "
 "organizing committee of the conference, supervise workshops..."
+
+#: http://localhost/lieux/villebxl/
+#: (content/lieux/villebxl/contents+fr.lr:location.address)
+msgid "Grand-place, 1000 Bruxelles"
+msgstr ""
 
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
