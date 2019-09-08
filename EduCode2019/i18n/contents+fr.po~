@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: EduCode 2019\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-08 19:19+CET\n"
+"POT-Creation-Date: 2019-09-08 19:24+CET\n"
 "PO-Revision-Date: 2019-08-27 09:29+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -12,10 +12,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Poedit 2.0.6\n"
-
-#: (dynamic)
-msgid "contrebasse"
-msgstr "contrebasse"
 
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
@@ -69,13 +65,14 @@ msgstr "Appel à propositions"
 msgid "Dimanche"
 msgstr "Dimanche"
 
-#: (dynamic)
-msgid "violon"
-msgstr "violon"
-
-#: (dynamic)
-msgid "Journée principale"
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
+msgid ""
+"À la haute école Bruxelles-Brabant, Catégorie Defré, avenue Defré à 1180 "
+"Uccle, très aisément accessible en transports en commun, voiture et vélo."
 msgstr ""
+"À la haute école Bruxelles-Brabant, Catégorie Defré, avenue Defré à 1180 "
+"Uccle, très aisément accessible en transports en commun, voiture et vélo."
 
 #: http://localhost/ (content/contents+fr.lr:page.expo_about)
 msgid ""
@@ -115,10 +112,6 @@ msgstr ""
 "Catherine. Si vous souhaitez plus d'informations sur Bruxelles, cliquez [ici]"
 "(http://visit.brussels)"
 
-#: (dynamic)
-msgid "piano"
-msgstr "piano"
-
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "- Eric Robette (HE2B-Defré, maître-assistant)"
@@ -136,11 +129,6 @@ msgstr "- 17h à 18h : buffet de clôture"
 
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
-msgid "- Prof Pierre Wolper (Uliège, recteur)"
-msgstr "- Prof Pierre Wolper (Uliège, recteur)"
-
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "#Localisation"
 msgstr "#Localisation"
 
@@ -153,14 +141,14 @@ msgstr "- Prof Thierry Massart (ULB)"
 msgid "La liste des ateliers sera publiée pour le 5 septembre 2019"
 msgstr "La liste des ateliers sera publiée pour le 5 septembre 2019"
 
+#: (dynamic)
+msgid "Journée principale"
+msgstr ""
+
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "- Alexia Pasini (HE2B, co-présidente)"
 msgstr "- Alexia Pasini (HE2B, co-présidente)"
-
-#: (dynamic)
-msgid "de"
-msgstr "de"
 
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
@@ -187,10 +175,6 @@ msgstr ""
 #: (content/lieux/he2b-defre/contents+fr.lr:location.address)
 msgid "Avenue Defré 62 à 1180 Bruxelles (Uccle)"
 msgstr ""
-
-#: (dynamic)
-msgid "Concert festif exceptionnel"
-msgstr "Concert festif exceptionnel"
 
 #: http://localhost/ (content/contents+fr.lr:page.s_registration)
 msgid "Inscription"
@@ -228,9 +212,9 @@ msgstr ""
 "- 16h00 à 18h00 : Projection du film **La bataille du libre** suivie d'une "
 "discussion avec son réalisateur, Philippe Borel"
 
-#: (dynamic)
-msgid "violoncelle"
-msgstr "violoncelle"
+#: http://localhost/ (content/contents+fr.lr:page.s_expo)
+msgid "Exposition"
+msgstr "Exposition"
 
 #: http://localhost/dons/
 #: (content/dons/contents+fr.lr:details-program.description)
@@ -338,10 +322,6 @@ msgstr "- Yves Robaey (HE2B, co-président)"
 msgid "lundi-27-aout"
 msgstr "lundi-27-aout"
 
-#: (dynamic)
-msgid "conteuse"
-msgstr "conteuse"
-
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "#Comité d’organisation"
@@ -357,11 +337,6 @@ msgstr ""
 #: (content/contents+fr.lr:page.journee_sans_ordi)
 #: (content/contents+fr.lr:page.concert)
 msgid "A faire"
-msgstr ""
-
-#: http://localhost/lieux/becentral/
-#: (content/lieux/becentral/contents+fr.lr:location.directions)
-msgid "Au dessus de la gare centrale"
 msgstr ""
 
 #: http://localhost/journee-principale/
@@ -499,9 +474,9 @@ msgstr ""
 "4. Une conférence consacrée à la recherche scientifique sur la pédagogie, "
 "l'enseignement et le numérique"
 
-#: (dynamic)
-msgid "alto"
-msgstr "alto"
+#: http://localhost/ (content/contents+fr.lr:page.s_thuesday)
+msgid "Mardi"
+msgstr "Mardi"
 
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
@@ -513,23 +488,20 @@ msgstr "- Denis Longrée"
 msgid "Merci de donner en"
 msgstr "Merci de donner en"
 
-#: (dynamic)
-msgid "flûte"
-msgstr "flûte"
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
+msgid "- Prof Pierre Wolper (Uliège, recteur)"
+msgstr "- Prof Pierre Wolper (Uliège, recteur)"
 
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "- Dr Pierre De Buyl (KU Leuven, chercheur)"
 msgstr "- Dr Pierre De Buyl (KU Leuven, chercheur)"
 
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
-msgid ""
-"À la haute école Bruxelles-Brabant, Catégorie Defré, avenue Defré à 1180 "
-"Uccle, très aisément accessible en transports en commun, voiture et vélo."
+#: http://localhost/lieux/becentral/
+#: (content/lieux/becentral/contents+fr.lr:location.directions)
+msgid "Au dessus de la gare centrale"
 msgstr ""
-"À la haute école Bruxelles-Brabant, Catégorie Defré, avenue Defré à 1180 "
-"Uccle, très aisément accessible en transports en commun, voiture et vélo."
 
 #: http://localhost/ (content/contents+fr.lr:page.s_become_partner)
 msgid "Devenez partenaire"
@@ -597,10 +569,6 @@ msgstr ""
 "la conférence, présenteront leurs réalisations dans l'[exposition](/"
 "exposition)."
 
-#: http://localhost/ (content/contents+fr.lr:page.s_expo)
-msgid "Exposition"
-msgstr "Exposition"
-
 #: http://localhost/intervenants/benoit-naveau/
 #: (content/intervenants/benoit-naveau/contents+fr.lr:speaker.dates)
 msgid "lundi-27-aout, mardi-28-aout"
@@ -615,11 +583,6 @@ msgstr "- Prof Bibiana Boccolini (Université de Rosario, Argentine)"
 #: (content/lieux/cellule133a/contents+fr.lr:location.address)
 msgid "Avenue Ducpétiaux 133A, 1060 Saint-Gilles"
 msgstr ""
-
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
-msgid "#Activités"
-msgstr "#Activités"
 
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
@@ -640,18 +603,15 @@ msgstr ""
 msgid "mercredi-29-aout"
 msgstr "mercredi-29-aout"
 
-#: (dynamic)
-msgid "percussion"
-msgstr "percussion"
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
+msgid "#Activités"
+msgstr "#Activités"
 
 #: (dynamic) http://localhost/journee-info-sans-ordi/
 #: (content/journee-info-sans-ordi/contents+fr.lr:details-program.date)
 msgid "Journée info sans ordi"
 msgstr ""
-
-#: (dynamic)
-msgid "Avec"
-msgstr "Avec"
 
 #: http://localhost/concert-festif/
 #: (content/concert-festif/contents+fr.lr:details-program.date)
@@ -950,10 +910,6 @@ msgstr ""
 "Une conférence de presse sera organisée début septembre 2019 à Bruxelles. Un "
 "point presse sera également organisé durant la conférence vers 13h."
 
-#: (dynamic)
-msgid "Le carnaval des animaux"
-msgstr "Le carnaval des animaux"
-
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "- Georges Khaznadar (Lycée Jean Bart, Dunkerque)"
@@ -995,24 +951,6 @@ msgstr ""
 "promotion et à la diffusion de l'information autour de la conférence, sont "
 "des membres du comité d'organisation de la conférence, encadrent des "
 "ateliers..."
-
-#: (dynamic)
-msgid ""
-"Dans la salle gothique de l'hôtel de ville de Bruxelles, à la Grand-Place, "
-"lundi 7 octobre 2019 de 19h à 20h30 avec cocktail dinatoire."
-msgstr ""
-"Dans la salle gothique de l'hôtel de ville de Bruxelles, à la Grand-Place, "
-"lundi 7 octobre 2019 de 19h à 20h30 avec cocktail dinatoire."
-
-#: http://localhost/ (content/contents+fr.lr:page.about)
-msgid ""
-"<noscript><a href=\"https://liberapay.com/npettiaux/donate\"><img alt="
-"\"Donate using Liberapay\" src=\"https://liberapay.com/assets/widgets/donate."
-"svg\"></a></noscript>"
-msgstr ""
-"<noscript><a href=\"https://liberapay.com/npettiaux/donate\"><img alt="
-"\"Donate using Liberapay\" src=\"https://liberapay.com/assets/widgets/donate."
-"svg\"></a></noscript>"
 
 #: http://localhost/lieux/villebxl/
 #: (content/lieux/villebxl/contents+fr.lr:location.address)
@@ -1069,10 +1007,6 @@ msgstr "- Prof Hugues Bersini (ULB)"
 msgid "- Karin Van Loon (HE2B-ISIB, directrice)"
 msgstr "- Karin Van Loon (HE2B-ISIB, directrice)"
 
-#: http://localhost/ (content/contents+fr.lr:page.s_thuesday)
-msgid "Mardi"
-msgstr "Mardi"
-
 #: http://localhost/ (content/contents+fr.lr:page.about)
 msgid ""
 "Toute  proposition d'aide peut être envoyée à [aider@educode.be](mailto://"
@@ -1096,9 +1030,15 @@ msgstr ""
 "Les préinscriptions sont possibles dans https://wiki.educode.be/doku.php?"
 "id=educode2019preinscriptions"
 
-#: (dynamic)
-msgid "clarinette"
-msgstr "clarinette"
+#: http://localhost/ (content/contents+fr.lr:page.about)
+msgid ""
+"<noscript><a href=\"https://liberapay.com/npettiaux/donate\"><img alt="
+"\"Donate using Liberapay\" src=\"https://liberapay.com/assets/widgets/donate."
+"svg\"></a></noscript>"
+msgstr ""
+"<noscript><a href=\"https://liberapay.com/npettiaux/donate\"><img alt="
+"\"Donate using Liberapay\" src=\"https://liberapay.com/assets/widgets/donate."
+"svg\"></a></noscript>"
 
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
@@ -1112,6 +1052,66 @@ msgid ""
 msgstr ""
 "Une conférence internationale pour informer, former et susciter l'intérêt de "
 "tous les acteurs de l'enseignement aux défis du numérique."
+
+#: templates/concert.html:12
+msgid "Concert festif exceptionnel"
+msgstr "Concert festif exceptionnel"
+
+#: templates/concert.html:14
+msgid ""
+"Dans la salle gothique de l'hôtel de ville de Bruxelles, à la Grand-Place, "
+"lundi 7 octobre 2019 de 19h à 20h30 avec cocktail dinatoire."
+msgstr ""
+"Dans la salle gothique de l'hôtel de ville de Bruxelles, à la Grand-Place, "
+"lundi 7 octobre 2019 de 19h à 20h30 avec cocktail dinatoire."
+
+#: templates/concert.html:18
+msgid "Le carnaval des animaux"
+msgstr "Le carnaval des animaux"
+
+#: templates/concert.html:19
+msgid "de"
+msgstr "de"
+
+#: templates/concert.html:21
+msgid "Avec"
+msgstr "Avec"
+
+#: templates/concert.html:23
+msgid "flûte"
+msgstr "flûte"
+
+#: templates/concert.html:24
+msgid "clarinette"
+msgstr "clarinette"
+
+#: templates/concert.html:25 templates/concert.html:26
+msgid "violon"
+msgstr "violon"
+
+#: templates/concert.html:27
+msgid "alto"
+msgstr "alto"
+
+#: templates/concert.html:28
+msgid "violoncelle"
+msgstr "violoncelle"
+
+#: templates/concert.html:29
+msgid "contrebasse"
+msgstr "contrebasse"
+
+#: templates/concert.html:30 templates/concert.html:31
+msgid "piano"
+msgstr "piano"
+
+#: templates/concert.html:32
+msgid "percussion"
+msgstr "percussion"
+
+#: templates/concert.html:33
+msgid "conteuse"
+msgstr "conteuse"
 
 #~ msgid "####Achetez les tickets [ici](https://educode.be)"
 #~ msgstr "####Achetez les tickets [ici](https://educode.be)"
