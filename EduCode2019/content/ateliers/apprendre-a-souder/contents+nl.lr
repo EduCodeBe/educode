@@ -1,0 +1,22 @@
+_model: workshop
+---
+title:
+
+ Apprendre à souder son premier circuit électronique 
+---
+abstract:
+
+Apprendre les bases de la soudure de composants électroniques, avec le “Weevil Eye”. 
+---
+description:
+
+Compétences :
+  * Apprendre à manipuler un fer à souder (froid, chaud, température, protection)
+  * Apprendre à manipuler de la soudure
+  * Apprendre à mettre les composants dans le bon sens
+  * Apprendre à tester un circuit
+  * Apprendre à suivre des instructions d'un manuel
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Gp5PxgSj2v4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+---
+language: fr

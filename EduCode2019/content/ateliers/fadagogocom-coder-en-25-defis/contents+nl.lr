@@ -1,0 +1,23 @@
+_model: workshop
+---
+title: fadagogo.com, coder en 25 défis
+---
+abstract: Après une courte introduction sur l'importance de l'algorithmique dans le cursus des élèves, l'atelier vous apprendra ***les bases du codage*** par la réalisation de "défis".
+---
+age: 9-99
+---
+age_max: 99
+---
+age_min: 9
+---
+contact_name: Rupert Meurice de Dormale
+---
+description: Après une courte introduction sur l'importance de l'algorithmique dans le cursus des élèves, l'atelier vous apprendra ***les bases du codage*** par la réalisation de "défis". ***Chaque défi sera un robot virtuel interactif*** dont vous devrez concevoir le programme de manière à ce qu'il accomplisse sa tâche avec succès. Vous pourrez ainsi vivre une double expérience, celle de réellement commencer votre formation à donner ce cours et celle des élèves en situation d'apprentissage.
+---
+language: fr
+---
+number: 20
+---
+required_materials: Ordinateur, Internet
+---
+tag: tous

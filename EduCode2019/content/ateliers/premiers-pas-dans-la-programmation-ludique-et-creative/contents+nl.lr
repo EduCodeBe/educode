@@ -1,0 +1,27 @@
+_model: workshop
+---
+title: Premiers pas dans la programmation ludique et créative
+---
+abstract: Atelier à destination des enseignants pour découvrir la plateforme Scratch et monter un atelier jeu vidéo avec leurs élèves. Dans le cadre de la Europe Code Week.
+---
+age: 10-14
+---
+age_max: 14
+---
+age_min: 10
+---
+contact_name: Nathalie Kuborn et Serge Rodrigues
+---
+description:
+
+Atelier à destination des enseignants pour découvrir la plateforme Scratch et monter un atelier jeu vidéo avec leurs élèves. Dans le cadre de la Europe Code Week.
+Apprendre la programmation n’est ni difficile, ni ennuyant. Au cours de cet atelier, les enseignants découvriront des ressources et une approche par laquelle ils pourront initier, de façon ludique et pratique leurs élèves aux joies de la pensée computationnelle et de la programmation informatique.
+
+---
+language: fr
+---
+number: 12
+---
+required_materials: Ordinateur
+---
+tag: tous

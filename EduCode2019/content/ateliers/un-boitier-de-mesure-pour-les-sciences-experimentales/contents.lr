@@ -1,0 +1,17 @@
+_model: workshop
+---
+title: Un boîtier de mesure pour les sciences expérimentales
+---
+abstract:
+
+ Un boîtier de mesure très bon marché et très complet pour les sciences expérimentales 
+---
+contact_name: Georges Khaznadar
+---
+description:
+
+ Comment faire des sciences expérimentales, quand le temps est compté, et que le budget pour le matériel est contraint ? Le boîtier Expeyes le permet. Connecté par un câble USB à un ordinateur, il fournit les services d'une centrale de mesures, ou d'un oscilloscope quatre voies, plus deux générateurs de signaux, pour un prix dix fois moindre. Cerise sur le gâteau : c'est du matériel et du logiciel libre.
+
+De plus, [Expeyes](http://expeyes.freeduc.science/) se programme en Python, ce qui en fait une plate-forme idéale pour enseigner l'informatique et ses rapports avec le monde physique. 
+---
+periodes: 

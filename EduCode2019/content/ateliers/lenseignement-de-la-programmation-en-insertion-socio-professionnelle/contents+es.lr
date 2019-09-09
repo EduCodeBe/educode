@@ -1,0 +1,21 @@
+_model: workshop
+---
+title: L'enseignement de la programmation en insertion socio-professionnelle
+---
+abstract: L'enseignement de la programmation en insertion socio-professionnelle: défis et enjeux
+---
+age: 5-99
+---
+age_max: 99
+---
+age_min: 5
+---
+contact_name: Benjamin Van Bever
+---
+description: Montrer qu'il est possible de former de jeunes adultes (18-30 ans), la plupart sans CESS, jusqu'à une professionnalisation dans le développement web, mais aussi les contraintes liées au temps et au public, et au style institutionnel de l'ISP.
+---
+language: fr
+---
+required_materials: Projecteur
+---
+tag: tous
