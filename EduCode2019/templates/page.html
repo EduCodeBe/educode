@@ -48,11 +48,43 @@
 
 
                 <div class="col-12" data-aos="fade-down-right" data-aos-delay="100">
-                    <h2 class="text-center">{{ this.s_friday }} <span
-                            style="color: #e0a800; font-weight: 600;font-size: 1.3em;">27</span>
+			<h2 class="text-center">{{ _("Journée principale") }} <span
+                            style="color: #e0a800; font-weight: 600;font-size: 1.3em;"></span>
                     </h2>
                     <div>
-                      {{ this.monday }}
+                      {{ this.journee_principale }}
+                    </div>
+                    <div class="col-12 text-center">
+                        <a href="ateliers"
+                           class="btn btn-lg btn-warning text-uppercase">{{ _("Voir les ateliers") }}</a>
+                    </div>
+                    <hr>
+                </div>
+
+		<div class="col-12" data-aos="fade-down-right" data-aos-delay="100">
+			<h2 class="text-center">{{ _("Avant première du concert festif") }} <span
+                            style="color: #e0a800; font-weight: 600;font-size: 1.3em;"></span>
+                    </h2>
+                    <div>
+                      {{ this.concert_avant_premiere }}
+                    </div>
+                </div>
+
+		<div class="col-12" data-aos="fade-down-right" data-aos-delay="100">
+			<h2 class="text-center">{{ _("Journée info sans ordi") }} <span
+                            style="color: #e0a800; font-weight: 600;font-size: 1.3em;"></span>
+                    </h2>
+                    <div>
+                      {{ this.journee_sans_ordi }}
+                    </div>
+                </div>
+
+		<div class="col-12" data-aos="fade-down-right" data-aos-delay="100">
+			<h2 class="text-center">{{ _("Concert festif") }} <span
+                            style="color: #e0a800; font-weight: 600;font-size: 1.3em;"></span>
+                    </h2>
+                    <div>
+                      {{ this.concert }}
                     </div>
                 </div>
 
@@ -263,11 +295,6 @@
                             {% endif %}
                         </div>
                     </div>
-                    <hr>
-                    <h5>
-                        <i class="fa fa-bed" aria-hidden="true"></i>{{ this.s_hotel }}
-                    </h5>
-                    <hr>
                     <div class="container">
                         <div class="row">
                             {{ this.practical_infos_hostels }}
@@ -369,10 +396,11 @@
                     {{ this.press_text }}
                 </div>
 
-
+<!--
                 <p class="text-center" data-aos="zoom-in">
                     <a href="{{ "/presse" | url }}" class="btn btn-warning btn-lg text-uppercase">Documents</a>
                 </p>
+-->
             </div>
         </div>
 

@@ -1,0 +1,67 @@
+_model: workshop
+---
+title: Eclipse Che, pour simplifier les besoins d'installation lors des formations
+---
+abstract:
+
+Il est toujours compliqué de préparer un environnement de développement pour un atelier ou un cours. Il faut s'assurer que les participants ont bien suivi les recommandations pour les pré-requis, qu'ils ont bien téléchargé toutes les ressources nécessaires et ont été en mesure d'installer tous les outils. Un des points forts de Che est de garantir la reproductibilité d'un environnement. 
+---
+age: 12-99
+---
+age_max: 99
+---
+age_min: 12
+---
+contact_name: Fabrice Flore-Thebault
+---
+description:
+
+======  Eclipse Che pour l'enseignement. ======
+
+===== Le besoin: des environnements de travail fonctionnels et homogènes =====
+
+Il est toujours compliqué de préparer un environnement de développement pour un atelier ou un cours.
+Il faut s'assurer que les participants ont bien suivi les recommandations pour les pré-requis, qu'ils ont bien téléchargé toutes les ressources nécessaires et ont été en mesure d'installer tous les outils.
+
+En général, les premières heures sont passées à rendre les environnements de travail de tout le monde fonctionnels, au lieu de commencer tout de suite avec le réel contenu de la formation.
+
+===== La solution apportée par Eclipse Che: reproductibilité des environnements de développement =====
+
+Un des points forts de Che est de garantir la reproductibilité d'un environnement.
+
+Eclipse Che est un environnement de développement intégré (IDE) et une plate-forme de développement collaborative nativement basée sur Kubernetes. L'utilisateur dispose directement dans son navigateur web d'un éditeur de texte complet, du code source nécessaire à son travail, et d'un environnement pour tester son application.
+
+Pour le travail en groupe les bénéfices sont évidents. Il perme de répondre au besoin que tout le monde dispose du même environnement, facilement et rapidement.
+
+Un dévelopeur en solo aura lui aussi ce besoin s'il doit maintenir et apporter des modifications à de nombreux projets, et qu'il doit reproduire les environnements de ces projets pour tester ses modifications.
+
+===== Quels sont les environnements sont supportés? =====
+
+Les languages de programmation les plus courants sont disponibles directement depuis l'interface (Python, Java, Javascript, PHP...).
+
+Un environnement adapté à vos peut être décrit dans un fichier YAML appelé "devfile".
+
+La communauté propose des examples pour des cas d'utilisation courants.
+
+Eclipse Che saura supporter tout language qui peut être exprimé sous forme de conteneurs et capables de tourner sur un orchestrateur Kubernetes.
+
+===== Comment mettre en oeuvre Eclipse Che. =====
+
+  - Vos avez besoin d'un compte par participant sur une instance d'[Eclipse Che hébergé](https://che.openshift.io/) ou une instance dédiée.
+  - Préparez un ("devfile") pour chaque cours.
+  - Distribuez ce "devfile" aux participants pour qu'ils créent leur propre environnement.
+
+===== Les avantages ? =====
+
+  * Pas de temps perdu à télécharger, installer et configurer les outils.
+  * Les participants sont opérationnels en un clic.
+  * Les environnements des participants sont homogènes.
+  * Les  environnements des participants restent disponibles après le cours.
+---
+language: fr
+---
+number: 99
+---
+required_materials: Projecteur, Internet
+---
+tag: tous

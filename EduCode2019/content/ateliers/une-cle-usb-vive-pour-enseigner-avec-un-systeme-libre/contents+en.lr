@@ -1,0 +1,17 @@
+_model: workshop
+---
+title: Une clé USB vive, pour enseigner avec un système libre
+---
+abstract:
+
+ Une clé usb vive pour enseigner avec un systeme légalement et librement copiable 
+---
+contact_name: Georges Khaznadar
+---
+description:
+
+Comment donner à nos étudiants toute l'informatique dont ils ont besoin ? Illégal, donc « impensable » ? En fait c'est possible, la condition est que toute la logithèque soit libre, chaque élément certifié par sa note de copyright et sa licence. Si je veux faire ça sous Windows, c'est problématique. La distribution [Freeduc-JBART](https://usb.freeduc.org/jbart.html) règle ce problème. Une clé USB vive, donc bootable comme un disque externe, avec un système GNULinux, et une sélection de quelques milliers de paquets logiciels, de la logithèque Debian. 
+---
+language: fr
+---
+periodes:
