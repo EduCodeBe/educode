@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: EduCode 2019\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-10 09:05+CET\n"
+"POT-Creation-Date: 2019-09-10 09:40+CET\n"
 "PO-Revision-Date: 2019-07-24 17:38+CET\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -861,6 +861,13 @@ msgstr ""
 msgid "-   28/9/2014. An"
 msgstr ""
 
+#: http://localhost/concert/
+#: (content/concert/contents+fr.lr:concert.conference)
+msgid ""
+"A 19h, retrouvez une conférence de [Gilles Dowek](../intervenants/gilles-"
+"dowek) sur la transformation au numérique des écoles françaises"
+msgstr ""
+
 #: http://localhost/intervenants/gilles-dowek/
 #: (content/intervenants/gilles-dowek/contents+fr.lr:speaker.description)
 msgid "* _La logique_, Paris, Flammarion, coll. « Dominos », 1995"
@@ -1434,6 +1441,11 @@ msgid ""
 "De la tortue Logo au chat Scratch, tout un univers de formes géométriques"
 msgstr ""
 
+#: http://localhost/concert/
+#: (content/concert/contents+fr.lr:concert.description)
+msgid "####Achetez les tickets [ici](http://inscriptions.educode.be)"
+msgstr ""
+
 #: http://localhost/intervenants/benoit-naveau/
 #: (content/intervenants/benoit-naveau/contents+fr.lr:speaker.description)
 msgid "* Créateur de la [Robotic Academy](https://fr-fr.facebook.com/lsgTeam)"
@@ -1990,11 +2002,6 @@ msgstr ""
 #: http://localhost/intervenants/julie-henry/
 #: (content/intervenants/julie-henry/contents+fr.lr:speaker.description)
 msgid "- https://www.linkedin.com/in/julie-henry-5076951b/"
-msgstr ""
-
-#: http://localhost/concert/
-#: (content/concert/contents+fr.lr:concert.description)
-msgid "####Achetez les tickets [ici](inscriptions.educode.be)"
 msgstr ""
 
 #: http://localhost/intervenants/colin-de-la-higuera/
@@ -2888,6 +2895,10 @@ msgid ""
 "mené et publié."
 msgstr ""
 
+#: http://localhost/concert/ (content/concert/contents+fr.lr:concert.cocktail)
+msgid "A 21h, rendez-vous pour un cocktail dînatoire"
+msgstr ""
+
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid ""
@@ -3184,56 +3195,67 @@ msgstr ""
 
 #: templates/concert.html:14
 msgid ""
-"Dans la salle gothique de l'hôtel de ville de Bruxelles, à la Grand-Place, "
-"lundi 7 octobre 2019 de 19h à 20h30 avec cocktail dinatoire."
+"Dans la salle gothique de l'hôtel de ville de Bruxelles, à la Grand-Place."
 msgstr ""
 
-#: templates/concert.html:18
-msgid "Le carnaval des animaux"
+#: templates/concert.html:14
+msgid "Lundi 7 octobre 2019 de 19h à 23h avec cocktail dinatoire."
 msgstr ""
 
 #: templates/concert.html:19
-msgid "de"
+msgid "Conférence de Gille Dowek"
 msgstr ""
 
-#: templates/concert.html:21
-msgid "Avec"
-msgstr ""
-
-#: templates/concert.html:23
-msgid "flûte"
-msgstr ""
-
-#: templates/concert.html:24
-msgid "clarinette"
-msgstr ""
-
-#: templates/concert.html:25 templates/concert.html:26
-msgid "violon"
+#: templates/concert.html:26
+msgid "Le carnaval des animaux"
 msgstr ""
 
 #: templates/concert.html:27
-msgid "alto"
-msgstr ""
-
-#: templates/concert.html:28
-msgid "violoncelle"
+msgid "de"
 msgstr ""
 
 #: templates/concert.html:29
-msgid "contrebasse"
+msgid "Avec"
 msgstr ""
 
-#: templates/concert.html:30 templates/concert.html:31
-msgid "piano"
+#: templates/concert.html:31
+msgid "flûte"
 msgstr ""
 
 #: templates/concert.html:32
+msgid "clarinette"
+msgstr ""
+
+#: templates/concert.html:33 templates/concert.html:34
+msgid "violon"
+msgstr ""
+
+#: templates/concert.html:35
+msgid "alto"
+msgstr ""
+
+#: templates/concert.html:36
+msgid "violoncelle"
+msgstr ""
+
+#: templates/concert.html:37
+msgid "contrebasse"
+msgstr ""
+
+#: templates/concert.html:38 templates/concert.html:39
+msgid "piano"
+msgstr ""
+
+#: templates/concert.html:40
 msgid "percussion"
 msgstr ""
 
-#: templates/concert.html:33
+#: templates/concert.html:41
 msgid "conteuse"
+msgstr ""
+
+#: templates/concert.html:46
+msgid "Cocktail dinatoire"
 msgstr ""
 
 #: templates/macros/sections.html:20 templates/macros/sections.html:47
