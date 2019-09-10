@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: EduCode 2019\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-10 10:17+CET\n"
+"POT-Creation-Date: 2019-09-10 10:30+CET\n"
 "PO-Revision-Date: 2019-08-27 09:29+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -20,7 +20,7 @@ msgid ""
 "le-code-aux-enfants/)"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.s_overview_program) (dynamic)
+#: http://localhost/ (content/contents+fr.lr:page.s_overview_program)
 msgid "Aperçu du programme"
 msgstr "Aperçu du programme"
 
@@ -195,11 +195,6 @@ msgstr ""
 msgid "- Prof Colin de la Higuera (Université de Nantes)"
 msgstr "- Prof Colin de la Higuera (Université de Nantes)"
 
-#: (dynamic)
-msgid ""
-"Dans la salle gothique de l'hôtel de ville de Bruxelles, à la Grand-Place."
-msgstr ""
-
 #: http://localhost/intervenants/colin-de-la-higuera/
 #: (content/intervenants/colin-de-la-higuera/contents+fr.lr:speaker.description)
 msgid "-   Holder of the UNESCO chair in technologies for the training of"
@@ -351,10 +346,6 @@ msgstr ""
 msgid "# Some links to events Colin supports"
 msgstr ""
 
-#: (dynamic)
-msgid "Journée principale"
-msgstr ""
-
 #: http://localhost/intervenants/colin-de-la-higuera/
 #: (content/intervenants/colin-de-la-higuera/contents+fr.lr:speaker.description)
 msgid ""
@@ -416,10 +407,6 @@ msgid ""
 "intégrant le son et l’image par le biais"
 msgstr ""
 
-#: (dynamic)
-msgid "alto"
-msgstr "alto"
-
 #: http://localhost/ateliers/initiation-a-la-pensee-informatique-en-primaire/
 #: (content/ateliers/initiation-a-la-pensee-informatique-en-primaire/contents+fr.lr:workshop.title)
 msgid "Initiation à la pensée informatique en primaire"
@@ -429,10 +416,6 @@ msgstr ""
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "- Dr Pierre De Buyl (KU Leuven, chercheur)"
 msgstr "- Dr Pierre De Buyl (KU Leuven, chercheur)"
-
-#: (dynamic)
-msgid "contrebasse"
-msgstr "contrebasse"
 
 #: http://localhost/ (content/contents+fr.lr:page.s_saturday)
 msgid "Samedi"
@@ -587,7 +570,7 @@ msgid ""
 "est le bienvenu."
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.s_program) (dynamic)
+#: http://localhost/ (content/contents+fr.lr:page.s_program)
 msgid "Programme"
 msgstr "Programme"
 
@@ -692,10 +675,6 @@ msgstr ""
 "EduCode](/asbl). C'est essentiellement une activité bénévole pour le moment "
 "qui requiert une énergie très importante de la part d'un très petit nombre "
 "d'acteurs, femmes et hommes."
-
-#: (dynamic)
-msgid "Le carnaval des animaux"
-msgstr "Le carnaval des animaux"
 
 #: http://localhost/intervenants/colin-de-la-higuera/
 #: (content/intervenants/colin-de-la-higuera/contents+fr.lr:speaker.description)
@@ -846,10 +825,16 @@ msgid ""
 "l'École polytechnique de 2002 à 2010. Il est actuellement chercheur à INRIA."
 msgstr ""
 
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
-msgid "- Prof Hugues Bersini (ULB)"
-msgstr "- Prof Hugues Bersini (ULB)"
+#: http://localhost/intervenants/francoise-bols/
+#: (content/intervenants/francoise-bols/contents+fr.lr:speaker.description)
+msgid ""
+"[Françoise Bols](https://www.iesp.be/mathematiques/) est une mathématicienne "
+"belge, maître-assistante à la [Haute école Bruxelles-Brabant (HE2B)](http://"
+"he2b.be). À ce titre, elle forme maintenant des futurs enseignants de "
+"mathématique pour le tronc commun (12-15 ans) de l'enseignement secondaire "
+"francophone. Elle partage volontiers ses passions et vous pouvez la "
+"retrouver dans [cette vidéo](https://www.youtube.com/watch?v=AA8_QCbhrNo)"
+msgstr ""
 
 #: http://localhost/intervenants/colin-de-la-higuera/
 #: (content/intervenants/colin-de-la-higuera/contents+fr.lr:speaker.description)
@@ -885,10 +870,6 @@ msgstr "Soumettre un poster"
 #: (content/intervenants/colin-de-la-higuera/contents+fr.lr:speaker.description)
 msgid "-   Head of the Teaching and Education Committee of the"
 msgstr ""
-
-#: (dynamic)
-msgid "violon"
-msgstr "violon"
 
 #: http://localhost/lieux/becentral/
 #: (content/lieux/becentral/contents+fr.lr:location.directions)
@@ -1010,10 +991,6 @@ msgstr ""
 msgid "-   with Rick Smetsers and Alexis Linard, investigating compression"
 msgstr ""
 
-#: (dynamic)
-msgid "violoncelle"
-msgstr "violoncelle"
-
 #: http://localhost/ (content/contents+fr.lr:page.practical_infos)
 msgid ""
 "La journée se déroulera dans les locaux de la HE2B-Defré, avenue Defré 62 à "
@@ -1084,10 +1061,6 @@ msgid ""
 "- Distribuez ce \"devfile\" aux participants pour qu'ils créent leur propre "
 "environnement."
 msgstr ""
-
-#: (dynamic)
-msgid "conteuse"
-msgstr "conteuse"
 
 #: http://localhost/intervenants/nicolas-pettiaux/
 #: (content/intervenants/nicolas-pettiaux/contents+fr.lr:speaker.description)
@@ -1227,10 +1200,6 @@ msgstr ""
 msgid "in London (UK), formed as a successor to the PASCAL2 Network of"
 msgstr ""
 
-#: (dynamic)
-msgid "flûte"
-msgstr "flûte"
-
 #: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
 #: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.description)
 msgid ""
@@ -1333,11 +1302,7 @@ msgstr ""
 msgid "at University of Nantes."
 msgstr ""
 
-#: (dynamic)
-msgid "percussion"
-msgstr "percussion"
-
-#: (dynamic) http://localhost/journee-info-sans-ordi/
+#: http://localhost/journee-info-sans-ordi/
 #: (content/journee-info-sans-ordi/contents+fr.lr:details-program.date)
 msgid "Journée info sans ordi"
 msgstr ""
@@ -1345,14 +1310,6 @@ msgstr ""
 #: http://localhost/ateliers/premiers-pas-dans-la-programmation-ludique-et-creative/
 #: (content/ateliers/premiers-pas-dans-la-programmation-ludique-et-creative/contents+fr.lr:workshop.title)
 msgid "Premiers pas dans la programmation ludique et créative"
-msgstr ""
-
-#: (dynamic)
-msgid "Avec"
-msgstr "Avec"
-
-#: (dynamic)
-msgid "Concert festif"
 msgstr ""
 
 #: http://localhost/intervenants/colin-de-la-higuera/
@@ -1437,16 +1394,10 @@ msgid ""
 "tous les acteurs de l'enseignement aux défis du numérique__."
 msgstr ""
 
-#: http://localhost/intervenants/francoise-bols/
-#: (content/intervenants/francoise-bols/contents+fr.lr:speaker.description)
-msgid ""
-"[Françoise Bols](https://www.iesp.be/mathematiques/) est une mathématicienne "
-"belge, maître-assistante à la [Haute école Bruxelles-Brabant (HE2B)](http://"
-"he2b.be). À ce titre, elle forme maintenant des futurs enseignants de "
-"mathématique pour le tronc commun (12-15 ans) de l'enseignement secondaire "
-"francophone. Elle partage volontiers ses passions et vous pouvez la "
-"retrouver dans [cette vidéo](https://www.youtube.com/watch?v=AA8_QCbhrNo)"
-msgstr ""
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
+msgid "- Prof Hugues Bersini (ULB)"
+msgstr "- Prof Hugues Bersini (ULB)"
 
 #: http://localhost/lieux/he2b-defre/
 #: (content/lieux/he2b-defre/contents+fr.lr:location.directions)
@@ -1522,13 +1473,11 @@ msgstr "- Françoise Bols"
 msgid "[Plus d'informations...](concert)"
 msgstr ""
 
-#: (dynamic)
-msgid "Lundi 7 octobre 2019 de 19h à 23h avec cocktail dinatoire."
-msgstr ""
-
 #: http://localhost/intervenants/colin-de-la-higuera/
 #: (content/intervenants/colin-de-la-higuera/contents+fr.lr:speaker.description)
-msgid "-   I coran project [COCo](http://www.comin-ocw.org/) at University of"
+msgid ""
+"[video](http://www.dailymotion.com/video/x1nc69j_decodez-le-code-colin-de-la-"
+"higuera-inria_school)"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.registration)
@@ -1622,10 +1571,6 @@ msgid ""
 "participer, quels sont les objectifs recherchés ? Pour le savoir, venez "
 "participer à cette présentation."
 msgstr ""
-
-#: (dynamic)
-msgid "clarinette"
-msgstr "clarinette"
 
 #: http://localhost/intervenants/colin-de-la-higuera/
 #: (content/intervenants/colin-de-la-higuera/contents+fr.lr:speaker.description)
@@ -1743,10 +1688,6 @@ msgid ""
 "désir de décloisonner les différents genres musicaux."
 msgstr ""
 
-#: (dynamic)
-msgid "piano"
-msgstr "piano"
-
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "- Eric Robette (HE2B-Defré, maître-assistant)"
@@ -1761,10 +1702,6 @@ msgstr ""
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "- Alexia Pasini (HE2B, co-présidente)"
 msgstr "- Alexia Pasini (HE2B, co-présidente)"
-
-#: (dynamic)
-msgid "de"
-msgstr "de"
 
 #: http://localhost/intervenants/colin-de-la-higuera/
 #: (content/intervenants/colin-de-la-higuera/contents+fr.lr:speaker.description)
@@ -2242,14 +2179,9 @@ msgstr ""
 msgid "- Françoise Bols (HE2B-Nivelles, chargé de cours)"
 msgstr "- Françoise Bols (HE2B-Nivelles, chargé de cours)"
 
-#: (dynamic) http://localhost/dons/
-#: (content/dons/contents+fr.lr:details-program.date)
+#: http://localhost/dons/ (content/dons/contents+fr.lr:details-program.date)
 msgid "Dons"
 msgstr "Dons"
-
-#: (dynamic)
-msgid "Concert"
-msgstr ""
 
 #: http://localhost/intervenants/colin-de-la-higuera/
 #: (content/intervenants/colin-de-la-higuera/contents+fr.lr:speaker.description)
@@ -2509,9 +2441,7 @@ msgstr ""
 
 #: http://localhost/intervenants/colin-de-la-higuera/
 #: (content/intervenants/colin-de-la-higuera/contents+fr.lr:speaker.description)
-msgid ""
-"[video](http://www.dailymotion.com/video/x1nc69j_decodez-le-code-colin-de-la-"
-"higuera-inria_school)"
+msgid "-   I coran project [COCo](http://www.comin-ocw.org/) at University of"
 msgstr ""
 
 #: http://localhost/ateliers/apprendre-a-souder/
@@ -2736,10 +2666,6 @@ msgstr ""
 #: (content/lieux/he2b-defre/contents+fr.lr:location.address)
 msgid "Avenue Defré 62 à 1180 Bruxelles (Uccle)"
 msgstr ""
-
-#: (dynamic)
-msgid "Concert festif exceptionnel"
-msgstr "Concert festif exceptionnel"
 
 #: http://localhost/ateliers/un-boitier-de-mesure-pour-les-sciences-experimentales/
 #: (content/ateliers/un-boitier-de-mesure-pour-les-sciences-experimentales/contents+fr.lr:workshop.description)
@@ -3027,10 +2953,6 @@ msgstr ""
 msgid "======  Eclipse Che pour l'enseignement. ======"
 msgstr ""
 
-#: (dynamic)
-msgid "Conférence de Gille Dowek"
-msgstr ""
-
 #: http://localhost/ (content/contents+fr.lr:page.s_expo)
 msgid "Exposition"
 msgstr "Exposition"
@@ -3173,17 +3095,9 @@ msgstr ""
 msgid "- Dr Nicolas Pettiaux (ESI-HE2B & ULB-Lisa, maître-assistant)"
 msgstr "- Dr Nicolas Pettiaux (ESI-HE2B & ULB-Lisa, maître-assistant)"
 
-#: (dynamic)
-msgid "Cocktail dinatoire"
-msgstr ""
-
 #: http://localhost/ateliers/des-robots-des-la-maternelle/
 #: (content/ateliers/des-robots-des-la-maternelle/contents+fr.lr:workshop.tag)
 msgid "maternelle"
-msgstr ""
-
-#: (dynamic)
-msgid "Avant première du concert"
 msgstr ""
 
 #: http://localhost/intervenants/colin-de-la-higuera/
@@ -3416,6 +3330,80 @@ msgstr ""
 "Toute  proposition d'aide peut être envoyée à [aider@educode.be](mailto://"
 "aider@educode.be?subject=Aider educode&body=Je souhaite aider educode)."
 
+#: templates/concert.html:12
+msgid "Concert festif exceptionnel"
+msgstr "Concert festif exceptionnel"
+
+#: templates/concert.html:14
+msgid ""
+"Dans la salle gothique de l'hôtel de ville de Bruxelles, à la Grand-Place."
+msgstr ""
+
+#: templates/concert.html:14
+msgid "Lundi 7 octobre 2019 de 19h à 23h avec cocktail dinatoire."
+msgstr ""
+
+#: templates/concert.html:19
+msgid "Conférence de Gille Dowek"
+msgstr ""
+
+#: templates/concert.html:26
+msgid "Le carnaval des animaux"
+msgstr "Le carnaval des animaux"
+
+#: templates/concert.html:27
+msgid "de"
+msgstr "de"
+
+#: templates/concert.html:29
+msgid "Avec"
+msgstr "Avec"
+
+#: templates/concert.html:31
+msgid "flûte"
+msgstr "flûte"
+
+#: templates/concert.html:32
+msgid "clarinette"
+msgstr "clarinette"
+
+#: templates/concert.html:33 templates/concert.html:34
+msgid "violon"
+msgstr "violon"
+
+#: templates/concert.html:35
+msgid "alto"
+msgstr "alto"
+
+#: templates/concert.html:36
+msgid "violoncelle"
+msgstr "violoncelle"
+
+#: templates/concert.html:37
+msgid "contrebasse"
+msgstr "contrebasse"
+
+#: templates/concert.html:38 templates/concert.html:39
+msgid "piano"
+msgstr "piano"
+
+#: templates/concert.html:40
+msgid "percussion"
+msgstr "percussion"
+
+#: templates/concert.html:41
+msgid "conteuse"
+msgstr "conteuse"
+
+#: templates/concert.html:46
+msgid "Cocktail dinatoire"
+msgstr ""
+
+#: templates/macros/sections.html:20 templates/macros/sections.html:47
+#: templates/page.html:51 templates/speaker.html:73
+msgid "Journée principale"
+msgstr ""
+
 #: templates/page.html:59
 msgid "Voir les ateliers"
 msgstr ""
@@ -3424,8 +3412,21 @@ msgstr ""
 msgid "Avant première du concert festif"
 msgstr ""
 
+#: templates/macros/sections.html:23 templates/macros/sections.html:50
+#: templates/page.html:83
+msgid "Concert festif"
+msgstr ""
+
 #: templates/page.html:218
 msgid "S'inscrire"
+msgstr ""
+
+#: templates/speaker.html:75
+msgid "Concert"
+msgstr ""
+
+#: templates/macros/sections.html:22 templates/macros/sections.html:49
+msgid "Avant première du concert"
 msgstr ""
 
 #~ msgid ""

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: educode\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-10 10:16+CET\n"
+"POT-Creation-Date: 2019-09-10 10:25+CET\n"
 "PO-Revision-Date: 2019-08-26 20:13+0200\n"
 "Last-Translator: npettiaux\n"
 "Language-Team: English\n"
@@ -23,7 +23,7 @@ msgid ""
 "le-code-aux-enfants/)"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.s_overview_program) (dynamic)
+#: (dynamic) http://localhost/ (content/contents+fr.lr:page.s_overview_program)
 msgid "Aperçu du programme"
 msgstr "Program Overview"
 
@@ -260,14 +260,13 @@ msgid ""
 "Gilles Dowek est le principal auteur."
 msgstr ""
 
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
+#: http://localhost/ (content/contents+fr.lr:page.registration)
 msgid ""
-"- 16h00 à 18h00 : Projection du film **La bataille du libre** suivie d'une "
-"discussion avec son réalisateur, Philippe Borel"
+"L'inscription est **gratuite** pour les enseignants de la Fédération "
+"Wallonie-Bruxelles (maternelle, primaire, secondaire et supérieur) )) "
+"**inscrits** auprès de [IFC](http://www.ifc.cfwb.be) avec le numéro de "
+"formation **03001901/34350**."
 msgstr ""
-"- 16:00 to 18:00 : Screening of the movie **The Battle of Free ** followed "
-"by a discussion with its director, Philippe Borel"
 
 #: http://localhost/ateliers/decouverte-des-learningapps/
 #: (content/ateliers/decouverte-des-learningapps/contents+fr.lr:workshop.description)
@@ -437,13 +436,6 @@ msgstr ""
 msgid "Samedi"
 msgstr "Saturday"
 
-#: http://localhost/ (content/contents+fr.lr:page.journee_principale)
-msgid ""
-"La conférence est gratuite pour les enseignants francophones et inscrit à "
-"IFC avec le **numéro de formation 03001901/34350** à introduire dans le site "
-"[www.ifc.cfwb.be](http://www.ifc.cfwb.be/)"
-msgstr ""
-
 #: http://localhost/ (content/contents+fr.lr:page.journee_sans_ordi)
 msgid ""
 "Une journée spécialement dédiée aux enseignants intéressés par "
@@ -582,11 +574,11 @@ msgid ""
 "un public d’élèves du secondaire supérieur (15-18 ans)."
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.about)
+#: http://localhost/intervenants/bibiana-boccolini/
+#: (content/intervenants/bibiana-boccolini/contents+fr.lr:speaker.description)
 msgid ""
-"Le colloque Educode se déroule le vendredi 27septembre 2019 à la Haute-École "
-"Bruxelles-Brabant dans ses locaux de l'avenue Defré à Uccle [(HE2B-Defré)]"
-"(https://osm.org/go/0EoSK76Bo--?m=)."
+"* Analyste Universitaire de Systèmes diplomée à  l'[UTN](https://www.frro."
+"utn.edu.ar/) à Rosario (Argentine);"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.journee_principale)
@@ -595,7 +587,7 @@ msgid ""
 "est le bienvenu."
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.s_program) (dynamic)
+#: (dynamic) http://localhost/ (content/contents+fr.lr:page.s_program)
 msgid "Programme"
 msgstr "Program"
 
@@ -628,14 +620,6 @@ msgstr ""
 msgid "* Les environnements des participants sont homogènes."
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.journee_sans_ordi)
-msgid ""
-"La journée est gratuite pour les enseignants francophones membres de "
-"l'association educode et inscrit à IFC avec le numéro de formation "
-"03001901/34350 à introduire dans le site http://www.ifc.cfwb.be/. Pour "
-"toutes les autres personnes, elle est payante."
-msgstr ""
-
 #: http://localhost/ateliers/initiation-a-la-pensee-informatique-en-primaire/
 #: (content/ateliers/initiation-a-la-pensee-informatique-en-primaire/contents+fr.lr:workshop.abstract)
 #: (content/ateliers/initiation-a-la-pensee-informatique-en-primaire/contents+fr.lr:workshop.description)
@@ -660,10 +644,6 @@ msgstr ""
 #: http://localhost/lieux/he2b-defre/
 #: (content/lieux/he2b-defre/contents+fr.lr:location.name)
 msgid "HE2B-Defré"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.concert_avant_premiere)
-msgid "Une avant première du [concert festif](/concert) en petit commité."
 msgstr ""
 
 #: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
@@ -809,10 +789,9 @@ msgstr ""
 msgid "Une clé USB vive, pour enseigner avec un système libre"
 msgstr ""
 
-#: http://localhost/intervenants/colin-de-la-higuera/
-#: (content/intervenants/colin-de-la-higuera/contents+fr.lr:speaker.description)
-msgid "artificial intelligence in Europe. The aim of the Foundation is to"
-msgstr ""
+#: http://localhost/ (content/contents+fr.lr:page.s_may)
+msgid "mai"
+msgstr "may"
 
 #: http://localhost/ateliers/decouvrir-la-robot-cubetto/
 #: (content/ateliers/decouvrir-la-robot-cubetto/contents+fr.lr:workshop.description)
@@ -857,16 +836,10 @@ msgid ""
 "l'École polytechnique de 2002 à 2010. Il est actuellement chercheur à INRIA."
 msgstr ""
 
-#: http://localhost/intervenants/francoise-bols/
-#: (content/intervenants/francoise-bols/contents+fr.lr:speaker.description)
-msgid ""
-"[Françoise Bols](https://www.iesp.be/mathematiques/) est une mathématicienne "
-"belge, maître-assistante à la [Haute école Bruxelles-Brabant (HE2B)](http://"
-"he2b.be). À ce titre, elle forme maintenant des futurs enseignants de "
-"mathématique pour le tronc commun (12-15 ans) de l'enseignement secondaire "
-"francophone. Elle partage volontiers ses passions et vous pouvez la "
-"retrouver dans [cette vidéo](https://www.youtube.com/watch?v=AA8_QCbhrNo)"
-msgstr ""
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
+msgid "- Prof Hugues Bersini (ULB)"
+msgstr "- Prof Hugues Bersini (ULB)"
 
 #: http://localhost/intervenants/colin-de-la-higuera/
 #: (content/intervenants/colin-de-la-higuera/contents+fr.lr:speaker.description)
@@ -963,14 +936,6 @@ msgstr ""
 #: (content/intervenants/colin-de-la-higuera/contents+fr.lr:speaker.description)
 msgid "[Nantes](http://www.nantes.fr/), France."
 msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.submissions_text)
-msgid ""
-"Faites-nous part de vos propositions de stand au sein de l'exposition  en "
-"cliquant sur le bouton ci-dessous qui vous intéresse."
-msgstr ""
-"Let us know your stand proposals within the exhibition by clicking on the "
-"button below that interests you."
 
 #: http://localhost/ateliers/de-la-tortue-logo-au-chat-scratch/
 #: (content/ateliers/de-la-tortue-logo-au-chat-scratch/contents+fr.lr:workshop.description)
@@ -1184,13 +1149,14 @@ msgid ""
 "années 80’ !…"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.registration)
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid ""
-"L'inscription est **gratuite** pour les enseignants de la Fédération "
-"Wallonie-Bruxelles (maternelle, primaire, secondaire et supérieur) )) "
-"**inscrits** auprès de [IFC](http://www.ifc.cfwb.be) avec le numéro de "
-"formation **03001901/34350**."
+"- 16h00 à 18h00 : Projection du film **La bataille du libre** suivie d'une "
+"discussion avec son réalisateur, Philippe Borel"
 msgstr ""
+"- 16:00 to 18:00 : Screening of the movie **The Battle of Free ** followed "
+"by a discussion with its director, Philippe Borel"
 
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
@@ -1318,9 +1284,10 @@ msgstr ""
 msgid "Informations :"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.s_may)
-msgid "mai"
-msgstr "may"
+#: http://localhost/intervenants/colin-de-la-higuera/
+#: (content/intervenants/colin-de-la-higuera/contents+fr.lr:speaker.description)
+msgid "artificial intelligence in Europe. The aim of the Foundation is to"
+msgstr ""
 
 #: http://localhost/intervenants/bibiana-boccolini/
 #: (content/intervenants/bibiana-boccolini/contents+fr.lr:speaker.description)
@@ -1359,9 +1326,8 @@ msgstr ""
 msgid "percussion"
 msgstr ""
 
-#: http://localhost/journee-info-sans-ordi/
+#: (dynamic) http://localhost/journee-info-sans-ordi/
 #: (content/journee-info-sans-ordi/contents+fr.lr:details-program.date)
-#: (dynamic)
 msgid "Journée info sans ordi"
 msgstr ""
 
@@ -1460,18 +1426,16 @@ msgid ""
 "tous les acteurs de l'enseignement aux défis du numérique__."
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.submissions_text)
+#: http://localhost/intervenants/francoise-bols/
+#: (content/intervenants/francoise-bols/contents+fr.lr:speaker.description)
 msgid ""
-"Les propositions d'ateliers devraient être entrées pour le 10 aout 2019 dans "
-"http://wiki.educode.be"
+"[Françoise Bols](https://www.iesp.be/mathematiques/) est une mathématicienne "
+"belge, maître-assistante à la [Haute école Bruxelles-Brabant (HE2B)](http://"
+"he2b.be). À ce titre, elle forme maintenant des futurs enseignants de "
+"mathématique pour le tronc commun (12-15 ans) de l'enseignement secondaire "
+"francophone. Elle partage volontiers ses passions et vous pouvez la "
+"retrouver dans [cette vidéo](https://www.youtube.com/watch?v=AA8_QCbhrNo)"
 msgstr ""
-"Workshop proposals should be entered by August 10, 2019 in http://wiki."
-"educode.be"
-
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
-msgid "- Prof Hugues Bersini (ULB)"
-msgstr "- Prof Hugues Bersini (ULB)"
 
 #: http://localhost/lieux/he2b-defre/
 #: (content/lieux/he2b-defre/contents+fr.lr:location.directions)
@@ -1553,9 +1517,7 @@ msgstr ""
 
 #: http://localhost/intervenants/colin-de-la-higuera/
 #: (content/intervenants/colin-de-la-higuera/contents+fr.lr:speaker.description)
-msgid ""
-"[video](http://www.dailymotion.com/video/x1nc69j_decodez-le-code-colin-de-la-"
-"higuera-inria_school)"
+msgid "-   I coran project [COCo](http://www.comin-ocw.org/) at University of"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.registration)
@@ -1618,7 +1580,7 @@ msgstr ""
 msgid "Mercredi"
 msgstr "Wednesday"
 
-#: http://localhost/ (content/contents+fr.lr:page.s_propose_atelier) (dynamic)
+#: (dynamic) http://localhost/ (content/contents+fr.lr:page.s_propose_atelier)
 msgid "Proposer un atelier"
 msgstr "Suggest a workshop"
 
@@ -1893,21 +1855,6 @@ msgstr ""
 msgid "2. Une ouverte au grand public avec exposition et conférences"
 msgstr "2. An opening to the general public with exhibition and conferences"
 
-#: http://localhost/ (content/contents+fr.lr:page.registration)
-msgid ""
-"Il a été demandée que cette formation fasse partie du programme des "
-"formations en interréseaux organisées par l’IFC. Il nous a été confirmé que "
-"selon toute vraisemblance, ce sera le cas. La conférence sera donc "
-"**gratuite pour les enseignants** de primaire et secondaire de la Fédération "
-"Wallonie-Bruxelles inscrits sur le site de IFC.  Nous attendons la "
-"confirmation de IFC pour le 20 août 2019."
-msgstr ""
-"It was requested that this training be part of IFC's internetworking "
-"program. It has been confirmed to us that in all likelihood this will be the "
-"case. The conference will therefore be **free for elementary and secondary "
-"teachers ** from the Wallonia-Brussels Federation registered on the IFC "
-"website. We are awaiting confirmation from IFC by August 20, 2019."
-
 #: http://localhost/ateliers/
 #: (content/ateliers/contents+fr.lr:workshops-container.description)
 msgid "Liste des ateliers présentés"
@@ -2145,12 +2092,6 @@ msgstr ""
 msgid "conference](http://www.k4all.org/Internet_of_Education/) held in"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.journee_sans_ordi)
-msgid ""
-"Pour plus d'information et la préinscription, voir http://wiki.educode.be ou "
-"par email à info@educode.be"
-msgstr ""
-
 #: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
 #: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.title)
 msgid ""
@@ -2290,8 +2231,8 @@ msgstr ""
 msgid "- Françoise Bols (HE2B-Nivelles, chargé de cours)"
 msgstr "- Françoise Bols (HE2B-Nivelles, lecturer)"
 
-#: http://localhost/dons/ (content/dons/contents+fr.lr:details-program.date)
-#: (dynamic)
+#: (dynamic) http://localhost/dons/
+#: (content/dons/contents+fr.lr:details-program.date)
 msgid "Dons"
 msgstr ""
 
@@ -2533,14 +2474,6 @@ msgstr ""
 msgid "La Maison des Maths et du Numérique"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.registration)
-msgid ""
-"L'inscription est **gratuite** pour les enseignants de la pour les "
-"enseignants Fédération Wallonie-Bruxelles (maternelle, primaire, secondaire "
-"et supérieur) )) **inscrits** auprès de [IFC](http://www.ifc.cfwb.be) avec "
-"le numéro de formation **03001901/34350**."
-msgstr ""
-
 #: http://localhost/intervenants/colin-de-la-higuera/
 #: (content/intervenants/colin-de-la-higuera/contents+fr.lr:speaker.description)
 msgid "Excellence, an FP7 research project and the main supporter of"
@@ -2558,7 +2491,9 @@ msgstr ""
 
 #: http://localhost/intervenants/colin-de-la-higuera/
 #: (content/intervenants/colin-de-la-higuera/contents+fr.lr:speaker.description)
-msgid "-   I coran project [COCo](http://www.comin-ocw.org/) at University of"
+msgid ""
+"[video](http://www.dailymotion.com/video/x1nc69j_decodez-le-code-colin-de-la-"
+"higuera-inria_school)"
 msgstr ""
 
 #: http://localhost/ateliers/apprendre-a-souder/
@@ -2740,10 +2675,6 @@ msgid ""
 "[Marie Duflot-Kremer](https://members.loria.fr/MDuflot/) est une "
 "informaticienne française, maîtresse de conférences en informatique"
 msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.submissions_text)
-msgid "La liste des ateliers sera publiée pour le 5 septembre 2019"
-msgstr "The list of workshops will be published for September 5, 2019"
 
 #: http://localhost/intervenants/colin-de-la-higuera/
 #: (content/intervenants/colin-de-la-higuera/contents+fr.lr:speaker.description)
@@ -2990,15 +2921,6 @@ msgstr ""
 msgid "- Erick Mascart (Forsub, conseiller pédagogique et formateur)"
 msgstr "- Erick Mascart (Forsub, educational advisor and trainer)"
 
-#: http://localhost/ (content/contents+fr.lr:page.about)
-msgid ""
-"Le colloque Educode se déroule le vendredi 27septembre 2019 à la Haute-École "
-"Bruxelles-Brabant dans ses locaux de l'avenue Defré à Uccle (HE2B-Defré)."
-msgstr ""
-"The Educode colloquium will take place on Friday 27th September 2019 at the "
-"Brussels-Brabant High School in its premises on the Defré Avenue in Uccle "
-"(HE2B-Defré)."
-
 #: http://localhost/intervenants/colin-de-la-higuera/
 #: (content/intervenants/colin-de-la-higuera/contents+fr.lr:speaker.description)
 msgid ""
@@ -3011,11 +2933,11 @@ msgstr ""
 msgid "**Destiné aux enfants dès 3 ans**"
 msgstr ""
 
-#: http://localhost/intervenants/bibiana-boccolini/
-#: (content/intervenants/bibiana-boccolini/contents+fr.lr:speaker.description)
+#: http://localhost/ (content/contents+fr.lr:page.about)
 msgid ""
-"* Analyste Universitaire de Systèmes diplomée à  l'[UTN](https://www.frro."
-"utn.edu.ar/) à Rosario (Argentine);"
+"Le colloque Educode se déroule le vendredi 27septembre 2019 à la Haute-École "
+"Bruxelles-Brabant dans ses locaux de l'avenue Defré à Uccle [(HE2B-Defré)]"
+"(https://osm.org/go/0EoSK76Bo--?m=)."
 msgstr ""
 
 #: http://localhost/dons/
@@ -3440,14 +3362,6 @@ msgstr ""
 msgid "Beaucoup participent à l'exposition ."
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.registration)
-msgid ""
-"Les préinscriptions sont possibles dans https://wiki.educode.be/doku.php?"
-"id=educode2019preinscriptions"
-msgstr ""
-"Pre-registrations are possible in https://wiki.educode.be/doku.php?"
-"id=educode2019preinscriptions"
-
 #: http://localhost/intervenants/benoit-naveau/
 #: (content/intervenants/benoit-naveau/contents+fr.lr:speaker.description)
 msgid ""
@@ -3481,6 +3395,53 @@ msgid ""
 msgstr ""
 "Any help proposal can be sent to [aider@educode.be](mailto://aider@educode."
 "be?subject=Help educode&body=I want to help educode)."
+
+#~ msgid ""
+#~ "Faites-nous part de vos propositions de stand au sein de l'exposition  en "
+#~ "cliquant sur le bouton ci-dessous qui vous intéresse."
+#~ msgstr ""
+#~ "Let us know your stand proposals within the exhibition by clicking on the "
+#~ "button below that interests you."
+
+#~ msgid ""
+#~ "Les propositions d'ateliers devraient être entrées pour le 10 aout 2019 "
+#~ "dans http://wiki.educode.be"
+#~ msgstr ""
+#~ "Workshop proposals should be entered by August 10, 2019 in http://wiki."
+#~ "educode.be"
+
+#~ msgid ""
+#~ "Il a été demandée que cette formation fasse partie du programme des "
+#~ "formations en interréseaux organisées par l’IFC. Il nous a été confirmé "
+#~ "que selon toute vraisemblance, ce sera le cas. La conférence sera donc "
+#~ "**gratuite pour les enseignants** de primaire et secondaire de la "
+#~ "Fédération Wallonie-Bruxelles inscrits sur le site de IFC.  Nous "
+#~ "attendons la confirmation de IFC pour le 20 août 2019."
+#~ msgstr ""
+#~ "It was requested that this training be part of IFC's internetworking "
+#~ "program. It has been confirmed to us that in all likelihood this will be "
+#~ "the case. The conference will therefore be **free for elementary and "
+#~ "secondary teachers ** from the Wallonia-Brussels Federation registered on "
+#~ "the IFC website. We are awaiting confirmation from IFC by August 20, 2019."
+
+#~ msgid "La liste des ateliers sera publiée pour le 5 septembre 2019"
+#~ msgstr "The list of workshops will be published for September 5, 2019"
+
+#~ msgid ""
+#~ "Le colloque Educode se déroule le vendredi 27septembre 2019 à la Haute-"
+#~ "École Bruxelles-Brabant dans ses locaux de l'avenue Defré à Uccle (HE2B-"
+#~ "Defré)."
+#~ msgstr ""
+#~ "The Educode colloquium will take place on Friday 27th September 2019 at "
+#~ "the Brussels-Brabant High School in its premises on the Defré Avenue in "
+#~ "Uccle (HE2B-Defré)."
+
+#~ msgid ""
+#~ "Les préinscriptions sont possibles dans https://wiki.educode.be/doku.php?"
+#~ "id=educode2019preinscriptions"
+#~ msgstr ""
+#~ "Pre-registrations are possible in https://wiki.educode.be/doku.php?"
+#~ "id=educode2019preinscriptions"
 
 #~ msgid "Beaucoup participent à l'[exposition](/exposition) ."
 #~ msgstr "Many participate in the [exhibition](/exposition) ."
