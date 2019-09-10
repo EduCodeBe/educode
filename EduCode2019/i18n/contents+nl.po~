@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: educode\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-10 10:25+CET\n"
+"POT-Creation-Date: 2019-09-10 11:24+CET\n"
 "PO-Revision-Date: 2019-08-26 20:08+0200\n"
 "Last-Translator: npettiaux\n"
 "Language-Team: Flemish\n"
@@ -52,6 +52,12 @@ msgstr ""
 msgid ""
 "..* Il est possible de créer un compte pour sa classe où chaque élève peut "
 "se connecter."
+msgstr ""
+
+#: http://localhost/concert-festif-avant-premiere/
+#: (content/concert-festif-avant-premiere/contents+fr.lr:details-program.description)
+msgid ""
+"[Cliquez ici](../concert) pour plus d'informations sur la représentation."
 msgstr ""
 
 #: http://localhost/intervenants/colin-de-la-higuera/
@@ -200,6 +206,11 @@ msgstr "- Prof Colin de la Higuera (Universiteit van Nantes)"
 #: (dynamic)
 msgid ""
 "Dans la salle gothique de l'hôtel de ville de Bruxelles, à la Grand-Place."
+msgstr ""
+
+#: http://localhost/journee-info-sans-ordi/
+#: (content/journee-info-sans-ordi/contents+fr.lr:details-program.description)
+msgid "Les inscriptions sont [ouvertes](https://inscriptions.educode.be)"
 msgstr ""
 
 #: http://localhost/intervenants/colin-de-la-higuera/
@@ -630,6 +641,13 @@ msgid ""
 "informatiques."
 msgstr ""
 
+#: http://localhost/journee-info-sans-ordi/
+#: (content/journee-info-sans-ordi/contents+fr.lr:details-program.description)
+#: http://localhost/concert-festif-avant-premiere/
+#: (content/concert-festif-avant-premiere/contents+fr.lr:details-program.description)
+msgid "Les réservations sont possibles [ici](https://inscriptions.educode.be)"
+msgstr ""
+
 #: http://localhost/intervenants/bibiana-boccolini/
 #: (content/intervenants/bibiana-boccolini/contents+fr.lr:speaker.description)
 msgid ""
@@ -902,6 +920,18 @@ msgstr ""
 msgid ""
 "Les languages de programmation les plus courants sont disponibles "
 "directement depuis l'interface (Python, Java, Javascript, PHP...)."
+msgstr ""
+
+#: http://localhost/journee-info-sans-ordi/
+#: (content/journee-info-sans-ordi/contents+fr.lr:details-program.description)
+msgid ""
+"Ce programme sera très inspiré de celui de la [journée Info Sans Ordi]"
+"(https://www.societe-informatique-de-france.fr/2019/05/samedi-15-juin-"
+"participez-a-la-journee-info-sans-ordi|) organisé conjointement par la "
+"[Société Informatique de France](https://www.societe-informatique-de-france."
+"fr/), la [Fondation La main à la pâte](https://www.fondation-lamap.org/), "
+"[Class'Code](https://pixees.fr/classcode-v2/) et [La Gaîté lyrique](https://"
+"gaite-lyrique.net/)."
 msgstr ""
 
 #: http://localhost/intervenants/colin-de-la-higuera/
@@ -1291,6 +1321,14 @@ msgstr ""
 msgid "Informations :"
 msgstr ""
 
+#: http://localhost/concert-festif-avant-premiere/
+#: (content/concert-festif-avant-premiere/contents+fr.lr:details-program.description)
+msgid ""
+"Une avant première du [concert festif](../concert) en petit commité, à la "
+"Cellule 133a situé [133a avenue Ducpétiaux ](https://osm.org/go/0EoSP1HpH--?"
+"m=)"
+msgstr ""
+
 #: http://localhost/intervenants/colin-de-la-higuera/
 #: (content/intervenants/colin-de-la-higuera/contents+fr.lr:speaker.description)
 msgid "artificial intelligence in Europe. The aim of the Foundation is to"
@@ -1499,6 +1537,18 @@ msgstr ""
 msgid "-   21/7/2014. An"
 msgstr ""
 
+#: http://localhost/journee-info-sans-ordi/
+#: (content/journee-info-sans-ordi/contents+fr.lr:details-program.description)
+msgid ""
+"Ce programme sera très inspiré de celui de la [journée Info Sans Ordi]"
+"(https://www.societe-informatique-de-france.fr/2019/05/samedi-15-juin-"
+"participez-a-la-journee-info-sans-ordi|) organisé conjointement par la "
+"[Société Informatique de France](https://www.societe-informatique-de-france."
+"fr/), la [Fondation La main à la pâte](https://www.fondation-lamap.org/), "
+"[Class'Code](https://pixees.fr/classcode-v2/) et [La Gaîté lyrique](https://"
+"gaite-lyrique.net/."
+msgstr ""
+
 #: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
 #: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.description)
 msgid ""
@@ -1525,6 +1575,11 @@ msgstr ""
 #: http://localhost/intervenants/colin-de-la-higuera/
 #: (content/intervenants/colin-de-la-higuera/contents+fr.lr:speaker.description)
 msgid "-   I coran project [COCo](http://www.comin-ocw.org/) at University of"
+msgstr ""
+
+#: http://localhost/concert-festif-avant-premiere/
+#: (content/concert-festif-avant-premiere/contents+fr.lr:details-program.description)
+msgid ", 1060 Saint-Gilles"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.registration)
@@ -2078,6 +2133,10 @@ msgstr "Dien hier in"
 #: http://localhost/intervenants/colin-de-la-higuera/
 #: (content/intervenants/colin-de-la-higuera/contents+fr.lr:speaker.description)
 msgid "Meet-Up"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.s_intro_dates)
+msgid "27 et 28 septembre 2019"
 msgstr ""
 
 #: http://localhost/intervenants/colin-de-la-higuera/
@@ -2738,6 +2797,11 @@ msgstr ""
 msgid "Concert festif exceptionnel"
 msgstr ""
 
+#: http://localhost/journee-info-sans-ordi/
+#: (content/journee-info-sans-ordi/contents+fr.lr:details-program.date)
+msgid "28 septembre 2019"
+msgstr ""
+
 #: http://localhost/ateliers/un-boitier-de-mesure-pour-les-sciences-experimentales/
 #: (content/ateliers/un-boitier-de-mesure-pour-les-sciences-experimentales/contents+fr.lr:workshop.description)
 msgid ""
@@ -2768,6 +2832,16 @@ msgstr ""
 msgid ""
 "Enseignement au numérique: une approche pratique pour les instituteurs "
 "primaires"
+msgstr ""
+
+#: http://localhost/journee-info-sans-ordi/
+#: (content/journee-info-sans-ordi/contents+fr.lr:details-program.description)
+msgid ""
+"Samedi 28 septembre, vous pourrez participer à une journée spéciale de "
+"formation et discussion autour des l'**informatique débranchée**, en "
+"particulier en maternelle, primaire et secondaire au premier cycle. Des "
+"ateliers pratiques, des échanges conviviaux, pour une cinquantaine de "
+"personnes maximum."
 msgstr ""
 
 #: http://localhost/ateliers/decouverte-des-learningapps/
@@ -2806,6 +2880,14 @@ msgid ""
 "* Especiallista Universitaria en Asesoramiento Didáctico e Intervención "
 "Educativa [diplomée à l'UNED]([https://www.uned.es/universidad/inicio.html) "
 "à Madrid (España) ;"
+msgstr ""
+
+#: http://localhost/concert-festif-avant-premiere/
+#: (content/concert-festif-avant-premiere/contents+fr.lr:details-program.description)
+msgid ""
+"Une avant première du [concert festif](../concert) en petit commité, à la "
+"Cellule 133a situé [133a avenue Ducpétiaux, 1060 Saint-Gilles ](https://osm."
+"org/go/0EoSP1HpH--?m=)"
 msgstr ""
 
 #: http://localhost/ateliers/decouverte-des-learningapps/
@@ -2993,6 +3075,11 @@ msgstr ""
 msgid "Compétences :"
 msgstr ""
 
+#: http://localhost/concert-festif-avant-premiere/
+#: (content/concert-festif-avant-premiere/contents+fr.lr:details-program.date)
+msgid "27 septembre 2019 - 20h"
+msgstr ""
+
 #: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
 #: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.description)
 msgid ""
@@ -3131,6 +3218,12 @@ msgstr ""
 msgid "Modus operandi des Cartoparties participatives"
 msgstr ""
 
+#: http://localhost/ (content/contents+fr.lr:page.concert_avant_premiere)
+msgid ""
+"Une avant première du [concert festif](concert) en petit commité,  à la "
+"Cellule 133a à 1060 Saint-Gilles ."
+msgstr ""
+
 #: http://localhost/intervenants/colin-de-la-higuera/
 #: (content/intervenants/colin-de-la-higuera/contents+fr.lr:speaker.description)
 msgid "[SIF](http://www.societe-informatique-de-france.fr/)."
@@ -3149,6 +3242,13 @@ msgstr ""
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "#Comité de programme"
 msgstr "#Programmacommissie"
+
+#: http://localhost/concert-festif-avant-premiere/
+#: (content/concert-festif-avant-premiere/contents+fr.lr:details-program.description)
+msgid ""
+"Les réservations sont [dès à présent possibles](https://inscriptions.educode."
+"be)"
+msgstr ""
 
 #: http://localhost/lieux/villebxl/
 #: (content/lieux/villebxl/contents+fr.lr:location.name)
@@ -3305,6 +3405,8 @@ msgid ""
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.concert_avant_premiere)
+#: http://localhost/journee-info-sans-ordi/
+#: (content/journee-info-sans-ordi/contents+fr.lr:details-program.description)
 msgid ""
 "Une avant première du [concert festif](/concert) en petit commité,  à la "
 "Cellule 133a à 1060 Saint-Gilles ."
