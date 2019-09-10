@@ -70,15 +70,14 @@
                     <span class="text-dark"><i class="fa fa-calendar"></i> Dates d'intervention</span>
                     <br>
                     {% set dates_label = {
-                        "dimanche-26-aout": "Dimanche 26 août",
-                        "lundi-27-aout": "Lundi 27 août",
-                        "mardi-28-aout": "Mardi 28 août",
-                        "mercredi-29-aout": "Mercredi 29 août"
+                        "journee-principale": _("Journée principale"),
+                        "journee-info-sans-ordi": _("Journée info sans ordi"),
+                        "concert": _("Concert")
                         }
                     %}
                     <ul>
                         {% for date in this.dates %}
-                            <li><a href="{{ alt + '/' + date }}">{{ dates_label[date] }}</a></li>
+                            <li><a href="{{ ('/' + date) | url(alt)}}">{{ dates_label[date] }}</a></li>
                         {% endfor %}
                     </ul>
 
