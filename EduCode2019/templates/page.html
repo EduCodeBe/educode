@@ -2,7 +2,9 @@
 
 {% block baseline %}
     <div class="container overlay">
-        <img data-aos="zoom-in" data-aos-delay="500" src="{{ '/imgs/educode-logo-transparent.png' | url }}" alt="">
+        <img data-aos="zoom-in" data-aos-delay="500" src="{{ '/imgs/educode_logo_mono/monochrome/svg/complet.svg' | url }}" alt="">
+        <br>
+        <br>
         <h1 data-aos="fade-down" data-aos-delay="100" class="color-dark">{{ this.title }}</h1>
 
         <p class="color-darker-yellow " data-aos="zoom-in" data-aos-delay="300">
@@ -140,30 +142,10 @@
                             </div>
                         </div>
                     </div>
-                    <hr>
-                    <div class="container">
-                        <div class="row">
-                            <!-- On récupère tous les exposants -->
-                            {% set exhibitors = site.query('/exposants').include_hidden(false).all() %}
-                            {% if exhibitors %}
-                                {% for exhibitor in exhibitors %}
-                                    <div class="exhibitor col-12 col-sm-4" data-aos="zoom-in">
-                                        <h4>{{ exhibitor.title }}</h4>
-                                        <p>{{ exhibitor.abstract }}</p>
-                                        {% if exhibitor.website %}
-                                            <a href="{{ exhibitor.website }}"
-                                               target="_blank"
-                                               class="btn btn-warning text-uppercase">
-                                                SITE WEB
-                                            </a>
-                                        {% endif %}
-                                    </div>
-                                {% endfor %}
-                            {% endif %}
-                        </div>
-                    </div>
+                    
                 </div>
             </div>
+            <hr>
         </div>
         <div class="container">
             <div class="row">
@@ -174,7 +156,7 @@
                         {{ this.partners_about }}
                     </div>
                     <div class="col-12">
-                        <hr>
+                        <!--<hr>-->
                     </div>
 
                     <div class="col-12 text-center">
@@ -233,9 +215,9 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-12 text-center mt-2 mb-2">
-                                <a href="http://brussel.iticketsro.com/Bozar/search/EDUCODE"
+                                <a href="https://inscriptions.educode.be"
                                    target="_blank"
-                                   class="btn btn-lg btn-warning text-uppercase">{{ this.s_registration }}</a>
+                                   class="btn btn-lg btn-warning text-uppercase">{{ _("S'inscrire") }}</a>
                             </div>
                         </div>
                     </div>
@@ -375,10 +357,10 @@
                 <div class="container">
                     <div class="row text-center">
                         <div class="col-12 text-center mt-1 mb-1">
-                            <a href="https://educode2018.sciencesconf.org/"
+                            <a href="https://wiki.educode.be"
                                target="_blank"
                                class="btn btn-lg btn-warning">
-                                {{ this.s_submit_paper }} - {{ this.s_wednesday_29 }}
+                                {{ _("Proposer un atelier") }}
                             </a>
                         </div>
                     </div>
