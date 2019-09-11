@@ -60,7 +60,7 @@
                         <a href="ateliers"
                            class="btn btn-lg btn-warning text-uppercase">{{ _("Voir les ateliers") }}</a>
                     </div>
-                    <hr>
+                    <br>
                 </div>
 
 		<div class="col-12" data-aos="fade-down-right" data-aos-delay="100">
@@ -127,12 +127,12 @@
                 {% endif %}
             </div>
         </div>
+        <!--
         <div class="container">
             <div class="row">
                 <div class="col-12">
                     <hr>
                 </div>
-
                 <div id="anchor-expo" class="col-12">
                     <h4 class="title title-left"> {{ this.s_expo }} </h4>
                     <div id="expo-about" class="container">
@@ -145,8 +145,9 @@
                     
                 </div>
             </div>
-            <hr>
         </div>
+                -->
+            <hr>
         <div class="container">
             <div class="row">
                 <div id="anchor-partners" class="col-12">
@@ -237,33 +238,62 @@
                     <hr>
                     <div class="container">
                         <div class="row">
+                            <div class="card-group mx-auto">
                             <!-- On récupère tous les lieux -->
                             {% set lieux = site.query('/lieux').include_hidden(false).all() %}
                             {% if lieux %}
                                 {% for lieu in lieux %}
                                     {% if lieu.type_location == 'Lieu normal' %}
-                                        <div class="col-12 col-sm-4 col-md-3 location text-center">
+                                        <!--
+                                            <div class="col-12 col-sm-4 col-md-3 location text-center">
+                                        -->
+                                        <div class="card col-12 col-sm-3 col-md-4 border-0" style="width: 18rem;">
                                             <!-- picture -->
                                             {% set pictures = lieu.attachments %}
                                             {% if pictures %}
                                                 {% set lieu_picture = pictures | first %}
-                                                <div class="location-picture"
+                                                
+                                                <img class="card-img-top" src="{{ lieu_picture | url }}" 
+                                                    data-aos="zoom-in-down" 
+                                                    onclick="location.href = '{{ lieu.url_path | url }}'" 
+                                                    style="width: 100%;
+                                                    height: 10vw;
+                                                    object-fit: cover">
+                                                <!--<div class="location-picture"
                                                      data-aos="zoom-in-down"
                                                      style="background: url('{{ lieu_picture | url }}') no-repeat center center;
                                                              height: 150px;
                                                              -webkit-background-size: contain;
                                                              background-size: contain;"
                                                      onclick="location.href = '{{ lieu.url_path | url }}'">
-                                                </div>
+                                                </div>-->
                                             {% else %}
+                                                <img class="card-img-top" src="{{ '/imgs/location.svg' }}" 
+                                                data-aos="zoom-in-down" 
+                                                onclick="location.href = '{{ lieu.url_path | url }}'" 
+                                                style="width: 100%;
+                                                height: 10vw;
+                                                object-fit: cover">
+                                                <!--
                                                 <div class="location-picture" data-aos="zoom-in-down">
                                                     <a href="{{ lieu.url_path | url }}">
                                                         <img src="{{ '/imgs/location.svg' }}" alt="">
                                                     </a>
                                                 </div>
+                                                -->
                                             {% endif %}
 
                                             <!-- description -->
+                                            <div class="card-body d-flex flex-column p-0">
+                                                    <h4 class="card-title color-white p-1 mt-1 text-center"
+                                                        style="background-color: #5c2429;">
+                                                        <strong>{{ lieu.name }}</strong>
+                                                    </h4>
+                                                    <p class="color-dark card-text justify-content-end">{{ lieu.address }}</p>
+                                                    <a href="{{ lieu.url_path | url }}"
+                                                        class="btn btn-warning mt-auto">{{ this.s_more_infos }}</a>
+                                            </div>
+                                            <!--
                                             <h4 class="color-white p-1 mt-1 text-center"
                                                 style="background-color: #5c2429;">
                                                 <strong>{{ lieu.name }}</strong>
@@ -271,11 +301,13 @@
                                             <p class="color-dark">{{ lieu.address }}</p>
                                             <a href="{{ lieu.url_path | url }}"
                                                class="btn btn-warning">{{ this.s_more_infos }}</a>
+                                        -->
                                         </div>
                                     {% endif %}
                                 {% endfor %}
                             {% endif %}
                         </div>
+                    </div>
                     </div>
                     <div class="container">
                         <div class="row">
@@ -401,8 +433,12 @@
                                         </h4>
                                         <p class="color-dark">{{ contact.role }}</p>
                                         <ul>
+                                            {% if contact.tel %}
                                             <li><i class="fa fa-phone"></i> {{ contact.tel }}</li>
+                                            {% endif %}
+                                            {% if contact.mail %}
                                             <li><i class="fa fa-envelope"></i> {{ contact.mail }}</li>
+                                            {% endif %}
                                         </ul>
                                     </div>
                                 {% endfor %}

@@ -1,8 +1,8 @@
 _model: workshop
 ---
-title: Le numérique pour faire face aux inégalités scolaires
+title: Digitale technologie om ongelijkheden op school het hoofd te bieden
 ---
-abstract: Le numérique pour faire face aux inégalités scolaires : l'exemple de Khan Academy
+abstract: Digitale technologie om ongelijkheden op onderwijsgebied het hoofd te bieden: het voorbeeld van Khan Academy
 ---
 age: 6-20
 ---
@@ -14,7 +14,7 @@ contact_name: Lina Karimi
 ---
 description:
 
-Les recherches le confirment : la Belgique n’est pas encore parvenue à éradiquer les inégalités scolaires. Entre les inégalités sociales qui influent les parcours scolaires puis professionnels, le manque d’intérêt, la perte de confiance envers le système scolaire et le désespoir du corps enseignant face à la longue liste de défis à surmonter, il est urgent de proposer des solutions innovantes. Bibliothèques Sans Frontières adapte depuis 2013 la plateforme Khan Academy pour permettre à tout le monde d’accéder à du contenu éducatif de qualité, gratuit et disponible sous licence Creative Commons. Venez découvrir et tester la plateforme pour vous, vos élèves ou vos enfants ! 
+Onderzoek bevestigt dit: België is er nog niet in geslaagd om schoolongelijkheden weg te werken. Tussen de sociale ongelijkheden die van invloed zijn op school en professionele paden, het gebrek aan interesse, het verlies van vertrouwen in het schoolsysteem en de wanhoop van de faculteit staan voor de lange lijst van uitdagingen die moeten worden overwonnen, het is dringend nodig om innovatieve oplossingen voor te stellen . Sinds 2013 heeft Libraries Without Borders het Khan Academy-platform aangepast om iedereen toegang te geven tot hoogwaardige educatieve inhoud, gratis en beschikbaar onder Creative Commons-licentie. Ontdek en test het platform voor u, uw studenten of uw kinderen! 
 ---
 language: fr
 ---
@@ -24,4 +24,4 @@ periodes: 1x50'
 ---
 required_materials: Projecteur, Ordinateur
 ---
-tag: tous
+tag: alle

@@ -1,8 +1,8 @@
 _model: workshop
 ---
-title: Jouer pour comprendre l'intelligence artificielle
+title: Speel om kunstmatige intelligentie te begrijpen
 ---
-abstract: Jouer pour comprendre ce qu’est une intelligence artificielle et comment elle peut apprendre
+abstract: Speel om te begrijpen wat een kunstmatige intelligentie is en hoe het kan leren
 ---
 age: 8-15
 ---
@@ -12,10 +12,10 @@ age_min: 8
 ---
 contact_name: Julie Henry
 ---
-description: Dans l’objectif de faire de chaque enfant un citoyen éclairé et critique à l’égard d’un monde de plus en plus numérique, cet atelier aborde de façon ludique la question de l’intelligence artificielle. À travers un jeu de rôles inspiré du célèbre jeu « Qui est-ce ? », les notions d’intelligence et d’apprentissage seront expliquées à la lumière de ce domaine qui inquiète autant qu’il fait rêver. Les participants seront invités à expérimenter les différentes phases du jeu et à vivre ainsi la vie d’un développeur informatique, d’un utilisateur-testeur et/ou d’un système informatique doté d’une intelligence artificielle. Un exercice de vulgarisation intéressant qui met à la portée de tous un domaine pourtant considéré comme difficile.
+description: Om van elk kind een verlichte en kritische burger te maken in een steeds meer digitale wereld, introduceert deze workshop het probleem van kunstmatige intelligentie op een leuke manier. Via een rollenspel geïnspireerd door het beroemde spel 'Wie is het? "De noties van intelligentie en leren zullen worden uitgelegd in het licht van dit gebied dat evenveel zorgen baart als dat het je doet dromen. Deelnemers worden uitgenodigd om de verschillende fasen van het spel te ervaren en zo het leven te leiden van een computerontwikkelaar, een gebruiker-tester en / of een computersysteem met kunstmatige intelligentie. Een interessante oefening in het populair maken die iedereen een veld brengt dat toch als moeilijk wordt beschouwd.
 ---
 language: fr
 ---
 number: 30
 ---
-tag: tous
+tag: alle

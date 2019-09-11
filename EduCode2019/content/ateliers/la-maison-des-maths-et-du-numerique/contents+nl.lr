@@ -1,10 +1,10 @@
 _model: workshop
 ---
-title: La Maison des Maths et du Numérique
+title: The House of Maths and Digital
 ---
 abstract:
 
- Des robots pour donner de l'intérêt et de la motivation à l'apprentissage 
+ Robots om interesse en motivatie te geven om te leren 
 ---
 age: 7-77
 ---
@@ -16,19 +16,19 @@ contact_name: Benoit Naveau
 ---
 description:
 
-Comment **susciter** la **passion** et l'**enthousiasme** autour des **apprentissages** et notamment les **mathématiques**?
+Hoe **wekken passie** en **enthousiasme** rond **leren** en vooral **wiskunde**?
 
-L'intégration de la robotique permet de manière __non formelle__ d'aborder ces concepts qui seront au service du robot. Indirectement, on redonne tous les __sens__ des mathématiques qui sont autour de nous et notre vie quotidienne par le __concret__ contrairement à l'utilisation souvent théorique et abstraite dans l'enseignement.
+De integratie van robotica maakt een __niet-formele__ manier mogelijk om deze concepten aan te pakken die de robot ten goede komen. Indirect geven we alle __sens__ van de wiskunde om ons heen en ons dagelijks leven terug door de __concret__ in tegenstelling tot het vaak theoretische en abstracte gebruik in de leer.
 
-__Description de l'atelier :__
+__Beschrijving van de workshop: __
 
-Après une brève explication du logiciel et de son utilisation, vous serez en charge de réaliser une __mission concrète__ en rendant votre robot autonome pour la résoudre de manière **empirique**. 
+Na een korte uitleg van de software en het gebruik ervan, ben je verantwoordelijk voor het uitvoeren van een **concrete missie** door je robot autonoom te maken om het **empirisch** op te lossen. 
 
-Cela permettra de réveiller votre **âme d'enfant** et d'approcher concrètement les __compétences disciplinaires et transversales__ abordées. 
+Dit zal de ziel van je **kind wakker maken** en concreet de __ disciplinaire en interdisciplinaire competenties__ benaderen die aangepakt worden. 
 
-De cette façon, vous vivrez l'intérêt de ce type d'utilisation dans une classe.
+Op deze manier ervaart u het voordeel van dit soort gebruik in een klaslokaal.
 
-Ce projet a été sélectionné en 2018 parmi les __projets belges les plus innovants__ par **Ashoka**.
+Dit project werd geselecteerd in 2018 uit de __meest innovatieve Belgische projecten__ door **Ashoka**.
 ---
 language: fr
 ---
@@ -38,4 +38,4 @@ periodes: 2x50'
 ---
 required_materials: Projecteur
 ---
-tag: tous
+tag: alle

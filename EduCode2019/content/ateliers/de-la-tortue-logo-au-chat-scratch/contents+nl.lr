@@ -1,8 +1,8 @@
 _model: workshop
 ---
-title: De la tortue Logo au chat Scratch
+title: Van de Logo-schildpad tot de Scratch-kat
 ---
-abstract: De la tortue Logo au chat Scratch, tout un univers de formes géométriques
+abstract: Van de Logo-schildpad tot de Scratch-kat, een heel universum van geometrische vormen
 ---
 age: 10-15
 ---
@@ -14,8 +14,8 @@ contact_name: Françoise Bols et Éric Robette
 ---
 description:
 
-Lors de cet atelier, le visiteur aura la possibilité de programmer en Scratch un personnage ou un robot pour dessiner une forme géométrique de la plus simple (un carré) à la plus complexe (une fractale). Le but sera de découvrir la programmation Scratch au travers de petits défis simples à réaliser.
-Le visiteur pourra réaliser lui-même son propre tracé qu’il reproduira éventuellement sur feuille à l’aide d’un crayon ou à l’aide de Thymio (le petit robot). Le visiteur pourra également expérimenter une affiche ou un jeu interactif à travers l’interface Makey-Makey et voir ainsi une utilisation possible de la programmation en lien avec une matière d’enseignement.
+Tijdens deze workshop kan de bezoeker in Scratch een personage of robot programmeren om een geometrische vorm te tekenen van de eenvoudigste (een vierkant) tot de meest complexe (een fractal). Het doel zal zijn om de Scratch-programmering te ontdekken door kleine eenvoudige uitdagingen te realiseren.
+De bezoeker zal zijn eigen tekening kunnen maken, die hij uiteindelijk op papier zal reproduceren met een potlood of met behulp van Thymio (de kleine robot). De bezoeker zal ook in staat zijn om een poster of een interactief spel te ervaren via de Makey-Makey-interface en zo een mogelijk gebruik van programmering te zien die verband houdt met een lesonderwerp.
 ---
 language: fr
 ---
@@ -23,4 +23,4 @@ number: 15
 ---
 required_materials: Projecteur, Ordinateur
 ---
-tag: tous
+tag: alle

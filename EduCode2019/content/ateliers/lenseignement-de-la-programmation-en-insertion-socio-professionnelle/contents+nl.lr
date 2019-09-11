@@ -1,8 +1,8 @@
 _model: workshop
 ---
-title: L'enseignement de la programmation en insertion socio-professionnelle
+title: Onderwijs sociaal-professionele inbrengprogrammering
 ---
-abstract: L'enseignement de la programmation en insertion socio-professionnelle: défis et enjeux
+abstract: Onderwijs sociaal-professionele inbrengprogrammering: uitdagingen en uitdagingen
 ---
 age: 5-99
 ---
@@ -12,10 +12,10 @@ age_min: 5
 ---
 contact_name: Benjamin Van Bever
 ---
-description: Montrer qu'il est possible de former de jeunes adultes (18-30 ans), la plupart sans CESS, jusqu'à une professionnalisation dans le développement web, mais aussi les contraintes liées au temps et au public, et au style institutionnel de l'ISP.
+description: Toon aan dat het mogelijk is om jonge volwassenen (18-30 jaar oud) op te leiden, de meeste zonder CESS, tot professionalisering in webontwikkeling, maar ook beperkingen met betrekking tot tijd en het publiek, en de institutionele stijl van de ISP.
 ---
 language: fr
 ---
 required_materials: Projecteur
 ---
-tag: tous
+tag: alle

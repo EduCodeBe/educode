@@ -1,10 +1,10 @@
 _model: location
 ---
-name: Salle gothique de l'hôtel de ville de Bruxelles
+name: Gotische hal van het stadhuis van Brussel
 ---
-address: Grand-place, 1000 Bruxelles
+address: Grote Markt, 1000 Brussel
 ---
-directions: Sur la Grand place de Bruxelles
+directions: Op de Grote Markt van Brussel
 ---
 type_location: Lieu normal
 ---

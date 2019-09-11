@@ -1,8 +1,8 @@
 _model: workshop
 ---
-title: CodeNPlay-Fischer
+title: CodeNPlay-Leraren
 ---
-abstract: Enseignement au numérique: une approche pratique pour les instituteurs primaires
+abstract: Digitaal onderwijs: een praktische aanpak voor leraren in het basisonderwijs
 ---
 age: 6-12
 ---
@@ -18,7 +18,7 @@ number: 15
 ---
 periodes:
 ---
-tag: primaire
+tag: primair
 ---
 description:
 

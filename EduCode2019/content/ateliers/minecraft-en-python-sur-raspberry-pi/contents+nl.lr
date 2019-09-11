@@ -1,8 +1,8 @@
 _model: workshop
 ---
-title: Minecraft en Python sur Raspberry Pi
+title: Minecraft in Python op Raspberry Pi
 ---
-abstract: Sur un raspberry Pi (mini ordinateur tres bon marche), jouer a Minecraft en programmant en Python.
+abstract: Speel Minecraft op een Pi-framboos (zeer goedkope mini-computer) door in Python te programmeren.
 ---
 age: 9-12
 ---
@@ -12,7 +12,7 @@ age_min: 9
 ---
 contact_name: Nicolas Seinlet
 ---
-description: Sur un raspberry Pi (mini ordinateur tres bon marche), jouer a Minecraft en programmant en Python.
+description: Speel Minecraft op een Pi-framboos (zeer goedkope mini-computer) door in Python te programmeren.
 ---
 language: fr
 ---
@@ -20,4 +20,4 @@ number: 10
 ---
 required_materials: Projecteur, autre
 ---
-tag: tous
+tag: alle

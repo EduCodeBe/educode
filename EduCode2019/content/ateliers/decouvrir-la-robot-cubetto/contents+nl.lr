@@ -1,8 +1,8 @@
 _model: workshop
 ---
-title: Découvrir la robot Cubetto
+title: Ontdek de Cubetto-robot
 ---
-abstract: Découvrir la robot Cubetto et animer un atelier dans sa classe
+abstract: Ontdek de Cubetto-robot en animeer een workshop in zijn klasse
 ---
 age: 3-12
 ---
@@ -12,25 +12,25 @@ age_min: 3
 ---
 description:
 
-**Cubetto : Héritier du Logo**
+**Cubetto: erfgenaam van het Logo**
 
-* Cubetto est un petit robot inspiré par le langage Logo et qui se programme simplement avec les mains, sans PC ni écran !
-* Vous vous souvenez de la « tortue graphique logo » ?
-* Inventée au M.I.T. au début des années 1970, c’était un « must » dans les années 80’ !…
-* Le Cubetto, petit robot en bois, en est le digne héritier.
-
-
-**Destiné aux enfants dès 3 ans**
-
-* Destiné aux enfants de trois ans et plus, Cubetto fonctionne sans écran et sans langue, il se veut universel, accessible à tous les enfants.
-* Il permet de s'initier à la programmation informatique : comprendre que les machines fonctionnent avec des algorithmes et que les mouvements sont décidés à l’avance.
-* Il permet aux petits de manipuler du langage de programmation, et de jongler avec les algorithmes, les informations, notamment sur base du principe de « fil d'attente », le debugging et la récursivité.
+* Cubetto is een kleine robot geïnspireerd op het taallogo en die eenvoudig met de handen wordt geprogrammeerd, zonder pc of scherm!
+* Herinner je je de "Graphic Turtle Logo"?
+* Uitgevonden in de M.I.T. in de vroege jaren 1970, het was een "must" in de jaren 80! !…
+* De Cubetto, kleine houten robot, is de waardige erfgenaam.
 
 
-**Idéal pour travailler la spatialisation**
+**Voor kinderen vanaf 3 jaar**
 
-* C'est également un excellent outil pour travailler de manière ludique et attrayante les questions de spatialisation au sein d'une classe.
-* Et c'est aussi un excellent révélateur des lacunes parfois insoupçonnée chez les plus grands !
+* Gericht op kinderen van drie jaar en ouder, werkt Cubetto zonder scherm en zonder taal, het is universeel, toegankelijk voor alle kinderen.
+* Het maakt het mogelijk om computerprogrammering te leren: begrijp dat machines met algoritmen werken en dat de bewegingen vooraf worden bepaald.
+* Hiermee kunnen kinderen programmeertaal manipuleren, en algoritmen, informatie jongleren, vooral op basis van het principe van "wachtlijn", debuggen en recursie.
+
+
+**Ideaal voor werkende spatialisatie**
+
+* Het is ook een uitstekend hulpmiddel om op een leuke en aantrekkelijke manier te werken aan ruimtevraagstukken binnen een klas.
+* En het is ook een uitstekende onthullende lacune die soms onverwacht is in de grootste!
 
 ---
 language: fr
@@ -39,4 +39,4 @@ number: 18
 ---
 required_materials: autre
 ---
-tag: tous
+tag: alle

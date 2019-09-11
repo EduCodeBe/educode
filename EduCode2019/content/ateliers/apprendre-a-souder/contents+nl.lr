@@ -2,20 +2,20 @@ _model: workshop
 ---
 title:
 
- Apprendre à souder son premier circuit électronique 
+ Leer hoe u uw eerste elektronische circuit kunt solderen 
 ---
 abstract:
 
-Apprendre les bases de la soudure de composants électroniques, avec le “Weevil Eye”. 
+Leer de basisprincipes van het lassen van elektronische componenten met het "Weevil Eye". 
 ---
 description:
 
-Compétences :
-  * Apprendre à manipuler un fer à souder (froid, chaud, température, protection)
-  * Apprendre à manipuler de la soudure
-  * Apprendre à mettre les composants dans le bon sens
-  * Apprendre à tester un circuit
-  * Apprendre à suivre des instructions d'un manuel
+Vaardigheden:
+  * Leer omgaan met een soldeerbout (koud, warm, temperatuur, bescherming)
+  * Leer omgaan met soldeer
+  * Leer de componenten in de juiste richting te plaatsen
+  * Leer een circuit te testen
+  * Leer de instructies uit een handleiding te volgen
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Gp5PxgSj2v4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
