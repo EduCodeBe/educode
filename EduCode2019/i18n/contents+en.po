@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: educode\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-11 11:41+CET\n"
+"POT-Creation-Date: 2019-09-11 11:54+CET\n"
 "PO-Revision-Date: 2019-09-11 09:35\n"
 "Last-Translator: npettiaux\n"
 "Language-Team: English\n"
@@ -145,12 +145,13 @@ msgid ""
 "primaires"
 msgstr ""
 
-#: http://localhost/ateliers/decouvrir-la-robot-cubetto/
-#: (content/ateliers/decouvrir-la-robot-cubetto/contents+fr.lr:workshop.description)
+#: http://localhost/ateliers/premiers-pas-dans-la-programmation-ludique-et-creative/
+#: (content/ateliers/premiers-pas-dans-la-programmation-ludique-et-creative/contents+fr.lr:workshop.description)
 msgid ""
-"* Il permet de s'initier à la programmation informatique : comprendre que "
-"les machines fonctionnent avec des algorithmes et que les mouvements sont "
-"décidés à l’avance."
+"Apprendre la programmation n’est ni difficile, ni ennuyant. Au cours de cet "
+"atelier, les enseignants découvriront des ressources et une approche par "
+"laquelle ils pourront initier, de façon ludique et pratique leurs élèves aux "
+"joies de la pensée computationnelle et de la programmation informatique."
 msgstr ""
 
 #: http://localhost/journee-principale/
@@ -250,12 +251,11 @@ msgstr ""
 "A press conference will be organized in early September 2019 in Brussels. A "
 "press point will also be organized during the conference around 1 pm."
 
-#: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
-#: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.description)
+#: http://localhost/intervenants/colin-de-la-higuera/
+#: (content/intervenants/colin-de-la-higuera/contents+fr.lr:speaker.description)
 msgid ""
-"En général, les premières heures sont passées à rendre les environnements de "
-"travail de tout le monde fonctionnels, au lieu de commencer tout de suite "
-"avec le réel contenu de la formation."
+"Most content is taken from [Colin de la Higuera](http://pagesperso.lina.univ-"
+"nantes.fr/~cdlh/)' homepage"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.s_about_educode)
@@ -296,13 +296,6 @@ msgstr "- Eric Robette"
 #: http://localhost/ (content/contents+fr.lr:page.s_contact)
 msgid "Contact"
 msgstr "Contact"
-
-#: http://localhost/intervenants/georges-khaznadar/
-#: (content/intervenants/georges-khaznadar/contents+fr.lr:speaker.description)
-msgid ""
-"associations de défense et promotion des logiciels libres telle que [APRIL]"
-"(http://april.org)."
-msgstr ""
 
 #: http://localhost/intervenants/laurent-beeckmans/
 #: (content/intervenants/laurent-beeckmans/contents+fr.lr:speaker.description)
@@ -598,13 +591,12 @@ msgstr ""
 msgid "fr"
 msgstr ""
 
-#: http://localhost/ateliers/premiers-pas-dans-la-programmation-ludique-et-creative/
-#: (content/ateliers/premiers-pas-dans-la-programmation-ludique-et-creative/contents+fr.lr:workshop.description)
+#: http://localhost/ateliers/decouvrir-la-robot-cubetto/
+#: (content/ateliers/decouvrir-la-robot-cubetto/contents+fr.lr:workshop.description)
 msgid ""
-"Apprendre la programmation n’est ni difficile, ni ennuyant. Au cours de cet "
-"atelier, les enseignants découvriront des ressources et une approche par "
-"laquelle ils pourront initier, de façon ludique et pratique leurs élèves aux "
-"joies de la pensée computationnelle et de la programmation informatique."
+"* Il permet de s'initier à la programmation informatique : comprendre que "
+"les machines fonctionnent avec des algorithmes et que les mouvements sont "
+"décidés à l’avance."
 msgstr ""
 
 #: http://localhost/ateliers/le-numerique-pour-faire-face-aux-inegalites-scolaires/
@@ -715,6 +707,13 @@ msgstr ""
 msgid ""
 "* _Peut-on croire les sondages ?_, Paris, Édition Le Pommier, coll. « Les "
 "petites pommes du savoir », 2002"
+msgstr ""
+
+#: http://localhost/intervenants/gilles-dowek/
+#: (content/intervenants/gilles-dowek/contents+fr.lr:speaker.description)
+msgid ""
+"* _Voulez-vous jouer avec les maths ?_, Paris, Édition Le Pommier, coll. « "
+"Les petites pommes du savoir », 2002"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.about)
@@ -1006,13 +1005,6 @@ msgid ""
 "m=)"
 msgstr ""
 
-#: http://localhost/intervenants/bibiana-boccolini/
-#: (content/intervenants/bibiana-boccolini/contents+fr.lr:speaker.description)
-msgid ""
-"* Coordinatrice du Projet [AULAS LIBRES](https://aulaslibres.org/]) (Projet "
-"pour la diffusion et utilisation du logiciel libre dans le domain éducatif) ;"
-msgstr ""
-
 #: http://localhost/intervenants/marie-duflot-kremer/
 #: (content/intervenants/marie-duflot-kremer/contents+fr.lr:speaker.description)
 msgid ""
@@ -1085,13 +1077,13 @@ msgid ""
 "toutes les autres personnes, elle est payante."
 msgstr ""
 
-#: http://localhost/ateliers/codenplay-fischer/
-#: (content/ateliers/codenplay-fischer/contents+fr.lr:workshop.description)
+#: http://localhost/ (content/contents+fr.lr:page.practical_infos)
 msgid ""
-"Envie d'enseigner le numérique dans votre classe et besoin d'un petit coup "
-"de pouce? Accompagnez-nous pour deux activités concrètes à utiliser et "
-"découvrir comment proposer un programme autour du numérique à vos élèves."
+"Les participants à Educode  sont attendus dès 8h30. Les conférences et "
+"ateliers commencent à 9h00 précise."
 msgstr ""
+"Educode participants are expected from 8.30am. Conferences and workshops "
+"start at 9:00 am."
 
 #: http://localhost/ateliers/des-robots-des-la-maternelle/
 #: (content/ateliers/des-robots-des-la-maternelle/contents+fr.lr:workshop.title)
@@ -1143,15 +1135,6 @@ msgstr ""
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "#Objectifs"
 msgstr "#Goals"
-
-#: http://localhost/intervenants/gilles-dowek/
-#: (content/intervenants/gilles-dowek/contents+fr.lr:speaker.description)
-msgid ""
-"* _Voulez-vous jouer avec les maths ?_, Paris, Édition Le Pommier, coll. « "
-"Les petites pommes du savoir », 2002* _Les Métamorphoses du calcul. Une "
-"étonnante histoire de mathématiques_, Paris, Édition Le Pommier, coll. « "
-"Essais », 2007"
-msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.journee_principale)
 msgid ""
@@ -1235,6 +1218,14 @@ msgstr ""
 msgid "* Créateur de la [Robotic Academy](https://fr-fr.facebook.com/lsgTeam)"
 msgstr ""
 
+#: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
+#: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.description)
+msgid ""
+"En général, les premières heures sont passées à rendre les environnements de "
+"travail de tout le monde fonctionnels, au lieu de commencer tout de suite "
+"avec le réel contenu de la formation."
+msgstr ""
+
 #: http://localhost/ (content/contents+fr.lr:page.s_wednesday)
 msgid "Mercredi"
 msgstr "Wednesday"
@@ -1258,6 +1249,13 @@ msgstr ""
 #: http://localhost/ateliers/des-robots-des-la-maternelle/
 #: (content/ateliers/des-robots-des-la-maternelle/contents+fr.lr:workshop.tag)
 msgid "maternelle"
+msgstr ""
+
+#: http://localhost/ateliers/la-maison-des-maths-et-du-numerique/
+#: (content/ateliers/la-maison-des-maths-et-du-numerique/contents+fr.lr:workshop.description)
+msgid ""
+"Ce projet a été sélectionné en 2018 parmi les __projets belges les plus "
+"innovants__ par **Ashoka**."
 msgstr ""
 
 #: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
@@ -1307,13 +1305,6 @@ msgid ""
 "expérimentales"
 msgstr ""
 
-#: http://localhost/intervenants/georges-khaznadar/
-#: (content/intervenants/georges-khaznadar/contents+fr.lr:speaker.description)
-msgid ""
-"Georges est participe au développement de quelques logiciels libres, "
-"maintient"
-msgstr ""
-
 #: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
 #: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.description)
 msgid "===== Quels sont les environnements sont supportés? ====="
@@ -1344,13 +1335,13 @@ msgstr ""
 msgid "Appel à propositions"
 msgstr "Call for proposals"
 
-#: http://localhost/ (content/contents+fr.lr:page.practical_infos)
+#: http://localhost/ateliers/codenplay-fischer/
+#: (content/ateliers/codenplay-fischer/contents+fr.lr:workshop.description)
 msgid ""
-"Les participants à Educode  sont attendus dès 8h30. Les conférences et "
-"ateliers commencent à 9h00 précise."
+"Envie d'enseigner le numérique dans votre classe et besoin d'un petit coup "
+"de pouce? Accompagnez-nous pour deux activités concrètes à utiliser et "
+"découvrir comment proposer un programme autour du numérique à vos élèves."
 msgstr ""
-"Educode participants are expected from 8.30am. Conferences and workshops "
-"start at 9:00 am."
 
 #: http://localhost/intervenants/colin-de-la-higuera/
 #: (content/intervenants/colin-de-la-higuera/contents+fr.lr:speaker.description)
@@ -1495,6 +1486,15 @@ msgstr ""
 "We need your financial support, which we hope very soon, will be tax-free "
 "for donations over € 40."
 
+#: http://localhost/intervenants/georges-khaznadar/
+#: (content/intervenants/georges-khaznadar/contents+fr.lr:speaker.description)
+msgid ""
+"Georges participe au développement de quelques logiciels libres, maintient "
+"quelques dizaines de [paquets Debian](https://salsa.debian.org/georgesk)/"
+"Ubuntu, et adhère à quelques associations de défense et promotion des "
+"logiciels libres telle que [APRIL](http://april.org)."
+msgstr ""
+
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "2. Une ouverte au grand public avec exposition et conférences"
@@ -1569,6 +1569,13 @@ msgstr ""
 #: http://localhost/ (content/contents+fr.lr:page.concert)
 msgid "- 21h Cocktail dînatoire"
 msgstr "- 9pm Cocktail dinner"
+
+#: http://localhost/intervenants/gilles-dowek/
+#: (content/intervenants/gilles-dowek/contents+fr.lr:speaker.description)
+msgid ""
+"* _Les Métamorphoses du calcul. Une étonnante histoire de mathématiques_, "
+"Paris, Édition Le Pommier, coll. « Essais », 2007"
+msgstr ""
 
 #: http://localhost/ateliers/la-maison-des-maths-et-du-numerique/
 #: (content/ateliers/la-maison-des-maths-et-du-numerique/contents+fr.lr:workshop.periodes)
@@ -1684,12 +1691,6 @@ msgid ""
 "Des robots pour donner de l'intérêt et de la motivation à l'apprentissage"
 msgstr ""
 
-#: http://localhost/concert-festif/
-#: (content/concert-festif/contents+fr.lr:details-program.description)
-msgid ""
-"A faire : Conférence de Gilles Dowek, concert festif et cocktail dînatoire"
-msgstr ""
-
 #: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
 #: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.title)
 msgid ""
@@ -1709,14 +1710,6 @@ msgid ""
 "Pour le travail en groupe les bénéfices sont évidents. Il perme de répondre "
 "au besoin que tout le monde dispose du même environnement, facilement et "
 "rapidement."
-msgstr ""
-
-#: http://localhost/intervenants/julie-henry/
-#: (content/intervenants/julie-henry/contents+fr.lr:speaker.description)
-msgid ""
-"Au sein d'educode, Julie coordonne principalement la journée des ateliers "
-"(28/08) et la journée scientifique (29/08). Elle participe également à la "
-"table ronde organisée le 27 août."
 msgstr ""
 
 #: http://localhost/intervenants/julie-henry/
@@ -1858,13 +1851,6 @@ msgstr ""
 msgid "Exposer et tenir un stand"
 msgstr "Exhibit and hold a stand"
 
-#: http://localhost/intervenants/georges-khaznadar/
-#: (content/intervenants/georges-khaznadar/contents+fr.lr:speaker.description)
-msgid ""
-"quelques dizaines de [paquets Debian](https://salsa.debian.org/georgesk)/"
-"Ubuntu, et adhère à quelques"
-msgstr ""
-
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "- Julie Henry (UNamur, chercheuse)"
@@ -1898,13 +1884,6 @@ msgstr ""
 "indicate your contact details: structure, full address, first and last "
 "names, emails and if possible phone numbers of contact persons, account "
 "number, whether or not you want to be mentioned below."
-
-#: http://localhost/intervenants/colin-de-la-higuera/
-#: (content/intervenants/colin-de-la-higuera/contents+fr.lr:speaker.description)
-msgid ""
-"Most content is taken from [Colin de la Higuera](http://pagesperso.lina.univ-"
-"nantes.fr/~cdlh/)'homepage"
-msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.s_friday)
 msgid "Vendredi"
@@ -2288,11 +2267,11 @@ msgstr ""
 "digital. It is the result of collaboration between different key digital "
 "players in Belgium and abroad."
 
-#: http://localhost/ateliers/la-maison-des-maths-et-du-numerique/
-#: (content/ateliers/la-maison-des-maths-et-du-numerique/contents+fr.lr:workshop.description)
+#: http://localhost/intervenants/bibiana-boccolini/
+#: (content/intervenants/bibiana-boccolini/contents+fr.lr:speaker.description)
 msgid ""
-"Ce projet a été sélectionné en 2018 parmi les __projets belges les plus "
-"innovants__ par **Ashoka**."
+"* Coordinatrice du Projet [AULAS LIBRES](https://aulaslibres.org/) (Projet "
+"pour la diffusion et utilisation du logiciel libre dans le domain éducatif) ;"
 msgstr ""
 
 #: http://localhost/ateliers/initier-au-codage-python-avec-laide-dun-mooc/
@@ -2335,6 +2314,14 @@ msgstr ""
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "- Erick Mascart (Forsub, conseiller pédagogique et formateur)"
 msgstr "- Erick Mascart (Forsub, educational advisor and trainer)"
+
+#: http://localhost/intervenants/julie-henry/
+#: (content/intervenants/julie-henry/contents+fr.lr:speaker.description)
+msgid ""
+"Au sein d'educode, Julie a  principalement coordonné la journée des ateliers "
+"(28/08/2018) et la journée scientifique (29/08/2018). Elle a également "
+"participé à la table ronde organisée le 27 août 2018."
+msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.about)
 msgid ""
@@ -2440,12 +2427,6 @@ msgstr ""
 #: http://localhost/concert/ (content/concert/contents+fr.lr:concert.cocktail)
 msgid "A 21h, rendez-vous pour un cocktail dînatoire"
 msgstr ""
-
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
-msgid ""
-"3. Une conférence et des activités dédiées aux directeurs d’établissement"
-msgstr "3. A conference and activities dedicated to school directors"
 
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.date)
@@ -2685,10 +2666,11 @@ msgid ""
 "dans la page [choix.educode.be](https://choix.educode.be)"
 msgstr ""
 
-#: http://localhost/concert-festif/
-#: (content/concert-festif/contents+fr.lr:details-program.date)
-msgid "concert festif"
-msgstr "festive concert"
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
+msgid ""
+"3. Une conférence et des activités dédiées aux directeurs d’établissement"
+msgstr "3. A conference and activities dedicated to school directors"
 
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
@@ -2809,6 +2791,10 @@ msgstr "raconteur"
 msgid "Cocktail dinatoire"
 msgstr ""
 
+#: templates/layout.html:40
+msgid "Langue"
+msgstr ""
+
 #: templates/macros/sections.html:20 templates/macros/sections.html:47
 #: templates/page.html:53 templates/speaker.html:73
 msgid "Journée principale"
@@ -2832,7 +2818,7 @@ msgstr "Info day without computers"
 msgid "Concert festif"
 msgstr "Festive concert"
 
-#: templates/page.html:220
+#: templates/page.html:221
 msgid "S'inscrire"
 msgstr ""
 
@@ -2843,3 +2829,10 @@ msgstr ""
 #: templates/macros/sections.html:22 templates/macros/sections.html:49
 msgid "Avant première du concert"
 msgstr "Preview of the concert"
+
+#: templates/macros/sections.html:30 templates/macros/sections.html:57
+msgid "Info pratiques"
+msgstr ""
+
+#~ msgid "concert festif"
+#~ msgstr "festive concert"
