@@ -1,8 +1,8 @@
 _model: workshop
 ---
-title: Initier au codage Python avec l’aide d’un MOOC
+title: Introductie van Python-codering met behulp van een MOOC
 ---
-abstract: Cet atelier se veut une discussion sur la manière d’utiliser le MOOC sur la plateforme FUN  “[Apprendre à coder avec Python](https://www.fun-mooc.fr/courses/course-v1:ulb+44013+session02/about)”  (cours gratuit) comme base pour animer un cours complet d’initiation à la programmation pour un public d’élèves du secondaire supérieur (15-18 ans).
+abstract: Deze workshop is een discussie over het gebruik van de MOOC op het FUN-platform "[Apprendre à coder avec Python](https://www.fun-mooc.fr/courses/course-v1:ulb+44013+session02/about)"(gratis cursus) als basis voor het geven van een complete introductiecursus programmeren voor een publiek van studenten op de middelbare school (15-18 jaar oud).
 ---
 age: 15-18
 ---
@@ -16,12 +16,12 @@ Sébastien Hoarau et Thierry Massart
 ---
 description:
 
-Cet atelier se veut une discussion sur la manière d’utiliser le MOOC sur la plateforme FUN [Apprendre à coder avec Python](https://www.fun-mooc.fr/courses/course-v1:ulb+44013+session02/about)” (cours gratuit) comme base pour animer un cours complet d’initiation à la programmation pour un public d’élèves du secondaire supérieur (15-18 ans).
+Deze workshop is een discussie over het gebruik van de MOOC op het FUN-platform [Apprendre à coder avec Python](https://www.fun-mooc.fr/courses/course-v1:ulb+44013+session02/about) (gratis cursus) als basis voor het geven van een complete introductiecursus programmeren voor een publiek van studenten op de middelbare school (15-18 jaar oud).
 
-A propos de ce MOOC:
+Over deze MOOC:
 
-Vous avez un ordinateur, désirez apprendre à coder et êtes totalement ou partiellement débutant dans le domaine; vous êtes étudiant, professeur ou simplement une personne qui sente l’envie ou le besoin d’apprendre la programmation de base; ce cours utilise Python 3 comme clé pour vous ouvrir la porte de cette connaissance informatique.
-Ce cours est orienté vers la pratique, et propose un matériel abondant pour couvrir l’apprentissage de la programmation de base, d’une part en montrant et expliquant les concepts grâce à de nombreuses capsules vidéo courtes et des explications simples, et d’autre part en vous demandant de mettre ces concepts en pratique d’abord de façon guidée et ensuite autonome. Plusieurs quiz, un projet individuel, et de nombreux exercices à réaliser et validés automatiquement avec notre outil UpyLaB intégré au cours, vous permettent de polir et ensuite de valider votre apprentissage.
+U hebt een computer, wilt leren coderen en bent geheel of gedeeltelijk beginners in het veld; je bent een student, een leraar of gewoon iemand die de drang voelt of een basisprogrammering moet leren; deze cursus gebruikt Python 3 als sleutel om de deur naar deze computerkennis te openen.
+Deze cursus is gericht op de praktijk en biedt een overvloed aan materiaal om het leren van basisprogrammering te behandelen, enerzijds door de concepten te tonen en uit te leggen dankzij vele korte videocapsules en eenvoudige uitleg, en anderzijds door je te vragen deze concepten eerst op een geleide en vervolgens autonome manier in de praktijk te brengen. Verschillende quizzen, een individueel project en veel oefeningen die automatisch moeten worden gerealiseerd en gevalideerd met onze tool UpyLaB die in de cursus is geïntegreerd, stellen u in staat om uw leerproces op te poetsen en vervolgens te valideren.
 ---
 language: fr
 ---
@@ -29,4 +29,4 @@ number: 20
 ---
 required_materials: Ordinateur
 ---
-tag: secondaire
+tag: secundair

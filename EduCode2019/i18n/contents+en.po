@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: educode\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-10 17:04+CET\n"
-"PO-Revision-Date: 2019-08-26 20:13+0200\n"
+"POT-Creation-Date: 2019-09-11 11:41+CET\n"
+"PO-Revision-Date: 2019-09-11 09:35\n"
 "Last-Translator: npettiaux\n"
 "Language-Team: English\n"
 "Language: en\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 2.0.6\n"
+"X-Generator: crowdin.com\n"
 "X-Crowdin-Project: educode\n"
 "X-Crowdin-Language: en\n"
 "X-Crowdin-File: educode2019.pot\n"
@@ -220,6 +220,8 @@ msgid ""
 "* allant sur <script src=\"https://liberapay.com/EduCode/widgets/button.js"
 "\"></script>"
 msgstr ""
+"* going to <script src=\"https://liberapay.com/EduCode/widgets/button.js\"></"
+"script>"
 
 #: http://localhost/intervenants/laurent-beeckmans/
 #: (content/intervenants/laurent-beeckmans/contents+fr.lr:speaker.description)
@@ -233,7 +235,7 @@ msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.concert_avant_premiere)
 msgid "[Plus d'informations...](concert-festif-avant-premiere)"
-msgstr ""
+msgstr "[More info...](concert-festif-avant-premiere)"
 
 #: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
 #: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.description)
@@ -272,7 +274,7 @@ msgstr "The event has 3 parts for 4 audiences:"
 
 #: http://localhost/ (content/contents+fr.lr:page.journee_principale)
 msgid "Localisation sur une [carte](https://osm.org/go/0EoSK76Bo--?m=)"
-msgstr ""
+msgstr "Location on a [map](https://osm.org/go/0EoSK76Bo--?m=)"
 
 #: http://localhost/ateliers/des-robots-des-la-maternelle/
 #: (content/ateliers/des-robots-des-la-maternelle/contents+fr.lr:workshop.abstract)
@@ -334,6 +336,7 @@ msgid ""
 "Une journée spécialement dédiée aux enseignants intéressés par "
 "l'informatique débranchée."
 msgstr ""
+"A day specially dedicated to teachers interested in disconnected computing."
 
 #: http://localhost/ateliers/decouvrir-la-robot-cubetto/
 #: (content/ateliers/decouvrir-la-robot-cubetto/contents+fr.lr:workshop.description)
@@ -417,7 +420,7 @@ msgstr ""
 #: http://localhost/lieux/villebxl/
 #: (content/lieux/villebxl/contents+fr.lr:location.directions)
 msgid "Sur la Grand place de Bruxelles"
-msgstr ""
+msgstr "On the Grand Place of Brussels"
 
 #: http://localhost/ateliers/initiation-a-la-pensee-informatique-en-primaire/
 #: (content/ateliers/initiation-a-la-pensee-informatique-en-primaire/contents+fr.lr:workshop.description)
@@ -436,6 +439,8 @@ msgid ""
 "L'organisation de cette conférence est essentiellement bénévole. Toute don "
 "est le bienvenu."
 msgstr ""
+"The organization of this conference is essentially voluntary. Any gift is "
+"welcome."
 
 #: http://localhost/ (content/contents+fr.lr:page.s_program)
 msgid "Programme"
@@ -453,7 +458,7 @@ msgstr "Brussels, Belgium"
 #: http://localhost/concert/
 #: (content/concert/contents+fr.lr:concert.description)
 msgid "####Prix"
-msgstr ""
+msgstr "####Prices"
 
 #: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
 #: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.description)
@@ -484,7 +489,7 @@ msgstr ""
 #: http://localhost/lieux/he2b-defre/
 #: (content/lieux/he2b-defre/contents+fr.lr:location.name)
 msgid "HE2B-Defré"
-msgstr ""
+msgstr "HE2B-Defré"
 
 #: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
 #: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.description)
@@ -525,6 +530,10 @@ msgid ""
 "qui requiert une énergie très importante de la part d'un très petit nombre "
 "d'acteurs, femmes et hommes."
 msgstr ""
+"The educode conference is supported and implemented by [association EduCode]"
+"(/asbl). It is essentially a volunteer activity for the moment which "
+"requires a very important energy from a very small number of actors, women "
+"and men."
 
 #: http://localhost/ateliers/codenplay-krings/
 #: (content/ateliers/codenplay-krings/contents+fr.lr:workshop.title)
@@ -540,8 +549,6 @@ msgid ""
 "que la classe soit présentielle."
 msgstr ""
 
-#: http://localhost/ateliers/codenplay-krings/
-#: (content/ateliers/codenplay-krings/contents+fr.lr:workshop.language)
 #: http://localhost/ateliers/sac-a-dos-numerique-pour-lapprentissage-par-competences/
 #: (content/ateliers/sac-a-dos-numerique-pour-lapprentissage-par-competences/contents+fr.lr:workshop.language)
 #: http://localhost/ateliers/apprendre-a-souder/
@@ -560,6 +567,8 @@ msgstr ""
 #: (content/ateliers/jouer-pour-comprendre-lintelligence-artificielle/contents+fr.lr:workshop.language)
 #: http://localhost/ateliers/decouvrir-la-robot-cubetto/
 #: (content/ateliers/decouvrir-la-robot-cubetto/contents+fr.lr:workshop.language)
+#: http://localhost/ateliers/codenplay-krings/
+#: (content/ateliers/codenplay-krings/contents+fr.lr:workshop.language)
 #: http://localhost/ateliers/la-maison-des-maths-et-du-numerique/
 #: (content/ateliers/la-maison-des-maths-et-du-numerique/contents+fr.lr:workshop.language)
 #: http://localhost/ateliers/lenseignement-de-la-programmation-en-insertion-socio-professionnelle/
@@ -673,7 +682,7 @@ msgstr "Submit a poster"
 #: http://localhost/lieux/becentral/
 #: (content/lieux/becentral/contents+fr.lr:location.directions)
 msgid "Au dessus de la gare centrale"
-msgstr ""
+msgstr "Above the central station"
 
 #: http://localhost/ (content/contents+fr.lr:page.submissions_text)
 msgid ""
@@ -788,7 +797,7 @@ msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.journee_principale)
 msgid "[Plus d'informations...](journee-principale)"
-msgstr ""
+msgstr "[More info...](journee-principale)"
 
 #: http://localhost/ (content/contents+fr.lr:page.s_press)
 msgid "Presse"
@@ -820,6 +829,8 @@ msgid ""
 "personnes/gilles_dowek) sur la transformation au numérique des écoles "
 "françaises"
 msgstr ""
+"- 7 pm Lecture by [Gilles Dowek](https://wiki.educode.be/doku.php/personnes/"
+"gilles_dowek) on the digital transformation of French schools"
 
 #: http://localhost/ateliers/le-numerique-pour-faire-face-aux-inegalites-scolaires/
 #: (content/ateliers/le-numerique-pour-faire-face-aux-inegalites-scolaires/contents+fr.lr:workshop.description)
@@ -979,6 +990,8 @@ msgid ""
 "Des réductions existent pour  les étudiants et les sans emploi. Possibilité "
 "de réservation avec cocktail."
 msgstr ""
+"Discounts exist for students and unemployed. Possibility of booking with "
+"cocktail."
 
 #: http://localhost/intervenants/julie-henry/
 #: (content/intervenants/julie-henry/contents+fr.lr:speaker.description)
@@ -1092,6 +1105,10 @@ msgid ""
 "numérique. Son ambition est d'__informer, former et susciter l'intérêt de "
 "tous les acteurs de l'enseignement aux défis du numérique__."
 msgstr ""
+"Educode 2019 is the second edition of an annual international symposium "
+"dedicated to education, practices and research in the fields related to "
+"digital. Its ambition is to __inform, train and stimulate the interest of "
+"all those involved in teaching the challenges of digital technology__."
 
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
@@ -1160,7 +1177,7 @@ msgstr "- Françoise Bols"
 
 #: http://localhost/ (content/contents+fr.lr:page.concert)
 msgid "[Plus d'informations...](concert)"
-msgstr ""
+msgstr "[More info...](concert)"
 
 #: http://localhost/concert-festif-avant-premiere/
 #: (content/concert-festif-avant-premiere/contents+fr.lr:details-program.description)
@@ -1320,6 +1337,8 @@ msgid ""
 "Voir l'[affiche](https://wiki.educode.be/lib/exe/fetch.php/educode_2019/"
 "concertcarnavaldesanimaux.png)"
 msgstr ""
+"See the [poster](https://wiki.educode.be/lib/exe/fetch.php/educode_2019/"
+"concertcarnavaldesanimaux.png)"
 
 #: http://localhost/ (content/contents+fr.lr:page.s_submissions)
 msgid "Appel à propositions"
@@ -1453,7 +1472,7 @@ msgstr ""
 #: http://localhost/lieux/becentral/
 #: (content/lieux/becentral/contents+fr.lr:location.name)
 msgid "BeCentral"
-msgstr ""
+msgstr "BeCentral"
 
 #: http://localhost/ateliers/la-maison-des-maths-et-du-numerique/
 #: (content/ateliers/la-maison-des-maths-et-du-numerique/contents+fr.lr:workshop.description)
@@ -1473,6 +1492,8 @@ msgid ""
 "Nous avons besoin de vos soutiens financiers qui pourront, nous l'espérons "
 "très bientôt, être défiscalisés pour des dons supérieurs à 40 €."
 msgstr ""
+"We need your financial support, which we hope very soon, will be tax-free "
+"for donations over € 40."
 
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
@@ -1534,7 +1555,7 @@ msgstr "For more information and pre-registration, see http://wiki.educode.be"
 #: http://localhost/concert/
 #: (content/concert/contents+fr.lr:concert.description)
 msgid "Sans cocktail : 30€ / 20€ / 15€ (étudiant) / 12€ (sans emploi)"
-msgstr ""
+msgstr "Without cocktail: 30 € / 20 € / 15 € (student) / 12 € (unemployed)"
 
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
@@ -1547,7 +1568,7 @@ msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.concert)
 msgid "- 21h Cocktail dînatoire"
-msgstr ""
+msgstr "- 9pm Cocktail dinner"
 
 #: http://localhost/ateliers/la-maison-des-maths-et-du-numerique/
 #: (content/ateliers/la-maison-des-maths-et-du-numerique/contents+fr.lr:workshop.periodes)
@@ -1575,7 +1596,7 @@ msgstr ""
 #: http://localhost/lieux/becentral/
 #: (content/lieux/becentral/contents+fr.lr:location.address)
 msgid "Gare centrale, 1000 Bruxelles"
-msgstr ""
+msgstr "Central Station, 1000 Brussels"
 
 #: http://localhost/ateliers/apprendre-a-souder/
 #: (content/ateliers/apprendre-a-souder/contents+fr.lr:workshop.description)
@@ -1730,7 +1751,7 @@ msgstr ""
 #: http://localhost/lieux/villebxl/
 #: (content/lieux/villebxl/contents+fr.lr:location.address)
 msgid "Grand-place, 1000 Bruxelles"
-msgstr ""
+msgstr "Grand-place, 1000 Brussels"
 
 #: http://localhost/ateliers/initiation-a-la-pensee-informatique-en-primaire/
 #: (content/ateliers/initiation-a-la-pensee-informatique-en-primaire/contents+fr.lr:workshop.description)
@@ -1773,7 +1794,7 @@ msgstr "- Françoise Bols (HE2B-Nivelles, lecturer)"
 
 #: http://localhost/dons/ (content/dons/contents+fr.lr:details-program.date)
 msgid "Dons"
-msgstr ""
+msgstr "Donations"
 
 #: http://localhost/ateliers/apprendre-a-souder/
 #: (content/ateliers/apprendre-a-souder/contents+fr.lr:workshop.title)
@@ -1783,7 +1804,7 @@ msgstr ""
 #: http://localhost/lieux/cellule133a/
 #: (content/lieux/cellule133a/contents+fr.lr:location.name)
 msgid "Cellule 133a"
-msgstr ""
+msgstr "Cellule 133a"
 
 #: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
 #: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.abstract)
@@ -1804,7 +1825,7 @@ msgstr ""
 #: http://localhost/lieux/cellule133a/
 #: (content/lieux/cellule133a/contents+fr.lr:location.address)
 msgid "Avenue Ducpétiaux 133A, 1060 Saint-Gilles"
-msgstr ""
+msgstr "Avenue Ducpétiaux 133A, 1060 Saint-Gilles"
 
 #: http://localhost/ (content/contents+fr.lr:page.title)
 msgid "Bienvenue à EduCode"
@@ -1870,6 +1891,13 @@ msgid ""
 "emails et si possible numéros de téléphone des personnes de contact, numéro "
 "de compte, si oui ou non vous voulez être mentionnés ci-dessous."
 msgstr ""
+"* by transferring an amount to the account of *EduCode* **BE73 0018 3913 "
+"576** at [BNP ParibasFortis](https://www.bnpparibasfortis.be/) **and** by "
+"informing us by email to [don@educode.be](mailto:don@educode.be?subject=I "
+"gave ... and wait for a receipt). <br> (Do not forget in the mail to "
+"indicate your contact details: structure, full address, first and last "
+"names, emails and if possible phone numbers of contact persons, account "
+"number, whether or not you want to be mentioned below."
 
 #: http://localhost/intervenants/colin-de-la-higuera/
 #: (content/intervenants/colin-de-la-higuera/contents+fr.lr:speaker.description)
@@ -1941,7 +1969,7 @@ msgstr ""
 
 #: http://localhost/concert/ (content/concert/contents+fr.lr:concert.title)
 msgid "Concert Festif Educode"
-msgstr ""
+msgstr "Educode Festive Concert"
 
 #: http://localhost/ateliers/la-maison-des-maths-et-du-numerique/
 #: (content/ateliers/la-maison-des-maths-et-du-numerique/contents+fr.lr:workshop.title)
@@ -2026,7 +2054,7 @@ msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.concert)
 msgid "Un soirée exceptionnelle dans un lieu d'exception"
-msgstr ""
+msgstr "An exceptional evening in an exceptional place"
 
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
@@ -2045,6 +2073,8 @@ msgid ""
 "L'organisation de cette conférence est essentiellement bénévole. Toute aide "
 "et tout soutien sont les bienvenus."
 msgstr ""
+"The organization of this conference is essentially voluntary. Any help and "
+"support is welcome."
 
 #: http://localhost/concert-festif-avant-premiere/
 #: (content/concert-festif-avant-premiere/contents+fr.lr:details-program.description)
@@ -2119,7 +2149,7 @@ msgstr ""
 #: http://localhost/lieux/he2b-defre/
 #: (content/lieux/he2b-defre/contents+fr.lr:location.address)
 msgid "Avenue Defré 62 à 1180 Bruxelles (Uccle)"
-msgstr ""
+msgstr "Avenue Defré 62 in 1180 Bruxelles (Uccle)"
 
 #: http://localhost/journee-info-sans-ordi/
 #: (content/journee-info-sans-ordi/contents+fr.lr:details-program.date)
@@ -2211,7 +2241,7 @@ msgstr "Steering committee"
 #: http://localhost/concert/
 #: (content/concert/contents+fr.lr:concert.description)
 msgid "Avec cocktail : 50€ / 40€ / 30€ (étudiant) / 25€ (sans emploi)"
-msgstr ""
+msgstr "With cocktail: 50 € / 40 € / 30 € (student) / 25 € (unemployed)"
 
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
@@ -2222,10 +2252,10 @@ msgstr ""
 "- Laurence Bourguignon (Forsud, Educational Consultant - trainer TICE et "
 "primary teacher, at Athénée Royal de Couvin - fundamental)"
 
-#: http://localhost/ateliers/codenplay-krings/
-#: (content/ateliers/codenplay-krings/contents+fr.lr:workshop.tag)
 #: http://localhost/ateliers/initiation-a-la-pensee-informatique-en-primaire/
 #: (content/ateliers/initiation-a-la-pensee-informatique-en-primaire/contents+fr.lr:workshop.tag)
+#: http://localhost/ateliers/codenplay-krings/
+#: (content/ateliers/codenplay-krings/contents+fr.lr:workshop.tag)
 #: http://localhost/ateliers/codenplay-fischer/
 #: (content/ateliers/codenplay-fischer/contents+fr.lr:workshop.tag)
 msgid "primaire"
@@ -2316,7 +2346,7 @@ msgstr ""
 #: http://localhost/dons/
 #: (content/dons/contents+fr.lr:details-program.description)
 msgid "Merci de donner en"
-msgstr ""
+msgstr "Thank you for giving in"
 
 #: http://localhost/ateliers/lenseignement-de-la-programmation-en-insertion-socio-professionnelle/
 #: (content/ateliers/lenseignement-de-la-programmation-en-insertion-socio-professionnelle/contents+fr.lr:workshop.abstract)
@@ -2474,7 +2504,7 @@ msgstr ""
 #: http://localhost/lieux/villebxl/
 #: (content/lieux/villebxl/contents+fr.lr:location.name)
 msgid "Salle gothique de l'hôtel de ville de Bruxelles"
-msgstr ""
+msgstr "Gothic hall of the Brussels City Hall"
 
 #: http://localhost/ (content/contents+fr.lr:page.s_monday)
 msgid "Lundi"
@@ -2524,6 +2554,8 @@ msgid ""
 "- 20h Le _carnaval des animaux_ de Camille Saint-Saëns, concert festif avec "
 "2 pianos et récitante"
 msgstr ""
+"- 8pm Camille Saint-Saëns carnival of animals, festive concert with 2 pianos "
+"and reciting"
 
 #: http://localhost/ateliers/le-numerique-pour-faire-face-aux-inegalites-scolaires/
 #: (content/ateliers/le-numerique-pour-faire-face-aux-inegalites-scolaires/contents+fr.lr:workshop.abstract)
@@ -2549,7 +2581,7 @@ msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.journee_sans_ordi)
 msgid "[Plus d'informations...](journee-info-sans-ordi)"
-msgstr ""
+msgstr "[More info...](journee-info-sans-ordi)"
 
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
@@ -2656,7 +2688,7 @@ msgstr ""
 #: http://localhost/concert-festif/
 #: (content/concert-festif/contents+fr.lr:details-program.date)
 msgid "concert festif"
-msgstr ""
+msgstr "festive concert"
 
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
@@ -2672,7 +2704,7 @@ msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.partners_about)
 msgid "Beaucoup participent à l'exposition ."
-msgstr ""
+msgstr "Many participate in the exhibition."
 
 #: http://localhost/intervenants/benoit-naveau/
 #: (content/intervenants/benoit-naveau/contents+fr.lr:speaker.description)
@@ -2710,7 +2742,7 @@ msgstr ""
 
 #: templates/concert.html:12
 msgid "Concert festif exceptionnel"
-msgstr ""
+msgstr "Exceptional festive concert"
 
 #: templates/concert.html:14
 msgid ""
@@ -2727,51 +2759,51 @@ msgstr ""
 
 #: templates/concert.html:26
 msgid "Le carnaval des animaux"
-msgstr ""
+msgstr "Carnival of the Animals"
 
 #: templates/concert.html:27
 msgid "de"
-msgstr ""
+msgstr "of"
 
 #: templates/concert.html:29
 msgid "Avec"
-msgstr ""
+msgstr "With"
 
 #: templates/concert.html:31
 msgid "flûte"
-msgstr ""
+msgstr "flute"
 
 #: templates/concert.html:32
 msgid "clarinette"
-msgstr ""
+msgstr "clarinet"
 
 #: templates/concert.html:33 templates/concert.html:34
 msgid "violon"
-msgstr ""
+msgstr "violin"
 
 #: templates/concert.html:35
 msgid "alto"
-msgstr ""
+msgstr "alto"
 
 #: templates/concert.html:36
 msgid "violoncelle"
-msgstr ""
+msgstr "cello"
 
 #: templates/concert.html:37
 msgid "contrebasse"
-msgstr ""
+msgstr "double bass"
 
 #: templates/concert.html:38 templates/concert.html:39
 msgid "piano"
-msgstr ""
+msgstr "piano"
 
 #: templates/concert.html:40
 msgid "percussion"
-msgstr ""
+msgstr "percussion"
 
 #: templates/concert.html:41
 msgid "conteuse"
-msgstr ""
+msgstr "raconteur"
 
 #: templates/concert.html:46
 msgid "Cocktail dinatoire"
@@ -2780,7 +2812,7 @@ msgstr ""
 #: templates/macros/sections.html:20 templates/macros/sections.html:47
 #: templates/page.html:53 templates/speaker.html:73
 msgid "Journée principale"
-msgstr ""
+msgstr "Main day"
 
 #: templates/page.html:61
 msgid "Voir les ateliers"
@@ -2788,17 +2820,17 @@ msgstr ""
 
 #: templates/page.html:67
 msgid "Avant première du concert festif"
-msgstr ""
+msgstr "Preview of the festive concert"
 
 #: templates/macros/sections.html:21 templates/macros/sections.html:48
 #: templates/page.html:76 templates/speaker.html:74
 msgid "Journée info sans ordi"
-msgstr ""
+msgstr "Info day without computers"
 
 #: templates/macros/sections.html:23 templates/macros/sections.html:50
 #: templates/page.html:85
 msgid "Concert festif"
-msgstr ""
+msgstr "Festive concert"
 
 #: templates/page.html:220
 msgid "S'inscrire"
@@ -2810,122 +2842,4 @@ msgstr ""
 
 #: templates/macros/sections.html:22 templates/macros/sections.html:49
 msgid "Avant première du concert"
-msgstr ""
-
-#~ msgid ""
-#~ "Celle-ci sera accessible essentiellement durant les pauses-cafés et repas "
-#~ "du midi et du soir."
-#~ msgstr ""
-#~ "This will be accessible mainly during coffee breaks and lunch and dinner."
-
-#~ msgid ""
-#~ "Ce sera l’occasion pour les enseignants, leurs directions, les élus et "
-#~ "leurs équipes, ainsi que pour les pouvoirs publics de prendre "
-#~ "connaissance de la grande diversité des acteurs du numérique dans le "
-#~ "domaine de l’enseignement. Ceux-ci pourront assister et aider les écoles "
-#~ "dans une mission d'accompagnement et de formation aux très nombreux "
-#~ "usages du numérique."
-#~ msgstr ""
-#~ "It will be an opportunity for teachers, their directorates, elected "
-#~ "representatives and their teams, as well as for public authorities to "
-#~ "become acquainted with the great diversity of digital actors in the field "
-#~ "of education. They will be able to assist and help schools in a mission "
-#~ "of support and training for the many uses of digital technology."
-
-#~ msgid ""
-#~ "Faites-nous part de vos propositions de stand au sein de l'exposition  en "
-#~ "cliquant sur le bouton ci-dessous qui vous intéresse."
-#~ msgstr ""
-#~ "Let us know your stand proposals within the exhibition by clicking on the "
-#~ "button below that interests you."
-
-#~ msgid ""
-#~ "Les propositions d'ateliers devraient être entrées pour le 10 aout 2019 "
-#~ "dans http://wiki.educode.be"
-#~ msgstr ""
-#~ "Workshop proposals should be entered by August 10, 2019 in http://wiki."
-#~ "educode.be"
-
-#~ msgid ""
-#~ "Il a été demandée que cette formation fasse partie du programme des "
-#~ "formations en interréseaux organisées par l’IFC. Il nous a été confirmé "
-#~ "que selon toute vraisemblance, ce sera le cas. La conférence sera donc "
-#~ "**gratuite pour les enseignants** de primaire et secondaire de la "
-#~ "Fédération Wallonie-Bruxelles inscrits sur le site de IFC.  Nous "
-#~ "attendons la confirmation de IFC pour le 20 août 2019."
-#~ msgstr ""
-#~ "It was requested that this training be part of IFC's internetworking "
-#~ "program. It has been confirmed to us that in all likelihood this will be "
-#~ "the case. The conference will therefore be **free for elementary and "
-#~ "secondary teachers ** from the Wallonia-Brussels Federation registered on "
-#~ "the IFC website. We are awaiting confirmation from IFC by August 20, 2019."
-
-#~ msgid "La liste des ateliers sera publiée pour le 5 septembre 2019"
-#~ msgstr "The list of workshops will be published for September 5, 2019"
-
-#~ msgid ""
-#~ "Le colloque Educode se déroule le vendredi 27septembre 2019 à la Haute-"
-#~ "École Bruxelles-Brabant dans ses locaux de l'avenue Defré à Uccle (HE2B-"
-#~ "Defré)."
-#~ msgstr ""
-#~ "The Educode colloquium will take place on Friday 27th September 2019 at "
-#~ "the Brussels-Brabant High School in its premises on the Defré Avenue in "
-#~ "Uccle (HE2B-Defré)."
-
-#~ msgid ""
-#~ "Les préinscriptions sont possibles dans https://wiki.educode.be/doku.php?"
-#~ "id=educode2019preinscriptions"
-#~ msgstr ""
-#~ "Pre-registrations are possible in https://wiki.educode.be/doku.php?"
-#~ "id=educode2019preinscriptions"
-
-#~ msgid "Beaucoup participent à l'[exposition](/exposition) ."
-#~ msgstr "Many participate in the [exhibition](/exposition) ."
-
-#~ msgid ""
-#~ "Durant les pauses-café et repas, toutes les structures (associations, "
-#~ "institutions publiques, écoles, sociétés commerciales ...) actives dans "
-#~ "le milieu de l’éducation numérique en Belgique et ailleurs représentés "
-#~ "lors de la conférence, présenteront leurs réalisations dans l'[exposition]"
-#~ "(/exposition)."
-#~ msgstr ""
-#~ "During the coffee breaks and meals, all the structures (associations, "
-#~ "public institutions, schools, commercial companies ...) active in the "
-#~ "digital education sector in Belgium and elsewhere represented during the "
-#~ "conference, will present their achievements in the [exhibition](/"
-#~ "exposition)."
-
-#~ msgid "Hôtels"
-#~ msgstr "Hotels"
-
-#~ msgid ""
-#~ "Il est développé en commun sur [github](https://github.com/EduCodeBe/"
-#~ "educode.be) et toute personne qui veut aider, même modestement, "
-#~ "contribuer aux corrections, modifications, traductions ... peut le faire "
-#~ "facilement."
-#~ msgstr ""
-#~ "It is developed jointly on [github](https://github.com/EduCodeBe/educode."
-#~ "be) and anyone who wants to help, even modestly, contribute to "
-#~ "corrections, modifications, translations ... can do it easily."
-
-#~ msgid "Projects"
-#~ msgstr "Projects"
-
-#~ msgid ""
-#~ "Ce site est fait avec le [logiciel libre](https://fr.wikipedia.org/wiki/"
-#~ "Logiciel_libre) multiplateforme et multilingue [Lektor](https://getlektor."
-#~ "com)."
-#~ msgstr ""
-#~ "This site is made with the [free software](https://en.wikipedia.org/wiki/"
-#~ "Free_software) multiplatform and multilingual [Lektor](https://getlektor."
-#~ "com)."
-
-#~ msgid ""
-#~ "Par exemple, pour une suggestion ou un commentaire, merci  de remplir le "
-#~ "[formulaire](https://github.com/EduCodeBe/educode.be/issues/new)"
-#~ msgstr ""
-#~ "For example, for a suggestion or a comment, please fill out the [form]"
-#~ "(https://github.com/EduCodeBe/educode.be/issues/new)"
-
-#~ msgid "About this Website"
-#~ msgstr "About this Website"
+msgstr "Preview of the concert"

@@ -6,10 +6,10 @@ country: France
 ---
 description:
 
-Georges est un professeur de physique, chimie  et informatique au [lycéé Jean Bart](https://www.lyceejeanbart.fr). Il a des formations en biochimie, chimie organique, informatique et science des matériaux, obtenues à l'E.N.S. rue d'Ulm (Paris), l'Université Pierre et Marie Curie (Paris), l'Université de Lorraine (Nancy), et l'Université du Littoral (Dunkerque).
+Georges is professor in de natuurkunde, scheikunde en informatica aan[lycéé Jean Bart](https://www.lyceejeanbart.fr). Hij heeft achtergronden in biochemie, organische chemie, informatica en materiaalkunde, verkregen bij E.N.S. rue d'Ulm (Parijs), de Pierre en Marie Curie University (Parijs), de Universiteit van Lorraine (Nancy) en de Universiteit van Littoral (Duinkerken).
 
-Georges est participe au développement de quelques logiciels libres, maintient
+Georges is betrokken bij de ontwikkeling van sommige gratis software, onderhoudt
 quelques dizaines de [paquets Debian](https://salsa.debian.org/georgesk)/Ubuntu, et adhère à quelques
-associations de défense et promotion des logiciels libres telle que [APRIL](http://april.org).
+verenigingen voor de verdediging en promotie van gratis software zoals [APRIL](http://april.org).
 ---
 name: Georges Khaznadar

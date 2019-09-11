@@ -1,17 +1,17 @@
 _model: workshop
 ---
-title: Un boîtier de mesure pour les sciences expérimentales
+title: Een meetkoffer voor de experimentele wetenschappen
 ---
 abstract:
 
- Un boîtier de mesure très bon marché et très complet pour les sciences expérimentales 
+ Een zeer goedkope en uitgebreide meetkoffer voor experimentele wetenschappen 
 ---
 contact_name: Georges Khaznadar
 ---
 description:
 
- Comment faire des sciences expérimentales, quand le temps est compté, et que le budget pour le matériel est contraint ? Le boîtier Expeyes le permet. Connecté par un câble USB à un ordinateur, il fournit les services d'une centrale de mesures, ou d'un oscilloscope quatre voies, plus deux générateurs de signaux, pour un prix dix fois moindre. Cerise sur le gâteau : c'est du matériel et du logiciel libre.
+ Hoe experimentele wetenschap te doen, wanneer de tijd opraakt en het budget voor het materiaal beperkt is? De Expeyes-box staat het toe. Aangesloten via een USB-kabel op een computer, biedt het de diensten van een datalogger of een vierkanaals oscilloscoop, plus twee signaalgeneratoren, voor een prijs die tien keer lager is. Het beste van alles, het is hardware en gratis software.
 
-De plus, [Expeyes](http://expeyes.freeduc.science/) se programme en Python, ce qui en fait une plate-forme idéale pour enseigner l'informatique et ses rapports avec le monde physique. 
+Bovendien is [Expeyes](http://expeyes.freeduc.science/) geprogrammeerd in Python, waardoor het een ideaal platform is om informatica en haar relatie met de fysieke wereld te onderwijzen. 
 ---
 periodes:

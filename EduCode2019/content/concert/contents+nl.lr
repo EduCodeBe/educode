@@ -1,19 +1,19 @@
 _model: concert
 ---
-title: Concert Festif Educode
+title: Feestelijk concert Educode
 ---
 description:
 
-####Achetez les tickets [ici](http://inscriptions.educode.be)
+####Tickets kopen [hier](http://inscriptions.educode.be)
 
-Des réductions existent pour  les étudiants et les sans emploi. Possibilité de réservation avec cocktail.
+Kortingen bestaan voor studenten en werklozen. Mogelijkheid om te boeken met een cocktail.
 
-####Prix
+#### Prijs
 
-Sans cocktail : 30€ / 20€ / 15€ (étudiant) / 12€ (sans emploi)
+Zonder cocktail: 30 € / 20 € / 15 € (student) / 12 € (werkloos)
 
-Avec cocktail : 50€ / 40€ / 30€ (étudiant) / 25€ (sans emploi)
+Met cocktail: 50 € / 40 € / 30 € (student) / 25 € (werkloos)
 ---
-conference: A 19h, retrouvez une conférence de [Gilles Dowek](../intervenants/gilles-dowek) sur la transformation au numérique des écoles françaises
+conference: Vind om 19.00 uur een conferentie van [Gilles Dowek](../intervenants/gilles-dowek) over de digitale transformatie van Franse scholen
 ---
-cocktail: A 21h, rendez-vous pour un cocktail dînatoire
+cocktail: Ga om 21.00 uur voor een cocktaildiner

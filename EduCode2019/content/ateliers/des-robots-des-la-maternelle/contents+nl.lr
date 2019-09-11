@@ -1,8 +1,8 @@
 _model: workshop
 ---
-title: Des robots dès la maternelle
+title: Robots uit de kleuterklas
 ---
-abstract: Explorer les possibilités d’apprentissage avec les robots Thymio pour les plus jeunes en maternelle.
+abstract: Ontdek leermogelijkheden met Thymio-robots voor jongere kleuters.
 ---
 age: 4-6
 ---
@@ -12,7 +12,7 @@ age_min: 4
 ---
 contact_name: Patricia Corieri
 ---
-description: Il s’agit d’explorer les possibilités d’apprentissage avec les robots Thymio pour les plus jeunes en maternelle. Nous avons pu expérimenter que les enfants en enseignement spécialisé sont particulièrement attirés par l’interaction avec les robots.
+description: Het gaat over het verkennen van leermogelijkheden met Thymio-robots voor jongere kleuters. We hebben ervaren dat kinderen in het speciaal onderwijs vooral worden aangetrokken door interactie met robots.
 ---
 language: fr
 ---
@@ -22,4 +22,4 @@ periodes: 1x50'
 ---
 required_materials: Projecteur
 ---
-tag: maternelle
+tag: kleuterschool

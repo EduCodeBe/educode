@@ -1,8 +1,8 @@
 _model: workshop
 ---
-title: Premiers pas dans la programmation ludique et créative
+title: Eerste stappen in leuk en creatief programmeren
 ---
-abstract: Atelier à destination des enseignants pour découvrir la plateforme Scratch et monter un atelier jeu vidéo avec leurs élèves. Dans le cadre de la Europe Code Week.
+abstract: Workshop voor leerkrachten om het Scratch-platform te ontdekken en een videogameworkshop met hun studenten op te zetten. Als onderdeel van de Europe Code Week.
 ---
 age: 10-14
 ---
@@ -14,8 +14,8 @@ contact_name: Nathalie Kuborn et Serge Rodrigues
 ---
 description:
 
-Atelier à destination des enseignants pour découvrir la plateforme Scratch et monter un atelier jeu vidéo avec leurs élèves. Dans le cadre de la Europe Code Week.
-Apprendre la programmation n’est ni difficile, ni ennuyant. Au cours de cet atelier, les enseignants découvriront des ressources et une approche par laquelle ils pourront initier, de façon ludique et pratique leurs élèves aux joies de la pensée computationnelle et de la programmation informatique.
+Workshop voor leerkrachten om het Scratch-platform te ontdekken en een videogameworkshop met hun studenten op te zetten. Als onderdeel van de Europe Code Week.
+Leren programmeren is niet moeilijk of saai. Tijdens deze workshop ontdekken leraren middelen en een aanpak waarmee ze hun studenten op een leuke en praktische manier kennis kunnen laten maken met het plezier van computationeel denken en computerprogrammeren.
 
 ---
 language: fr
@@ -24,4 +24,4 @@ number: 12
 ---
 required_materials: Ordinateur
 ---
-tag: tous
+tag: alle

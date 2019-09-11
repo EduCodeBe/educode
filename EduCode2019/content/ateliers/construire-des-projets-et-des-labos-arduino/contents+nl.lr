@@ -1,8 +1,8 @@
 _model: workshop
 ---
-title: Construire des projets et des labos Arduino
+title: Bouw Arduino-projecten en labs
 ---
-abstract: Construire des projets et des labos motivants en classe ou ailleurs avec Arduino
+abstract: Bouw motiverende projecten en laboratoria in de klas of elders met Arduino
 ---
 age: 14-18
 ---
@@ -12,7 +12,7 @@ age_min: 14
 ---
 contact_name: Emmanuel Beeckmans
 ---
-description: Partant d’exemples concrets réalisés en classe et dans un cadre extrascolaire, il s’agira d’élaborer ensemble comment la programmation du microprocesseur Arduino peut être appliquée en lien avec les référentiels dans le cadre des labos de physique, de technologie, de programmation ou dans un cadre parascolaire pour l'élaboration de projets à plus long terme …
+description: Vertrekkend van concrete voorbeelden die in de klas en in een buitenschoolse omgeving worden gerealiseerd, zal het noodzakelijk zijn om samen uit te werken hoe de programmering van de Arduino-microprocessor kan worden toegepast in samenhang met de referentiekaders in het kader van de laboratoria voor natuurkunde, technologie, programmeren of in een buitenschoolse context voor de uitwerking van projecten op langere termijn …
 ---
 language: fr
 ---
@@ -22,4 +22,4 @@ periodes:
 ---
 required_materials: Projecteur
 ---
-tag: secondaire
+tag: secundair

@@ -2,9 +2,9 @@ _model: location
 ---
 name: BeCentral
 ---
-address: Gare centrale, 1000 Bruxelles
+address: Central Station, 1000 Brussels
 ---
-directions: Au dessus de la gare centrale
+directions: Above the central station
 ---
 type_location: Lieu normal
 ---
