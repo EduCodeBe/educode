@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: educode\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-12 08:47+CET\n"
+"POT-Creation-Date: 2019-09-12 08:59+CET\n"
 "PO-Revision-Date: 2019-09-11 09:35\n"
 "Last-Translator: npettiaux\n"
 "Language-Team: English\n"
@@ -55,12 +55,6 @@ msgstr ""
 msgid ""
 "..* Il est possible de créer un compte pour sa classe où chaque élève peut "
 "se connecter."
-msgstr ""
-
-#: http://localhost/concert-festif-avant-premiere/
-#: (content/concert-festif-avant-premiere/contents+fr.lr:details-program.description)
-msgid ""
-"[Cliquez ici](../concert) pour plus d'informations sur la représentation."
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.s_sunday)
@@ -123,13 +117,6 @@ msgstr ""
 "Victor Horta. The clubs and bars of St. Gery Square never fail. Seafood "
 "dishes abound in St. Catherine. If you want more information about Brussels, "
 "click [here](http://visit.brussels)"
-
-#: http://localhost/ateliers/la-maison-des-maths-et-du-numerique/
-#: (content/ateliers/la-maison-des-maths-et-du-numerique/contents+fr.lr:workshop.description)
-msgid ""
-"Cela permettra de réveiller votre **âme d'enfant** et d'approcher "
-"concrètement les __compétences disciplinaires et transversales__ abordées."
-msgstr ""
 
 #: http://localhost/ateliers/construire-des-projets-et-des-labos-arduino/
 #: (content/ateliers/construire-des-projets-et-des-labos-arduino/contents+fr.lr:workshop.tag)
@@ -195,10 +182,10 @@ msgstr ""
 msgid "- Prof Colin de la Higuera (Université de Nantes)"
 msgstr "- Prof Colin de la Higuera (University of Nantes)"
 
-#: http://localhost/intervenants/nathalie-kuborn/
-#: (content/intervenants/nathalie-kuborn/contents+fr.lr:speaker.description)
-msgid "* Leading Teacher in Belgium EU Code Week"
-msgstr ""
+#: http://localhost/dons/ (content/dons/contents+fr.lr:details-program.date)
+#: (dynamic)
+msgid "Dons"
+msgstr "Donations"
 
 #: (dynamic)
 msgid ""
@@ -212,19 +199,12 @@ msgid ""
 "partager ses trouvailles et son expérience avec ses collègues instituteurs."
 msgstr ""
 
-#: http://localhost/journee-info-sans-ordi/
-#: (content/journee-info-sans-ordi/contents+fr.lr:details-program.description)
+#: http://localhost/ateliers/fadagogocom-coder-en-25-defis/
+#: (content/ateliers/fadagogocom-coder-en-25-defis/contents+fr.lr:workshop.abstract)
 msgid ""
-"Durant cette journée, vous pourrez participer à une journée spéciale de "
-"formation et discussion autour des l'**informatique débranchée**, en "
-"particulier en maternelle, primaire et secondaire au premier cycle. Des "
-"ateliers pratiques, des échanges conviviaux, pour une cinquantaine de "
-"personnes maximum."
-msgstr ""
-
-#: http://localhost/journee-info-sans-ordi/
-#: (content/journee-info-sans-ordi/contents+fr.lr:details-program.description)
-msgid "Les inscriptions sont [ouvertes](https://inscriptions.educode.be)"
+"Après une courte introduction sur l'importance de l'algorithmique dans le "
+"cursus des élèves, l'atelier vous apprendra ***les bases du codage*** par la "
+"réalisation de \"défis\"."
 msgstr ""
 
 #: http://localhost/ateliers/le-numerique-pour-faire-face-aux-inegalites-scolaires/
@@ -443,6 +423,13 @@ msgid ""
 msgstr ""
 "A day specially dedicated to teachers interested in disconnected computing."
 
+#: http://localhost/ateliers/decouvrir-le-robot-cubetto/
+#: (content/ateliers/decouvrir-le-robot-cubetto/contents+fr.lr:workshop.description)
+msgid ""
+"* C'est également un excellent outil pour travailler de manière ludique et "
+"attrayante les questions de spatialisation au sein d'une classe."
+msgstr ""
+
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid ""
@@ -584,6 +571,17 @@ msgstr ""
 msgid "* Les environnements des participants sont homogènes."
 msgstr ""
 
+#: http://localhost/intervenants/erick-mascart/
+#: (content/intervenants/erick-mascart/contents+fr.lr:speaker.description)
+msgid ""
+"Informaticien passionné par les [outils libres](https://fr.wikipedia.org/"
+"wiki/Logiciel_libre), la préservation des ressources naturelles en "
+"minimisant le gaspillage du «hardware», les démarches qui tendent vers une "
+"forme de «sobriété numérique» et le «[Green-IT](https://www.greenit.fr/a-"
+"propos/)», les questions actuelles que soulève le numérique à propos de la "
+"vie privée ou de la consommation d'énergie."
+msgstr ""
+
 #: http://localhost/ateliers/initiation-a-la-pensee-informatique-en-primaire/
 #: (content/ateliers/initiation-a-la-pensee-informatique-en-primaire/contents+fr.lr:workshop.abstract)
 #: (content/ateliers/initiation-a-la-pensee-informatique-en-primaire/contents+fr.lr:workshop.description)
@@ -694,15 +692,10 @@ msgstr ""
 msgid "* Est membre actif de l'équipe Educode."
 msgstr ""
 
-#: http://localhost/ateliers/apprendre-a-souder/
-#: (content/ateliers/apprendre-a-souder/contents+fr.lr:workshop.description)
-msgid "Compétences :"
-msgstr ""
-
-#: http://localhost/ateliers/decouvrir-le-robot-cubetto/
-#: (content/ateliers/decouvrir-le-robot-cubetto/contents+fr.lr:workshop.language)
 #: http://localhost/ateliers/sac-a-dos-numerique-pour-lapprentissage-par-competences/
 #: (content/ateliers/sac-a-dos-numerique-pour-lapprentissage-par-competences/contents+fr.lr:workshop.language)
+#: http://localhost/ateliers/decouvrir-le-robot-cubetto/
+#: (content/ateliers/decouvrir-le-robot-cubetto/contents+fr.lr:workshop.language)
 #: http://localhost/ateliers/apprendre-a-souder/
 #: (content/ateliers/apprendre-a-souder/contents+fr.lr:workshop.language)
 #: http://localhost/ateliers/initiation-a-la-pensee-informatique-en-primaire/
@@ -759,11 +752,11 @@ msgid ""
 "joies de la pensée computationnelle et de la programmation informatique."
 msgstr ""
 
-#: http://localhost/intervenants/rupert-meurice-de-dormale/
-#: (content/intervenants/rupert-meurice-de-dormale/contents+fr.lr:speaker.description)
+#: http://localhost/ateliers/decouvrir-le-robot-cubetto/
+#: (content/ateliers/decouvrir-le-robot-cubetto/contents+fr.lr:workshop.description)
 msgid ""
-"* Coauteur avec Philippe Dardenne d'un manuel sur l'apprentissage de la "
-"démarche scientifique (3<sup>ème</sup> Rénové) 1980;"
+"* Cubetto est un petit robot inspiré par le langage Logo et qui se programme "
+"simplement avec les mains, sans PC ni écran !"
 msgstr ""
 
 #: http://localhost/intervenants/colin-de-la-higuera/
@@ -1099,12 +1092,14 @@ msgid ""
 "vos élèves ou vos enfants !"
 msgstr ""
 
-#: http://localhost/ateliers/fadagogocom-coder-en-25-defis/
-#: (content/ateliers/fadagogocom-coder-en-25-defis/contents+fr.lr:workshop.abstract)
+#: http://localhost/journee-info-sans-ordi/
+#: (content/journee-info-sans-ordi/contents+fr.lr:details-program.description)
 msgid ""
-"Après une courte introduction sur l'importance de l'algorithmique dans le "
-"cursus des élèves, l'atelier vous apprendra ***les bases du codage*** par la "
-"réalisation de \"défis\"."
+"Durant cette journée, vous pourrez participer à une journée spéciale de "
+"formation et discussion autour des l'**informatique débranchée**, en "
+"particulier en maternelle, primaire et secondaire au premier cycle. Des "
+"ateliers pratiques, des échanges conviviaux, pour une cinquantaine de "
+"personnes maximum."
 msgstr ""
 
 #: http://localhost/intervenants/laurent-beeckmans/
@@ -1170,11 +1165,11 @@ msgid ""
 "d’élèves du secondaire supérieur (15-18 ans)."
 msgstr ""
 
-#: http://localhost/ateliers/decouvrir-le-robot-cubetto/
-#: (content/ateliers/decouvrir-le-robot-cubetto/contents+fr.lr:workshop.description)
+#: http://localhost/intervenants/rupert-meurice-de-dormale/
+#: (content/intervenants/rupert-meurice-de-dormale/contents+fr.lr:speaker.description)
 msgid ""
-"* Cubetto est un petit robot inspiré par le langage Logo et qui se programme "
-"simplement avec les mains, sans PC ni écran !"
+"* Coauteur avec Philippe Dardenne d'un manuel sur l'apprentissage de la "
+"démarche scientifique (3<sup>ème</sup> Rénové) 1980;"
 msgstr ""
 
 #: http://localhost/journee-info-sans-ordi/
@@ -1430,14 +1425,6 @@ msgid ""
 "* Il permet aux petits de manipuler du langage de programmation, et de "
 "jongler avec les algorithmes, les informations, notamment sur base du "
 "principe de « fil d'attente », le debugging et la récursivité."
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.journee_sans_ordi)
-msgid ""
-"La journée est gratuite pour les enseignants de la Fédération Wallonie-"
-"Bruxelles inscrit à IFC avec le **numéro de formation 03001901/34350** à "
-"introduire dans le site [www.ifc.cfwb.be](http://www.ifc.cfwb.be/). Pour "
-"toutes les autres personnes, elle est payante."
 msgstr ""
 
 #: http://localhost/intervenants/fabrice-flore-thebault/
@@ -2126,10 +2113,10 @@ msgid ""
 "environnements de développement ====="
 msgstr ""
 
-#: http://localhost/ateliers/decouvrir-le-robot-cubetto/
-#: (content/ateliers/decouvrir-le-robot-cubetto/contents+fr.lr:workshop.tag)
 #: http://localhost/ateliers/sac-a-dos-numerique-pour-lapprentissage-par-competences/
 #: (content/ateliers/sac-a-dos-numerique-pour-lapprentissage-par-competences/contents+fr.lr:workshop.tag)
+#: http://localhost/ateliers/decouvrir-le-robot-cubetto/
+#: (content/ateliers/decouvrir-le-robot-cubetto/contents+fr.lr:workshop.tag)
 #: http://localhost/ateliers/decouverte-des-learningapps/
 #: (content/ateliers/decouverte-des-learningapps/contents+fr.lr:workshop.tag)
 #: http://localhost/ateliers/fadagogocom-coder-en-25-defis/
@@ -2330,10 +2317,10 @@ msgstr ""
 msgid "- Françoise Bols (HE2B-Nivelles, chargé de cours)"
 msgstr "- Françoise Bols (HE2B-Nivelles, lecturer)"
 
-#: http://localhost/dons/ (content/dons/contents+fr.lr:details-program.date)
-#: (dynamic)
-msgid "Dons"
-msgstr "Donations"
+#: http://localhost/intervenants/nathalie-kuborn/
+#: (content/intervenants/nathalie-kuborn/contents+fr.lr:speaker.description)
+msgid "* Leading Teacher in Belgium EU Code Week"
+msgstr ""
 
 #: http://localhost/intervenants/dimitri-krings/
 #: (content/intervenants/dimitri-krings/contents+fr.lr:speaker.description)
@@ -2398,13 +2385,6 @@ msgstr ""
 msgid "</div>"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.journee_sans_ordi)
-msgid ""
-"Pour des raisons indépendantes de notre volonté, la journée du 28 septembre "
-"ne sera pas organisée. Nous serons heureux de vous recevoir le [27 septembre]"
-"(journee-principale)."
-msgstr ""
-
 #: http://localhost/lieux/cellule133a/
 #: (content/lieux/cellule133a/contents+fr.lr:location.address)
 msgid "Avenue Ducpétiaux 133A, 1060 Saint-Gilles"
@@ -2462,6 +2442,11 @@ msgstr "Exhibit and hold a stand"
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "- Julie Henry (UNamur, chercheuse)"
 msgstr "- Julie Henry (UNamur, searcher)"
+
+#: http://localhost/ateliers/decouvrir-le-robot-cubetto/
+#: (content/ateliers/decouvrir-le-robot-cubetto/contents+fr.lr:workshop.description)
+msgid "**Cubetto : Héritier du Logo**"
+msgstr ""
 
 #: http://localhost/ateliers/apprendre-a-souder/
 #: (content/ateliers/apprendre-a-souder/contents+fr.lr:workshop.description)
@@ -2676,14 +2661,6 @@ msgstr ""
 "that propose digital and training-related activities. Childcare solutions "
 "with activities will be organized so that all parents can participate."
 
-#: http://localhost/ (content/contents+fr.lr:page.journee_sans_ordi)
-msgid ""
-"L'organisation de cette conférence est essentiellement bénévole. Toute aide "
-"et tout soutien sont les bienvenus."
-msgstr ""
-"The organization of this conference is essentially voluntary. Any help and "
-"support is welcome."
-
 #: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
 #: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.description)
 msgid ""
@@ -2691,11 +2668,10 @@ msgid ""
 "environnement."
 msgstr ""
 
-#: http://localhost/ateliers/decouvrir-le-robot-cubetto/
-#: (content/ateliers/decouvrir-le-robot-cubetto/contents+fr.lr:workshop.description)
+#: http://localhost/concert-festif-avant-premiere/
+#: (content/concert-festif-avant-premiere/contents+fr.lr:details-program.description)
 msgid ""
-"* C'est également un excellent outil pour travailler de manière ludique et "
-"attrayante les questions de spatialisation au sein d'une classe."
+"[Cliquez ici](../concert) pour plus d'informations sur la représentation."
 msgstr ""
 
 #: http://localhost/ateliers/internet-et-le-web/
@@ -2733,14 +2709,11 @@ msgstr ""
 msgid "Avant première du concert festif"
 msgstr "Preview of the festive concert"
 
-#: http://localhost/journee-info-sans-ordi/
-#: (content/journee-info-sans-ordi/contents+fr.lr:details-program.description)
+#: http://localhost/ateliers/la-maison-des-maths-et-du-numerique/
+#: (content/ateliers/la-maison-des-maths-et-du-numerique/contents+fr.lr:workshop.description)
 msgid ""
-"Samedi 28 septembre, vous pourrez participer à une journée spéciale de "
-"formation et discussion autour des l'**informatique débranchée**, en "
-"particulier en maternelle, primaire et secondaire au premier cycle. Des "
-"ateliers pratiques, des échanges conviviaux, pour une cinquantaine de "
-"personnes maximum."
+"Cela permettra de réveiller votre **âme d'enfant** et d'approcher "
+"concrètement les __compétences disciplinaires et transversales__ abordées."
 msgstr ""
 
 #: http://localhost/intervenants/nicolas-pettiaux/
@@ -2776,11 +2749,6 @@ msgstr "Avenue Defré 62 in 1180 Bruxelles (Uccle)"
 #: (dynamic)
 msgid "Concert festif exceptionnel"
 msgstr "Exceptional festive concert"
-
-#: http://localhost/journee-info-sans-ordi/
-#: (content/journee-info-sans-ordi/contents+fr.lr:details-program.date)
-msgid "28 septembre 2019"
-msgstr ""
 
 #: http://localhost/ateliers/un-boitier-de-mesure-pour-les-sciences-experimentales/
 #: (content/ateliers/un-boitier-de-mesure-pour-les-sciences-experimentales/contents+fr.lr:workshop.description)
@@ -2827,6 +2795,16 @@ msgstr ""
 msgid ""
 "* À été formateur informatique pendant 2 ans chez [Interface3.Namur](http://"
 "www.interface3namur.be/)."
+msgstr ""
+
+#: http://localhost/intervenants/erick-mascart/
+#: (content/intervenants/erick-mascart/contents+fr.lr:speaker.description)
+msgid ""
+"Je travaille au niveau local pour que l'appropriation «consciente» des "
+"outils numériques et de leurs enjeux par tout un chacun dès le plus jeune "
+"âge permette de construire un futur dans lequel le numérique sera vecteur de "
+"partage des savoirs et d'émancipation plutôt que d'asservissement à ce qu'il "
+"convient d'appeler le «capitalisme de surveillance»."
 msgstr ""
 
 #: http://localhost/ateliers/decouverte-des-learningapps/
@@ -3051,9 +3029,9 @@ msgid ""
 "\"devfile\"."
 msgstr ""
 
-#: http://localhost/ateliers/decouvrir-le-robot-cubetto/
-#: (content/ateliers/decouvrir-le-robot-cubetto/contents+fr.lr:workshop.description)
-msgid "**Cubetto : Héritier du Logo**"
+#: http://localhost/ateliers/apprendre-a-souder/
+#: (content/ateliers/apprendre-a-souder/contents+fr.lr:workshop.description)
+msgid "Compétences :"
 msgstr ""
 
 #: http://localhost/concert-festif-avant-premiere/
@@ -3255,6 +3233,22 @@ msgid ""
 "be)"
 msgstr ""
 
+#: http://localhost/intervenants/pascal-arnoux/
+#: (content/intervenants/pascal-arnoux/contents+fr.lr:speaker.description)
+msgid ""
+"[Montpel'libre](https://montpellibre.fr/) est un Groupe d’Utilisateurs GNU/"
+"Linux et Logiciels Libres qui promeut les logiciels libres, la culture libre "
+"et les biens communs.Notre association se situe à la jonction des secteurs "
+"d’activités du numérique, des industries créatives, de l’économie sociale et "
+"solidaire, du développement durable, de la recherche et formation ainsi que "
+"de l’éducation populaire. Elle s’adresse à l’informaticien comme au "
+"néophyte, au particulier comme au professionnel ou à l’étudiant et à un "
+"public de tout âge. Montpel’libre exerce des activités multiples autour de "
+"six pôles : 1 – Permanences 2 – Ateliers 3 – Conférences / Formations / "
+"Expertise 4 – Événements 5 – Technique / Sécurité 6 - Publication. Et de "
+"plusieurs communautés et groupes de travail."
+msgstr ""
+
 #: http://localhost/lieux/villebxl/
 #: (content/lieux/villebxl/contents+fr.lr:location.name)
 msgid "Salle gothique de l'hôtel de ville de Bruxelles"
@@ -3336,10 +3330,6 @@ msgstr ""
 #: (content/ateliers/codenplay-fischer/contents+fr.lr:workshop.title)
 msgid "CodeNPlay-Instituteurs"
 msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.journee_sans_ordi)
-msgid "[Plus d'informations...](journee-info-sans-ordi)"
-msgstr "[More info...](journee-info-sans-ordi)"
 
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
@@ -3466,6 +3456,14 @@ msgid ""
 "modifier ou de créer les leurs."
 msgstr ""
 
+#: http://localhost/intervenants/erick-mascart/
+#: (content/intervenants/erick-mascart/contents+fr.lr:speaker.description)
+msgid ""
+"Un exemple de «futur non désirable» que je ne souhaite pas pour nos petits-"
+"enfants est, par exemple, celui que présente le desinger Keiichi Matsuda "
+"dans son film conceptuel [Hyper-Reality](http://hyper-reality.co/)…"
+msgstr ""
+
 #: http://localhost/ (content/contents+fr.lr:page.partners_about)
 msgid "Beaucoup participent à l'exposition ."
 msgstr "Many participate in the exhibition."
@@ -3503,6 +3501,16 @@ msgid ""
 msgstr ""
 "Any help proposal can be sent to [aider@educode.be](mailto://aider@educode."
 "be?subject=Help educode&body=I want to help educode)."
+
+#~ msgid ""
+#~ "L'organisation de cette conférence est essentiellement bénévole. Toute "
+#~ "aide et tout soutien sont les bienvenus."
+#~ msgstr ""
+#~ "The organization of this conference is essentially voluntary. Any help "
+#~ "and support is welcome."
+
+#~ msgid "[Plus d'informations...](journee-info-sans-ordi)"
+#~ msgstr "[More info...](journee-info-sans-ordi)"
 
 #~ msgid "concert festif"
 #~ msgstr "festive concert"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-12 08:48+CET\n"
+"POT-Creation-Date: 2019-09-12 09:01+CET\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: fr <LL@li.org>\n"
@@ -167,14 +167,9 @@ msgstr ""
 msgid "- Prof Colin de la Higuera (Université de Nantes)"
 msgstr ""
 
-#: http://localhost/intervenants/nathalie-kuborn/
-#: (content/intervenants/nathalie-kuborn/contents+fr.lr:speaker.description)
-msgid "* Leading Teacher in Belgium EU Code Week"
-msgstr ""
-
+#: http://localhost/dons/ (content/dons/contents+fr.lr:details-program.date)
 #: (dynamic)
-msgid ""
-"Dans la salle gothique de l'hôtel de ville de Bruxelles, à la Grand-Place."
+msgid "Dons"
 msgstr ""
 
 #: http://localhost/intervenants/laurence-bourguignon/
@@ -363,10 +358,6 @@ msgid ""
 "intégrant le son et l’image par le biais"
 msgstr ""
 
-#: (dynamic)
-msgid "alto"
-msgstr ""
-
 #: http://localhost/ateliers/initiation-a-la-pensee-informatique-en-primaire/
 #: (content/ateliers/initiation-a-la-pensee-informatique-en-primaire/contents+fr.lr:workshop.title)
 msgid "Initiation à la pensée informatique en primaire"
@@ -383,10 +374,6 @@ msgid ""
 "* Chargée de formations et contenus [Khan Academy](https://fr.khanacademy."
 "org/) à [Bibliothèques Sans Frontières Belgique](https://www."
 "bibliosansfrontieres.org/)"
-msgstr ""
-
-#: (dynamic)
-msgid "contrebasse"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.s_saturday)
@@ -509,16 +496,6 @@ msgstr ""
 msgid "####Prix"
 msgstr ""
 
-#: http://localhost/intervenants/erick-mascart/
-#: (content/intervenants/erick-mascart/contents+fr.lr:speaker.description)
-msgid ""
-"Je travaille au niveau local pour que l'//appropriation <<consciente>> des "
-"outils numériques et de leurs enjeux// par tout un chacun dès le plus jeune "
-"âge permette de construire un futur dans lequel //le numérique sera vecteur "
-"de partage des savoirs et d'émancipation plutôt que d'asservissement à ce "
-"qu'il convient d'appeler le <<capitalisme de surveillance>>//."
-msgstr ""
-
 #: http://localhost/ateliers/lenseignement-de-la-programmation-en-insertion-socio-professionnelle/
 #: (content/ateliers/lenseignement-de-la-programmation-en-insertion-socio-professionnelle/contents+fr.lr:workshop.abstract)
 msgid ""
@@ -529,6 +506,13 @@ msgstr ""
 #: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
 #: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.description)
 msgid "* Les environnements des participants sont homogènes."
+msgstr ""
+
+#: http://localhost/intervenants/thierry-massart/
+#: (content/intervenants/thierry-massart/contents+fr.lr:speaker.description)
+msgid ""
+"Il est un participant actif de [educode 2018](https://2018.educode.be/) et "
+"[educode 2019](https://2019.educode.be/)."
 msgstr ""
 
 #: http://localhost/ateliers/initiation-a-la-pensee-informatique-en-primaire/
@@ -608,17 +592,9 @@ msgid ""
 "d'acteurs, femmes et hommes."
 msgstr ""
 
-#: (dynamic)
-msgid "Le carnaval des animaux"
-msgstr ""
-
 #: http://localhost/ateliers/codenplay-krings/
 #: (content/ateliers/codenplay-krings/contents+fr.lr:workshop.title)
 msgid "CodeNPlay-Directeurs"
-msgstr ""
-
-#: (dynamic)
-msgid "clarinette"
 msgstr ""
 
 #: http://localhost/ateliers/sac-a-dos-numerique-pour-lapprentissage-par-competences/
@@ -700,11 +676,11 @@ msgid ""
 "joies de la pensée computationnelle et de la programmation informatique."
 msgstr ""
 
-#: http://localhost/intervenants/rupert-meurice-de-dormale/
-#: (content/intervenants/rupert-meurice-de-dormale/contents+fr.lr:speaker.description)
+#: http://localhost/ateliers/decouvrir-le-robot-cubetto/
+#: (content/ateliers/decouvrir-le-robot-cubetto/contents+fr.lr:workshop.description)
 msgid ""
-"* Coauteur avec Philippe Dardenne d'un manuel sur l'apprentissage de la "
-"démarche scientifique (3<sup>ème</sup> Rénové) 1980;"
+"* Cubetto est un petit robot inspiré par le langage Logo et qui se programme "
+"simplement avec les mains, sans PC ni écran !"
 msgstr ""
 
 #: http://localhost/intervenants/colin-de-la-higuera/
@@ -818,10 +794,6 @@ msgstr ""
 msgid "Divers"
 msgstr ""
 
-#: (dynamic)
-msgid "violon"
-msgstr ""
-
 #: http://localhost/lieux/becentral/
 #: (content/lieux/becentral/contents+fr.lr:location.directions)
 msgid "Au dessus de la gare centrale"
@@ -931,10 +903,6 @@ msgstr ""
 msgid "Découvrir le robot Cubetto et animer un atelier dans sa classe"
 msgstr ""
 
-#: (dynamic)
-msgid "violoncelle"
-msgstr ""
-
 #: http://localhost/ (content/contents+fr.lr:page.practical_infos)
 msgid ""
 "La journée se déroulera dans les locaux de la HE2B-Defré, avenue Defré 62 à "
@@ -987,10 +955,6 @@ msgstr ""
 msgid ""
 "- Distribuez ce \"devfile\" aux participants pour qu'ils créent leur propre "
 "environnement."
-msgstr ""
-
-#: (dynamic)
-msgid "conteuse"
 msgstr ""
 
 #: http://localhost/intervenants/nicolas-pettiaux/
@@ -1103,11 +1067,11 @@ msgid ""
 "d’élèves du secondaire supérieur (15-18 ans)."
 msgstr ""
 
-#: http://localhost/ateliers/decouvrir-le-robot-cubetto/
-#: (content/ateliers/decouvrir-le-robot-cubetto/contents+fr.lr:workshop.description)
+#: http://localhost/intervenants/rupert-meurice-de-dormale/
+#: (content/intervenants/rupert-meurice-de-dormale/contents+fr.lr:speaker.description)
 msgid ""
-"* Cubetto est un petit robot inspiré par le langage Logo et qui se programme "
-"simplement avec les mains, sans PC ni écran !"
+"* Coauteur avec Philippe Dardenne d'un manuel sur l'apprentissage de la "
+"démarche scientifique (3<sup>ème</sup> Rénové) 1980;"
 msgstr ""
 
 #: http://localhost/journee-info-sans-ordi/
@@ -1131,15 +1095,15 @@ msgid ""
 "professionnels d'horizon divers."
 msgstr ""
 
-#: (dynamic)
-msgid "flûte"
-msgstr ""
-
-#: http://localhost/intervenants/thierry-massart/
-#: (content/intervenants/thierry-massart/contents+fr.lr:speaker.description)
+#: http://localhost/intervenants/erick-mascart/
+#: (content/intervenants/erick-mascart/contents+fr.lr:speaker.description)
 msgid ""
-"Il est un participant actif de [educode 2018](https://2018.educode.be/) et "
-"[educode 2019](https://2019.educode.be/)."
+"Informaticien passionné par les [outils libres](https://fr.wikipedia.org/"
+"wiki/Logiciel_libre), la préservation des ressources naturelles en "
+"minimisant le gaspillage du «hardware», les démarches qui tendent vers une "
+"forme de «sobriété numérique» et le «[Green-IT](https://www.greenit.fr/a-"
+"propos/)», les questions actuelles que soulève le numérique à propos de la "
+"vie privée ou de la consommation d'énergie."
 msgstr ""
 
 #: http://localhost/ateliers/jouer-pour-comprendre-lintelligence-artificielle/
@@ -1174,17 +1138,6 @@ msgid ""
 "d’analyse musicale et de musique de chambre. Parallèlement à sa formation "
 "musicale, Laurent Beeckmans a étudié les mathématiques à l'Université Libre "
 "de Bruxelles et à l'University of East Anglia en Angleterre."
-msgstr ""
-
-#: http://localhost/intervenants/erick-mascart/
-#: (content/intervenants/erick-mascart/contents+fr.lr:speaker.description)
-msgid ""
-"Informaticien passionné par les outils libres], la préservation des "
-"ressources naturelles en minimisant le gaspillage du <<hardware>>, les "
-"démarches qui tendent vers une forme de <<sobriété numérique>> et le "
-"<<[Green-IT](https://www.greenit.fr/a-propos/)>>, les questions actuelles "
-"que soulève le numérique à propos de la vie privée ou de la consommation "
-"d'énergie."
 msgstr ""
 
 #: http://localhost/ateliers/la-maison-des-maths-et-du-numerique/
@@ -1294,8 +1247,9 @@ msgid ""
 "l'éducation. \\ En partenariat avec The Coding Club et we are coders asbl."
 msgstr ""
 
-#: (dynamic)
-msgid "percussion"
+#: http://localhost/lieux/villebxl/
+#: (content/lieux/villebxl/contents+fr.lr:location.address)
+msgid "Grand-place, 1000 Bruxelles"
 msgstr ""
 
 #: (dynamic)
@@ -1307,21 +1261,9 @@ msgstr ""
 msgid "Premiers pas dans la programmation ludique et créative"
 msgstr ""
 
-#: (dynamic)
-msgid "Avec"
-msgstr ""
-
 #: http://localhost/intervenants/nicolas-seinlet/
 #: (content/intervenants/nicolas-seinlet/contents+fr.lr:speaker.description)
 msgid "* Contributeur sur divers projets open-source autour de PostgreSQL"
-msgstr ""
-
-#: http://localhost/intervenants/erick-mascart/
-#: (content/intervenants/erick-mascart/contents+fr.lr:speaker.description)
-msgid ""
-"Un exemple de <<futur non désirable>> que je ne souhaite pas pour nos petits-"
-"enfants est, par exemple, celui que présente le desinger Keiichi Matsuda "
-"dans son film conceptuel [Hyper-Reality](http://hyper-reality.co/)..."
 msgstr ""
 
 #: http://localhost/journee-principale/
@@ -1460,10 +1402,6 @@ msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.concert)
 msgid "[Plus d'informations...](concert)"
-msgstr ""
-
-#: (dynamic)
-msgid "Lundi 7 octobre 2019 de 19h à 23h avec cocktail dinatoire."
 msgstr ""
 
 #: http://localhost/intervenants/rupert-meurice-de-dormale/
@@ -1732,10 +1670,6 @@ msgid ""
 "* Anime des ateliers aliant science et technologie pour un public adolescent"
 msgstr ""
 
-#: (dynamic)
-msgid "piano"
-msgstr ""
-
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "- Eric Robette (HE2B-Defré, maître-assistant)"
@@ -1751,10 +1685,6 @@ msgstr ""
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "- Alexia Pasini (HE2B, co-présidente)"
-msgstr ""
-
-#: (dynamic)
-msgid "de"
 msgstr ""
 
 #: http://localhost/ateliers/la-maison-des-maths-et-du-numerique/
@@ -2163,9 +2093,14 @@ msgstr ""
 msgid "Christine Lefèvre est"
 msgstr ""
 
-#: http://localhost/lieux/villebxl/
-#: (content/lieux/villebxl/contents+fr.lr:location.address)
-msgid "Grand-place, 1000 Bruxelles"
+#: http://localhost/intervenants/erick-mascart/
+#: (content/intervenants/erick-mascart/contents+fr.lr:speaker.description)
+msgid ""
+"Je travaille au niveau local pour que l'appropriation «consciente» des "
+"outils numériques et de leurs enjeux par tout un chacun dès le plus jeune "
+"âge permette de construire un futur dans lequel le numérique sera vecteur de "
+"partage des savoirs et d'émancipation plutôt que d'asservissement à ce qu'il "
+"convient d'appeler le «capitalisme de surveillance»."
 msgstr ""
 
 #: http://localhost/ateliers/sexperiences-en-education-avec-en-logiciel-libre/
@@ -2226,9 +2161,9 @@ msgstr ""
 msgid "- Françoise Bols (HE2B-Nivelles, chargé de cours)"
 msgstr ""
 
-#: (dynamic) http://localhost/dons/
-#: (content/dons/contents+fr.lr:details-program.date)
-msgid "Dons"
+#: http://localhost/intervenants/nathalie-kuborn/
+#: (content/intervenants/nathalie-kuborn/contents+fr.lr:speaker.description)
+msgid "* Leading Teacher in Belgium EU Code Week"
 msgstr ""
 
 #: http://localhost/intervenants/dimitri-krings/
@@ -2236,6 +2171,10 @@ msgstr ""
 #: http://localhost/intervenants/gregoire-fischer/
 #: (content/intervenants/gregoire-fischer/contents+fr.lr:speaker.description)
 msgid "* Formation et soutien de professeurs"
+msgstr ""
+
+#: (dynamic)
+msgid "Concert"
 msgstr ""
 
 #: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
@@ -2313,22 +2252,6 @@ msgstr ""
 #: (content/ateliers/sac-a-dos-numerique-pour-lapprentissage-par-competences/contents+fr.lr:workshop.title)
 #: (content/ateliers/sac-a-dos-numerique-pour-lapprentissage-par-competences/contents+fr.lr:workshop.abstract)
 msgid "Sac à dos numérique pour l'apprentissage par compétences"
-msgstr ""
-
-#: http://localhost/intervenants/pascal-arnoux/
-#: (content/intervenants/pascal-arnoux/contents+fr.lr:speaker.description)
-msgid ""
-"[Montpel'libre)(https://montpellibre.fr/) est un Groupe d’Utilisateurs GNU/"
-"Linux et Logiciels Libres qui promeut les logiciels libres, la culture libre "
-"et les biens communs.Notre association se situe à la jonction des secteurs "
-"d’activités du numérique, des industries créatives, de l’économie sociale et "
-"solidaire, du développement durable, de la recherche et formation ainsi que "
-"de l’éducation populaire. Elle s’adresse à l’informaticien comme au "
-"néophyte, au particulier comme au professionnel ou à l’étudiant et à un "
-"public de tout âge. Montpel’libre exerce des activités multiples autour de "
-"six pôles : 1 – Permanences 2 – Ateliers 3 – Conférences / Formations / "
-"Expertise 4 – Événements 5 – Technique / Sécurité 6 - Publication. Et de "
-"plusieurs communautés et groupes de travail."
 msgstr ""
 
 #: http://localhost/ateliers/de-la-tortue-logo-au-chat-scratch/
@@ -2628,10 +2551,6 @@ msgstr ""
 #: http://localhost/lieux/he2b-defre/
 #: (content/lieux/he2b-defre/contents+fr.lr:location.address)
 msgid "Avenue Defré 62 à 1180 Bruxelles (Uccle)"
-msgstr ""
-
-#: (dynamic)
-msgid "Concert festif exceptionnel"
 msgstr ""
 
 #: http://localhost/ateliers/un-boitier-de-mesure-pour-les-sciences-experimentales/
@@ -2939,10 +2858,6 @@ msgid ""
 "des Centres cybermédia par la Région wallonne 1998-1999;"
 msgstr ""
 
-#: (dynamic)
-msgid "Conférence de Gille Dowek"
-msgstr ""
-
 #: http://localhost/ (content/contents+fr.lr:page.s_expo)
 msgid "Exposition"
 msgstr ""
@@ -3081,6 +2996,22 @@ msgid ""
 "be)"
 msgstr ""
 
+#: http://localhost/intervenants/pascal-arnoux/
+#: (content/intervenants/pascal-arnoux/contents+fr.lr:speaker.description)
+msgid ""
+"[Montpel'libre](https://montpellibre.fr/) est un Groupe d’Utilisateurs GNU/"
+"Linux et Logiciels Libres qui promeut les logiciels libres, la culture libre "
+"et les biens communs.Notre association se situe à la jonction des secteurs "
+"d’activités du numérique, des industries créatives, de l’économie sociale et "
+"solidaire, du développement durable, de la recherche et formation ainsi que "
+"de l’éducation populaire. Elle s’adresse à l’informaticien comme au "
+"néophyte, au particulier comme au professionnel ou à l’étudiant et à un "
+"public de tout âge. Montpel’libre exerce des activités multiples autour de "
+"six pôles : 1 – Permanences 2 – Ateliers 3 – Conférences / Formations / "
+"Expertise 4 – Événements 5 – Technique / Sécurité 6 - Publication. Et de "
+"plusieurs communautés et groupes de travail."
+msgstr ""
+
 #: http://localhost/lieux/villebxl/
 #: (content/lieux/villebxl/contents+fr.lr:location.name)
 msgid "Salle gothique de l'hôtel de ville de Bruxelles"
@@ -3098,10 +3029,6 @@ msgstr ""
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "- Dr Nicolas Pettiaux (ESI-HE2B & ULB-Lisa, maître-assistant)"
-msgstr ""
-
-#: (dynamic)
-msgid "Cocktail dinatoire"
 msgstr ""
 
 #: http://localhost/ateliers/des-robots-des-la-maternelle/
@@ -3269,6 +3196,14 @@ msgid ""
 "modifier ou de créer les leurs."
 msgstr ""
 
+#: http://localhost/intervenants/erick-mascart/
+#: (content/intervenants/erick-mascart/contents+fr.lr:speaker.description)
+msgid ""
+"Un exemple de «futur non désirable» que je ne souhaite pas pour nos petits-"
+"enfants est, par exemple, celui que présente le desinger Keiichi Matsuda "
+"dans son film conceptuel [Hyper-Reality](http://hyper-reality.co/)…"
+msgstr ""
+
 #: http://localhost/ (content/contents+fr.lr:page.partners_about)
 msgid "Beaucoup participent à l'exposition ."
 msgstr ""
@@ -3302,6 +3237,75 @@ msgid ""
 "aider@educode.be?subject=Aider educode&body=Je souhaite aider educode)."
 msgstr ""
 
+#: templates/concert.html:12
+msgid "Concert festif exceptionnel"
+msgstr ""
+
+#: templates/concert.html:14
+msgid ""
+"Dans la salle gothique de l'hôtel de ville de Bruxelles, à la Grand-Place."
+msgstr ""
+
+#: templates/concert.html:14
+msgid "Lundi 7 octobre 2019 de 19h à 23h avec cocktail dinatoire."
+msgstr ""
+
+#: templates/concert.html:19
+msgid "Conférence de Gille Dowek"
+msgstr ""
+
+#: templates/concert.html:26
+msgid "Le carnaval des animaux"
+msgstr ""
+
+#: templates/concert.html:27
+msgid "de"
+msgstr ""
+
+#: templates/concert.html:29
+msgid "Avec"
+msgstr ""
+
+#: templates/concert.html:31
+msgid "flûte"
+msgstr ""
+
+#: templates/concert.html:32
+msgid "clarinette"
+msgstr ""
+
+#: templates/concert.html:33 templates/concert.html:34
+msgid "violon"
+msgstr ""
+
+#: templates/concert.html:35
+msgid "alto"
+msgstr ""
+
+#: templates/concert.html:36
+msgid "violoncelle"
+msgstr ""
+
+#: templates/concert.html:37
+msgid "contrebasse"
+msgstr ""
+
+#: templates/concert.html:38 templates/concert.html:39
+msgid "piano"
+msgstr ""
+
+#: templates/concert.html:40
+msgid "percussion"
+msgstr ""
+
+#: templates/concert.html:41
+msgid "conteuse"
+msgstr ""
+
+#: templates/concert.html:46
+msgid "Cocktail dinatoire"
+msgstr ""
+
 #: templates/page.html:61
 msgid "Voir les ateliers"
 msgstr ""
@@ -3316,8 +3320,4 @@ msgstr ""
 
 #: templates/page.html:221
 msgid "S'inscrire"
-msgstr ""
-
-#: templates/speaker.html:75
-msgid "Concert"
 msgstr ""
