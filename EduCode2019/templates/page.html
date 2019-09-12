@@ -248,16 +248,20 @@
                                         data-aos="zoom-in-down">
 
                                             {% set pictures = lieu.attachments %}
+                                            <!-- Card image -->
                                             {% if pictures %}
                                                 {% set lieu_picture = pictures | first %}
-                                                <!-- Card image -->
                                                 <img class="card-img-top" src="{{ lieu_picture | url }}" 
                                                     onclick="location.href = '{{ lieu.url_path | url }}'" 
                                                     style="width: 100%;
                                                     height: 10vw;
                                                     object-fit: cover">
-
-
+                                            {% else %}
+                                                <img class="card-img-top" src="{{ '/imgs/location.svg' }}" 
+                                                    onclick="location.href = '{{ lieu.url_path | url }}'" 
+                                                    style="width: 100%;
+                                                    height: 10vw;
+                                                    object-fit: cover">
                                             {% endif %}
 
                                             <!-- Card content -->
@@ -280,53 +284,6 @@
                     </div>
                     </div>
                     <div class="container">
-                        <div class="row">
-                            {{ this.practical_infos_hostels }}
-
-                            <!-- On récupère tous les hôtels -->
-                            <!-- Je mets en commentaire le code ci-dessous au lieu de l'effacer
-                             au cas où je doive le réintégrer.
-                        {% if lieux %}
-                            {% for lieu in lieux %}
-                                {% if lieu.type_location == 'Hôtel' %}
-                                    <div class="col-12 col-sm-4 col-md-3 location text-center">
-                                        <!-- picture -->
-                                {% set pictures = lieu.attachments %}
-                                {% if pictures %}
-                                    {% set lieu_picture = pictures | first %}
-                                    <div class="location-picture"
-                                         data-aos="zoom-in-down"
-                                         style="background: url('{{ lieu_picture | url }}') no-repeat center center;
-                                                 height: 150px;
-                                                 -webkit-background-size: cover;
-                                                 background-size: cover;"
-                                         onclick="location.href = '{{ lieu.url_path | url }}'">
-                                    </div>
-                                {% else %}
-                                    <div class="location-picture" data-aos="zoom-in-down">
-                                        <a href="{{ lieu.url_path | url }}">
-                                            <img src="{{ '/imgs/location.svg' }}" alt="">
-                                        </a>
-                                    </div>
-                                {% endif %}
-
-                                <!-- description -->
-                                <h4 class="background-color-darker-yellow color-white p-1 mt-1 text-center">
-                                    <strong>{{ lieu.name }}</strong></h4>
-                                <p class="color-dark">{{ lieu.address }}</p>
-                                {% if lieu.code_promo %}
-                                    <a href="{{ lieu.url_path | url }}" class="btn btn-warning"><i
-                                            class="fa fa-gift"></i> CODE PROMO</a>
-                                    <br>
-                                {% endif %}
-                                <a href="{{ lieu.url_path | url }}"
-                                   class="btn mt-1 btn-warning">{{ this.s_more_infos }}</a>
-                                </div>
-                            {% endif %}
-                            {% endfor %}
-                            {% endif %}
-                        -->
-                    </div>
                 </div>
                 <hr>
                 <h4 class="text-center" style='font-family: "Unica One", "Roboto Slab", serif; font-size: 2rem;'>
