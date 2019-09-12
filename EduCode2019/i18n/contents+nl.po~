@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: educode\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-12 08:34+CET\n"
+"POT-Creation-Date: 2019-09-12 08:47+CET\n"
 "PO-Revision-Date: 2019-09-11 10:03\n"
 "Last-Translator: npettiaux\n"
 "Language-Team: Flemish\n"
@@ -16,7 +16,7 @@ msgstr ""
 "X-Crowdin-Language: vls-BE\n"
 "X-Crowdin-File: educode2019.pot\n"
 
-#: (dynamic) http://localhost/ (content/contents+fr.lr:page.s_overview_program)
+#: http://localhost/ (content/contents+fr.lr:page.s_overview_program) (dynamic)
 msgid "Aperçu du programme"
 msgstr "Programma overzicht"
 
@@ -67,6 +67,13 @@ msgstr ""
 "..* Het is mogelijk om een account voor zijn klas aan te maken waar elke "
 "student verbinding mee kan maken."
 
+#: http://localhost/concert-festif-avant-premiere/
+#: (content/concert-festif-avant-premiere/contents+fr.lr:details-program.description)
+msgid ""
+"[Cliquez ici](../concert) pour plus d'informations sur la représentation."
+msgstr ""
+"[Klik hier](../concert) voor meer informatie over de vertegenwoordiging."
+
 #: http://localhost/ (content/contents+fr.lr:page.s_sunday)
 msgid "Dimanche"
 msgstr "Zondag"
@@ -76,11 +83,6 @@ msgstr "Zondag"
 msgid ""
 "* Responsable de l'asbl [PaixActive.org](http://paixactive.org) depuis 2001;"
 msgstr ""
-
-#: http://localhost/lieux/becentral/
-#: (content/lieux/becentral/contents+fr.lr:location.address)
-msgid "Gare centrale, 1000 Bruxelles"
-msgstr "Centraal Station, 1000 Brussel"
 
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
@@ -96,8 +98,6 @@ msgstr ""
 msgid "* Les participants sont opérationnels en un clic."
 msgstr "* De deelnemers zijn operationeel in één klik."
 
-#: http://localhost/ateliers/decouvrir-la-robot-cubetto/
-#: (content/ateliers/decouvrir-la-robot-cubetto/contents+fr.lr:workshop.description)
 #: http://localhost/ateliers/decouvrir-le-robot-cubetto/
 #: (content/ateliers/decouvrir-le-robot-cubetto/contents+fr.lr:workshop.description)
 msgid "**Idéal pour travailler la spatialisation**"
@@ -202,8 +202,6 @@ msgid ""
 "primaires"
 msgstr "Digitaal onderwijs: een praktische aanpak voor primaire directeuren"
 
-#: http://localhost/ateliers/decouvrir-la-robot-cubetto/
-#: (content/ateliers/decouvrir-la-robot-cubetto/contents+fr.lr:workshop.description)
 #: http://localhost/ateliers/decouvrir-le-robot-cubetto/
 #: (content/ateliers/decouvrir-le-robot-cubetto/contents+fr.lr:workshop.description)
 msgid ""
@@ -234,6 +232,16 @@ msgstr "In de gotische hal van het stadhuis van Brussel op de Grote Markt."
 msgid ""
 "* Techno-pédagogue chez [Forsud](https://www.forsud.be/), elle adore "
 "partager ses trouvailles et son expérience avec ses collègues instituteurs."
+msgstr ""
+
+#: http://localhost/journee-info-sans-ordi/
+#: (content/journee-info-sans-ordi/contents+fr.lr:details-program.description)
+msgid ""
+"Durant cette journée, vous pourrez participer à une journée spéciale de "
+"formation et discussion autour des l'**informatique débranchée**, en "
+"particulier en maternelle, primaire et secondaire au premier cycle. Des "
+"ateliers pratiques, des échanges conviviaux, pour une cinquantaine de "
+"personnes maximum."
 msgstr ""
 
 #: http://localhost/journee-info-sans-ordi/
@@ -343,10 +351,12 @@ msgstr ""
 msgid "[Plus d'informations...](concert-festif-avant-premiere)"
 msgstr "[Meer informatie...](concert-festif-avant-premiere)"
 
-#: http://localhost/ateliers/apprendre-a-souder/
-#: (content/ateliers/apprendre-a-souder/contents+fr.lr:workshop.title)
-msgid "Apprendre à souder son premier circuit électronique"
-msgstr "Leer hoe u uw eerste elektronische circuit kunt solderen"
+#: http://localhost/intervenants/thierry-massart/
+#: (content/intervenants/thierry-massart/contents+fr.lr:speaker.description)
+msgid ""
+"Avec Sébastien Hoarau et Isabelle Poirier, il a développé un MOOC pour "
+"l'enseignement de python en secondaire"
+msgstr ""
 
 #: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
 #: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.description)
@@ -539,8 +549,6 @@ msgstr ""
 msgid "#Activités"
 msgstr "#Activiteiten"
 
-#: http://localhost/ateliers/decouvrir-la-robot-cubetto/
-#: (content/ateliers/decouvrir-la-robot-cubetto/contents+fr.lr:workshop.description)
 #: http://localhost/ateliers/decouvrir-le-robot-cubetto/
 #: (content/ateliers/decouvrir-le-robot-cubetto/contents+fr.lr:workshop.description)
 msgid ""
@@ -604,7 +612,7 @@ msgstr ""
 "De organisatie van deze conferentie is in wezen vrijwillig. Elk geschenk is "
 "welkom."
 
-#: (dynamic) http://localhost/ (content/contents+fr.lr:page.s_program)
+#: http://localhost/ (content/contents+fr.lr:page.s_program) (dynamic)
 msgid "Programme"
 msgstr "Programma"
 
@@ -745,6 +753,10 @@ msgstr "Het carnaval van dieren"
 msgid "CodeNPlay-Directeurs"
 msgstr "CodeNPlay-Bestuurders"
 
+#: (dynamic)
+msgid "clarinette"
+msgstr "klarinet"
+
 #: http://localhost/ateliers/sac-a-dos-numerique-pour-lapprentissage-par-competences/
 #: (content/ateliers/sac-a-dos-numerique-pour-lapprentissage-par-competences/contents+fr.lr:workshop.description)
 msgid ""
@@ -768,8 +780,8 @@ msgstr ""
 msgid "Compétences :"
 msgstr "Vaardigheden:"
 
-#: http://localhost/ateliers/decouvrir-la-robot-cubetto/
-#: (content/ateliers/decouvrir-la-robot-cubetto/contents+fr.lr:workshop.language)
+#: http://localhost/ateliers/decouvrir-le-robot-cubetto/
+#: (content/ateliers/decouvrir-le-robot-cubetto/contents+fr.lr:workshop.language)
 #: http://localhost/ateliers/sac-a-dos-numerique-pour-lapprentissage-par-competences/
 #: (content/ateliers/sac-a-dos-numerique-pour-lapprentissage-par-competences/contents+fr.lr:workshop.language)
 #: http://localhost/ateliers/apprendre-a-souder/
@@ -816,8 +828,6 @@ msgstr "Vaardigheden:"
 #: (content/ateliers/de-la-tortue-logo-au-chat-scratch/contents+fr.lr:workshop.language)
 #: http://localhost/ateliers/sexperiences-en-education-avec-en-logiciel-libre/
 #: (content/ateliers/sexperiences-en-education-avec-en-logiciel-libre/contents+fr.lr:workshop.language)
-#: http://localhost/ateliers/decouvrir-le-robot-cubetto/
-#: (content/ateliers/decouvrir-le-robot-cubetto/contents+fr.lr:workshop.language)
 msgid "fr"
 msgstr "fr"
 
@@ -859,16 +869,6 @@ msgstr "Een USB-stick om les te geven met een gratis systeem"
 msgid "mai"
 msgstr "mei"
 
-#: http://localhost/intervenants/nicolas-seinlet/
-#: (content/intervenants/nicolas-seinlet/contents+fr.lr:speaker.description)
-msgid ""
-"Développeur de logiciels de gestions depuis près de 20 ans et père de "
-"plusieurs enfants, sans aucune expérience dans l'éducation, mais convaincu "
-"des bienfaits de l'apprentissage de la programmation aux enfants…"
-msgstr ""
-
-#: http://localhost/ateliers/decouvrir-la-robot-cubetto/
-#: (content/ateliers/decouvrir-la-robot-cubetto/contents+fr.lr:workshop.description)
 #: http://localhost/ateliers/decouvrir-le-robot-cubetto/
 #: (content/ateliers/decouvrir-le-robot-cubetto/contents+fr.lr:workshop.description)
 msgid "* Le Cubetto, petit robot en bois, en est le digne héritier."
@@ -1033,6 +1033,14 @@ msgstr ""
 "* _Voulez-vous jouer avec les maths ?_, Paris, Édition Le Pommier, coll. « "
 "Les petites pommes du savoir », 2002"
 
+#: http://localhost/ (content/contents+fr.lr:page.about)
+msgid ""
+"En particulier, vous pouvez faire des dons <script src=\"https://liberapay."
+"com/npettiaux/widgets/button.js\"></script>"
+msgstr ""
+"In het bijzonder kunt u doneren <script src=\"https://liberapay.com/"
+"npettiaux/widgets/button.js\"> </script>"
+
 #: http://localhost/ateliers/de-la-tortue-logo-au-chat-scratch/
 #: (content/ateliers/de-la-tortue-logo-au-chat-scratch/contents+fr.lr:workshop.description)
 msgid ""
@@ -1102,8 +1110,6 @@ msgstr ""
 "Eclipse Che kan elke taal ondersteunen die kan worden uitgedrukt als "
 "containers en kan worden uitgevoerd op een Kubernetes-orkestrator."
 
-#: http://localhost/ateliers/decouvrir-la-robot-cubetto/
-#: (content/ateliers/decouvrir-la-robot-cubetto/contents+fr.lr:workshop.abstract)
 #: http://localhost/ateliers/decouvrir-le-robot-cubetto/
 #: (content/ateliers/decouvrir-le-robot-cubetto/contents+fr.lr:workshop.abstract)
 msgid "Découvrir le robot Cubetto et animer un atelier dans sa classe"
@@ -1156,6 +1162,11 @@ msgstr ""
 msgid "[Plus d'informations...](journee-principale)"
 msgstr "[Meer informatie...](journee-principale)"
 
+#: http://localhost/journee-info-sans-ordi/
+#: (content/journee-info-sans-ordi/contents+fr.lr:details-program.date)
+msgid "28 septembre 2019 (annulé)"
+msgstr ""
+
 #: http://localhost/ (content/contents+fr.lr:page.s_press)
 msgid "Presse"
 msgstr "Press"
@@ -1194,6 +1205,13 @@ msgstr ""
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "- Erick Mascart"
 msgstr "- Erick Mascart"
+
+#: http://localhost/ (content/contents+fr.lr:page.journee_sans_ordi)
+msgid ""
+"Pour des raisons indépendantes de notre volonté, la journée du [28 septembre]"
+"(journee-info-sans-ordi) ne sera pas organisée. Nous serons heureux de vous "
+"recevoir le [27 septembre](journee-principale)."
+msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.concert)
 msgid ""
@@ -1257,8 +1275,6 @@ msgstr ""
 "De conferentie is **gratis** voor Franstalige leraren die lid zijn van de "
 "educode-vereniging."
 
-#: http://localhost/ateliers/decouvrir-la-robot-cubetto/
-#: (content/ateliers/decouvrir-la-robot-cubetto/contents+fr.lr:workshop.description)
 #: http://localhost/ateliers/decouvrir-le-robot-cubetto/
 #: (content/ateliers/decouvrir-le-robot-cubetto/contents+fr.lr:workshop.description)
 msgid ""
@@ -1314,8 +1330,6 @@ msgstr ""
 "geven van een complete introductiecursus programmeren voor een publiek van "
 "studenten op de middelbare school (15-18 jaar oud)."
 
-#: http://localhost/ateliers/decouvrir-la-robot-cubetto/
-#: (content/ateliers/decouvrir-la-robot-cubetto/contents+fr.lr:workshop.description)
 #: http://localhost/ateliers/decouvrir-le-robot-cubetto/
 #: (content/ateliers/decouvrir-le-robot-cubetto/contents+fr.lr:workshop.description)
 msgid ""
@@ -1324,6 +1338,11 @@ msgid ""
 msgstr ""
 "* Cubetto is een kleine robot geïnspireerd op het taallogo en die eenvoudig "
 "met de handen wordt geprogrammeerd, zonder pc of scherm!"
+
+#: http://localhost/journee-info-sans-ordi/
+#: (content/journee-info-sans-ordi/contents+fr.lr:details-program.description)
+msgid "**Qu'est ce qu'est la Journée sans ordi**"
+msgstr ""
 
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
@@ -1548,9 +1567,13 @@ msgstr ""
 msgid "percussion"
 msgstr "percussie"
 
-#: (dynamic)
-msgid "Journée info sans ordi"
-msgstr "Infodag zonder computer"
+#: http://localhost/intervenants/nicolas-seinlet/
+#: (content/intervenants/nicolas-seinlet/contents+fr.lr:speaker.description)
+msgid ""
+"Développeur de logiciels de gestions depuis près de 20 ans et père de "
+"plusieurs enfants, sans aucune expérience dans l'éducation, mais convaincu "
+"des bienfaits de l'apprentissage de la programmation aux enfants…"
+msgstr ""
 
 #: http://localhost/ateliers/premiers-pas-dans-la-programmation-ludique-et-creative/
 #: (content/ateliers/premiers-pas-dans-la-programmation-ludique-et-creative/contents+fr.lr:workshop.title)
@@ -1609,8 +1632,6 @@ msgstr ""
 "maar ook beperkingen met betrekking tot tijd en het publiek, en de "
 "institutionele stijl van de ISP."
 
-#: http://localhost/ateliers/decouvrir-la-robot-cubetto/
-#: (content/ateliers/decouvrir-la-robot-cubetto/contents+fr.lr:workshop.description)
 #: http://localhost/ateliers/decouvrir-le-robot-cubetto/
 #: (content/ateliers/decouvrir-le-robot-cubetto/contents+fr.lr:workshop.description)
 msgid ""
@@ -1847,6 +1868,10 @@ msgstr ""
 "van ieders werkomgeving, in plaats van meteen met de eigenlijke inhoud van "
 "de training te beginnen."
 
+#: (dynamic)
+msgid "Journée info sans ordi (annulé)"
+msgstr ""
+
 #: http://localhost/ (content/contents+fr.lr:page.s_wednesday)
 msgid "Mercredi"
 msgstr "Woensdag"
@@ -1883,7 +1908,7 @@ msgstr ""
 msgid "* Anime des ateliers dans le cadre scolaire et parascolaire"
 msgstr ""
 
-#: (dynamic) http://localhost/ (content/contents+fr.lr:page.s_propose_atelier)
+#: http://localhost/ (content/contents+fr.lr:page.s_propose_atelier) (dynamic)
 msgid "Proposer un atelier"
 msgstr "Stel een workshop voor"
 
@@ -1929,9 +1954,14 @@ msgstr ""
 "toepassingen, wie kan deelnemen, wat zijn de doelstellingen? Kom en neem "
 "deel aan deze presentatie om erachter te komen."
 
-#: (dynamic)
-msgid "clarinette"
-msgstr "klarinet"
+#: http://localhost/intervenants/colin-de-la-higuera/
+#: (content/intervenants/colin-de-la-higuera/contents+fr.lr:speaker.description)
+msgid ""
+"-   Member of the [LS2N](https://ls2n.fr/) at [Nantes University](http://www."
+"univ-nantes.fr/) in [Nantes](http://www.nantes.fr/), France."
+msgstr ""
+"- Lid van de [LS2N](https://ls2n.fr/) aan [Nantes University](http://www."
+"univ-nantes.fr/) in [Nantes](http://www.nantes.fr /), Frankrijk."
 
 #: http://localhost/ateliers/apprendre-a-souder/
 #: (content/ateliers/apprendre-a-souder/contents+fr.lr:workshop.description)
@@ -2027,8 +2057,6 @@ msgstr ""
 "De meeste inhoud is afkomstig van de homepage van [Colin de la Higuera]"
 "(http://pagesperso.lina.univ-nantes.fr/~cdlh/)"
 
-#: http://localhost/ateliers/decouvrir-la-robot-cubetto/
-#: (content/ateliers/decouvrir-la-robot-cubetto/contents+fr.lr:workshop.description)
 #: http://localhost/ateliers/decouvrir-le-robot-cubetto/
 #: (content/ateliers/decouvrir-le-robot-cubetto/contents+fr.lr:workshop.description)
 msgid "* Vous vous souvenez de la « tortue graphique logo » ?"
@@ -2351,20 +2379,18 @@ msgstr ""
 "Hoe **wekken passie** en **enthousiasme** rond **leren** en vooral "
 "**wiskunde**?"
 
-#: http://localhost/ (content/contents+fr.lr:page.about)
+#: http://localhost/ateliers/apprendre-a-souder/
+#: (content/ateliers/apprendre-a-souder/contents+fr.lr:workshop.description)
 msgid ""
-"En particulier, vous pouvez faire des dons <script src=\"https://liberapay."
-"com/npettiaux/widgets/button.js\"></script>"
+"* Apprendre à manipuler un fer à souder (froid, chaud, température, "
+"protection)"
 msgstr ""
-"In het bijzonder kunt u doneren <script src=\"https://liberapay.com/"
-"npettiaux/widgets/button.js\"> </script>"
+"* Leer omgaan met een soldeerbout (koud, warm, temperatuur, bescherming)"
 
-#: http://localhost/concert-festif-avant-premiere/
-#: (content/concert-festif-avant-premiere/contents+fr.lr:details-program.description)
-msgid ""
-"[Cliquez ici](../concert) pour plus d'informations sur la représentation."
-msgstr ""
-"[Klik hier](../concert) voor meer informatie over de vertegenwoordiging."
+#: http://localhost/lieux/becentral/
+#: (content/lieux/becentral/contents+fr.lr:location.address)
+msgid "Gare centrale, 1000 Bruxelles"
+msgstr "Centraal Station, 1000 Brussel"
 
 #: http://localhost/intervenants/nicolas-seinlet/
 #: (content/intervenants/nicolas-seinlet/contents+fr.lr:speaker.description)
@@ -2422,8 +2448,8 @@ msgstr ""
 "===== De oplossing van Eclipse Che: reproduceerbaarheid van "
 "ontwikkelomgevingen ====="
 
-#: http://localhost/ateliers/decouvrir-la-robot-cubetto/
-#: (content/ateliers/decouvrir-la-robot-cubetto/contents+fr.lr:workshop.tag)
+#: http://localhost/ateliers/decouvrir-le-robot-cubetto/
+#: (content/ateliers/decouvrir-le-robot-cubetto/contents+fr.lr:workshop.tag)
 #: http://localhost/ateliers/sac-a-dos-numerique-pour-lapprentissage-par-competences/
 #: (content/ateliers/sac-a-dos-numerique-pour-lapprentissage-par-competences/contents+fr.lr:workshop.tag)
 #: http://localhost/ateliers/decouverte-des-learningapps/
@@ -2450,8 +2476,6 @@ msgstr ""
 #: (content/ateliers/de-la-tortue-logo-au-chat-scratch/contents+fr.lr:workshop.tag)
 #: http://localhost/ateliers/sexperiences-en-education-avec-en-logiciel-libre/
 #: (content/ateliers/sexperiences-en-education-avec-en-logiciel-libre/contents+fr.lr:workshop.tag)
-#: http://localhost/ateliers/decouvrir-le-robot-cubetto/
-#: (content/ateliers/decouvrir-le-robot-cubetto/contents+fr.lr:workshop.tag)
 msgid "tous"
 msgstr "alle"
 
@@ -2626,13 +2650,9 @@ msgstr ""
 "ervaring te beleven, namelijk dat je echt begint met je training om deze "
 "cursus te geven en die van de studenten in een leersituatie."
 
-#: http://localhost/ateliers/apprendre-a-souder/
-#: (content/ateliers/apprendre-a-souder/contents+fr.lr:workshop.description)
-msgid ""
-"* Apprendre à manipuler un fer à souder (froid, chaud, température, "
-"protection)"
-msgstr ""
-"* Leer omgaan met een soldeerbout (koud, warm, temperatuur, bescherming)"
+#: (dynamic)
+msgid "Journée info sans ordi"
+msgstr "Infodag zonder computer"
 
 #: http://localhost/intervenants/marie-duflot-kremer/
 #: (content/intervenants/marie-duflot-kremer/contents+fr.lr:speaker.description)
@@ -2656,8 +2676,8 @@ msgstr ""
 msgid "- Françoise Bols (HE2B-Nivelles, chargé de cours)"
 msgstr "- Françoise Bols (HE2B-Nivelles, lector)"
 
-#: (dynamic) http://localhost/dons/
-#: (content/dons/contents+fr.lr:details-program.date)
+#: http://localhost/dons/ (content/dons/contents+fr.lr:details-program.date)
+#: (dynamic)
 msgid "Dons"
 msgstr "Donaties"
 
@@ -2677,12 +2697,10 @@ msgstr "Concert"
 msgid "===== Quels sont les environnements sont supportés? ====="
 msgstr "===== Welke omgevingen worden ondersteund? ====="
 
-#: http://localhost/intervenants/thierry-massart/
-#: (content/intervenants/thierry-massart/contents+fr.lr:speaker.description)
-msgid ""
-"Avec Sébastien Hoarau et Isabelle Poirier, il a développé un MOOC pour "
-"l'enseignement de python en secondaire"
-msgstr ""
+#: http://localhost/ateliers/apprendre-a-souder/
+#: (content/ateliers/apprendre-a-souder/contents+fr.lr:workshop.title)
+msgid "Apprendre à souder son premier circuit électronique"
+msgstr "Leer hoe u uw eerste elektronische circuit kunt solderen"
 
 #: http://localhost/intervenants/nathalie-kuborn/
 #: (content/intervenants/nathalie-kuborn/contents+fr.lr:speaker.description)
@@ -2694,8 +2712,6 @@ msgstr ""
 msgid "Cellule 133a"
 msgstr "Cellule 133a"
 
-#: http://localhost/ateliers/decouvrir-la-robot-cubetto/
-#: (content/ateliers/decouvrir-la-robot-cubetto/contents+fr.lr:workshop.title)
 #: http://localhost/ateliers/decouvrir-le-robot-cubetto/
 #: (content/ateliers/decouvrir-le-robot-cubetto/contents+fr.lr:workshop.title)
 msgid "Découvrir le robot Cubetto"
@@ -2733,6 +2749,13 @@ msgstr ""
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "</div>"
 msgstr "</div>"
+
+#: http://localhost/ (content/contents+fr.lr:page.journee_sans_ordi)
+msgid ""
+"Pour des raisons indépendantes de notre volonté, la journée du 28 septembre "
+"ne sera pas organisée. Nous serons heureux de vous recevoir le [27 septembre]"
+"(journee-principale)."
+msgstr ""
 
 #: http://localhost/lieux/cellule133a/
 #: (content/lieux/cellule133a/contents+fr.lr:location.address)
@@ -2934,11 +2957,6 @@ msgid ""
 "Formation (DES-TEF) UNamur et ULiège 2003;"
 msgstr ""
 
-#: http://localhost/ateliers/decouvrir-la-robot-cubetto/
-#: (content/ateliers/decouvrir-la-robot-cubetto/contents+fr.lr:workshop.title)
-msgid "Découvrir la robot Cubetto"
-msgstr "Ontdek de Cubetto-robot"
-
 #: http://localhost/ateliers/apprendre-a-souder/
 #: (content/ateliers/apprendre-a-souder/contents+fr.lr:workshop.abstract)
 msgid ""
@@ -3069,8 +3087,6 @@ msgstr ""
 "Een van de sterke punten van Che is het waarborgen van de "
 "reproduceerbaarheid van een omgeving."
 
-#: http://localhost/ateliers/decouvrir-la-robot-cubetto/
-#: (content/ateliers/decouvrir-la-robot-cubetto/contents+fr.lr:workshop.description)
 #: http://localhost/ateliers/decouvrir-le-robot-cubetto/
 #: (content/ateliers/decouvrir-le-robot-cubetto/contents+fr.lr:workshop.description)
 msgid ""
@@ -3216,8 +3232,6 @@ msgid ""
 "Fablab)"
 msgstr ""
 
-#: http://localhost/ateliers/decouvrir-la-robot-cubetto/
-#: (content/ateliers/decouvrir-la-robot-cubetto/contents+fr.lr:workshop.description)
 #: http://localhost/ateliers/decouvrir-le-robot-cubetto/
 #: (content/ateliers/decouvrir-le-robot-cubetto/contents+fr.lr:workshop.description)
 msgid ""
@@ -3250,11 +3264,6 @@ msgid ""
 msgstr ""
 ".. * Oefeningen kunnen op volledig scherm worden uitgevoerd (geen storende "
 "elementen)."
-
-#: http://localhost/ateliers/decouvrir-la-robot-cubetto/
-#: (content/ateliers/decouvrir-la-robot-cubetto/contents+fr.lr:workshop.abstract)
-msgid "Découvrir la robot Cubetto et animer un atelier dans sa classe"
-msgstr "Ontdek de Cubetto-robot en animeer een workshop in zijn klasse"
 
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
@@ -3355,8 +3364,6 @@ msgstr "primair"
 msgid "Une éducation de qualité : l’ODD4 questionné par le numérique"
 msgstr "Kwaliteitseducatie: de SDGs in twijfel getrokken door de digitale"
 
-#: http://localhost/ateliers/decouvrir-la-robot-cubetto/
-#: (content/ateliers/decouvrir-la-robot-cubetto/contents+fr.lr:workshop.description)
 #: http://localhost/ateliers/decouvrir-le-robot-cubetto/
 #: (content/ateliers/decouvrir-le-robot-cubetto/contents+fr.lr:workshop.description)
 msgid "**Destiné aux enfants dès 3 ans**"
@@ -3502,8 +3509,6 @@ msgstr ""
 "Een omgeving die geschikt is voor uw behoeften kan worden beschreven in een "
 "YAML-bestand met de naam \"devfile\"."
 
-#: http://localhost/ateliers/decouvrir-la-robot-cubetto/
-#: (content/ateliers/decouvrir-la-robot-cubetto/contents+fr.lr:workshop.description)
 #: http://localhost/ateliers/decouvrir-le-robot-cubetto/
 #: (content/ateliers/decouvrir-le-robot-cubetto/contents+fr.lr:workshop.description)
 msgid "**Cubetto : Héritier du Logo**"
@@ -3644,6 +3649,14 @@ msgstr "27 september 2019"
 #: http://localhost/ (content/contents+fr.lr:page.s_thursday)
 msgid "Jeudi"
 msgstr "Donderdag"
+
+#: http://localhost/journee-info-sans-ordi/
+#: (content/journee-info-sans-ordi/contents+fr.lr:details-program.description)
+msgid ""
+"Pour des raisons indépendantes de notre volonté, la journée du 28 septembre "
+"ne sera pas organisée. Nous serons heureux de vous recevoir le [27 septembre]"
+"(../journee-principale)."
+msgstr ""
 
 #: http://localhost/intervenants/myriam-criquet/
 #: (content/intervenants/myriam-criquet/contents+fr.lr:speaker.description)
@@ -3916,15 +3929,6 @@ msgstr ""
 msgid "* Formatrice TIC"
 msgstr ""
 
-#: http://localhost/intervenants/colin-de-la-higuera/
-#: (content/intervenants/colin-de-la-higuera/contents+fr.lr:speaker.description)
-msgid ""
-"-   Member of the [LS2N](https://ls2n.fr/) at [Nantes University](http://www."
-"univ-nantes.fr/) in [Nantes](http://www.nantes.fr/), France."
-msgstr ""
-"- Lid van de [LS2N](https://ls2n.fr/) aan [Nantes University](http://www."
-"univ-nantes.fr/) in [Nantes](http://www.nantes.fr /), Frankrijk."
-
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid ""
@@ -4017,6 +4021,12 @@ msgid ""
 msgstr ""
 "Elk hulpvoorstel kan worden gestuurd naar [aider@educode.be](mailto://"
 "aider@educode.be?subject=Help educode&body=Ik wil educode helpen)."
+
+#~ msgid "Découvrir la robot Cubetto"
+#~ msgstr "Ontdek de Cubetto-robot"
+
+#~ msgid "Découvrir la robot Cubetto et animer un atelier dans sa classe"
+#~ msgstr "Ontdek de Cubetto-robot en animeer een workshop in zijn klasse"
 
 #~ msgid ""
 #~ "Georges est un professeur de physique, chimie  et informatique au [lycéé "
