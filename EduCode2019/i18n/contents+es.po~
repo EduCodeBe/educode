@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: educode\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-12 09:38+CET\n"
+"POT-Creation-Date: 2019-09-13 18:21+CET\n"
 "PO-Revision-Date: 2019-09-11 09:35\n"
 "Last-Translator: npettiaux\n"
 "Language-Team: Spanish\n"
@@ -16,7 +16,7 @@ msgstr ""
 "X-Crowdin-Language: es-ES\n"
 "X-Crowdin-File: educode2019.pot\n"
 
-#: http://localhost/ (content/contents+fr.lr:page.s_overview_program)
+#: http://localhost/ (content/contents+fr.lr:page.s_overview_program) (dynamic)
 msgid "Aperçu du programme"
 msgstr ""
 
@@ -173,6 +173,7 @@ msgid "- Prof Colin de la Higuera (Université de Nantes)"
 msgstr ""
 
 #: http://localhost/dons/ (content/dons/contents+fr.lr:details-program.date)
+#: (dynamic)
 msgid "Dons"
 msgstr ""
 
@@ -298,6 +299,10 @@ msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.s_about_educode)
 msgid "À propos d'EduCode"
+msgstr ""
+
+#: (dynamic)
+msgid "Journée principale"
 msgstr ""
 
 #: http://localhost/journee-principale/
@@ -455,6 +460,10 @@ msgid ""
 "adaptées au numérique."
 msgstr ""
 
+#: (dynamic)
+msgid "Voir les ateliers"
+msgstr ""
+
 #: http://localhost/lieux/villebxl/
 #: (content/lieux/villebxl/contents+fr.lr:location.directions)
 msgid "Sur la Grand place de Bruxelles"
@@ -478,7 +487,7 @@ msgid ""
 "est le bienvenu."
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.s_program)
+#: http://localhost/ (content/contents+fr.lr:page.s_program) (dynamic)
 msgid "Programme"
 msgstr ""
 
@@ -1336,6 +1345,10 @@ msgid ""
 "EduCode."
 msgstr ""
 
+#: (dynamic)
+msgid "Concert festif"
+msgstr ""
+
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "- Yves Robaey (HE2B, co-président)"
@@ -1454,6 +1467,10 @@ msgid ""
 "avec le réel contenu de la formation."
 msgstr ""
 
+#: (dynamic)
+msgid "Journée info sans ordi (annulé)"
+msgstr ""
+
 #: http://localhost/ (content/contents+fr.lr:page.s_wednesday)
 msgid "Mercredi"
 msgstr ""
@@ -1481,7 +1498,7 @@ msgstr ""
 msgid "* Anime des ateliers dans le cadre scolaire et parascolaire"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.s_propose_atelier)
+#: http://localhost/ (content/contents+fr.lr:page.s_propose_atelier) (dynamic)
 msgid "Proposer un atelier"
 msgstr ""
 
@@ -2038,6 +2055,10 @@ msgstr ""
 msgid "* Section normale primaire"
 msgstr ""
 
+#: (dynamic)
+msgid "S'inscrire"
+msgstr ""
+
 #: http://localhost/intervenants/julie-henry/
 #: (content/intervenants/julie-henry/contents+fr.lr:speaker.description)
 msgid "- https://www.linkedin.com/in/julie-henry-5076951b/"
@@ -2115,6 +2136,10 @@ msgid ""
 "tâche avec succès. Vous pourrez ainsi vivre une double expérience, celle de "
 "réellement commencer votre formation à donner ce cours et celle des élèves "
 "en situation d'apprentissage."
+msgstr ""
+
+#: (dynamic)
+msgid "Journée info sans ordi"
 msgstr ""
 
 #: http://localhost/intervenants/marie-duflot-kremer/
@@ -2425,6 +2450,10 @@ msgstr ""
 msgid "Un soirée exceptionnelle dans un lieu d'exception"
 msgstr ""
 
+#: (dynamic)
+msgid "Langue"
+msgstr ""
+
 #: http://localhost/intervenants/rupert-meurice-de-dormale/
 #: (content/intervenants/rupert-meurice-de-dormale/contents+fr.lr:speaker.description)
 msgid ""
@@ -2483,6 +2512,10 @@ msgstr ""
 #: http://localhost/intervenants/dimitri-krings/
 #: (content/intervenants/dimitri-krings/contents+fr.lr:speaker.description)
 msgid "Au programme:"
+msgstr ""
+
+#: (dynamic)
+msgid "Avant première du concert festif"
 msgstr ""
 
 #: http://localhost/ateliers/la-maison-des-maths-et-du-numerique/
@@ -2705,6 +2738,10 @@ msgid ""
 "pour les plus jeunes en maternelle. Nous avons pu expérimenter que les "
 "enfants en enseignement spécialisé sont particulièrement attirés par "
 "l’interaction avec les robots."
+msgstr ""
+
+#: (dynamic)
+msgid "Info pratiques"
 msgstr ""
 
 #: http://localhost/ateliers/jouer-pour-comprendre-lintelligence-artificielle/
@@ -3016,6 +3053,10 @@ msgstr ""
 msgid "maternelle"
 msgstr ""
 
+#: (dynamic)
+msgid "Avant première du concert"
+msgstr ""
+
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid ""
@@ -3282,49 +3323,6 @@ msgstr ""
 msgid "Cocktail dinatoire"
 msgstr ""
 
-#: templates/layout.html:40
-msgid "Langue"
-msgstr ""
-
-#: templates/macros/sections.html:20 templates/macros/sections.html:47
-#: templates/page.html:53 templates/speaker.html:73
-msgid "Journée principale"
-msgstr ""
-
-#: templates/page.html:61
-msgid "Voir les ateliers"
-msgstr ""
-
-#: templates/page.html:67
-msgid "Avant première du concert festif"
-msgstr ""
-
-#: templates/page.html:76
-msgid "Journée info sans ordi (annulé)"
-msgstr ""
-
-#: templates/macros/sections.html:23 templates/macros/sections.html:50
-#: templates/page.html:85
-msgid "Concert festif"
-msgstr ""
-
-#: templates/page.html:221
-msgid "S'inscrire"
-msgstr ""
-
-#: templates/macros/sections.html:21 templates/macros/sections.html:48
-#: templates/speaker.html:74
-msgid "Journée info sans ordi"
-msgstr ""
-
 #: templates/speaker.html:75
 msgid "Concert"
-msgstr ""
-
-#: templates/macros/sections.html:22 templates/macros/sections.html:49
-msgid "Avant première du concert"
-msgstr ""
-
-#: templates/macros/sections.html:30 templates/macros/sections.html:57
-msgid "Info pratiques"
 msgstr ""

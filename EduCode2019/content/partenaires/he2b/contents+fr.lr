@@ -1,7 +1,7 @@
 _model: partner
 ---
-name: CIRB
+name: HE2B
 ---
 priority: 1
 ---
-url: http://cirb.brussels
+url: https://www.he2b.be/

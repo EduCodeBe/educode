@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: educode\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-12 09:38+CET\n"
+"POT-Creation-Date: 2019-09-13 18:21+CET\n"
 "PO-Revision-Date: 2019-09-11 10:03\n"
 "Last-Translator: npettiaux\n"
 "Language-Team: Flemish\n"
@@ -16,7 +16,7 @@ msgstr ""
 "X-Crowdin-Language: vls-BE\n"
 "X-Crowdin-File: educode2019.pot\n"
 
-#: http://localhost/ (content/contents+fr.lr:page.s_overview_program)
+#: http://localhost/ (content/contents+fr.lr:page.s_overview_program) (dynamic)
 msgid "Aperçu du programme"
 msgstr "Programma overzicht"
 
@@ -202,6 +202,7 @@ msgid "- Prof Colin de la Higuera (Université de Nantes)"
 msgstr "- Prof Colin de la Higuera (Universiteit van Nantes)"
 
 #: http://localhost/dons/ (content/dons/contents+fr.lr:details-program.date)
+#: (dynamic)
 msgid "Dons"
 msgstr "Donaties"
 
@@ -364,6 +365,10 @@ msgstr ""
 #: http://localhost/ (content/contents+fr.lr:page.s_about_educode)
 msgid "À propos d'EduCode"
 msgstr "Over EduCode"
+
+#: (dynamic)
+msgid "Journée principale"
+msgstr "Belangrijkste dag"
 
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
@@ -550,6 +555,10 @@ msgstr ""
 "op een breed scala aan onderwerpen rond onderwijs en het gebruik van "
 "digitaal en computerdenken, en nieuwe manieren van werken die digitaal zijn."
 
+#: (dynamic)
+msgid "Voir les ateliers"
+msgstr "Bekijk de workshops"
+
 #: http://localhost/lieux/villebxl/
 #: (content/lieux/villebxl/contents+fr.lr:location.directions)
 msgid "Sur la Grand place de Bruxelles"
@@ -577,7 +586,7 @@ msgstr ""
 "De organisatie van deze conferentie is in wezen vrijwillig. Elk geschenk is "
 "welkom."
 
-#: http://localhost/ (content/contents+fr.lr:page.s_program)
+#: http://localhost/ (content/contents+fr.lr:page.s_program) (dynamic)
 msgid "Programme"
 msgstr "Programma"
 
@@ -1616,6 +1625,10 @@ msgstr ""
 "Nicolas Pettiaux is de initiatiefnemer en coördinator van de EduCode-"
 "conferentie."
 
+#: (dynamic)
+msgid "Concert festif"
+msgstr "Feestelijk concert"
+
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "- Yves Robaey (HE2B, co-président)"
@@ -1762,6 +1775,10 @@ msgstr ""
 "van ieders werkomgeving, in plaats van meteen met de eigenlijke inhoud van "
 "de training te beginnen."
 
+#: (dynamic)
+msgid "Journée info sans ordi (annulé)"
+msgstr ""
+
 #: http://localhost/ (content/contents+fr.lr:page.s_wednesday)
 msgid "Mercredi"
 msgstr "Woensdag"
@@ -1798,7 +1815,7 @@ msgstr ""
 msgid "* Anime des ateliers dans le cadre scolaire et parascolaire"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.s_propose_atelier)
+#: http://localhost/ (content/contents+fr.lr:page.s_propose_atelier) (dynamic)
 msgid "Proposer un atelier"
 msgstr "Stel een workshop voor"
 
@@ -2442,6 +2459,10 @@ msgstr ""
 msgid "* Section normale primaire"
 msgstr ""
 
+#: (dynamic)
+msgid "S'inscrire"
+msgstr "Inschrijven"
+
 #: http://localhost/intervenants/julie-henry/
 #: (content/intervenants/julie-henry/contents+fr.lr:speaker.description)
 msgid "- https://www.linkedin.com/in/julie-henry-5076951b/"
@@ -2532,6 +2553,10 @@ msgstr ""
 "succesvol te kunnen uitvoeren. Je zult dus in staat zijn om een dubbele "
 "ervaring te beleven, namelijk dat je echt begint met je training om deze "
 "cursus te geven en die van de studenten in een leersituatie."
+
+#: (dynamic)
+msgid "Journée info sans ordi"
+msgstr "Infodag zonder computer"
 
 #: http://localhost/intervenants/marie-duflot-kremer/
 #: (content/intervenants/marie-duflot-kremer/contents+fr.lr:speaker.description)
@@ -2905,6 +2930,10 @@ msgstr ""
 msgid "Un soirée exceptionnelle dans un lieu d'exception"
 msgstr "Een uitzonderlijke avond op een uitzonderlijke plek"
 
+#: (dynamic)
+msgid "Langue"
+msgstr "Taal"
+
 #: http://localhost/intervenants/rupert-meurice-de-dormale/
 #: (content/intervenants/rupert-meurice-de-dormale/contents+fr.lr:speaker.description)
 msgid ""
@@ -2977,6 +3006,10 @@ msgstr ""
 #: (content/intervenants/dimitri-krings/contents+fr.lr:speaker.description)
 msgid "Au programme:"
 msgstr ""
+
+#: (dynamic)
+msgid "Avant première du concert festif"
+msgstr "Preview van het feestelijke concert"
 
 #: http://localhost/ateliers/la-maison-des-maths-et-du-numerique/
 #: (content/ateliers/la-maison-des-maths-et-du-numerique/contents+fr.lr:workshop.description)
@@ -3247,6 +3280,10 @@ msgstr ""
 "Het gaat over het verkennen van leermogelijkheden met Thymio-robots voor "
 "jongere kleuters. We hebben ervaren dat kinderen in het speciaal onderwijs "
 "vooral worden aangetrokken door interactie met robots."
+
+#: (dynamic)
+msgid "Info pratiques"
+msgstr "Praktische informatie"
 
 #: http://localhost/ateliers/jouer-pour-comprendre-lintelligence-artificielle/
 #: (content/ateliers/jouer-pour-comprendre-lintelligence-artificielle/contents+fr.lr:workshop.title)
@@ -3608,6 +3645,10 @@ msgstr "- Dr Nicolas Pettiaux (ESI-HE2B & ULB-Lisa, assistent-master)"
 msgid "maternelle"
 msgstr "kleuterschool"
 
+#: (dynamic)
+msgid "Avant première du concert"
+msgstr "Preview van het concert"
+
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid ""
@@ -3922,52 +3963,9 @@ msgstr "raconteur"
 msgid "Cocktail dinatoire"
 msgstr "Cocktail diner"
 
-#: templates/layout.html:40
-msgid "Langue"
-msgstr "Taal"
-
-#: templates/macros/sections.html:20 templates/macros/sections.html:47
-#: templates/page.html:53 templates/speaker.html:73
-msgid "Journée principale"
-msgstr "Belangrijkste dag"
-
-#: templates/page.html:61
-msgid "Voir les ateliers"
-msgstr "Bekijk de workshops"
-
-#: templates/page.html:67
-msgid "Avant première du concert festif"
-msgstr "Preview van het feestelijke concert"
-
-#: templates/page.html:76
-msgid "Journée info sans ordi (annulé)"
-msgstr ""
-
-#: templates/macros/sections.html:23 templates/macros/sections.html:50
-#: templates/page.html:85
-msgid "Concert festif"
-msgstr "Feestelijk concert"
-
-#: templates/page.html:221
-msgid "S'inscrire"
-msgstr "Inschrijven"
-
-#: templates/macros/sections.html:21 templates/macros/sections.html:48
-#: templates/speaker.html:74
-msgid "Journée info sans ordi"
-msgstr "Infodag zonder computer"
-
 #: templates/speaker.html:75
 msgid "Concert"
 msgstr "Concert"
-
-#: templates/macros/sections.html:22 templates/macros/sections.html:49
-msgid "Avant première du concert"
-msgstr "Preview van het concert"
-
-#: templates/macros/sections.html:30 templates/macros/sections.html:57
-msgid "Info pratiques"
-msgstr "Praktische informatie"
 
 #~ msgid "Les inscriptions sont [ouvertes](https://inscriptions.educode.be)"
 #~ msgstr "Inschrijvingen zijn [open](https://inscriptions.educode.be)"

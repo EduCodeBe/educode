@@ -97,28 +97,28 @@
                     {%
                         set icons = [
                             {
-                                "image": "/partenaires/la-premiere/logo_lp_2017_rvb_filet.png" | url(''),
-                                "link":  "http://lapremiere.be",
-                                "title": "La Première",
+                                "image": "/partenaires/inoviris/inoviris_logo.svg" | url(''),
+                                "link": "https://innoviris.brussels/fr",
+                                "title": "Inoviris",
+                                "width": "100px"
+                            },
+                            {
+                                "image": "/partenaires/he2b/HE2B.png" | url(''),
+                                "link": "https://www.he2b.be/",
+                                "title": "HE2B",
                                 "width": "75px"
                             },
                             {
-                                "image": "/partenaires/musiq3/logo_m3_rvb_filet_15.png" | url(''),
-                                "link":  "http://rtbf.be/musiq3",
-                                "title": "Musiq'3",
-                                "width": "72px"
+                                "image": "/partenaires/universite-de-liege/pasted-image-small-119.png" | url(''),
+                                "link": "http://ulg.ac.be",
+                                "title": "ULiège",
+                                "width": "80px"
                             },
                             {
                                 "image": "/partenaires/digital-wallonia/digitalwallonia-logo-degrades-358x259.png" | url(''),
                                 "link": "https://www.digitalwallonia.be",
                                 "title": "Digital Wallonia",
-                                "width": "56px"
-                            },
-                            {
-                                "image": "/partenaires/unesco/unesco_logo-small-117.png" | url(''),
-                                "link": "http://unesco.org",
-                                "title": "Unesco",
-                                "width": "72px"
+                                "width": "75px"
                             },
                             {
                                 "image": "/partenaires/odoo/odoo_logo.png" | url(''),
@@ -127,9 +127,9 @@
                                 "width": "72px"
                             },
                             {
-                                "image": "/partenaires/inoviris/inoviris_logo.svg" | url(''),
-                                "link": "https://innoviris.brussels/fr",
-                                "title": "Inoviris",
+                                "image": "/partenaires/cirb/cirb_220_620.png" | url(''),
+                                "link": "http://cirb.brussels",
+                                "title": "Cirb",
                                 "width": "100px"
                             }
                         ]
@@ -137,7 +137,7 @@
                     <div class="container">
                         <div class="row">
                             {% for icon in icons %}
-                                <div class="col-6 text-center mb-1">
+                                <div class="col-6 text-center mb-1 p-1">
                                     <a href="{{ icon.link }}" target="_blank">
                                         <img width="{{ icon.width }}" src="{{ icon.image }}" alt="{{ icon.title }}">
                                     </a>
@@ -189,55 +189,47 @@
                     {%
                         set icons = [
                             {
-                                "image": "/partenaires/la-premiere/logo_lp_2017_rvb_filet.png" | url,
-                                "link":  "http://lapremiere.be",
-                                "title": "La Première",
+                                "image": "/partenaires/inoviris/inoviris_logo.svg" | url(''),
+                                "link": "https://innoviris.brussels/fr",
+                                "title": "Inoviris",
                                 "width": "75px"
                             },
                             {
-                                "image": "/partenaires/musiq3/logo_m3_rvb_filet_15.png" | url,
-                                "link":  "http://rtbf.be/musiq3",
-                                "title": "Musiq'3",
-                                "width": "72px"
+                                "image": "/partenaires/he2b/HE2B.png" | url(''),
+                                "link": "https://www.he2b.be/",
+                                "title": "HE2B",
+                                "width": "75px"
                             },
                             {
-                                "image": "/partenaires/bozar/image-bozar.png" | url,
-                                "link":  "https://www.bozar.be/fr",
-                                "title": "Bozar",
-                                "width": "56px"
+                                "image": "/partenaires/universite-de-liege/pasted-image-small-119.png" | url(''),
+                                "link": "http://ulg.ac.be",
+                                "title": "ULiège",
+                                "width": "75px"
                             },
                             {
-                                "image": "/partenaires/digital-wallonia/digitalwallonia-logo-degrades-358x259.png" | url,
+                                "image": "/partenaires/digital-wallonia/digitalwallonia-logo-degrades-358x259.png" | url(''),
                                 "link": "https://www.digitalwallonia.be",
                                 "title": "Digital Wallonia",
-                                "width": "56px"
+                                "width": "55px"
                             },
                             {
-                                "image": "/partenaires/region-de-bruxelles-capitale/logotype_2_rgb_72_blanc.jpg" | url,
-                                "link": "http://be.brussels",
-                                "title": "Région de Bruxelles-Capitale",
-                                "width": "56px"
-                            },
-
-
-                            {
-                                "image": "/imgs/fwb.png" | url,
-                                "link": "http://www.federation-wallonie-bruxelles.be",
-                                "title": "Fédération Wallonie Bruxelles",
-                                "width": "72px"
+                                "image": "/partenaires/odoo/odoo_logo.png" | url(''),
+                                "link": "http://odoo.com",
+                                "title": "Odoo",
+                                "width": "50px"
                             },
                             {
-                                "image": "/partenaires/unesco/unesco_logo-small-117.png" | url,
-                                "link": "http://unesco.org",
-                                "title": "Unesco",
-                                "width": "72px"
+                                "image": "/partenaires/cirb/cirb_220_620.png" | url(''),
+                                "link": "http://cirb.brussels",
+                                "title": "Cirb",
+                                "width": "60px"
                             }
                         ]
                     %}
                     <div class="container">
                         <div class="row">
                             {% for icon in icons %}
-                                <div class="col-6 text-center mb-1">
+                                <div class="col-6 text-center mb-1 p-1">
                                     <a href="{{ icon.link }}" target="_blank">
                                         <img width="{{ icon.width }}" src="{{ icon.image }}" alt="{{ icon.title }}">
                                     </a>
