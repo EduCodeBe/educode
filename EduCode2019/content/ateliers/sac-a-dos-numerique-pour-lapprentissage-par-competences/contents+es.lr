@@ -16,8 +16,12 @@ language: fr
 ---
 number: 20
 ---
-periodes: (1+)x50'
+periodes:
 ---
 required_materials: autre, Internet
 ---
-tag: tous
+tag: secondaire, primaire, maternelle
+---
+hours: 16:00 - 17:00
+---
+local: 204

@@ -18,4 +18,8 @@ language: fr
 ---
 required_materials: Projecteur
 ---
-tag: alle
+tag: secundair
+---
+hours: 14:00 - 15:00
+---
+local: 204

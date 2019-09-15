@@ -15,3 +15,9 @@ Hoe kunnen we onze studenten alle IT geven die ze nodig hebben? Illegaal, dus "o
 language: fr
 ---
 periodes:
+---
+hours: 10:00 - 11:00
+---
+local: 203
+---
+tag: secondaire, primaire, maternelle

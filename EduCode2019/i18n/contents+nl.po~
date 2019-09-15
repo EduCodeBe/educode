@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: educode\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-12 09:38+CET\n"
+"POT-Creation-Date: 2019-09-15 12:22+CET\n"
 "PO-Revision-Date: 2019-09-11 10:03\n"
 "Last-Translator: npettiaux\n"
 "Language-Team: Flemish\n"
@@ -16,7 +16,7 @@ msgstr ""
 "X-Crowdin-Language: vls-BE\n"
 "X-Crowdin-File: educode2019.pot\n"
 
-#: http://localhost/ (content/contents+fr.lr:page.s_overview_program)
+#: http://localhost/ (content/contents+fr.lr:page.s_overview_program) (dynamic)
 msgid "Aperçu du programme"
 msgstr "Programma overzicht"
 
@@ -50,13 +50,6 @@ msgstr ""
 "html) lost dit probleem op. Een USB-stick, zo opstartbaar als een externe "
 "schijf, met een GNULinux-systeem en een selectie van enkele duizenden "
 "softwarepakketten uit de Debian-repository."
-
-#: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
-#: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.description)
-msgid ""
-"===== Le besoin: des environnements de travail fonctionnels et homogènes "
-"====="
-msgstr "===== De behoefte: functionele en homogene werkomgevingen ====="
 
 #: http://localhost/ateliers/decouverte-des-learningapps/
 #: (content/ateliers/decouverte-des-learningapps/contents+fr.lr:workshop.description)
@@ -95,6 +88,14 @@ msgstr "* De deelnemers zijn operationeel in één klik."
 #: (content/ateliers/decouvrir-le-robot-cubetto/contents+fr.lr:workshop.description)
 msgid "**Idéal pour travailler la spatialisation**"
 msgstr "**Ideaal voor werkende spatialisatie**"
+
+#: http://localhost/ateliers/minecraft-en-python-sur-raspberry-pi/
+#: (content/ateliers/minecraft-en-python-sur-raspberry-pi/contents+fr.lr:workshop.abstract)
+#: (content/ateliers/minecraft-en-python-sur-raspberry-pi/contents+fr.lr:workshop.description)
+msgid ""
+"Sur un Raspberry Pi (mini ordinateur très bon marché), jouer à Minecraft en "
+"programmant en Python."
+msgstr ""
 
 #: http://localhost/intervenants/laurent-beeckmans/
 #: (content/intervenants/laurent-beeckmans/contents+fr.lr:speaker.description)
@@ -136,10 +137,14 @@ msgstr ""
 
 #: http://localhost/ateliers/construire-des-projets-et-des-labos-arduino/
 #: (content/ateliers/construire-des-projets-et-des-labos-arduino/contents+fr.lr:workshop.tag)
+#: http://localhost/ateliers/lenseignement-de-la-programmation-en-insertion-socio-professionnelle/
+#: (content/ateliers/lenseignement-de-la-programmation-en-insertion-socio-professionnelle/contents+fr.lr:workshop.tag)
 #: http://localhost/ateliers/internet-et-le-web/
 #: (content/ateliers/internet-et-le-web/contents+fr.lr:workshop.tag)
 #: http://localhost/ateliers/initier-au-codage-python-avec-laide-dun-mooc/
 #: (content/ateliers/initier-au-codage-python-avec-laide-dun-mooc/contents+fr.lr:workshop.tag)
+#: http://localhost/ateliers/modus-operandi-des-cartoparties-participatives/
+#: (content/ateliers/modus-operandi-des-cartoparties-participatives/contents+fr.lr:workshop.tag)
 msgid "secondaire"
 msgstr "secundair"
 
@@ -155,11 +160,6 @@ msgstr ""
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "- 17h à 18h : buffet de clôture"
 msgstr "- 17.00 tot 18.00 uur: buffet sluiten"
-
-#: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
-#: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.description)
-msgid "===== Les avantages ? ====="
-msgstr "===== De voordelen ? ====="
 
 #: http://localhost/intervenants/benoit-naveau/
 #: (content/intervenants/benoit-naveau/contents+fr.lr:speaker.description)
@@ -202,8 +202,14 @@ msgid "- Prof Colin de la Higuera (Université de Nantes)"
 msgstr "- Prof Colin de la Higuera (Universiteit van Nantes)"
 
 #: http://localhost/dons/ (content/dons/contents+fr.lr:details-program.date)
+#: (dynamic)
 msgid "Dons"
 msgstr "Donaties"
+
+#: (dynamic)
+msgid ""
+"Dans la salle gothique de l'hôtel de ville de Bruxelles, à la Grand-Place."
+msgstr "In de gotische hal van het stadhuis van Brussel op de Grote Markt."
 
 #: http://localhost/intervenants/laurence-bourguignon/
 #: (content/intervenants/laurence-bourguignon/contents+fr.lr:speaker.description)
@@ -212,21 +218,21 @@ msgid ""
 "partager ses trouvailles et son expérience avec ses collègues instituteurs."
 msgstr ""
 
-#: http://localhost/ateliers/fadagogocom-coder-en-25-defis/
-#: (content/ateliers/fadagogocom-coder-en-25-defis/contents+fr.lr:workshop.abstract)
+#: http://localhost/ateliers/internet-et-le-web/
+#: (content/ateliers/internet-et-le-web/contents+fr.lr:workshop.description)
 msgid ""
-"Après une courte introduction sur l'importance de l'algorithmique dans le "
-"cursus des élèves, l'atelier vous apprendra ***les bases du codage*** par la "
-"réalisation de \"défis\"."
+"* Quelle est la place de l'Internet dans nos vies au quotidien ? Quelle fut "
+"son origine, son évolution, et vers où nous emmène son futur ? A quoi "
+"servent les cookies ? Où sont stockées mes données, celles de mes élèves, et "
+"à quoi peuvent-elles servir ? A quels risques je m’expose lorsque j’utilise "
+"l’Internet et ses applications, pour moi-même ou en classe ? Et comment puis-"
+"je devenir le gardien de mes données et de ma vie privée, tout en protégeant "
+"celle des autres ? Les enjeux de l'EdTech et ressources qualitatives pour "
+"l'éducation."
 msgstr ""
-"Na een korte introductie over het belang van algoritmen in de curricula van "
-"studenten, leert de workshop je ***de basisprincipes van codering*** door "
-"\"uitdagingen\" uit te voeren."
 
 #: http://localhost/ateliers/le-numerique-pour-faire-face-aux-inegalites-scolaires/
 #: (content/ateliers/le-numerique-pour-faire-face-aux-inegalites-scolaires/contents+fr.lr:workshop.periodes)
-#: http://localhost/ateliers/des-robots-des-la-maternelle/
-#: (content/ateliers/des-robots-des-la-maternelle/contents+fr.lr:workshop.periodes)
 msgid "1x50'"
 msgstr "1x50'"
 
@@ -239,6 +245,18 @@ msgstr "# Wetenschappelijk en ondersteunend comité"
 #: (content/ateliers/apprendre-a-souder/contents+fr.lr:workshop.description)
 msgid "* Apprendre à mettre les composants dans le bon sens"
 msgstr "* Leer de componenten in de juiste richting te plaatsen"
+
+#: (dynamic)
+msgid "Afficher que la catégorie"
+msgstr ""
+
+#: http://localhost/ateliers/coder-en-25-defis/
+#: (content/ateliers/coder-en-25-defis/contents+fr.lr:workshop.abstract)
+msgid ""
+"Après une courte introduction sur l'importance de l'algorithmique dans le "
+"cursus des élèves, l'atelier vous apprendra les bases du codage par la "
+"réalisation de \"défis\"."
+msgstr ""
 
 #: http://localhost/intervenants/hugues-bersini/
 #: (content/intervenants/hugues-bersini/contents+fr.lr:speaker.description)
@@ -321,6 +339,10 @@ msgstr ""
 "Concerto voor piano en orkest in B mineur, gebaseerd op de fragmenten van "
 "een onvoltooid concert van Edvard Grieg."
 
+#: (dynamic)
+msgid "Toutes les heures"
+msgstr ""
+
 #: http://localhost/ (content/contents+fr.lr:page.concert_avant_premiere)
 msgid "[Plus d'informations...](concert-festif-avant-premiere)"
 msgstr "[Meer informatie...](concert-festif-avant-premiere)"
@@ -329,11 +351,6 @@ msgstr "[Meer informatie...](concert-festif-avant-premiere)"
 #: (content/ateliers/apprendre-a-souder/contents+fr.lr:workshop.title)
 msgid "Apprendre à souder son premier circuit électronique"
 msgstr "Leer hoe u uw eerste elektronische circuit kunt solderen"
-
-#: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
-#: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.description)
-msgid "===== Comment mettre en oeuvre Eclipse Che. ====="
-msgstr "===== Hoe Eclipse Che te implementeren ====="
 
 #: http://localhost/ (content/contents+fr.lr:page.press_text)
 msgid ""
@@ -364,6 +381,10 @@ msgstr ""
 #: http://localhost/ (content/contents+fr.lr:page.s_about_educode)
 msgid "À propos d'EduCode"
 msgstr "Over EduCode"
+
+#: (dynamic)
+msgid "Journée principale"
+msgstr "Belangrijkste dag"
 
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
@@ -410,6 +431,10 @@ msgstr "- Eric Robette"
 msgid "Contact"
 msgstr "Contact"
 
+#: (dynamic)
+msgid "Au local"
+msgstr ""
+
 #: http://localhost/intervenants/laurent-beeckmans/
 #: (content/intervenants/laurent-beeckmans/contents+fr.lr:speaker.description)
 msgid ""
@@ -431,6 +456,10 @@ msgstr ""
 "thematische concerten produceert in een originele omgeving waarin geluid en "
 "beeld worden geïntegreerd"
 
+#: (dynamic)
+msgid "alto"
+msgstr "viola"
+
 #: http://localhost/ateliers/initiation-a-la-pensee-informatique-en-primaire/
 #: (content/ateliers/initiation-a-la-pensee-informatique-en-primaire/contents+fr.lr:workshop.title)
 msgid "Initiation à la pensée informatique en primaire"
@@ -449,9 +478,21 @@ msgid ""
 "bibliosansfrontieres.org/)"
 msgstr ""
 
+#: (dynamic)
+msgid "Toutes les catégories"
+msgstr ""
+
+#: (dynamic)
+msgid "contrebasse"
+msgstr "bas"
+
 #: http://localhost/ (content/contents+fr.lr:page.s_saturday)
 msgid "Samedi"
 msgstr "Zaterdag"
+
+#: (dynamic)
+msgid "Primaire"
+msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.journee_sans_ordi)
 msgid ""
@@ -550,6 +591,10 @@ msgstr ""
 "op een breed scala aan onderwerpen rond onderwijs en het gebruik van "
 "digitaal en computerdenken, en nieuwe manieren van werken die digitaal zijn."
 
+#: (dynamic)
+msgid "Voir les ateliers"
+msgstr "Bekijk de workshops"
+
 #: http://localhost/lieux/villebxl/
 #: (content/lieux/villebxl/contents+fr.lr:location.directions)
 msgid "Sur la Grand place de Bruxelles"
@@ -577,7 +622,7 @@ msgstr ""
 "De organisatie van deze conferentie is in wezen vrijwillig. Elk geschenk is "
 "welkom."
 
-#: http://localhost/ (content/contents+fr.lr:page.s_program)
+#: http://localhost/ (content/contents+fr.lr:page.s_program) (dynamic)
 msgid "Programme"
 msgstr "Programma"
 
@@ -616,6 +661,11 @@ msgid ""
 "[educode 2019](https://2019.educode.be/)."
 msgstr ""
 
+#: http://localhost/ateliers/decouvrir-le-robot-cubetto/
+#: (content/ateliers/decouvrir-le-robot-cubetto/contents+fr.lr:workshop.tag)
+msgid "maternelle, primaire"
+msgstr ""
+
 #: http://localhost/ateliers/initiation-a-la-pensee-informatique-en-primaire/
 #: (content/ateliers/initiation-a-la-pensee-informatique-en-primaire/contents+fr.lr:workshop.abstract)
 #: (content/ateliers/initiation-a-la-pensee-informatique-en-primaire/contents+fr.lr:workshop.description)
@@ -645,6 +695,15 @@ msgstr "Bouw Arduino-projecten en labs"
 #: (content/lieux/he2b-defre/contents+fr.lr:location.name)
 msgid "HE2B-Defré"
 msgstr "HE2B-Defré"
+
+#: http://localhost/ateliers/initier-au-codage-python-avec-laide-dun-mooc/
+#: (content/ateliers/initier-au-codage-python-avec-laide-dun-mooc/contents+fr.lr:workshop.abstract)
+msgid ""
+"Cet atelier se veut une discussion sur la manière d’utiliser le MOOC sur la "
+"plateforme FUN  “Apprendre à coder avec Python”  (cours gratuit) comme base "
+"pour animer un cours complet d’initiation à la programmation pour un public "
+"d’élèves du secondaire supérieur (15-18 ans)."
+msgstr ""
 
 #: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
 #: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.description)
@@ -706,10 +765,18 @@ msgstr ""
 "die momenteel een zeer belangrijke energie vereist van een zeer klein aantal "
 "acteurs, vrouwen en mannen."
 
+#: (dynamic)
+msgid "Le carnaval des animaux"
+msgstr "Het carnaval van dieren"
+
 #: http://localhost/ateliers/codenplay-krings/
 #: (content/ateliers/codenplay-krings/contents+fr.lr:workshop.title)
 msgid "CodeNPlay-Directeurs"
 msgstr "CodeNPlay-Bestuurders"
+
+#: (dynamic)
+msgid "clarinette"
+msgstr "klarinet"
 
 #: http://localhost/ateliers/sac-a-dos-numerique-pour-lapprentissage-par-competences/
 #: (content/ateliers/sac-a-dos-numerique-pour-lapprentissage-par-competences/contents+fr.lr:workshop.description)
@@ -741,16 +808,16 @@ msgstr ""
 #: (content/ateliers/decouverte-des-learningapps/contents+fr.lr:workshop.language)
 #: http://localhost/ateliers/construire-des-projets-et-des-labos-arduino/
 #: (content/ateliers/construire-des-projets-et-des-labos-arduino/contents+fr.lr:workshop.language)
-#: http://localhost/ateliers/fadagogocom-coder-en-25-defis/
-#: (content/ateliers/fadagogocom-coder-en-25-defis/contents+fr.lr:workshop.language)
+#: http://localhost/ateliers/coder-en-25-defis/
+#: (content/ateliers/coder-en-25-defis/contents+fr.lr:workshop.language)
 #: http://localhost/ateliers/une-education-de-qualite-lodd4-questionne-par-le-numerique/
 #: (content/ateliers/une-education-de-qualite-lodd4-questionne-par-le-numerique/contents+fr.lr:workshop.language)
 #: http://localhost/ateliers/jouer-pour-comprendre-lintelligence-artificielle/
 #: (content/ateliers/jouer-pour-comprendre-lintelligence-artificielle/contents+fr.lr:workshop.language)
 #: http://localhost/ateliers/codenplay-krings/
 #: (content/ateliers/codenplay-krings/contents+fr.lr:workshop.language)
-#: http://localhost/ateliers/la-maison-des-maths-et-du-numerique/
-#: (content/ateliers/la-maison-des-maths-et-du-numerique/contents+fr.lr:workshop.language)
+#: http://localhost/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/
+#: (content/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/contents+fr.lr:workshop.language)
 #: http://localhost/ateliers/lenseignement-de-la-programmation-en-insertion-socio-professionnelle/
 #: (content/ateliers/lenseignement-de-la-programmation-en-insertion-socio-professionnelle/contents+fr.lr:workshop.language)
 #: http://localhost/ateliers/internet-et-le-web/
@@ -793,6 +860,11 @@ msgstr ""
 "praktische manier kennis kunnen laten maken met het plezier van "
 "computationeel denken en computerprogrammeren."
 
+#: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
+#: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.description)
+msgid "** Comment mettre en oeuvre Eclipse Che. **"
+msgstr ""
+
 #: http://localhost/ateliers/decouvrir-le-robot-cubetto/
 #: (content/ateliers/decouvrir-le-robot-cubetto/contents+fr.lr:workshop.description)
 msgid ""
@@ -833,6 +905,14 @@ msgid ""
 msgstr ""
 "1. Conferenties, workshops en tentoonstellingen voornamelijk voor "
 "leerkrachten"
+
+#: http://localhost/ateliers/minecraft-en-python-sur-raspberry-pi/
+#: (content/ateliers/minecraft-en-python-sur-raspberry-pi/contents+fr.lr:workshop.abstract)
+#: (content/ateliers/minecraft-en-python-sur-raspberry-pi/contents+fr.lr:workshop.description)
+msgid ""
+"Sur un Raspberry Pi (mini ordinateur très bon marché), jouer a Minecraft en "
+"programmant en Python."
+msgstr ""
 
 #: http://localhost/intervenants/gilles-dowek/
 #: (content/intervenants/gilles-dowek/contents+fr.lr:speaker.description)
@@ -904,6 +984,10 @@ msgstr ""
 "<a href=\"../ateliers\" class=\"btn btn-lg btn-warning text-uppercase"
 "\">Bekijk de workshops</a>"
 
+#: (dynamic)
+msgid "Tranche d'âge"
+msgstr ""
+
 #: http://localhost/intervenants/gilles-dowek/
 #: (content/intervenants/gilles-dowek/contents+fr.lr:speaker.description)
 msgid "* _La logique_, Édition Le Pommier, 2015"
@@ -917,10 +1001,18 @@ msgstr "Praktische informatie"
 msgid "Soumettre un poster"
 msgstr "Verzend een poster"
 
+#: (dynamic)
+msgid "Présentation des ateliers"
+msgstr ""
+
 #: http://localhost/intervenants/rupert-meurice-de-dormale/
 #: (content/intervenants/rupert-meurice-de-dormale/contents+fr.lr:speaker.description)
 msgid "Divers"
 msgstr ""
+
+#: (dynamic)
+msgid "violon"
+msgstr "viool"
 
 #: http://localhost/lieux/becentral/
 #: (content/lieux/becentral/contents+fr.lr:location.directions)
@@ -941,6 +1033,15 @@ msgid ""
 "Femme de conviction, elle agit pour bâtir et promouvoir un monde inclusif et "
 "en paix avec l'ONG [API](https://apifr.org/) : Action of Public Interest, où "
 "elle mène des actions toujours liées à l'ODD 4 : Une éducation de qualité."
+msgstr ""
+
+#: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
+#: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.description)
+msgid "** Quels sont les environnements sont supportés? **"
+msgstr ""
+
+#: (dynamic)
+msgid "A une certaine heure"
 msgstr ""
 
 #: http://localhost/intervenants/christine-lefevre/
@@ -1035,6 +1136,10 @@ msgstr ""
 "Piano Duo, gespecialiseerd in de uitvoering van arrangementen en "
 "transcripties van orkestwerken."
 
+#: (dynamic)
+msgid "En savoir plus"
+msgstr ""
+
 #: http://localhost/intervenants/julie-henry/
 #: (content/intervenants/julie-henry/contents+fr.lr:speaker.description)
 msgid "- https://researchportal.unamur.be/fr/persons/julie-henry"
@@ -1060,6 +1165,19 @@ msgstr ""
 #: http://localhost/ateliers/decouvrir-le-robot-cubetto/
 #: (content/ateliers/decouvrir-le-robot-cubetto/contents+fr.lr:workshop.abstract)
 msgid "Découvrir le robot Cubetto et animer un atelier dans sa classe"
+msgstr ""
+
+#: (dynamic)
+msgid "violoncelle"
+msgstr "cello"
+
+#: (dynamic)
+msgid "Rechercher parmi les ateliers"
+msgstr ""
+
+#: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
+#: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.description)
+msgid "** Les avantages ? **"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.practical_infos)
@@ -1128,6 +1246,10 @@ msgid ""
 "environnement."
 msgstr ""
 "- Deel deze \"devfile\" onder de deelnemers om hun eigen omgeving te creëren."
+
+#: (dynamic)
+msgid "conteuse"
+msgstr "raconteur"
 
 #: http://localhost/intervenants/nicolas-pettiaux/
 #: (content/intervenants/nicolas-pettiaux/contents+fr.lr:speaker.description)
@@ -1253,21 +1375,6 @@ msgid ""
 "Merci de vous munir des documents d’inscription pour une vérification aisée."
 msgstr "Breng registratiedocumenten mee voor eenvoudige verificatie."
 
-#: http://localhost/ateliers/initier-au-codage-python-avec-laide-dun-mooc/
-#: (content/ateliers/initier-au-codage-python-avec-laide-dun-mooc/contents+fr.lr:workshop.abstract)
-msgid ""
-"Cet atelier se veut une discussion sur la manière d’utiliser le MOOC sur la "
-"plateforme FUN  “[Apprendre à coder avec Python](https://www.fun-mooc.fr/"
-"courses/course-v1:ulb+44013+session02/about)”  (cours gratuit) comme base "
-"pour animer un cours complet d’initiation à la programmation pour un public "
-"d’élèves du secondaire supérieur (15-18 ans)."
-msgstr ""
-"Deze workshop is een discussie over het gebruik van de MOOC op het FUN-"
-"platform \"[Apprendre à coder avec Python](https://www.fun-mooc.fr/courses/"
-"course-v1:ulb+44013+session02/about)\"(gratis cursus) als basis voor het "
-"geven van een complete introductiecursus programmeren voor een publiek van "
-"studenten op de middelbare school (15-18 jaar oud)."
-
 #: http://localhost/intervenants/rupert-meurice-de-dormale/
 #: (content/intervenants/rupert-meurice-de-dormale/contents+fr.lr:speaker.description)
 msgid ""
@@ -1307,6 +1414,10 @@ msgstr ""
 "organiseren van vergaderingen tussen professionals van verschillende "
 "horizonten ten dienste stellen."
 
+#: (dynamic)
+msgid "flûte"
+msgstr "fluit"
+
 #: http://localhost/intervenants/erick-mascart/
 #: (content/intervenants/erick-mascart/contents+fr.lr:speaker.description)
 msgid ""
@@ -1344,15 +1455,6 @@ msgstr ""
 "in het populair maken die iedereen een veld brengt dat toch als moeilijk "
 "wordt beschouwd."
 
-#: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
-#: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.description)
-msgid ""
-"Il est toujours compliqué de préparer un environnement de développement pour "
-"un atelier ou un cours."
-msgstr ""
-"Het is altijd moeilijk om een ontwikkelomgeving voor te bereiden op een "
-"workshop of cursus."
-
 #: http://localhost/intervenants/laurent-beeckmans/
 #: (content/intervenants/laurent-beeckmans/contents+fr.lr:speaker.description)
 msgid ""
@@ -1372,8 +1474,8 @@ msgstr ""
 "Laurent Beeckmans wiskunde aan de Université Libre de Bruxelles en aan de "
 "Universiteit van East Anglia in Engeland."
 
-#: http://localhost/ateliers/la-maison-des-maths-et-du-numerique/
-#: (content/ateliers/la-maison-des-maths-et-du-numerique/contents+fr.lr:workshop.description)
+#: http://localhost/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/
+#: (content/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/contents+fr.lr:workshop.description)
 msgid ""
 "L'intégration de la robotique permet de manière __non formelle__ d'aborder "
 "ces concepts qui seront au service du robot. Indirectement, on redonne tous "
@@ -1466,32 +1568,19 @@ msgstr ""
 msgid "* De 1989 à 1995 : Analyste programmeur - Analyste."
 msgstr ""
 
-#: http://localhost/ateliers/internet-et-le-web/
-#: (content/ateliers/internet-et-le-web/contents+fr.lr:workshop.description)
-msgid ""
-"* Quelle est la place de l'Internet dans nos vies au quotidien ? Quelle fut "
-"son origine, son évolution, et vers où nous emmène son futur ? A quoi "
-"servent les cookies ? Où sont stockées mes données, celles de mes élèves, et "
-"à quoi peuvent-elles servir ? A quels risques je m’expose lorsque j’utilise "
-"l’Internet et ses applications, pour moi-même ou en classe ? Et comment puis-"
-"je devenir le gardien de mes données et de ma vie privée, tout en protégeant "
-"celle des autres ? Les enjeux de l'EdTech et ressources qualitatives pour "
-"l'éducation. \\ En partenariat avec The Coding Club et we are coders asbl."
+#: http://localhost/ateliers/decouverte-des-learningapps/
+#: (content/ateliers/decouverte-des-learningapps/contents+fr.lr:workshop.description)
+msgid "* Les types d'exercices sont variés."
 msgstr ""
-"* Wat is de plaats van internet in ons dagelijks leven? Wat was zijn "
-"oorsprong, zijn evolutie, en waar brengt zijn toekomst ons naartoe? Waar "
-"zijn cookies voor? Waar worden mijn gegevens opgeslagen, de gegevens van "
-"mijn studenten en waar kunnen ze voor worden gebruikt? Aan welke risico's "
-"stel ik mezelf bloot wanneer ik internet en de toepassingen ervan gebruik, "
-"voor mezelf of in de klas? En hoe kan ik de bewaker van mijn gegevens en "
-"mijn privacy worden, terwijl ik die van anderen bescherm? De uitdagingen van "
-"EdTech en kwalitatieve middelen voor onderwijs. \\ In samenwerking met The "
-"Coding Club en we zijn coders vzw."
 
 #: http://localhost/lieux/villebxl/
 #: (content/lieux/villebxl/contents+fr.lr:location.address)
 msgid "Grand-place, 1000 Bruxelles"
 msgstr "Grote Markt, 1000 Brussel"
+
+#: (dynamic)
+msgid "percussion"
+msgstr "percussie"
 
 #: http://localhost/intervenants/nicolas-seinlet/
 #: (content/intervenants/nicolas-seinlet/contents+fr.lr:speaker.description)
@@ -1505,6 +1594,10 @@ msgstr ""
 #: (content/ateliers/premiers-pas-dans-la-programmation-ludique-et-creative/contents+fr.lr:workshop.title)
 msgid "Premiers pas dans la programmation ludique et créative"
 msgstr "Eerste stappen in leuk en creatief programmeren"
+
+#: (dynamic)
+msgid "Avec"
+msgstr "Met"
 
 #: http://localhost/intervenants/nicolas-seinlet/
 #: (content/intervenants/nicolas-seinlet/contents+fr.lr:speaker.description)
@@ -1572,6 +1665,11 @@ msgstr ""
 "Educode-deelnemers worden vanaf 8.30 uur verwacht. Conferenties en workshops "
 "beginnen om 9: 00 uur."
 
+#: http://localhost/ateliers/internet-et-le-web/
+#: (content/ateliers/internet-et-le-web/contents+fr.lr:workshop.description)
+msgid "En partenariat avec The Coding Club et we are coders asbl."
+msgstr ""
+
 #: http://localhost/intervenants/christine-lefevre/
 #: (content/intervenants/christine-lefevre/contents+fr.lr:speaker.description)
 msgid "* 1989 : Licenciée en sciences mathématiques - AESS"
@@ -1616,6 +1714,10 @@ msgstr ""
 "Nicolas Pettiaux is de initiatiefnemer en coördinator van de EduCode-"
 "conferentie."
 
+#: (dynamic)
+msgid "Concert festif"
+msgstr "Feestelijk concert"
+
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "- Yves Robaey (HE2B, co-président)"
@@ -1646,6 +1748,10 @@ msgstr ""
 "en geregistreerd bij IFC met **opleidingsnummer 03001901/34350** om te "
 "worden opgenomen in de website [www.ifc.cfwb.be](http://www.ifc.cfwb.be/)"
 
+#: (dynamic)
+msgid "Secondaire"
+msgstr ""
+
 #: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
 #: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.description)
 msgid ""
@@ -1669,6 +1775,10 @@ msgstr "- Françoise Bols"
 #: http://localhost/ (content/contents+fr.lr:page.concert)
 msgid "[Plus d'informations...](concert)"
 msgstr "[Meer informaties...](concert)"
+
+#: (dynamic)
+msgid "Lundi 7 octobre 2019 de 19h à 23h avec cocktail dinatoire."
+msgstr "Maandag 7 oktober 2019 van 19.00 tot 23.00 uur met cocktaildiner."
 
 #: http://localhost/intervenants/rupert-meurice-de-dormale/
 #: (content/intervenants/rupert-meurice-de-dormale/contents+fr.lr:speaker.description)
@@ -1751,6 +1861,13 @@ msgstr "####Tickets kopen [hier](http://inscriptions.educode.be)"
 msgid "* Créateur de la [Robotic Academy](https://fr-fr.facebook.com/lsgTeam)"
 msgstr "* Maker van [Robotic Academy](https://fr-fr.facebook.com/lsgTeam)"
 
+#: http://localhost/ateliers/decouverte-des-learningapps/
+#: (content/ateliers/decouverte-des-learningapps/contents+fr.lr:workshop.description)
+msgid ""
+"* Ils ont le choix d'utiliser les \"apps\" de la communauté, de les modifier "
+"ou de créer les leurs."
+msgstr ""
+
 #: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
 #: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.description)
 msgid ""
@@ -1761,6 +1878,10 @@ msgstr ""
 "Over het algemeen worden de eerste uren besteed aan het functioneel maken "
 "van ieders werkomgeving, in plaats van meteen met de eigenlijke inhoud van "
 "de training te beginnen."
+
+#: (dynamic)
+msgid "Journée info sans ordi (annulé)"
+msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.s_wednesday)
 msgid "Mercredi"
@@ -1798,7 +1919,7 @@ msgstr ""
 msgid "* Anime des ateliers dans le cadre scolaire et parascolaire"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.s_propose_atelier)
+#: http://localhost/ (content/contents+fr.lr:page.s_propose_atelier) (dynamic)
 msgid "Proposer un atelier"
 msgstr "Stel een workshop voor"
 
@@ -1812,8 +1933,8 @@ msgstr "- Maak een (\"devfile\") voor elke cursus."
 msgid "- Karin Van Loon (HE2B-ISIB, directrice)"
 msgstr "- Karin Van Loon (HE2B-ISIB, director)"
 
-#: http://localhost/ateliers/la-maison-des-maths-et-du-numerique/
-#: (content/ateliers/la-maison-des-maths-et-du-numerique/contents+fr.lr:workshop.description)
+#: http://localhost/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/
+#: (content/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/contents+fr.lr:workshop.description)
 msgid ""
 "Ce projet a été sélectionné en 2018 parmi les __projets belges les plus "
 "innovants__ par **Ashoka**."
@@ -1947,6 +2068,13 @@ msgstr ""
 "De meeste inhoud is afkomstig van de homepage van [Colin de la Higuera]"
 "(http://pagesperso.lina.univ-nantes.fr/~cdlh/)"
 
+#: http://localhost/ateliers/decouverte-des-learningapps/
+#: (content/ateliers/decouverte-des-learningapps/contents+fr.lr:workshop.description)
+msgid ""
+"* Il est possible de créer un compte pour sa classe où chaque élève peut se "
+"connecter."
+msgstr ""
+
 #: http://localhost/ateliers/decouvrir-le-robot-cubetto/
 #: (content/ateliers/decouvrir-le-robot-cubetto/contents+fr.lr:workshop.description)
 msgid "* Vous vous souvenez de la « tortue graphique logo » ?"
@@ -2000,6 +2128,10 @@ msgid ""
 "* Anime des ateliers aliant science et technologie pour un public adolescent"
 msgstr ""
 
+#: (dynamic)
+msgid "piano"
+msgstr "piano"
+
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "- Eric Robette (HE2B-Defré, maître-assistant)"
@@ -2012,13 +2144,22 @@ msgid ""
 "début des années 2000."
 msgstr ""
 
+#: http://localhost/ateliers/decouverte-des-learningapps/
+#: (content/ateliers/decouverte-des-learningapps/contents+fr.lr:workshop.description)
+msgid "* C'est un outil multi-plateforme, utilisable sur PC, tablette ou TBI."
+msgstr ""
+
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "- Alexia Pasini (HE2B, co-présidente)"
 msgstr "- Alexia Pasini (HE2B, co-voorzitter)"
 
-#: http://localhost/ateliers/la-maison-des-maths-et-du-numerique/
-#: (content/ateliers/la-maison-des-maths-et-du-numerique/contents+fr.lr:workshop.description)
+#: (dynamic)
+msgid "de"
+msgstr "van"
+
+#: http://localhost/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/
+#: (content/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/contents+fr.lr:workshop.description)
 msgid ""
 "Après une brève explication du logiciel et de son utilisation, vous serez en "
 "charge de réaliser une __mission concrète__ en rendant votre robot autonome "
@@ -2100,8 +2241,8 @@ msgstr ""
 msgid "BeCentral"
 msgstr "BeCentral"
 
-#: http://localhost/ateliers/la-maison-des-maths-et-du-numerique/
-#: (content/ateliers/la-maison-des-maths-et-du-numerique/contents+fr.lr:workshop.description)
+#: http://localhost/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/
+#: (content/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/contents+fr.lr:workshop.description)
 msgid "__Description de l'atelier :__"
 msgstr "__Beschrijving van de workshop: __"
 
@@ -2220,6 +2361,11 @@ msgstr "Voor meer informatie en pre-registratie, zie http://wiki.educode.be"
 msgid "Sans cocktail : 30€ / 20€ / 15€ (étudiant) / 12€ (sans emploi)"
 msgstr "Zonder cocktail: 30 € / 20 € / 15 € (student) / 12 € (werkloos)"
 
+#: http://localhost/ateliers/coder-en-25-defis/
+#: (content/ateliers/coder-en-25-defis/contents+fr.lr:workshop.title)
+msgid "Coder en 25 défis"
+msgstr ""
+
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid ""
@@ -2243,8 +2389,8 @@ msgstr ""
 "* _Les Métamorphoses du calcul. Une étonnante histoire de mathématiques_, "
 "Paris, Édition Le Pommier, coll. « Essais », 2007"
 
-#: http://localhost/ateliers/la-maison-des-maths-et-du-numerique/
-#: (content/ateliers/la-maison-des-maths-et-du-numerique/contents+fr.lr:workshop.periodes)
+#: http://localhost/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/
+#: (content/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/contents+fr.lr:workshop.periodes)
 msgid "2x50'"
 msgstr "2x50'"
 
@@ -2252,8 +2398,8 @@ msgstr "2x50'"
 msgid "Partenaires"
 msgstr "Partners"
 
-#: http://localhost/ateliers/la-maison-des-maths-et-du-numerique/
-#: (content/ateliers/la-maison-des-maths-et-du-numerique/contents+fr.lr:workshop.description)
+#: http://localhost/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/
+#: (content/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/contents+fr.lr:workshop.description)
 msgid ""
 "Comment **susciter** la **passion** et l'**enthousiasme** autour des "
 "**apprentissages** et notamment les **mathématiques**?"
@@ -2268,6 +2414,10 @@ msgid ""
 "protection)"
 msgstr ""
 "* Leer omgaan met een soldeerbout (koud, warm, temperatuur, bescherming)"
+
+#: (dynamic)
+msgid "Réinitialiser les filtres"
+msgstr ""
 
 #: http://localhost/lieux/becentral/
 #: (content/lieux/becentral/contents+fr.lr:location.address)
@@ -2309,6 +2459,14 @@ msgstr "Dinsdag"
 msgid "- Denis Longrée"
 msgstr "- Denis Longrée"
 
+#: http://localhost/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/
+#: (content/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/contents+fr.lr:workshop.abstract)
+msgid ""
+"Après une brève explication du logiciel et de son utilisation, vous serez en "
+"charge de réaliser une mission concrète en rendant votre robot autonome pour "
+"la résoudre de manière empirique."
+msgstr ""
+
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "- Prof Pierre Wolper (Uliège, recteur)"
@@ -2321,41 +2479,6 @@ msgid ""
 "facultés à l'[université libre de Bruxelles](http://ulb.be/)"
 msgstr ""
 
-#: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
-#: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.description)
-msgid ""
-"===== La solution apportée par Eclipse Che: reproductibilité des "
-"environnements de développement ====="
-msgstr ""
-"===== De oplossing van Eclipse Che: reproduceerbaarheid van "
-"ontwikkelomgevingen ====="
-
-#: http://localhost/ateliers/sac-a-dos-numerique-pour-lapprentissage-par-competences/
-#: (content/ateliers/sac-a-dos-numerique-pour-lapprentissage-par-competences/contents+fr.lr:workshop.tag)
-#: http://localhost/ateliers/decouvrir-le-robot-cubetto/
-#: (content/ateliers/decouvrir-le-robot-cubetto/contents+fr.lr:workshop.tag)
-#: http://localhost/ateliers/decouverte-des-learningapps/
-#: (content/ateliers/decouverte-des-learningapps/contents+fr.lr:workshop.tag)
-#: http://localhost/ateliers/fadagogocom-coder-en-25-defis/
-#: (content/ateliers/fadagogocom-coder-en-25-defis/contents+fr.lr:workshop.tag)
-#: http://localhost/ateliers/une-education-de-qualite-lodd4-questionne-par-le-numerique/
-#: (content/ateliers/une-education-de-qualite-lodd4-questionne-par-le-numerique/contents+fr.lr:workshop.tag)
-#: http://localhost/ateliers/jouer-pour-comprendre-lintelligence-artificielle/
-#: (content/ateliers/jouer-pour-comprendre-lintelligence-artificielle/contents+fr.lr:workshop.tag)
-#: http://localhost/ateliers/la-maison-des-maths-et-du-numerique/
-#: (content/ateliers/la-maison-des-maths-et-du-numerique/contents+fr.lr:workshop.tag)
-#: http://localhost/ateliers/lenseignement-de-la-programmation-en-insertion-socio-professionnelle/
-#: (content/ateliers/lenseignement-de-la-programmation-en-insertion-socio-professionnelle/contents+fr.lr:workshop.tag)
-#: http://localhost/ateliers/minecraft-en-python-sur-raspberry-pi/
-#: (content/ateliers/minecraft-en-python-sur-raspberry-pi/contents+fr.lr:workshop.tag)
-#: http://localhost/ateliers/le-numerique-pour-faire-face-aux-inegalites-scolaires/
-#: (content/ateliers/le-numerique-pour-faire-face-aux-inegalites-scolaires/contents+fr.lr:workshop.tag)
-#: http://localhost/ateliers/premiers-pas-dans-la-programmation-ludique-et-creative/
-#: (content/ateliers/premiers-pas-dans-la-programmation-ludique-et-creative/contents+fr.lr:workshop.tag)
-#: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
-#: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.tag)
-#: http://localhost/ateliers/de-la-tortue-logo-au-chat-scratch/
-#: (content/ateliers/de-la-tortue-logo-au-chat-scratch/contents+fr.lr:workshop.tag)
 #: http://localhost/ateliers/sexperiences-en-education-avec-en-logiciel-libre/
 #: (content/ateliers/sexperiences-en-education-avec-en-logiciel-libre/contents+fr.lr:workshop.tag)
 msgid "tous"
@@ -2398,8 +2521,8 @@ msgstr "27 en 28 september 2019"
 msgid "Le numérique pour faire face aux inégalités scolaires"
 msgstr "Digitale technologie om ongelijkheden op school het hoofd te bieden"
 
-#: http://localhost/ateliers/la-maison-des-maths-et-du-numerique/
-#: (content/ateliers/la-maison-des-maths-et-du-numerique/contents+fr.lr:workshop.abstract)
+#: http://localhost/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/
+#: (content/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/contents+fr.lr:workshop.title)
 msgid ""
 "Des robots pour donner de l'intérêt et de la motivation à l'apprentissage"
 msgstr "Robots om interesse en motivatie te geven om te leren"
@@ -2440,6 +2563,17 @@ msgstr ""
 #: http://localhost/intervenants/christine-lefevre/
 #: (content/intervenants/christine-lefevre/contents+fr.lr:speaker.description)
 msgid "* Section normale primaire"
+msgstr ""
+
+#: (dynamic)
+msgid "S'inscrire"
+msgstr "Inschrijven"
+
+#: http://localhost/ateliers/jouer-pour-comprendre-lintelligence-artificielle/
+#: (content/ateliers/jouer-pour-comprendre-lintelligence-artificielle/contents+fr.lr:workshop.tag)
+#: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
+#: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.tag)
+msgid "secondaire, primaire"
 msgstr ""
 
 #: http://localhost/intervenants/julie-henry/
@@ -2514,8 +2648,8 @@ msgstr ""
 "begrijpen hoe een robot werkt, hoe ermee te communiceren, het principe van "
 "codering en logische tests."
 
-#: http://localhost/ateliers/fadagogocom-coder-en-25-defis/
-#: (content/ateliers/fadagogocom-coder-en-25-defis/contents+fr.lr:workshop.description)
+#: http://localhost/ateliers/coder-en-25-defis/
+#: (content/ateliers/coder-en-25-defis/contents+fr.lr:workshop.description)
 msgid ""
 "Après une courte introduction sur l'importance de l'algorithmique dans le "
 "cursus des élèves, l'atelier vous apprendra ***les bases du codage*** par la "
@@ -2532,6 +2666,10 @@ msgstr ""
 "succesvol te kunnen uitvoeren. Je zult dus in staat zijn om een dubbele "
 "ervaring te beleven, namelijk dat je echt begint met je training om deze "
 "cursus te geven en die van de studenten in een leersituatie."
+
+#: (dynamic)
+msgid "Journée info sans ordi"
+msgstr "Infodag zonder computer"
 
 #: http://localhost/intervenants/marie-duflot-kremer/
 #: (content/intervenants/marie-duflot-kremer/contents+fr.lr:speaker.description)
@@ -2567,10 +2705,9 @@ msgstr ""
 msgid "* Formation et soutien de professeurs"
 msgstr ""
 
-#: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
-#: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.description)
-msgid "===== Quels sont les environnements sont supportés? ====="
-msgstr "===== Welke omgevingen worden ondersteund? ====="
+#: (dynamic)
+msgid "Concert"
+msgstr "Concert"
 
 #: http://localhost/intervenants/thierry-massart/
 #: (content/intervenants/thierry-massart/contents+fr.lr:speaker.description)
@@ -2771,8 +2908,8 @@ msgstr ""
 "* Magister en Informática Educativa studeerde af aan [UTEM](ttps://www.utem."
 "cl/) in Santiago (Chili);"
 
-#: http://localhost/ateliers/la-maison-des-maths-et-du-numerique/
-#: (content/ateliers/la-maison-des-maths-et-du-numerique/contents+fr.lr:workshop.description)
+#: http://localhost/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/
+#: (content/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/contents+fr.lr:workshop.description)
 msgid ""
 "De cette façon, vous vivrez l'intérêt de ce type d'utilisation dans une "
 "classe."
@@ -2780,34 +2917,42 @@ msgstr ""
 "Op deze manier ervaart u het voordeel van dit soort gebruik in een "
 "klaslokaal."
 
+#: (dynamic)
+msgid "Maternelle"
+msgstr ""
+
 #: http://localhost/ateliers/decouverte-des-learningapps/
 #: (content/ateliers/decouverte-des-learningapps/contents+fr.lr:workshop.description)
 msgid "..* Un QR code est généré automatiquement pour chaque application."
 msgstr ".. * Voor elke toepassing wordt automatisch een QR-code gegenereerd."
 
-#: http://localhost/ateliers/sac-a-dos-numerique-pour-lapprentissage-par-competences/
-#: (content/ateliers/sac-a-dos-numerique-pour-lapprentissage-par-competences/contents+fr.lr:workshop.periodes)
-msgid "(1+)x50'"
-msgstr "(1+)x50'"
+#: http://localhost/ateliers/decouverte-des-learningapps/
+#: (content/ateliers/decouverte-des-learningapps/contents+fr.lr:workshop.description)
+msgid "* Un QR code est généré automatiquement pour chaque application."
+msgstr ""
+
+#: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
+#: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.description)
+msgid "***  Eclipse Che pour l'enseignement. ***"
+msgstr ""
+
+#: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
+#: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.description)
+msgid ""
+"Il est toujours compliqué de préparer un environnement de développement pour "
+"un atelier ou un cours."
+msgstr ""
+"Het is altijd moeilijk om een ontwikkelomgeving voor te bereiden op een "
+"workshop of cursus."
 
 #: http://localhost/concert/ (content/concert/contents+fr.lr:concert.title)
 msgid "Concert Festif Educode"
 msgstr "Feestelijk concert Educode"
 
-#: http://localhost/ateliers/la-maison-des-maths-et-du-numerique/
-#: (content/ateliers/la-maison-des-maths-et-du-numerique/contents+fr.lr:workshop.title)
-msgid "La Maison des Maths et du Numérique"
-msgstr "The House of Maths and Digital"
-
 #: http://localhost/intervenants/christine-lefevre/
 #: (content/intervenants/christine-lefevre/contents+fr.lr:speaker.description)
 msgid "* 2008 : CAPAES"
 msgstr ""
-
-#: http://localhost/ateliers/fadagogocom-coder-en-25-defis/
-#: (content/ateliers/fadagogocom-coder-en-25-defis/contents+fr.lr:workshop.title)
-msgid "fadagogo.com, coder en 25 défis"
-msgstr "fadagogo.com, code in 25 uitdagingen"
 
 #: http://localhost/intervenants/rupert-meurice-de-dormale/
 #: (content/intervenants/rupert-meurice-de-dormale/contents+fr.lr:speaker.description)
@@ -2853,6 +2998,17 @@ msgstr ""
 #: (content/ateliers/internet-et-le-web/contents+fr.lr:workshop.title)
 msgid "Internet et le web"
 msgstr "Internet en internet"
+
+#: http://localhost/ateliers/apprendre-a-souder/
+#: (content/ateliers/apprendre-a-souder/contents+fr.lr:workshop.tag)
+#: http://localhost/ateliers/le-numerique-pour-faire-face-aux-inegalites-scolaires/
+#: (content/ateliers/le-numerique-pour-faire-face-aux-inegalites-scolaires/contents+fr.lr:workshop.tag)
+#: http://localhost/ateliers/premiers-pas-dans-la-programmation-ludique-et-creative/
+#: (content/ateliers/premiers-pas-dans-la-programmation-ludique-et-creative/contents+fr.lr:workshop.tag)
+#: http://localhost/ateliers/de-la-tortue-logo-au-chat-scratch/
+#: (content/ateliers/de-la-tortue-logo-au-chat-scratch/contents+fr.lr:workshop.tag)
+msgid "primaire, secondaire"
+msgstr ""
 
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
@@ -2905,6 +3061,10 @@ msgstr ""
 msgid "Un soirée exceptionnelle dans un lieu d'exception"
 msgstr "Een uitzonderlijke avond op een uitzonderlijke plek"
 
+#: (dynamic)
+msgid "Langue"
+msgstr "Taal"
+
 #: http://localhost/intervenants/rupert-meurice-de-dormale/
 #: (content/intervenants/rupert-meurice-de-dormale/contents+fr.lr:speaker.description)
 msgid ""
@@ -2925,6 +3085,13 @@ msgstr ""
 "training. Oplossingen voor kinderopvang met activiteiten worden "
 "georganiseerd zodat alle ouders kunnen deelnemen."
 
+#: http://localhost/ateliers/decouverte-des-learningapps/
+#: (content/ateliers/decouverte-des-learningapps/contents+fr.lr:workshop.description)
+msgid ""
+"* Les exercices peuvent être réalisés en plein écran (pas d'éléments "
+"perturbateurs)."
+msgstr ""
+
 #: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
 #: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.description)
 msgid ""
@@ -2940,6 +3107,10 @@ msgid ""
 "[Cliquez ici](../concert) pour plus d'informations sur la représentation."
 msgstr ""
 "[Klik hier](../concert) voor meer informatie over de vertegenwoordiging."
+
+#: (dynamic)
+msgid "Concert festif exceptionnel"
+msgstr "Uitzonderlijk feestelijk concert"
 
 #: http://localhost/ateliers/internet-et-le-web/
 #: (content/ateliers/internet-et-le-web/contents+fr.lr:workshop.description)
@@ -2978,8 +3149,12 @@ msgstr ""
 msgid "Au programme:"
 msgstr ""
 
-#: http://localhost/ateliers/la-maison-des-maths-et-du-numerique/
-#: (content/ateliers/la-maison-des-maths-et-du-numerique/contents+fr.lr:workshop.description)
+#: (dynamic)
+msgid "Avant première du concert festif"
+msgstr "Preview van het feestelijke concert"
+
+#: http://localhost/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/
+#: (content/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/contents+fr.lr:workshop.description)
 msgid ""
 "Cela permettra de réveiller votre **âme d'enfant** et d'approcher "
 "concrètement les __compétences disciplinaires et transversales__ abordées."
@@ -3029,6 +3204,13 @@ msgstr ""
 #: (content/lieux/he2b-defre/contents+fr.lr:location.address)
 msgid "Avenue Defré 62 à 1180 Bruxelles (Uccle)"
 msgstr "De Frélaan 62 te 1180 Brussel (Ukkel)"
+
+#: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
+#: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.description)
+msgid ""
+"** La solution apportée par Eclipse Che: reproductibilité des environnements "
+"de développement **"
+msgstr ""
 
 #: http://localhost/ateliers/un-boitier-de-mesure-pour-les-sciences-experimentales/
 #: (content/ateliers/un-boitier-de-mesure-pour-les-sciences-experimentales/contents+fr.lr:workshop.description)
@@ -3248,6 +3430,10 @@ msgstr ""
 "jongere kleuters. We hebben ervaren dat kinderen in het speciaal onderwijs "
 "vooral worden aangetrokken door interactie met robots."
 
+#: (dynamic)
+msgid "Info pratiques"
+msgstr "Praktische informatie"
+
 #: http://localhost/ateliers/jouer-pour-comprendre-lintelligence-artificielle/
 #: (content/ateliers/jouer-pour-comprendre-lintelligence-artificielle/contents+fr.lr:workshop.title)
 msgid "Jouer pour comprendre l'intelligence artificielle"
@@ -3383,6 +3569,10 @@ msgid ""
 "des Centres cybermédia par la Région wallonne 1998-1999;"
 msgstr ""
 
+#: (dynamic)
+msgid "Conférence de Gille Dowek"
+msgstr "Gille Dowek-lezing"
+
 #: http://localhost/ (content/contents+fr.lr:page.s_expo)
 msgid "Exposition"
 msgstr "Blootstelling"
@@ -3407,6 +3597,26 @@ msgstr "- Prof Bibiana Boccolini (Universiteit van Rosario, Argentinië)"
 msgid ""
 "* Cocréateur et enseignant de l'option de base Éducation Technique et "
 "Technologique;"
+msgstr ""
+
+#: http://localhost/ateliers/sac-a-dos-numerique-pour-lapprentissage-par-competences/
+#: (content/ateliers/sac-a-dos-numerique-pour-lapprentissage-par-competences/contents+fr.lr:workshop.tag)
+#: http://localhost/ateliers/decouverte-des-learningapps/
+#: (content/ateliers/decouverte-des-learningapps/contents+fr.lr:workshop.tag)
+#: http://localhost/ateliers/une-education-de-qualite-lodd4-questionne-par-le-numerique/
+#: (content/ateliers/une-education-de-qualite-lodd4-questionne-par-le-numerique/contents+fr.lr:workshop.tag)
+#: http://localhost/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/
+#: (content/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/contents+fr.lr:workshop.tag)
+#: http://localhost/ateliers/minecraft-en-python-sur-raspberry-pi/
+#: (content/ateliers/minecraft-en-python-sur-raspberry-pi/contents+fr.lr:workshop.tag)
+#: http://localhost/ateliers/une-cle-usb-vive-pour-enseigner-avec-un-systeme-libre/
+#: (content/ateliers/une-cle-usb-vive-pour-enseigner-avec-un-systeme-libre/contents+fr.lr:workshop.tag)
+msgid "secondaire, primaire, maternelle"
+msgstr ""
+
+#: http://localhost/ateliers/coder-en-25-defis/
+#: (content/ateliers/coder-en-25-defis/contents+fr.lr:workshop.tag)
+msgid "primaire, maternelle, secondaire"
 msgstr ""
 
 #: http://localhost/intervenants/nicolas-pettiaux/
@@ -3447,6 +3657,10 @@ msgstr ""
 #: http://localhost/concert/ (content/concert/contents+fr.lr:concert.cocktail)
 msgid "A 21h, rendez-vous pour un cocktail dînatoire"
 msgstr "Ga om 21.00 uur voor een cocktaildiner"
+
+#: (dynamic)
+msgid "Résumé"
+msgstr ""
 
 #: http://localhost/intervenants/gregoire-fischer/
 #: (content/intervenants/gregoire-fischer/contents+fr.lr:speaker.description)
@@ -3603,10 +3817,18 @@ msgstr "* Leraar van het 5e en 6e leerjaar voor 20 jaar"
 msgid "- Dr Nicolas Pettiaux (ESI-HE2B & ULB-Lisa, maître-assistant)"
 msgstr "- Dr Nicolas Pettiaux (ESI-HE2B & ULB-Lisa, assistent-master)"
 
+#: (dynamic)
+msgid "Cocktail dinatoire"
+msgstr "Cocktail diner"
+
 #: http://localhost/ateliers/des-robots-des-la-maternelle/
 #: (content/ateliers/des-robots-des-la-maternelle/contents+fr.lr:workshop.tag)
 msgid "maternelle"
 msgstr "kleuterschool"
+
+#: (dynamic)
+msgid "Avant première du concert"
+msgstr "Preview van het concert"
 
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
@@ -3630,6 +3852,12 @@ msgstr "Voorstellen moeten uiterlijk op 15 september 2019 zijn ingediend."
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "#Contact"
 msgstr "#Contact"
+
+#: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
+#: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.description)
+msgid ""
+"** Le besoin: des environnements de travail fonctionnels et homogènes **"
+msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.concert)
 msgid ""
@@ -3696,6 +3924,10 @@ msgid ""
 msgstr ""
 "* Toegekend door [Ashoka](https://eduinnovation.be/fr/) voor een innovatief "
 "educatief project"
+
+#: (dynamic)
+msgid "à :"
+msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.partners_about)
 msgid ""
@@ -3766,11 +3998,6 @@ msgstr ""
 "als de aspecten met betrekking tot het oplossen van problemen, inzicht in de "
 "mechanismen van de werking van computers, juridische en ethische kwesties in "
 "verband met het gebruik van digitale enz. zijn erg belangrijk."
-
-#: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
-#: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.description)
-msgid "======  Eclipse Che pour l'enseignement. ======"
-msgstr "======  Eclipse Che voor het lesgeven. ======"
 
 #: http://localhost/ (content/contents+fr.lr:page.registration)
 msgid ""
@@ -3853,121 +4080,81 @@ msgstr ""
 "Elk hulpvoorstel kan worden gestuurd naar [aider@educode.be](mailto://"
 "aider@educode.be?subject=Help educode&body=Ik wil educode helpen)."
 
-#: templates/concert.html:12
-msgid "Concert festif exceptionnel"
-msgstr "Uitzonderlijk feestelijk concert"
+#~ msgid ""
+#~ "Après une courte introduction sur l'importance de l'algorithmique dans le "
+#~ "cursus des élèves, l'atelier vous apprendra ***les bases du codage*** par "
+#~ "la réalisation de \"défis\"."
+#~ msgstr ""
+#~ "Na een korte introductie over het belang van algoritmen in de curricula "
+#~ "van studenten, leert de workshop je ***de basisprincipes van codering*** "
+#~ "door \"uitdagingen\" uit te voeren."
 
-#: templates/concert.html:14
-msgid ""
-"Dans la salle gothique de l'hôtel de ville de Bruxelles, à la Grand-Place."
-msgstr "In de gotische hal van het stadhuis van Brussel op de Grote Markt."
+#~ msgid ""
+#~ "Cet atelier se veut une discussion sur la manière d’utiliser le MOOC sur "
+#~ "la plateforme FUN  “[Apprendre à coder avec Python](https://www.fun-mooc."
+#~ "fr/courses/course-v1:ulb+44013+session02/about)”  (cours gratuit) comme "
+#~ "base pour animer un cours complet d’initiation à la programmation pour un "
+#~ "public d’élèves du secondaire supérieur (15-18 ans)."
+#~ msgstr ""
+#~ "Deze workshop is een discussie over het gebruik van de MOOC op het FUN-"
+#~ "platform \"[Apprendre à coder avec Python](https://www.fun-mooc.fr/"
+#~ "courses/course-v1:ulb+44013+session02/about)\"(gratis cursus) als basis "
+#~ "voor het geven van een complete introductiecursus programmeren voor een "
+#~ "publiek van studenten op de middelbare school (15-18 jaar oud)."
 
-#: templates/concert.html:14
-msgid "Lundi 7 octobre 2019 de 19h à 23h avec cocktail dinatoire."
-msgstr "Maandag 7 oktober 2019 van 19.00 tot 23.00 uur met cocktaildiner."
+#~ msgid "(1+)x50'"
+#~ msgstr "(1+)x50'"
 
-#: templates/concert.html:19
-msgid "Conférence de Gille Dowek"
-msgstr "Gille Dowek-lezing"
+#~ msgid ""
+#~ "===== Le besoin: des environnements de travail fonctionnels et homogènes "
+#~ "====="
+#~ msgstr "===== De behoefte: functionele en homogene werkomgevingen ====="
 
-#: templates/concert.html:26
-msgid "Le carnaval des animaux"
-msgstr "Het carnaval van dieren"
+#~ msgid "===== Les avantages ? ====="
+#~ msgstr "===== De voordelen ? ====="
 
-#: templates/concert.html:27
-msgid "de"
-msgstr "van"
+#~ msgid "===== Comment mettre en oeuvre Eclipse Che. ====="
+#~ msgstr "===== Hoe Eclipse Che te implementeren ====="
 
-#: templates/concert.html:29
-msgid "Avec"
-msgstr "Met"
+#~ msgid ""
+#~ "* Quelle est la place de l'Internet dans nos vies au quotidien ? Quelle "
+#~ "fut son origine, son évolution, et vers où nous emmène son futur ? A quoi "
+#~ "servent les cookies ? Où sont stockées mes données, celles de mes élèves, "
+#~ "et à quoi peuvent-elles servir ? A quels risques je m’expose lorsque "
+#~ "j’utilise l’Internet et ses applications, pour moi-même ou en classe ? Et "
+#~ "comment puis-je devenir le gardien de mes données et de ma vie privée, "
+#~ "tout en protégeant celle des autres ? Les enjeux de l'EdTech et "
+#~ "ressources qualitatives pour l'éducation. \\ En partenariat avec The "
+#~ "Coding Club et we are coders asbl."
+#~ msgstr ""
+#~ "* Wat is de plaats van internet in ons dagelijks leven? Wat was zijn "
+#~ "oorsprong, zijn evolutie, en waar brengt zijn toekomst ons naartoe? Waar "
+#~ "zijn cookies voor? Waar worden mijn gegevens opgeslagen, de gegevens van "
+#~ "mijn studenten en waar kunnen ze voor worden gebruikt? Aan welke risico's "
+#~ "stel ik mezelf bloot wanneer ik internet en de toepassingen ervan "
+#~ "gebruik, voor mezelf of in de klas? En hoe kan ik de bewaker van mijn "
+#~ "gegevens en mijn privacy worden, terwijl ik die van anderen bescherm? De "
+#~ "uitdagingen van EdTech en kwalitatieve middelen voor onderwijs. \\ In "
+#~ "samenwerking met The Coding Club en we zijn coders vzw."
 
-#: templates/concert.html:31
-msgid "flûte"
-msgstr "fluit"
+#~ msgid ""
+#~ "===== La solution apportée par Eclipse Che: reproductibilité des "
+#~ "environnements de développement ====="
+#~ msgstr ""
+#~ "===== De oplossing van Eclipse Che: reproduceerbaarheid van "
+#~ "ontwikkelomgevingen ====="
 
-#: templates/concert.html:32
-msgid "clarinette"
-msgstr "klarinet"
+#~ msgid "===== Quels sont les environnements sont supportés? ====="
+#~ msgstr "===== Welke omgevingen worden ondersteund? ====="
 
-#: templates/concert.html:33 templates/concert.html:34
-msgid "violon"
-msgstr "viool"
+#~ msgid "La Maison des Maths et du Numérique"
+#~ msgstr "The House of Maths and Digital"
 
-#: templates/concert.html:35
-msgid "alto"
-msgstr "viola"
+#~ msgid "fadagogo.com, coder en 25 défis"
+#~ msgstr "fadagogo.com, code in 25 uitdagingen"
 
-#: templates/concert.html:36
-msgid "violoncelle"
-msgstr "cello"
-
-#: templates/concert.html:37
-msgid "contrebasse"
-msgstr "bas"
-
-#: templates/concert.html:38 templates/concert.html:39
-msgid "piano"
-msgstr "piano"
-
-#: templates/concert.html:40
-msgid "percussion"
-msgstr "percussie"
-
-#: templates/concert.html:41
-msgid "conteuse"
-msgstr "raconteur"
-
-#: templates/concert.html:46
-msgid "Cocktail dinatoire"
-msgstr "Cocktail diner"
-
-#: templates/layout.html:40
-msgid "Langue"
-msgstr "Taal"
-
-#: templates/macros/sections.html:20 templates/macros/sections.html:47
-#: templates/page.html:53 templates/speaker.html:73
-msgid "Journée principale"
-msgstr "Belangrijkste dag"
-
-#: templates/page.html:61
-msgid "Voir les ateliers"
-msgstr "Bekijk de workshops"
-
-#: templates/page.html:67
-msgid "Avant première du concert festif"
-msgstr "Preview van het feestelijke concert"
-
-#: templates/page.html:76
-msgid "Journée info sans ordi (annulé)"
-msgstr ""
-
-#: templates/macros/sections.html:23 templates/macros/sections.html:50
-#: templates/page.html:85
-msgid "Concert festif"
-msgstr "Feestelijk concert"
-
-#: templates/page.html:221
-msgid "S'inscrire"
-msgstr "Inschrijven"
-
-#: templates/macros/sections.html:21 templates/macros/sections.html:48
-#: templates/speaker.html:74
-msgid "Journée info sans ordi"
-msgstr "Infodag zonder computer"
-
-#: templates/speaker.html:75
-msgid "Concert"
-msgstr "Concert"
-
-#: templates/macros/sections.html:22 templates/macros/sections.html:49
-msgid "Avant première du concert"
-msgstr "Preview van het concert"
-
-#: templates/macros/sections.html:30 templates/macros/sections.html:57
-msgid "Info pratiques"
-msgstr "Praktische informatie"
+#~ msgid "======  Eclipse Che pour l'enseignement. ======"
+#~ msgstr "======  Eclipse Che voor het lesgeven. ======"
 
 #~ msgid "Les inscriptions sont [ouvertes](https://inscriptions.educode.be)"
 #~ msgstr "Inschrijvingen zijn [open](https://inscriptions.educode.be)"

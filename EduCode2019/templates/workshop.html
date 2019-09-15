@@ -9,7 +9,7 @@
                 <p>
                     {{ this.title }}
                     <br>
-                    <strong>{{ this.tag }}</strong>
+                    <strong>{% for tag in this.tag %}{{tag}} {% endfor %}</strong>
                 </p>
             </div>
 
@@ -35,7 +35,7 @@
                     <strong>
                         <span class="text-dark"><i class="fa fa-align-bullhorn"></i> Public : </span>
                     </strong>
-                    {{ this.tag }}
+                    {% for tag in this.tag %} {{tag}} {% endfor %}
                 </div>
 
                 <div class="police-normal">
@@ -50,7 +50,11 @@
                     <strong>
                         <span class="text-dark"><i class="fa fa-align-bullhorn"></i> Périodes : </span>
                     </strong>
-                    {{ this.periodes }}
+                    <ul>
+                    {% for periode in this.hours %} 
+                        <li>{{periode}}</li>
+                    {% endfor %}
+                    </ul>
                     <hr>
                 </div>
 

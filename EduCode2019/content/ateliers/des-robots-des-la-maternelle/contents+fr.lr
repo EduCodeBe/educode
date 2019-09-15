@@ -18,8 +18,12 @@ language: fr
 ---
 number: 12
 ---
-periodes: 1x50'
+periodes:
 ---
 required_materials: Projecteur
 ---
 tag: maternelle
+---
+hours: 9:00 - 10:00
+---
+local: 203
