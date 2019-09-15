@@ -1,8 +1,8 @@
 _model: workshop
 ---
-title: fadagogo.com, coder en 25 défis
+title: Coder en 25 défis
 ---
-abstract: Après une courte introduction sur l'importance de l'algorithmique dans le cursus des élèves, l'atelier vous apprendra ***les bases du codage*** par la réalisation de "défis".
+abstract: Après une courte introduction sur l'importance de l'algorithmique dans le cursus des élèves, l'atelier vous apprendra les bases du codage par la réalisation de "défis".
 ---
 age: 9-99
 ---
@@ -20,4 +20,8 @@ number: 20
 ---
 required_materials: Ordinateur, Internet
 ---
-tag: tous
+tag: primaire, maternelle, secondaire
+---
+hours: 10:00 - 11:00, 11:00 - 12:00
+---
+local: 202

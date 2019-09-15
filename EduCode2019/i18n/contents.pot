@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-13 19:29+CET\n"
+"POT-Creation-Date: 2019-09-15 12:40+CET\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: fr <LL@li.org>\n"
@@ -36,20 +36,6 @@ msgid ""
 "html) règle ce problème. Une clé USB vive, donc bootable comme un disque "
 "externe, avec un système GNULinux, et une sélection de quelques milliers de "
 "paquets logiciels, de la logithèque Debian."
-msgstr ""
-
-#: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
-#: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.description)
-msgid ""
-"===== Le besoin: des environnements de travail fonctionnels et homogènes "
-"====="
-msgstr ""
-
-#: http://localhost/ateliers/decouverte-des-learningapps/
-#: (content/ateliers/decouverte-des-learningapps/contents+fr.lr:workshop.description)
-msgid ""
-"..* Il est possible de créer un compte pour sa classe où chaque élève peut "
-"se connecter."
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.s_sunday)
@@ -105,10 +91,14 @@ msgstr ""
 
 #: http://localhost/ateliers/construire-des-projets-et-des-labos-arduino/
 #: (content/ateliers/construire-des-projets-et-des-labos-arduino/contents+fr.lr:workshop.tag)
+#: http://localhost/ateliers/lenseignement-de-la-programmation-en-insertion-socio-professionnelle/
+#: (content/ateliers/lenseignement-de-la-programmation-en-insertion-socio-professionnelle/contents+fr.lr:workshop.tag)
 #: http://localhost/ateliers/internet-et-le-web/
 #: (content/ateliers/internet-et-le-web/contents+fr.lr:workshop.tag)
 #: http://localhost/ateliers/initier-au-codage-python-avec-laide-dun-mooc/
 #: (content/ateliers/initier-au-codage-python-avec-laide-dun-mooc/contents+fr.lr:workshop.tag)
+#: http://localhost/ateliers/modus-operandi-des-cartoparties-participatives/
+#: (content/ateliers/modus-operandi-des-cartoparties-participatives/contents+fr.lr:workshop.tag)
 msgid "secondaire"
 msgstr ""
 
@@ -123,11 +113,6 @@ msgstr ""
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "- 17h à 18h : buffet de clôture"
-msgstr ""
-
-#: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
-#: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.description)
-msgid "===== Les avantages ? ====="
 msgstr ""
 
 #: http://localhost/intervenants/benoit-naveau/
@@ -178,18 +163,21 @@ msgid ""
 "partager ses trouvailles et son expérience avec ses collègues instituteurs."
 msgstr ""
 
-#: http://localhost/ateliers/fadagogocom-coder-en-25-defis/
-#: (content/ateliers/fadagogocom-coder-en-25-defis/contents+fr.lr:workshop.abstract)
+#: http://localhost/ateliers/internet-et-le-web/
+#: (content/ateliers/internet-et-le-web/contents+fr.lr:workshop.description)
 msgid ""
-"Après une courte introduction sur l'importance de l'algorithmique dans le "
-"cursus des élèves, l'atelier vous apprendra ***les bases du codage*** par la "
-"réalisation de \"défis\"."
+"* Quelle est la place de l'Internet dans nos vies au quotidien ? Quelle fut "
+"son origine, son évolution, et vers où nous emmène son futur ? A quoi "
+"servent les cookies ? Où sont stockées mes données, celles de mes élèves, et "
+"à quoi peuvent-elles servir ? A quels risques je m’expose lorsque j’utilise "
+"l’Internet et ses applications, pour moi-même ou en classe ? Et comment puis-"
+"je devenir le gardien de mes données et de ma vie privée, tout en protégeant "
+"celle des autres ? Les enjeux de l'EdTech et ressources qualitatives pour "
+"l'éducation."
 msgstr ""
 
 #: http://localhost/ateliers/le-numerique-pour-faire-face-aux-inegalites-scolaires/
 #: (content/ateliers/le-numerique-pour-faire-face-aux-inegalites-scolaires/contents+fr.lr:workshop.periodes)
-#: http://localhost/ateliers/des-robots-des-la-maternelle/
-#: (content/ateliers/des-robots-des-la-maternelle/contents+fr.lr:workshop.periodes)
 msgid "1x50'"
 msgstr ""
 
@@ -201,6 +189,14 @@ msgstr ""
 #: http://localhost/ateliers/apprendre-a-souder/
 #: (content/ateliers/apprendre-a-souder/contents+fr.lr:workshop.description)
 msgid "* Apprendre à mettre les composants dans le bon sens"
+msgstr ""
+
+#: http://localhost/ateliers/coder-en-25-defis/
+#: (content/ateliers/coder-en-25-defis/contents+fr.lr:workshop.abstract)
+msgid ""
+"Après une courte introduction sur l'importance de l'algorithmique dans le "
+"cursus des élèves, l'atelier vous apprendra les bases du codage par la "
+"réalisation de \"défis\"."
 msgstr ""
 
 #: http://localhost/intervenants/hugues-bersini/
@@ -228,11 +224,6 @@ msgstr ""
 msgid ""
 "- 16h00 à 18h00 : Projection du film **La bataille du libre** suivie d'une "
 "discussion avec son réalisateur, Philippe Borel"
-msgstr ""
-
-#: http://localhost/ateliers/decouverte-des-learningapps/
-#: (content/ateliers/decouverte-des-learningapps/contents+fr.lr:workshop.description)
-msgid "..* Les types d'exercices sont variés."
 msgstr ""
 
 #: http://localhost/intervenants/myriam-criquet/
@@ -267,11 +258,6 @@ msgstr ""
 #: http://localhost/ateliers/apprendre-a-souder/
 #: (content/ateliers/apprendre-a-souder/contents+fr.lr:workshop.title)
 msgid "Apprendre à souder son premier circuit électronique"
-msgstr ""
-
-#: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
-#: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.description)
-msgid "===== Comment mettre en oeuvre Eclipse Che. ====="
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.press_text)
@@ -510,6 +496,11 @@ msgid ""
 "[educode 2019](https://2019.educode.be/)."
 msgstr ""
 
+#: http://localhost/ateliers/decouvrir-le-robot-cubetto/
+#: (content/ateliers/decouvrir-le-robot-cubetto/contents+fr.lr:workshop.tag)
+msgid "maternelle, primaire"
+msgstr ""
+
 #: http://localhost/ateliers/initiation-a-la-pensee-informatique-en-primaire/
 #: (content/ateliers/initiation-a-la-pensee-informatique-en-primaire/contents+fr.lr:workshop.abstract)
 #: (content/ateliers/initiation-a-la-pensee-informatique-en-primaire/contents+fr.lr:workshop.description)
@@ -534,6 +525,15 @@ msgstr ""
 #: http://localhost/lieux/he2b-defre/
 #: (content/lieux/he2b-defre/contents+fr.lr:location.name)
 msgid "HE2B-Defré"
+msgstr ""
+
+#: http://localhost/ateliers/initier-au-codage-python-avec-laide-dun-mooc/
+#: (content/ateliers/initier-au-codage-python-avec-laide-dun-mooc/contents+fr.lr:workshop.abstract)
+msgid ""
+"Cet atelier se veut une discussion sur la manière d’utiliser le MOOC sur la "
+"plateforme FUN  “Apprendre à coder avec Python”  (cours gratuit) comme base "
+"pour animer un cours complet d’initiation à la programmation pour un public "
+"d’élèves du secondaire supérieur (15-18 ans)."
 msgstr ""
 
 #: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
@@ -618,16 +618,16 @@ msgstr ""
 #: (content/ateliers/decouverte-des-learningapps/contents+fr.lr:workshop.language)
 #: http://localhost/ateliers/construire-des-projets-et-des-labos-arduino/
 #: (content/ateliers/construire-des-projets-et-des-labos-arduino/contents+fr.lr:workshop.language)
-#: http://localhost/ateliers/fadagogocom-coder-en-25-defis/
-#: (content/ateliers/fadagogocom-coder-en-25-defis/contents+fr.lr:workshop.language)
+#: http://localhost/ateliers/coder-en-25-defis/
+#: (content/ateliers/coder-en-25-defis/contents+fr.lr:workshop.language)
 #: http://localhost/ateliers/une-education-de-qualite-lodd4-questionne-par-le-numerique/
 #: (content/ateliers/une-education-de-qualite-lodd4-questionne-par-le-numerique/contents+fr.lr:workshop.language)
 #: http://localhost/ateliers/jouer-pour-comprendre-lintelligence-artificielle/
 #: (content/ateliers/jouer-pour-comprendre-lintelligence-artificielle/contents+fr.lr:workshop.language)
 #: http://localhost/ateliers/codenplay-krings/
 #: (content/ateliers/codenplay-krings/contents+fr.lr:workshop.language)
-#: http://localhost/ateliers/la-maison-des-maths-et-du-numerique/
-#: (content/ateliers/la-maison-des-maths-et-du-numerique/contents+fr.lr:workshop.language)
+#: http://localhost/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/
+#: (content/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/contents+fr.lr:workshop.language)
 #: http://localhost/ateliers/lenseignement-de-la-programmation-en-insertion-socio-professionnelle/
 #: (content/ateliers/lenseignement-de-la-programmation-en-insertion-socio-professionnelle/contents+fr.lr:workshop.language)
 #: http://localhost/ateliers/internet-et-le-web/
@@ -664,6 +664,11 @@ msgid ""
 "atelier, les enseignants découvriront des ressources et une approche par "
 "laquelle ils pourront initier, de façon ludique et pratique leurs élèves aux "
 "joies de la pensée computationnelle et de la programmation informatique."
+msgstr ""
+
+#: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
+#: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.description)
+msgid "** Comment mettre en oeuvre Eclipse Che. **"
 msgstr ""
 
 #: http://localhost/ateliers/decouvrir-le-robot-cubetto/
@@ -795,6 +800,11 @@ msgid ""
 "elle mène des actions toujours liées à l'ODD 4 : Une éducation de qualité."
 msgstr ""
 
+#: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
+#: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.description)
+msgid "** Quels sont les environnements sont supportés? **"
+msgstr ""
+
 #: http://localhost/intervenants/christine-lefevre/
 #: (content/intervenants/christine-lefevre/contents+fr.lr:speaker.description)
 msgid "* Cours de mathématiques et nouvelles technologies."
@@ -891,6 +901,11 @@ msgstr ""
 msgid "Découvrir le robot Cubetto et animer un atelier dans sa classe"
 msgstr ""
 
+#: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
+#: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.description)
+msgid "** Les avantages ? **"
+msgstr ""
+
 #: http://localhost/ (content/contents+fr.lr:page.practical_infos)
 msgid ""
 "La journée se déroulera dans les locaux de la HE2B-Defré, avenue Defré 62 à "
@@ -914,7 +929,7 @@ msgstr ""
 #: (content/ateliers/minecraft-en-python-sur-raspberry-pi/contents+fr.lr:workshop.abstract)
 #: (content/ateliers/minecraft-en-python-sur-raspberry-pi/contents+fr.lr:workshop.description)
 msgid ""
-"Sur un raspberry Pi (mini ordinateur tres bon marche), jouer a Minecraft en "
+"Sur un Raspberry Pi (mini ordinateur très bon marché), jouer à Minecraft en "
 "programmant en Python."
 msgstr ""
 
@@ -1045,16 +1060,6 @@ msgid ""
 "Merci de vous munir des documents d’inscription pour une vérification aisée."
 msgstr ""
 
-#: http://localhost/ateliers/initier-au-codage-python-avec-laide-dun-mooc/
-#: (content/ateliers/initier-au-codage-python-avec-laide-dun-mooc/contents+fr.lr:workshop.abstract)
-msgid ""
-"Cet atelier se veut une discussion sur la manière d’utiliser le MOOC sur la "
-"plateforme FUN  “[Apprendre à coder avec Python](https://www.fun-mooc.fr/"
-"courses/course-v1:ulb+44013+session02/about)”  (cours gratuit) comme base "
-"pour animer un cours complet d’initiation à la programmation pour un public "
-"d’élèves du secondaire supérieur (15-18 ans)."
-msgstr ""
-
 #: http://localhost/intervenants/rupert-meurice-de-dormale/
 #: (content/intervenants/rupert-meurice-de-dormale/contents+fr.lr:speaker.description)
 msgid ""
@@ -1109,13 +1114,6 @@ msgid ""
 "qui met à la portée de tous un domaine pourtant considéré comme difficile."
 msgstr ""
 
-#: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
-#: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.description)
-msgid ""
-"Il est toujours compliqué de préparer un environnement de développement pour "
-"un atelier ou un cours."
-msgstr ""
-
 #: http://localhost/intervenants/laurent-beeckmans/
 #: (content/intervenants/laurent-beeckmans/contents+fr.lr:speaker.description)
 msgid ""
@@ -1128,8 +1126,8 @@ msgid ""
 "de Bruxelles et à l'University of East Anglia en Angleterre."
 msgstr ""
 
-#: http://localhost/ateliers/la-maison-des-maths-et-du-numerique/
-#: (content/ateliers/la-maison-des-maths-et-du-numerique/contents+fr.lr:workshop.description)
+#: http://localhost/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/
+#: (content/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/contents+fr.lr:workshop.description)
 msgid ""
 "L'intégration de la robotique permet de manière __non formelle__ d'aborder "
 "ces concepts qui seront au service du robot. Indirectement, on redonne tous "
@@ -1207,17 +1205,9 @@ msgstr ""
 msgid "* De 1989 à 1995 : Analyste programmeur - Analyste."
 msgstr ""
 
-#: http://localhost/ateliers/internet-et-le-web/
-#: (content/ateliers/internet-et-le-web/contents+fr.lr:workshop.description)
-msgid ""
-"* Quelle est la place de l'Internet dans nos vies au quotidien ? Quelle fut "
-"son origine, son évolution, et vers où nous emmène son futur ? A quoi "
-"servent les cookies ? Où sont stockées mes données, celles de mes élèves, et "
-"à quoi peuvent-elles servir ? A quels risques je m’expose lorsque j’utilise "
-"l’Internet et ses applications, pour moi-même ou en classe ? Et comment puis-"
-"je devenir le gardien de mes données et de ma vie privée, tout en protégeant "
-"celle des autres ? Les enjeux de l'EdTech et ressources qualitatives pour "
-"l'éducation. \\ En partenariat avec The Coding Club et we are coders asbl."
+#: http://localhost/ateliers/decouverte-des-learningapps/
+#: (content/ateliers/decouverte-des-learningapps/contents+fr.lr:workshop.description)
+msgid "* Les types d'exercices sont variés."
 msgstr ""
 
 #: http://localhost/lieux/villebxl/
@@ -1292,6 +1282,11 @@ msgstr ""
 msgid ""
 "Les participants à Educode  sont attendus dès 8h30. Les conférences et "
 "ateliers commencent à 9h00 précise."
+msgstr ""
+
+#: http://localhost/ateliers/internet-et-le-web/
+#: (content/ateliers/internet-et-le-web/contents+fr.lr:workshop.description)
+msgid "En partenariat avec The Coding Club et we are coders asbl."
 msgstr ""
 
 #: http://localhost/intervenants/christine-lefevre/
@@ -1441,6 +1436,13 @@ msgstr ""
 msgid "* Créateur de la [Robotic Academy](https://fr-fr.facebook.com/lsgTeam)"
 msgstr ""
 
+#: http://localhost/ateliers/decouverte-des-learningapps/
+#: (content/ateliers/decouverte-des-learningapps/contents+fr.lr:workshop.description)
+msgid ""
+"* Ils ont le choix d'utiliser les \"apps\" de la communauté, de les modifier "
+"ou de créer les leurs."
+msgstr ""
+
 #: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
 #: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.description)
 msgid ""
@@ -1490,8 +1492,8 @@ msgstr ""
 msgid "- Karin Van Loon (HE2B-ISIB, directrice)"
 msgstr ""
 
-#: http://localhost/ateliers/la-maison-des-maths-et-du-numerique/
-#: (content/ateliers/la-maison-des-maths-et-du-numerique/contents+fr.lr:workshop.description)
+#: http://localhost/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/
+#: (content/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/contents+fr.lr:workshop.description)
 msgid ""
 "Ce projet a été sélectionné en 2018 parmi les __projets belges les plus "
 "innovants__ par **Ashoka**."
@@ -1595,6 +1597,13 @@ msgid ""
 "nantes.fr/~cdlh/)' homepage"
 msgstr ""
 
+#: http://localhost/ateliers/decouverte-des-learningapps/
+#: (content/ateliers/decouverte-des-learningapps/contents+fr.lr:workshop.description)
+msgid ""
+"* Il est possible de créer un compte pour sa classe où chaque élève peut se "
+"connecter."
+msgstr ""
+
 #: http://localhost/ateliers/decouvrir-le-robot-cubetto/
 #: (content/ateliers/decouvrir-le-robot-cubetto/contents+fr.lr:workshop.description)
 msgid "* Vous vous souvenez de la « tortue graphique logo » ?"
@@ -1655,13 +1664,18 @@ msgid ""
 "début des années 2000."
 msgstr ""
 
+#: http://localhost/ateliers/decouverte-des-learningapps/
+#: (content/ateliers/decouverte-des-learningapps/contents+fr.lr:workshop.description)
+msgid "* C'est un outil multi-plateforme, utilisable sur PC, tablette ou TBI."
+msgstr ""
+
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "- Alexia Pasini (HE2B, co-présidente)"
 msgstr ""
 
-#: http://localhost/ateliers/la-maison-des-maths-et-du-numerique/
-#: (content/ateliers/la-maison-des-maths-et-du-numerique/contents+fr.lr:workshop.description)
+#: http://localhost/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/
+#: (content/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/contents+fr.lr:workshop.description)
 msgid ""
 "Après une brève explication du logiciel et de son utilisation, vous serez en "
 "charge de réaliser une __mission concrète__ en rendant votre robot autonome "
@@ -1724,8 +1738,8 @@ msgstr ""
 msgid "BeCentral"
 msgstr ""
 
-#: http://localhost/ateliers/la-maison-des-maths-et-du-numerique/
-#: (content/ateliers/la-maison-des-maths-et-du-numerique/contents+fr.lr:workshop.description)
+#: http://localhost/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/
+#: (content/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/contents+fr.lr:workshop.description)
 msgid "__Description de l'atelier :__"
 msgstr ""
 
@@ -1829,6 +1843,11 @@ msgstr ""
 msgid "Sans cocktail : 30€ / 20€ / 15€ (étudiant) / 12€ (sans emploi)"
 msgstr ""
 
+#: http://localhost/ateliers/coder-en-25-defis/
+#: (content/ateliers/coder-en-25-defis/contents+fr.lr:workshop.title)
+msgid "Coder en 25 défis"
+msgstr ""
+
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid ""
@@ -1847,8 +1866,8 @@ msgid ""
 "Paris, Édition Le Pommier, coll. « Essais », 2007"
 msgstr ""
 
-#: http://localhost/ateliers/la-maison-des-maths-et-du-numerique/
-#: (content/ateliers/la-maison-des-maths-et-du-numerique/contents+fr.lr:workshop.periodes)
+#: http://localhost/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/
+#: (content/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/contents+fr.lr:workshop.periodes)
 msgid "2x50'"
 msgstr ""
 
@@ -1856,8 +1875,8 @@ msgstr ""
 msgid "Partenaires"
 msgstr ""
 
-#: http://localhost/ateliers/la-maison-des-maths-et-du-numerique/
-#: (content/ateliers/la-maison-des-maths-et-du-numerique/contents+fr.lr:workshop.description)
+#: http://localhost/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/
+#: (content/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/contents+fr.lr:workshop.description)
 msgid ""
 "Comment **susciter** la **passion** et l'**enthousiasme** autour des "
 "**apprentissages** et notamment les **mathématiques**?"
@@ -1908,6 +1927,14 @@ msgstr ""
 msgid "- Denis Longrée"
 msgstr ""
 
+#: http://localhost/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/
+#: (content/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/contents+fr.lr:workshop.abstract)
+msgid ""
+"Après une brève explication du logiciel et de son utilisation, vous serez en "
+"charge de réaliser une mission concrète en rendant votre robot autonome pour "
+"la résoudre de manière empirique."
+msgstr ""
+
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "- Prof Pierre Wolper (Uliège, recteur)"
@@ -1920,39 +1947,6 @@ msgid ""
 "facultés à l'[université libre de Bruxelles](http://ulb.be/)"
 msgstr ""
 
-#: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
-#: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.description)
-msgid ""
-"===== La solution apportée par Eclipse Che: reproductibilité des "
-"environnements de développement ====="
-msgstr ""
-
-#: http://localhost/ateliers/sac-a-dos-numerique-pour-lapprentissage-par-competences/
-#: (content/ateliers/sac-a-dos-numerique-pour-lapprentissage-par-competences/contents+fr.lr:workshop.tag)
-#: http://localhost/ateliers/decouvrir-le-robot-cubetto/
-#: (content/ateliers/decouvrir-le-robot-cubetto/contents+fr.lr:workshop.tag)
-#: http://localhost/ateliers/decouverte-des-learningapps/
-#: (content/ateliers/decouverte-des-learningapps/contents+fr.lr:workshop.tag)
-#: http://localhost/ateliers/fadagogocom-coder-en-25-defis/
-#: (content/ateliers/fadagogocom-coder-en-25-defis/contents+fr.lr:workshop.tag)
-#: http://localhost/ateliers/une-education-de-qualite-lodd4-questionne-par-le-numerique/
-#: (content/ateliers/une-education-de-qualite-lodd4-questionne-par-le-numerique/contents+fr.lr:workshop.tag)
-#: http://localhost/ateliers/jouer-pour-comprendre-lintelligence-artificielle/
-#: (content/ateliers/jouer-pour-comprendre-lintelligence-artificielle/contents+fr.lr:workshop.tag)
-#: http://localhost/ateliers/la-maison-des-maths-et-du-numerique/
-#: (content/ateliers/la-maison-des-maths-et-du-numerique/contents+fr.lr:workshop.tag)
-#: http://localhost/ateliers/lenseignement-de-la-programmation-en-insertion-socio-professionnelle/
-#: (content/ateliers/lenseignement-de-la-programmation-en-insertion-socio-professionnelle/contents+fr.lr:workshop.tag)
-#: http://localhost/ateliers/minecraft-en-python-sur-raspberry-pi/
-#: (content/ateliers/minecraft-en-python-sur-raspberry-pi/contents+fr.lr:workshop.tag)
-#: http://localhost/ateliers/le-numerique-pour-faire-face-aux-inegalites-scolaires/
-#: (content/ateliers/le-numerique-pour-faire-face-aux-inegalites-scolaires/contents+fr.lr:workshop.tag)
-#: http://localhost/ateliers/premiers-pas-dans-la-programmation-ludique-et-creative/
-#: (content/ateliers/premiers-pas-dans-la-programmation-ludique-et-creative/contents+fr.lr:workshop.tag)
-#: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
-#: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.tag)
-#: http://localhost/ateliers/de-la-tortue-logo-au-chat-scratch/
-#: (content/ateliers/de-la-tortue-logo-au-chat-scratch/contents+fr.lr:workshop.tag)
 #: http://localhost/ateliers/sexperiences-en-education-avec-en-logiciel-libre/
 #: (content/ateliers/sexperiences-en-education-avec-en-logiciel-libre/contents+fr.lr:workshop.tag)
 msgid "tous"
@@ -1992,8 +1986,8 @@ msgstr ""
 msgid "Le numérique pour faire face aux inégalités scolaires"
 msgstr ""
 
-#: http://localhost/ateliers/la-maison-des-maths-et-du-numerique/
-#: (content/ateliers/la-maison-des-maths-et-du-numerique/contents+fr.lr:workshop.abstract)
+#: http://localhost/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/
+#: (content/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/contents+fr.lr:workshop.title)
 msgid ""
 "Des robots pour donner de l'intérêt et de la motivation à l'apprentissage"
 msgstr ""
@@ -2031,6 +2025,13 @@ msgstr ""
 #: http://localhost/intervenants/christine-lefevre/
 #: (content/intervenants/christine-lefevre/contents+fr.lr:speaker.description)
 msgid "* Section normale primaire"
+msgstr ""
+
+#: http://localhost/ateliers/jouer-pour-comprendre-lintelligence-artificielle/
+#: (content/ateliers/jouer-pour-comprendre-lintelligence-artificielle/contents+fr.lr:workshop.tag)
+#: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
+#: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.tag)
+msgid "secondaire, primaire"
 msgstr ""
 
 #: http://localhost/intervenants/julie-henry/
@@ -2100,8 +2101,8 @@ msgid ""
 "logiques."
 msgstr ""
 
-#: http://localhost/ateliers/fadagogocom-coder-en-25-defis/
-#: (content/ateliers/fadagogocom-coder-en-25-defis/contents+fr.lr:workshop.description)
+#: http://localhost/ateliers/coder-en-25-defis/
+#: (content/ateliers/coder-en-25-defis/contents+fr.lr:workshop.description)
 msgid ""
 "Après une courte introduction sur l'importance de l'algorithmique dans le "
 "cursus des élèves, l'atelier vous apprendra ***les bases du codage*** par la "
@@ -2138,11 +2139,6 @@ msgstr ""
 #: http://localhost/intervenants/gregoire-fischer/
 #: (content/intervenants/gregoire-fischer/contents+fr.lr:speaker.description)
 msgid "* Formation et soutien de professeurs"
-msgstr ""
-
-#: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
-#: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.description)
-msgid "===== Quels sont les environnements sont supportés? ====="
 msgstr ""
 
 #: http://localhost/intervenants/thierry-massart/
@@ -2310,8 +2306,8 @@ msgid ""
 "à Santiago (Chile);"
 msgstr ""
 
-#: http://localhost/ateliers/la-maison-des-maths-et-du-numerique/
-#: (content/ateliers/la-maison-des-maths-et-du-numerique/contents+fr.lr:workshop.description)
+#: http://localhost/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/
+#: (content/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/contents+fr.lr:workshop.description)
 msgid ""
 "De cette façon, vous vivrez l'intérêt de ce type d'utilisation dans une "
 "classe."
@@ -2319,31 +2315,28 @@ msgstr ""
 
 #: http://localhost/ateliers/decouverte-des-learningapps/
 #: (content/ateliers/decouverte-des-learningapps/contents+fr.lr:workshop.description)
-msgid "..* Un QR code est généré automatiquement pour chaque application."
+msgid "* Un QR code est généré automatiquement pour chaque application."
 msgstr ""
 
-#: http://localhost/ateliers/sac-a-dos-numerique-pour-lapprentissage-par-competences/
-#: (content/ateliers/sac-a-dos-numerique-pour-lapprentissage-par-competences/contents+fr.lr:workshop.periodes)
-msgid "(1+)x50'"
+#: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
+#: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.description)
+msgid "***  Eclipse Che pour l'enseignement. ***"
+msgstr ""
+
+#: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
+#: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.description)
+msgid ""
+"Il est toujours compliqué de préparer un environnement de développement pour "
+"un atelier ou un cours."
 msgstr ""
 
 #: http://localhost/concert/ (content/concert/contents+fr.lr:concert.title)
 msgid "Concert Festif Educode"
 msgstr ""
 
-#: http://localhost/ateliers/la-maison-des-maths-et-du-numerique/
-#: (content/ateliers/la-maison-des-maths-et-du-numerique/contents+fr.lr:workshop.title)
-msgid "La Maison des Maths et du Numérique"
-msgstr ""
-
 #: http://localhost/intervenants/christine-lefevre/
 #: (content/intervenants/christine-lefevre/contents+fr.lr:speaker.description)
 msgid "* 2008 : CAPAES"
-msgstr ""
-
-#: http://localhost/ateliers/fadagogocom-coder-en-25-defis/
-#: (content/ateliers/fadagogocom-coder-en-25-defis/contents+fr.lr:workshop.title)
-msgid "fadagogo.com, coder en 25 défis"
 msgstr ""
 
 #: http://localhost/intervenants/rupert-meurice-de-dormale/
@@ -2383,6 +2376,17 @@ msgstr ""
 #: http://localhost/ateliers/internet-et-le-web/
 #: (content/ateliers/internet-et-le-web/contents+fr.lr:workshop.title)
 msgid "Internet et le web"
+msgstr ""
+
+#: http://localhost/ateliers/apprendre-a-souder/
+#: (content/ateliers/apprendre-a-souder/contents+fr.lr:workshop.tag)
+#: http://localhost/ateliers/le-numerique-pour-faire-face-aux-inegalites-scolaires/
+#: (content/ateliers/le-numerique-pour-faire-face-aux-inegalites-scolaires/contents+fr.lr:workshop.tag)
+#: http://localhost/ateliers/premiers-pas-dans-la-programmation-ludique-et-creative/
+#: (content/ateliers/premiers-pas-dans-la-programmation-ludique-et-creative/contents+fr.lr:workshop.tag)
+#: http://localhost/ateliers/de-la-tortue-logo-au-chat-scratch/
+#: (content/ateliers/de-la-tortue-logo-au-chat-scratch/contents+fr.lr:workshop.tag)
+msgid "primaire, secondaire"
 msgstr ""
 
 #: http://localhost/journee-principale/
@@ -2436,6 +2440,13 @@ msgid ""
 "seront organisées pour que tous les parents puissent participer."
 msgstr ""
 
+#: http://localhost/ateliers/decouverte-des-learningapps/
+#: (content/ateliers/decouverte-des-learningapps/contents+fr.lr:workshop.description)
+msgid ""
+"* Les exercices peuvent être réalisés en plein écran (pas d'éléments "
+"perturbateurs)."
+msgstr ""
+
 #: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
 #: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.description)
 msgid ""
@@ -2480,8 +2491,8 @@ msgstr ""
 msgid "Au programme:"
 msgstr ""
 
-#: http://localhost/ateliers/la-maison-des-maths-et-du-numerique/
-#: (content/ateliers/la-maison-des-maths-et-du-numerique/contents+fr.lr:workshop.description)
+#: http://localhost/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/
+#: (content/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/contents+fr.lr:workshop.description)
 msgid ""
 "Cela permettra de réveiller votre **âme d'enfant** et d'approcher "
 "concrètement les __compétences disciplinaires et transversales__ abordées."
@@ -2515,6 +2526,13 @@ msgstr ""
 #: http://localhost/lieux/he2b-defre/
 #: (content/lieux/he2b-defre/contents+fr.lr:location.address)
 msgid "Avenue Defré 62 à 1180 Bruxelles (Uccle)"
+msgstr ""
+
+#: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
+#: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.description)
+msgid ""
+"** La solution apportée par Eclipse Che: reproductibilité des environnements "
+"de développement **"
 msgstr ""
 
 #: http://localhost/ateliers/un-boitier-de-mesure-pour-les-sciences-experimentales/
@@ -2562,13 +2580,6 @@ msgstr ""
 msgid ""
 "* À été formateur informatique pendant 2 ans chez [Interface3.Namur](http://"
 "www.interface3namur.be/)."
-msgstr ""
-
-#: http://localhost/ateliers/decouverte-des-learningapps/
-#: (content/ateliers/decouverte-des-learningapps/contents+fr.lr:workshop.description)
-msgid ""
-"..* Les exercices peuvent être réalisés en plein écran (pas d'éléments "
-"perturbateurs)."
 msgstr ""
 
 #: http://localhost/journee-principale/
@@ -2844,6 +2855,26 @@ msgid ""
 "Technologique;"
 msgstr ""
 
+#: http://localhost/ateliers/sac-a-dos-numerique-pour-lapprentissage-par-competences/
+#: (content/ateliers/sac-a-dos-numerique-pour-lapprentissage-par-competences/contents+fr.lr:workshop.tag)
+#: http://localhost/ateliers/decouverte-des-learningapps/
+#: (content/ateliers/decouverte-des-learningapps/contents+fr.lr:workshop.tag)
+#: http://localhost/ateliers/une-education-de-qualite-lodd4-questionne-par-le-numerique/
+#: (content/ateliers/une-education-de-qualite-lodd4-questionne-par-le-numerique/contents+fr.lr:workshop.tag)
+#: http://localhost/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/
+#: (content/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/contents+fr.lr:workshop.tag)
+#: http://localhost/ateliers/minecraft-en-python-sur-raspberry-pi/
+#: (content/ateliers/minecraft-en-python-sur-raspberry-pi/contents+fr.lr:workshop.tag)
+#: http://localhost/ateliers/une-cle-usb-vive-pour-enseigner-avec-un-systeme-libre/
+#: (content/ateliers/une-cle-usb-vive-pour-enseigner-avec-un-systeme-libre/contents+fr.lr:workshop.tag)
+msgid "secondaire, primaire, maternelle"
+msgstr ""
+
+#: http://localhost/ateliers/coder-en-25-defis/
+#: (content/ateliers/coder-en-25-defis/contents+fr.lr:workshop.tag)
+msgid "primaire, maternelle, secondaire"
+msgstr ""
+
 #: http://localhost/intervenants/nicolas-pettiaux/
 #: (content/intervenants/nicolas-pettiaux/contents+fr.lr:speaker.description)
 msgid ""
@@ -3030,6 +3061,12 @@ msgstr ""
 msgid "#Contact"
 msgstr ""
 
+#: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
+#: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.description)
+msgid ""
+"** Le besoin: des environnements de travail fonctionnels et homogènes **"
+msgstr ""
+
 #: http://localhost/ (content/contents+fr.lr:page.concert)
 msgid ""
 "- 20h Le _carnaval des animaux_ de Camille Saint-Saëns, concert festif avec "
@@ -3096,12 +3133,6 @@ msgid ""
 "ateliers..."
 msgstr ""
 
-#: http://localhost/ateliers/decouverte-des-learningapps/
-#: (content/ateliers/decouverte-des-learningapps/contents+fr.lr:workshop.description)
-msgid ""
-"..* C'est un outil multi-plateforme, utilisable sur PC, tablette ou TBI."
-msgstr ""
-
 #: http://localhost/ (content/contents+fr.lr:page.registration)
 msgid ""
 "L'inscription est **gratuite** pour les enseignants de la Fédération "
@@ -3138,11 +3169,6 @@ msgid ""
 "siècle."
 msgstr ""
 
-#: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
-#: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.description)
-msgid "======  Eclipse Che pour l'enseignement. ======"
-msgstr ""
-
 #: http://localhost/ (content/contents+fr.lr:page.registration)
 msgid ""
 "Les participants aux ateliers doivent aussi s'inscrire à chacun de ceux-ci "
@@ -3158,13 +3184,6 @@ msgstr ""
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "<div class=\"col-12 text-center\">"
-msgstr ""
-
-#: http://localhost/ateliers/decouverte-des-learningapps/
-#: (content/ateliers/decouverte-des-learningapps/contents+fr.lr:workshop.description)
-msgid ""
-"..* Ils ont le choix d'utiliser les \"apps\" de la communauté, de les "
-"modifier ou de créer les leurs."
 msgstr ""
 
 #: http://localhost/intervenants/erick-mascart/
@@ -3314,6 +3333,66 @@ msgstr ""
 
 #: templates/speaker.html:75
 msgid "Concert"
+msgstr ""
+
+#: templates/workshops-container.html:8
+msgid "Présentation des ateliers"
+msgstr ""
+
+#: templates/workshops-container.html:18
+msgid "Rechercher parmi les ateliers"
+msgstr ""
+
+#: templates/workshops-container.html:23
+msgid "Afficher que la catégorie"
+msgstr ""
+
+#: templates/workshops-container.html:25
+msgid "Toutes les catégories"
+msgstr ""
+
+#: templates/workshops-container.html:26
+msgid "Maternelle"
+msgstr ""
+
+#: templates/workshops-container.html:27
+msgid "Primaire"
+msgstr ""
+
+#: templates/workshops-container.html:28
+msgid "Secondaire"
+msgstr ""
+
+#: templates/workshops-container.html:32
+msgid "Tranche d'âge"
+msgstr ""
+
+#: templates/workshops-container.html:43
+msgid "A une certaine heure"
+msgstr ""
+
+#: templates/workshops-container.html:45
+msgid "Toutes les heures"
+msgstr ""
+
+#: templates/workshops-container.html:55
+msgid "Réinitialiser les filtres"
+msgstr ""
+
+#: templates/workshops-container.html:79
+msgid "Résumé"
+msgstr ""
+
+#: templates/workshops-container.html:85
+msgid "Au local"
+msgstr ""
+
+#: templates/workshops-container.html:85
+msgid "à :"
+msgstr ""
+
+#: templates/workshops-container.html:95
+msgid "En savoir plus"
 msgstr ""
 
 #: templates/macros/sections.html:22 templates/macros/sections.html:49

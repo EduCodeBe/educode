@@ -2,7 +2,7 @@ _model: workshop
 ---
 title: Introductie van Python-codering met behulp van een MOOC
 ---
-abstract: Deze workshop is een discussie over het gebruik van de MOOC op het FUN-platform "[Apprendre à coder avec Python](https://www.fun-mooc.fr/courses/course-v1:ulb+44013+session02/about)"(gratis cursus) als basis voor het geven van een complete introductiecursus programmeren voor een publiek van studenten op de middelbare school (15-18 jaar oud).
+abstract: Cet atelier se veut une discussion sur la manière d’utiliser le MOOC sur la plateforme FUN  “Apprendre à coder avec Python”  (cours gratuit) comme base pour animer un cours complet d’initiation à la programmation pour un public d’élèves du secondaire supérieur (15-18 ans).
 ---
 age: 15-18
 ---
@@ -30,3 +30,7 @@ number: 20
 required_materials: Ordinateur
 ---
 tag: secundair
+---
+hours: 15:00 - 16:00
+---
+local: 203

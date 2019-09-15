@@ -1,10 +1,12 @@
 _model: workshop
 ---
-title: The House of Maths and Digital
+title:
+
+ Robots om interesse en motivatie te geven om te leren 
 ---
 abstract:
 
- Robots om interesse en motivatie te geven om te leren 
+Après une brève explication du logiciel et de son utilisation, vous serez en charge de réaliser une mission concrète en rendant votre robot autonome pour la résoudre de manière empirique. 
 ---
 age: 7-77
 ---
@@ -38,4 +40,8 @@ periodes: 2x50'
 ---
 required_materials: Projecteur
 ---
-tag: alle
+tag: secondaire, primaire, maternelle
+---
+hours: 10:00 - 11:00, 14:00 - 15:00
+---
+local: 213

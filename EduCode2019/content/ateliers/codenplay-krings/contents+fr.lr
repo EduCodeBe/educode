@@ -23,3 +23,7 @@ required_materials: Projecteur, Internet
 tag: primaire
 ---
 periodes:
+---
+hours: 15:00 - 16:00, 16:00 - 17:00
+---
+local: 215

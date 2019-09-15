@@ -24,4 +24,8 @@ number: 12
 ---
 required_materials: Ordinateur
 ---
-tag: tous
+tag: primaire, secondaire
+---
+hours: 15:00 - 16:00, 16:00 - 17:00
+---
+local: 206

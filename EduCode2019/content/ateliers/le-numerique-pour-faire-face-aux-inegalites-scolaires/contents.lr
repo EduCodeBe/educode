@@ -24,4 +24,8 @@ periodes: 1x50'
 ---
 required_materials: Projecteur, Ordinateur
 ---
-tag: tous
+tag: primaire, secondaire
+---
+hours: 9:00 - 10:00
+---
+local: 202

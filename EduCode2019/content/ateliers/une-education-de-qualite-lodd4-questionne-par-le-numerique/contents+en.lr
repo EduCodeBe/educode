@@ -22,4 +22,8 @@ number: 20
 ---
 required_materials: papier - crayon - gomme, Projecteur
 ---
-tag: tous
+tag: secondaire, primaire, maternelle
+---
+hours: 11:00 - 12:00
+---
+local: 205

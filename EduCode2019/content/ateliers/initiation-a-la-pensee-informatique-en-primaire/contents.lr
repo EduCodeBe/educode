@@ -28,3 +28,7 @@ language: fr
 number: 25
 ---
 tag: primaire
+---
+hours: 10:00 - 11:00, 11:00 - 12:00
+---
+local: 218

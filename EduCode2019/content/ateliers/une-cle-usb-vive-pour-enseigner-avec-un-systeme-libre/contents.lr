@@ -15,3 +15,9 @@ Comment donner à nos étudiants toute l'informatique dont ils ont besoin ? Ill�
 language: fr
 ---
 periodes: 
+---
+hours: 10:00 - 11:00
+---
+local: 203
+---
+tag: secondaire, primaire, maternelle

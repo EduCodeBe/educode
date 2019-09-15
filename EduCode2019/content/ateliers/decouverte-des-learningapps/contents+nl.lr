@@ -18,12 +18,12 @@ description:
 * Veel oefeningen zijn al gemaakt en geclassificeerd door disciplines. Een filter maakt het mogelijk om de zoekopdracht te beperken op basis van het niveau van de leerlingen. Het is heel eenvoudig om een reeds gemaakte oefening op te halen om deze te wijzigen en de inhoud ervan aan te passen aan wat u in uw klas doet.
 * Studenten kunnen ook worden gevraagd om oefeningen te maken! [Een artikel op de website van de Academie van Caen](https://www.ac-caen.fr/dsden50/discip/numerique/spip.php?article71) spreekt en geeft voorbeelden van gebruik door studenten . :-)
 * Dit is een zeer interessant hulpmiddel voor leraren omdat:
-.. * Ze hebben de keuze om de "apps" van de community te gebruiken, te wijzigen of om de hunne te maken.
-..* Het is mogelijk om een account voor zijn klas aan te maken waar elke student verbinding mee kan maken.
-.. * Voor elke toepassing wordt automatisch een QR-code gegenereerd.
-..* De soorten oefeningen zijn gevarieerd.
-.. * Oefeningen kunnen op volledig scherm worden uitgevoerd (geen storende elementen).
-.. * Het is een platformonafhankelijke tool, bruikbaar op pc, tablet of TBI.
+   * Ils ont le choix d'utiliser les "apps" de la communauté, de les modifier ou de créer les leurs.
+   * Il est possible de créer un compte pour sa classe où chaque élève peut se connecter.
+   * Un QR code est généré automatiquement pour chaque application.
+   * Les types d'exercices sont variés.
+   * Les exercices peuvent être réalisés en plein écran (pas d'éléments perturbateurs).
+   * C'est un outil multi-plateforme, utilisable sur PC, tablette ou TBI.
 ---
 language: fr
 ---
@@ -31,4 +31,8 @@ number: 30
 ---
 required_materials: Projecteur, Internet
 ---
-tag: alle
+tag: secondaire, primaire, maternelle
+---
+hours: 10:00 - 11:00
+---
+local: 206

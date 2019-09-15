@@ -16,16 +16,16 @@ contact_name: Fabrice Flore-Thebault
 ---
 description:
 
-======  Eclipse Che voor het lesgeven. ======
+***  Eclipse Che pour l'enseignement. ***
 
-===== De behoefte: functionele en homogene werkomgevingen =====
+** Le besoin: des environnements de travail fonctionnels et homogènes **
 
 Het is altijd moeilijk om een ontwikkelomgeving voor te bereiden op een workshop of cursus.
 Er moet voor worden gezorgd dat de deelnemers de aanbevelingen voor de vereisten hebben opgevolgd, dat ze alle benodigde bronnen hebben gedownload en alle tools hebben kunnen installeren.
 
 Over het algemeen worden de eerste uren besteed aan het functioneel maken van ieders werkomgeving, in plaats van meteen met de eigenlijke inhoud van de training te beginnen.
 
-===== De oplossing van Eclipse Che: reproduceerbaarheid van ontwikkelomgevingen =====
+** La solution apportée par Eclipse Che: reproductibilité des environnements de développement **
 
 Een van de sterke punten van Che is het waarborgen van de reproduceerbaarheid van een omgeving.
 
@@ -35,7 +35,7 @@ Voor groepswerk zijn de voordelen duidelijk. Hiermee kan worden ingespeeld op de
 
 Een solo-ontwikkelaar heeft dit ook nodig als hij veel projecten moet onderhouden en wijzigen, en hij moet de omgevingen van deze projecten repliceren om zijn veranderingen te testen.
 
-===== Welke omgevingen worden ondersteund? =====
+** Quels sont les environnements sont supportés? **
 
 De meest voorkomende programmeertalen zijn rechtstreeks beschikbaar via de interface (Python, Java, Javascript, PHP...).
 
@@ -45,13 +45,13 @@ De community biedt voorbeelden voor veelvoorkomende gebruikssituaties.
 
 Eclipse Che kan elke taal ondersteunen die kan worden uitgedrukt als containers en kan worden uitgevoerd op een Kubernetes-orkestrator.
 
-===== Hoe Eclipse Che te implementeren =====
+** Comment mettre en oeuvre Eclipse Che. **
 
   - U hebt één account per deelnemer nodig op een exemplaar van [Hosted Eclipse Che](https://che.openshift.io/) of een specifiek exemplaar.
   - Maak een ("devfile") voor elke cursus.
   - Deel deze "devfile" onder de deelnemers om hun eigen omgeving te creëren.
 
-===== De voordelen ? =====
+** Les avantages ? **
 
   * Geen tijdverlies met het downloaden, installeren en configureren van tools.
   * De deelnemers zijn operationeel in één klik.
@@ -64,4 +64,8 @@ number: 99
 ---
 required_materials: Projecteur, Internet
 ---
-tag: alle
+tag: secondaire, primaire
+---
+hours: 10:00 - 11:00
+---
+local: 204

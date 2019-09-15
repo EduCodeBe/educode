@@ -1,10 +1,12 @@
 _model: workshop
 ---
-title: La Maison des Maths et du Numérique
+title:
+
+ Des robots pour donner de l'intérêt et de la motivation à l'apprentissage 
 ---
 abstract:
 
- Des robots pour donner de l'intérêt et de la motivation à l'apprentissage 
+Après une brève explication du logiciel et de son utilisation, vous serez en charge de réaliser une mission concrète en rendant votre robot autonome pour la résoudre de manière empirique. 
 ---
 age: 7-77
 ---
@@ -38,4 +40,8 @@ periodes: 2x50'
 ---
 required_materials: Projecteur
 ---
-tag: tous
+tag: secondaire, primaire, maternelle
+---
+hours: 10:00 - 11:00, 14:00 - 15:00
+---
+local: 213
