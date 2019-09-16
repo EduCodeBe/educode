@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: educode\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-16 11:36+CET\n"
+"POT-Creation-Date: 2019-09-16 19:09+CET\n"
 "PO-Revision-Date: 2019-09-11 10:03\n"
 "Last-Translator: npettiaux\n"
 "Language-Team: Flemish\n"
@@ -163,10 +163,10 @@ msgid ""
 msgstr ""
 "- Denis Longrée (president van Roue de secours asbl, meester in wiskunde)"
 
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
-msgid "- 17h à 18h : buffet de clôture"
-msgstr "- 17.00 tot 18.00 uur: buffet sluiten"
+#: http://localhost/journee-principale/hackerspaces-apprentissage-par-la-pratique-et-mains-dans-le-camboui/
+#: (content/journee-principale/hackerspaces-apprentissage-par-la-pratique-et-mains-dans-le-camboui/contents+fr.lr:details-program.date)
+msgid "Hackerspaces: apprentissage par la pratique et mains dans le camboui"
+msgstr ""
 
 #: http://localhost/intervenants/benoit-naveau/
 #: (content/intervenants/benoit-naveau/contents+fr.lr:speaker.description)
@@ -303,14 +303,10 @@ msgstr ""
 "informatica voor wetenschapsterminals in Frankrijk, waarvan Gilles Dowek de "
 "hoofdauteur is."
 
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
-msgid ""
-"- 16h00 à 18h00 : Projection du film **La bataille du libre** suivie d'une "
-"discussion avec son réalisateur, Philippe Borel"
+#: http://localhost/intervenants/rupert-meurice-de-dormale/
+#: (content/intervenants/rupert-meurice-de-dormale/contents+fr.lr:speaker.description)
+msgid "* Cocréateur du site [fadagogo.com](http://fadagogo.com) en 2015."
 msgstr ""
-"- 16: 00 uur tot 18: 00 uur: vertoning van de film **The battle of the "
-"free** gevolgd door een discussie met de regisseur, Philippe Borel"
 
 #: http://localhost/intervenants/myriam-criquet/
 #: (content/intervenants/myriam-criquet/contents+fr.lr:speaker.description)
@@ -416,10 +412,6 @@ msgstr "Het evenement bestaat uit 3 delen voor 4 doelgroepen:"
 msgid "* ..."
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.journee_principale)
-msgid "Localisation sur une [carte](https://osm.org/go/0EoSK76Bo--?m=)"
-msgstr "Locatie op een [kaart](https://osm.org/go/0EoSK76Bo--?m=)"
-
 #: http://localhost/intervenants/christine-lefevre/
 #: (content/intervenants/christine-lefevre/contents+fr.lr:speaker.description)
 msgid "* De 1995 à 2005 : Indépendante."
@@ -510,14 +502,10 @@ msgstr ""
 "Een dag speciaal gewijd aan leerkrachten die geïnteresseerd zijn in "
 "computergebruik zonder verbinding."
 
-#: http://localhost/ateliers/decouvrir-le-robot-cubetto/
-#: (content/ateliers/decouvrir-le-robot-cubetto/contents+fr.lr:workshop.description)
-msgid ""
-"* C'est également un excellent outil pour travailler de manière ludique et "
-"attrayante les questions de spatialisation au sein d'une classe."
+#: http://localhost/journee-principale/de-la-demystification-de-lintelligence-artificielle-au-developpement-de-la-pensee-informatique/
+#: (content/journee-principale/de-la-demystification-de-lintelligence-artificielle-au-developpement-de-la-pensee-informatique/contents+fr.lr:details-program.description)
+msgid "Ressources:"
 msgstr ""
-"* Het is ook een uitstekend hulpmiddel om op een leuke en aantrekkelijke "
-"manier te werken aan ruimtevraagstukken binnen een klas."
 
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
@@ -562,10 +550,20 @@ msgstr ""
 "Een levendige USB-stick om te onderwijzen met een legaal en vrij kopieerbaar "
 "systeem"
 
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
-msgid "#Activités"
-msgstr "#Activiteiten"
+#: http://localhost/ateliers/sac-a-dos-numerique-pour-lapprentissage-par-competences/
+#: (content/ateliers/sac-a-dos-numerique-pour-lapprentissage-par-competences/contents+fr.lr:workshop.tag)
+#: http://localhost/ateliers/decouverte-des-learningapps/
+#: (content/ateliers/decouverte-des-learningapps/contents+fr.lr:workshop.tag)
+#: http://localhost/ateliers/une-education-de-qualite-lodd4-questionne-par-le-numerique/
+#: (content/ateliers/une-education-de-qualite-lodd4-questionne-par-le-numerique/contents+fr.lr:workshop.tag)
+#: http://localhost/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/
+#: (content/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/contents+fr.lr:workshop.tag)
+#: http://localhost/ateliers/minecraft-en-python-sur-raspberry-pi/
+#: (content/ateliers/minecraft-en-python-sur-raspberry-pi/contents+fr.lr:workshop.tag)
+#: http://localhost/ateliers/une-cle-usb-vive-pour-enseigner-avec-un-systeme-libre/
+#: (content/ateliers/une-cle-usb-vive-pour-enseigner-avec-un-systeme-libre/contents+fr.lr:workshop.tag)
+msgid "secondaire, primaire, maternelle"
+msgstr ""
 
 #: http://localhost/ateliers/decouvrir-le-robot-cubetto/
 #: (content/ateliers/decouvrir-le-robot-cubetto/contents+fr.lr:workshop.description)
@@ -1040,11 +1038,6 @@ msgstr ""
 msgid "Divers"
 msgstr ""
 
-#: http://localhost/lieux/becentral/
-#: (content/lieux/becentral/contents+fr.lr:location.directions)
-msgid "Au dessus de la gare centrale"
-msgstr "Boven het centraal station"
-
 #: http://localhost/ (content/contents+fr.lr:page.submissions_text)
 msgid ""
 "Faites-nous part de vos propositions de stand au sein de l'exposition  en "
@@ -1367,22 +1360,6 @@ msgstr ""
 
 #: http://localhost/intervenants/rupert-meurice-de-dormale/
 #: (content/intervenants/rupert-meurice-de-dormale/contents+fr.lr:speaker.description)
-msgid "* Cocréateur du site [fadagogo.com](http://fadagogo.com) en 2015."
-msgstr ""
-
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
-msgid ""
-"- 9h à 17h : plus de 30 ateliers pratiques sont organisés (100 ordinateurs "
-"seront installés dans des locaux de séminaires, et les participants seront "
-"invités à venir avec leurs portables)"
-msgstr ""
-"- 9u tot 17u: er worden meer dan 30 praktische workshops georganiseerd (er "
-"worden 100 computers geïnstalleerd in vergaderzalen en deelnemers worden "
-"uitgenodigd om met hun laptops te komen)"
-
-#: http://localhost/intervenants/rupert-meurice-de-dormale/
-#: (content/intervenants/rupert-meurice-de-dormale/contents+fr.lr:speaker.description)
 msgid "* Licence en Biologie animale (Bac+4) UCLouvain 1976;"
 msgstr ""
 
@@ -1448,32 +1425,6 @@ msgid ""
 "connaissance des acteurs et sa capacité d'organisation de rencontres entre "
 "professionnels d'horizon divers."
 msgstr ""
-
-#: http://localhost/ateliers/jouer-pour-comprendre-lintelligence-artificielle/
-#: (content/ateliers/jouer-pour-comprendre-lintelligence-artificielle/contents+fr.lr:workshop.description)
-msgid ""
-"Dans l’objectif de faire de chaque enfant un citoyen éclairé et critique à "
-"l’égard d’un monde de plus en plus numérique, cet atelier aborde de façon "
-"ludique la question de l’intelligence artificielle. À travers un jeu de "
-"rôles inspiré du célèbre jeu « Qui est-ce ? », les notions d’intelligence et "
-"d’apprentissage seront expliquées à la lumière de ce domaine qui inquiète "
-"autant qu’il fait rêver. Les participants seront invités à expérimenter les "
-"différentes phases du jeu et à vivre ainsi la vie d’un développeur "
-"informatique, d’un utilisateur-testeur et/ou d’un système informatique doté "
-"d’une intelligence artificielle. Un exercice de vulgarisation intéressant "
-"qui met à la portée de tous un domaine pourtant considéré comme difficile."
-msgstr ""
-"Om van elk kind een verlichte en kritische burger te maken in een steeds "
-"meer digitale wereld, introduceert deze workshop het probleem van "
-"kunstmatige intelligentie op een leuke manier. Via een rollenspel "
-"geïnspireerd door het beroemde spel 'Wie is het? \"De noties van "
-"intelligentie en leren zullen worden uitgelegd in het licht van dit gebied "
-"dat evenveel zorgen baart als dat het je doet dromen. Deelnemers worden "
-"uitgenodigd om de verschillende fasen van het spel te ervaren en zo het "
-"leven te leiden van een computerontwikkelaar, een gebruiker-tester en / of "
-"een computersysteem met kunstmatige intelligentie. Een interessante oefening "
-"in het populair maken die iedereen een veld brengt dat toch als moeilijk "
-"wordt beschouwd."
 
 #: http://localhost/intervenants/laurent-beeckmans/
 #: (content/intervenants/laurent-beeckmans/contents+fr.lr:speaker.description)
@@ -1579,11 +1530,6 @@ msgstr ""
 "Een voorproefje van het [feestelijke concert](../ concert) in een kleine "
 "commissie, in Cell 133a op [133a Ducpétiauxlaan](https://osm.org/"
 "go/0EoSP1HpH--?m=)"
-
-#: http://localhost/journee-principale/hackerspaces-apprentissage-par-la-pratique-et-mains-dans-le-camboui/
-#: (content/journee-principale/hackerspaces-apprentissage-par-la-pratique-et-mains-dans-le-camboui/contents+fr.lr:details-program.date)
-msgid "Hackerspaces: apprentissage par la pratique et mains dans le camboui"
-msgstr ""
 
 #: http://localhost/intervenants/marie-duflot-kremer/
 #: (content/intervenants/marie-duflot-kremer/contents+fr.lr:speaker.description)
@@ -1712,6 +1658,11 @@ msgstr ""
 "Educode-deelnemers worden vanaf 8.30 uur verwacht. Conferenties en workshops "
 "beginnen om 9: 00 uur."
 
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
+msgid "#Introduction"
+msgstr ""
+
 #: http://localhost/ateliers/internet-et-le-web/
 #: (content/ateliers/internet-et-le-web/contents+fr.lr:workshop.description)
 msgid "En partenariat avec The Coding Club et we are coders asbl."
@@ -1726,19 +1677,6 @@ msgstr ""
 #: (content/ateliers/des-robots-des-la-maternelle/contents+fr.lr:workshop.title)
 msgid "Des robots dès la maternelle"
 msgstr "Robots uit de kleuterklas"
-
-#: http://localhost/ (content/contents+fr.lr:page.journee_principale)
-msgid ""
-"Educode 2019 est la seconde édition d’un colloque annuel international dédié "
-"à l’éducation, aux pratiques et à la recherche dans les domaines liés au "
-"numérique. Son ambition est d'__informer, former et susciter l'intérêt de "
-"tous les acteurs de l'enseignement aux défis du numérique__."
-msgstr ""
-"Educode 2019 is de tweede editie van een jaarlijks internationaal symposium "
-"gewijd aan onderwijs, praktijken en onderzoek op het gebied van digitaal. De "
-"ambitie is om de __interesse van alle betrokkenen bij het onderwijzen van de "
-"uitdagingen van digitale technologie te informeren, op te leiden en te "
-"stimuleren__."
 
 #: http://localhost/comites/
 #: (content/comites/contents+fr.lr:details-program.description)
@@ -2315,11 +2253,6 @@ msgid ""
 "Liège](http://ulg.ac.be/)"
 msgstr ""
 
-#: http://localhost/lieux/becentral/
-#: (content/lieux/becentral/contents+fr.lr:location.name)
-msgid "BeCentral"
-msgstr "BeCentral"
-
 #: http://localhost/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/
 #: (content/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/contents+fr.lr:workshop.description)
 msgid "__Description de l'atelier :__"
@@ -2444,16 +2377,6 @@ msgid ""
 "première du concert festif](../concert-festif-avant-premiere)"
 msgstr ""
 
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
-msgid ""
-"- 15h00 à 15h30 : Conférence par Françoise Bols (HE2B et ULiège) : Enseigner "
-"le numérique et l'informatique en haute école : défis et opportunités"
-msgstr ""
-"- 15.00 uur tot 15.30 uur: Conferentie door Françoise Bols (HE2B en ULiège): "
-"Onderwijs in de digitale en informatica op de middelbare school: uitdagingen "
-"en kansen"
-
 #: http://localhost/ (content/contents+fr.lr:page.concert)
 msgid "- 21h Cocktail dînatoire"
 msgstr "- 21u Cocktail diner"
@@ -2493,10 +2416,14 @@ msgstr ""
 "In het bijzonder kunt u doneren <script src=\"https://liberapay.com/"
 "npettiaux/widgets/button.js\"> </script>"
 
-#: http://localhost/lieux/becentral/
-#: (content/lieux/becentral/contents+fr.lr:location.address)
-msgid "Gare centrale, 1000 Bruxelles"
-msgstr "Centraal Station, 1000 Brussel"
+#: http://localhost/ateliers/decouvrir-le-robot-cubetto/
+#: (content/ateliers/decouvrir-le-robot-cubetto/contents+fr.lr:workshop.description)
+msgid ""
+"* C'est également un excellent outil pour travailler de manière ludique et "
+"attrayante les questions de spatialisation au sein d'une classe."
+msgstr ""
+"* Het is ook een uitstekend hulpmiddel om op een leuke en aantrekkelijke "
+"manier te werken aan ruimtevraagstukken binnen een klas."
 
 #: http://localhost/intervenants/nicolas-seinlet/
 #: (content/intervenants/nicolas-seinlet/contents+fr.lr:speaker.description)
@@ -3111,16 +3038,6 @@ msgstr "Internet en internet"
 msgid "primaire, secondaire"
 msgstr ""
 
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
-msgid ""
-"- 15h30 à 16h00 : Conférence **État de la recherche en éducation et "
-"numérique** par Julie Henry (Unamur)"
-msgstr ""
-"2. Een opening voor het grote publiek met tentoonstellingen en conferenties "
-"- 15.30 uur tot 16.00 uur: conferentie **Staat van onderwijs en digitaal "
-"onderzoek** door Julie Henry (Unamur)"
-
 #: http://localhost/comites/
 #: (content/comites/contents+fr.lr:details-program.description)
 msgid "- Dr Nicolas Pettiaux"
@@ -3376,11 +3293,6 @@ msgstr ""
 "* En het is ook een uitstekende onthullende lacune die soms onverwacht is in "
 "de grootste!"
 
-#: http://localhost/journee-principale/de-la-demystification-de-lintelligence-artificielle-au-developpement-de-la-pensee-informatique/
-#: (content/journee-principale/de-la-demystification-de-lintelligence-artificielle-au-developpement-de-la-pensee-informatique/contents+fr.lr:details-program.description)
-msgid "Ressources:"
-msgstr ""
-
 #: http://localhost/journee-principale/la-decouverte-de-la-gestion-dentreprise-a-travers-le-jeu-scale-up/
 #: (content/journee-principale/la-decouverte-de-la-gestion-dentreprise-a-travers-le-jeu-scale-up/contents+fr.lr:details-program.description)
 msgid ""
@@ -3402,17 +3314,6 @@ msgid ""
 "* À été formateur informatique pendant 2 ans chez [Interface3.Namur](http://"
 "www.interface3namur.be/)."
 msgstr ""
-
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
-msgid ""
-"- 14h00 à 15h00 : Table-ronde Enseignement et technologie dans le monde : ce "
-"qui marche ou pas, et pourquoi, ce qui pourrait être fait (avec des "
-"représentants nationaux de différents pays)"
-msgstr ""
-"- 14: 00 tot 15: 00: Round Table Education and Technology in the World: Wat "
-"werkt en wat niet, en waarom, wat zou kunnen worden gedaan (met nationale "
-"vertegenwoordigers uit verschillende landen)"
 
 #: http://localhost/ateliers/
 #: (content/ateliers/contents+fr.lr:workshops-container.description)
@@ -3744,21 +3645,6 @@ msgid ""
 "Technologique;"
 msgstr ""
 
-#: http://localhost/ateliers/sac-a-dos-numerique-pour-lapprentissage-par-competences/
-#: (content/ateliers/sac-a-dos-numerique-pour-lapprentissage-par-competences/contents+fr.lr:workshop.tag)
-#: http://localhost/ateliers/decouverte-des-learningapps/
-#: (content/ateliers/decouverte-des-learningapps/contents+fr.lr:workshop.tag)
-#: http://localhost/ateliers/une-education-de-qualite-lodd4-questionne-par-le-numerique/
-#: (content/ateliers/une-education-de-qualite-lodd4-questionne-par-le-numerique/contents+fr.lr:workshop.tag)
-#: http://localhost/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/
-#: (content/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/contents+fr.lr:workshop.tag)
-#: http://localhost/ateliers/minecraft-en-python-sur-raspberry-pi/
-#: (content/ateliers/minecraft-en-python-sur-raspberry-pi/contents+fr.lr:workshop.tag)
-#: http://localhost/ateliers/une-cle-usb-vive-pour-enseigner-avec-un-systeme-libre/
-#: (content/ateliers/une-cle-usb-vive-pour-enseigner-avec-un-systeme-libre/contents+fr.lr:workshop.tag)
-msgid "secondaire, primaire, maternelle"
-msgstr ""
-
 #: http://localhost/ateliers/coder-en-25-defis/
 #: (content/ateliers/coder-en-25-defis/contents+fr.lr:workshop.tag)
 msgid "primaire, maternelle, secondaire"
@@ -3997,19 +3883,31 @@ msgstr "- Dr Nicolas Pettiaux (ESI-HE2B & ULB-Lisa, assistent-master)"
 msgid "maternelle"
 msgstr "kleuterschool"
 
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
+#: http://localhost/ateliers/jouer-pour-comprendre-lintelligence-artificielle/
+#: (content/ateliers/jouer-pour-comprendre-lintelligence-artificielle/contents+fr.lr:workshop.description)
 msgid ""
-"- 9h - 17h : petites conférences et exposés pour les enseignants et toute "
-"personne intéressée. Durant les pauses, les écoles, associations, "
-"entreprises exposent leurs réalisations et projets liés au numérique et à "
-"l'éducation, et des projets faits dans les classes (dans les couloirs et "
-"autres espaces)"
+"Dans l’objectif de faire de chaque enfant un citoyen éclairé et critique à "
+"l’égard d’un monde de plus en plus numérique, cet atelier aborde de façon "
+"ludique la question de l’intelligence artificielle. À travers un jeu de "
+"rôles inspiré du célèbre jeu « Qui est-ce ? », les notions d’intelligence et "
+"d’apprentissage seront expliquées à la lumière de ce domaine qui inquiète "
+"autant qu’il fait rêver. Les participants seront invités à expérimenter les "
+"différentes phases du jeu et à vivre ainsi la vie d’un développeur "
+"informatique, d’un utilisateur-testeur et/ou d’un système informatique doté "
+"d’une intelligence artificielle. Un exercice de vulgarisation intéressant "
+"qui met à la portée de tous un domaine pourtant considéré comme difficile."
 msgstr ""
-"- 9u - 17u: kleine lezingen en presentaties voor docenten en "
-"geïnteresseerden. Tijdens pauzes, tonen scholen, verenigingen, bedrijven hun "
-"prestaties en projecten met betrekking tot digitaal en onderwijs, en "
-"projecten gemaakt in klaslokalen (in gangen en andere ruimtes)"
+"Om van elk kind een verlichte en kritische burger te maken in een steeds "
+"meer digitale wereld, introduceert deze workshop het probleem van "
+"kunstmatige intelligentie op een leuke manier. Via een rollenspel "
+"geïnspireerd door het beroemde spel 'Wie is het? \"De noties van "
+"intelligentie en leren zullen worden uitgelegd in het licht van dit gebied "
+"dat evenveel zorgen baart als dat het je doet dromen. Deelnemers worden "
+"uitgenodigd om de verschillende fasen van het spel te ervaren en zo het "
+"leven te leiden van een computerontwikkelaar, een gebruiker-tester en / of "
+"een computersysteem met kunstmatige intelligentie. Een interessante oefening "
+"in het populair maken die iedereen een veld brengt dat toch als moeilijk "
+"wordt beschouwd."
 
 #: http://localhost/ (content/contents+fr.lr:page.submissions_text)
 msgid "Les propositions devront être entrées pour le 15 septembre 2019."
@@ -4064,11 +3962,6 @@ msgstr ""
 #: (content/ateliers/codenplay-fischer/contents+fr.lr:workshop.title)
 msgid "CodeNPlay-Instituteurs"
 msgstr "CodeNPlay-Leraren"
-
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
-msgid "﻿#Introduction"
-msgstr "#Introductie"
 
 #: http://localhost/ (content/contents+fr.lr:page.about)
 msgid ""
@@ -4421,6 +4314,93 @@ msgstr "Preview van het concert"
 #: templates/macros/sections.html:30 templates/macros/sections.html:58
 msgid "Info pratiques"
 msgstr "Praktische informatie"
+
+#~ msgid "- 17h à 18h : buffet de clôture"
+#~ msgstr "- 17.00 tot 18.00 uur: buffet sluiten"
+
+#~ msgid ""
+#~ "- 16h00 à 18h00 : Projection du film **La bataille du libre** suivie "
+#~ "d'une discussion avec son réalisateur, Philippe Borel"
+#~ msgstr ""
+#~ "- 16: 00 uur tot 18: 00 uur: vertoning van de film **The battle of the "
+#~ "free** gevolgd door een discussie met de regisseur, Philippe Borel"
+
+#~ msgid "Localisation sur une [carte](https://osm.org/go/0EoSK76Bo--?m=)"
+#~ msgstr "Locatie op een [kaart](https://osm.org/go/0EoSK76Bo--?m=)"
+
+#~ msgid "#Activités"
+#~ msgstr "#Activiteiten"
+
+#~ msgid "Au dessus de la gare centrale"
+#~ msgstr "Boven het centraal station"
+
+#~ msgid ""
+#~ "- 9h à 17h : plus de 30 ateliers pratiques sont organisés (100 "
+#~ "ordinateurs seront installés dans des locaux de séminaires, et les "
+#~ "participants seront invités à venir avec leurs portables)"
+#~ msgstr ""
+#~ "- 9u tot 17u: er worden meer dan 30 praktische workshops georganiseerd "
+#~ "(er worden 100 computers geïnstalleerd in vergaderzalen en deelnemers "
+#~ "worden uitgenodigd om met hun laptops te komen)"
+
+#~ msgid ""
+#~ "Educode 2019 est la seconde édition d’un colloque annuel international "
+#~ "dédié à l’éducation, aux pratiques et à la recherche dans les domaines "
+#~ "liés au numérique. Son ambition est d'__informer, former et susciter "
+#~ "l'intérêt de tous les acteurs de l'enseignement aux défis du numérique__."
+#~ msgstr ""
+#~ "Educode 2019 is de tweede editie van een jaarlijks internationaal "
+#~ "symposium gewijd aan onderwijs, praktijken en onderzoek op het gebied van "
+#~ "digitaal. De ambitie is om de __interesse van alle betrokkenen bij het "
+#~ "onderwijzen van de uitdagingen van digitale technologie te informeren, op "
+#~ "te leiden en te stimuleren__."
+
+#~ msgid "BeCentral"
+#~ msgstr "BeCentral"
+
+#~ msgid ""
+#~ "- 15h00 à 15h30 : Conférence par Françoise Bols (HE2B et ULiège) : "
+#~ "Enseigner le numérique et l'informatique en haute école : défis et "
+#~ "opportunités"
+#~ msgstr ""
+#~ "- 15.00 uur tot 15.30 uur: Conferentie door Françoise Bols (HE2B en "
+#~ "ULiège): Onderwijs in de digitale en informatica op de middelbare school: "
+#~ "uitdagingen en kansen"
+
+#~ msgid "Gare centrale, 1000 Bruxelles"
+#~ msgstr "Centraal Station, 1000 Brussel"
+
+#~ msgid ""
+#~ "- 15h30 à 16h00 : Conférence **État de la recherche en éducation et "
+#~ "numérique** par Julie Henry (Unamur)"
+#~ msgstr ""
+#~ "2. Een opening voor het grote publiek met tentoonstellingen en "
+#~ "conferenties - 15.30 uur tot 16.00 uur: conferentie **Staat van onderwijs "
+#~ "en digitaal onderzoek** door Julie Henry (Unamur)"
+
+#~ msgid ""
+#~ "- 14h00 à 15h00 : Table-ronde Enseignement et technologie dans le monde : "
+#~ "ce qui marche ou pas, et pourquoi, ce qui pourrait être fait (avec des "
+#~ "représentants nationaux de différents pays)"
+#~ msgstr ""
+#~ "- 14: 00 tot 15: 00: Round Table Education and Technology in the World: "
+#~ "Wat werkt en wat niet, en waarom, wat zou kunnen worden gedaan (met "
+#~ "nationale vertegenwoordigers uit verschillende landen)"
+
+#~ msgid ""
+#~ "- 9h - 17h : petites conférences et exposés pour les enseignants et toute "
+#~ "personne intéressée. Durant les pauses, les écoles, associations, "
+#~ "entreprises exposent leurs réalisations et projets liés au numérique et à "
+#~ "l'éducation, et des projets faits dans les classes (dans les couloirs et "
+#~ "autres espaces)"
+#~ msgstr ""
+#~ "- 9u - 17u: kleine lezingen en presentaties voor docenten en "
+#~ "geïnteresseerden. Tijdens pauzes, tonen scholen, verenigingen, bedrijven "
+#~ "hun prestaties en projecten met betrekking tot digitaal en onderwijs, en "
+#~ "projecten gemaakt in klaslokalen (in gangen en andere ruimtes)"
+
+#~ msgid "﻿#Introduction"
+#~ msgstr "#Introductie"
 
 #~ msgid "tous"
 #~ msgstr "alle"
