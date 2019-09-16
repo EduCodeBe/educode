@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: educode\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-16 19:09+CET\n"
+"POT-Creation-Date: 2019-09-16 19:46+CET\n"
 "PO-Revision-Date: 2019-09-11 10:03\n"
 "Last-Translator: npettiaux\n"
 "Language-Team: Flemish\n"
@@ -15,6 +15,12 @@ msgstr ""
 "X-Crowdin-Project: educode\n"
 "X-Crowdin-Language: vls-BE\n"
 "X-Crowdin-File: educode2019.pot\n"
+
+#: http://localhost/ateliers/decouverte-de-la-fabrication-numerique-pour-vos-classes-impression-3d/
+#: (content/ateliers/decouverte-de-la-fabrication-numerique-pour-vos-classes-impression-3d/contents+fr.lr:workshop.abstract)
+#: (content/ateliers/decouverte-de-la-fabrication-numerique-pour-vos-classes-impression-3d/contents+fr.lr:workshop.description)
+msgid "Approche pédagogique amusante et découverte de l’impression 3D"
+msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.s_overview_program)
 msgid "Aperçu du programme"
@@ -168,6 +174,14 @@ msgstr ""
 msgid "Hackerspaces: apprentissage par la pratique et mains dans le camboui"
 msgstr ""
 
+#: http://localhost/ateliers/internet-et-le-web/
+#: (content/ateliers/internet-et-le-web/contents+fr.lr:workshop.description)
+msgid ""
+"**Ressources qualitatives pour l'éducation au numérique, [We are coders]"
+"(https://www.wearecoders.org/) et [The Coding Club](https://wiki.educode.be/"
+"doku.php/structures/the_coding_club_asbl)**"
+msgstr ""
+
 #: http://localhost/intervenants/benoit-naveau/
 #: (content/intervenants/benoit-naveau/contents+fr.lr:speaker.description)
 msgid "* Organisateur avec ses élèves de participations à la First Lego League"
@@ -225,19 +239,6 @@ msgstr ""
 msgid ""
 "* Techno-pédagogue chez [Forsud](https://www.forsud.be/), elle adore "
 "partager ses trouvailles et son expérience avec ses collègues instituteurs."
-msgstr ""
-
-#: http://localhost/ateliers/internet-et-le-web/
-#: (content/ateliers/internet-et-le-web/contents+fr.lr:workshop.description)
-msgid ""
-"* Quelle est la place de l'Internet dans nos vies au quotidien ? Quelle fut "
-"son origine, son évolution, et vers où nous emmène son futur ? A quoi "
-"servent les cookies ? Où sont stockées mes données, celles de mes élèves, et "
-"à quoi peuvent-elles servir ? A quels risques je m’expose lorsque j’utilise "
-"l’Internet et ses applications, pour moi-même ou en classe ? Et comment puis-"
-"je devenir le gardien de mes données et de ma vie privée, tout en protégeant "
-"celle des autres ? Les enjeux de l'EdTech et ressources qualitatives pour "
-"l'éducation."
 msgstr ""
 
 #: http://localhost/ateliers/le-numerique-pour-faire-face-aux-inegalites-scolaires/
@@ -339,6 +340,18 @@ msgstr ""
 "of Grieg), een orgelsuite (gemaakt in 2003 in Münster in Duitsland) en het "
 "Concerto voor piano en orkest in B mineur, gebaseerd op de fragmenten van "
 "een onvoltooid concert van Edvard Grieg."
+
+#: http://localhost/ateliers/internet-et-le-web/
+#: (content/ateliers/internet-et-le-web/contents+fr.lr:workshop.description)
+msgid ""
+"Quelle est la place de l'Internet dans nos vies au quotidien ? Quelle fut "
+"son origine, son évolution, et vers où nous emmène son futur ? A quoi "
+"servent les cookies ? Où sont stockées mes données, celles de mes élèves, et "
+"à quoi peuvent-elles servir ? A quels risques je m’expose lorsque j’utilise "
+"l’Internet et ses applications, pour moi-même ou en classe ? Et comment puis-"
+"je devenir le gardien de mes données et de ma vie privée, tout en protégeant "
+"celle des autres ?"
+msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.concert_avant_premiere)
 msgid "[Plus d'informations...](concert-festif-avant-premiere)"
@@ -849,12 +862,16 @@ msgstr "Vaardigheden:"
 #: (content/ateliers/codenplay-fischer/contents+fr.lr:workshop.language)
 #: http://localhost/ateliers/initier-au-codage-python-avec-laide-dun-mooc/
 #: (content/ateliers/initier-au-codage-python-avec-laide-dun-mooc/contents+fr.lr:workshop.language)
+#: http://localhost/ateliers/decouverte-de-la-fabrication-numerique-pour-vos-classes-decoupeuse-vinyle/
+#: (content/ateliers/decouverte-de-la-fabrication-numerique-pour-vos-classes-decoupeuse-vinyle/contents+fr.lr:workshop.language)
 #: http://localhost/ateliers/minecraft-en-python-sur-raspberry-pi/
 #: (content/ateliers/minecraft-en-python-sur-raspberry-pi/contents+fr.lr:workshop.language)
 #: http://localhost/ateliers/le-numerique-pour-faire-face-aux-inegalites-scolaires/
 #: (content/ateliers/le-numerique-pour-faire-face-aux-inegalites-scolaires/contents+fr.lr:workshop.language)
 #: http://localhost/ateliers/modus-operandi-des-cartoparties-participatives/
 #: (content/ateliers/modus-operandi-des-cartoparties-participatives/contents+fr.lr:workshop.language)
+#: http://localhost/ateliers/decouverte-de-la-fabrication-numerique-pour-vos-classes-impression-3d/
+#: (content/ateliers/decouverte-de-la-fabrication-numerique-pour-vos-classes-impression-3d/contents+fr.lr:workshop.language)
 #: http://localhost/ateliers/des-robots-des-la-maternelle/
 #: (content/ateliers/des-robots-des-la-maternelle/contents+fr.lr:workshop.language)
 #: http://localhost/ateliers/une-cle-usb-vive-pour-enseigner-avec-un-systeme-libre/
@@ -1306,15 +1323,6 @@ msgid ""
 "ou autres cartes qui tourne Linux."
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.concert)
-msgid ""
-"- 19h Conférence de [Gilles Dowek](https://wiki.educode.be/doku.php/"
-"personnes/gilles_dowek) sur la transformation au numérique des écoles "
-"françaises"
-msgstr ""
-"- 19.00 uur Conferentie door [Gilles Dowek](https://wiki.educode.be/doku.php/"
-"personnes/gilles_dowek) over de digitale transformatie van Franse scholen"
-
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid ""
@@ -1571,6 +1579,11 @@ msgid ""
 "d’impacts des technologies de l’ère numérique."
 msgstr ""
 
+#: http://localhost/ (content/contents+fr.lr:page.registration)
+msgid ""
+"Pour plus d'informations, nous sommes joignables par [email](info@educode.be)"
+msgstr ""
+
 #: http://localhost/intervenants/nicolas-seinlet/
 #: (content/intervenants/nicolas-seinlet/contents+fr.lr:speaker.description)
 msgid ""
@@ -1661,11 +1674,6 @@ msgstr ""
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "#Introduction"
-msgstr ""
-
-#: http://localhost/ateliers/internet-et-le-web/
-#: (content/ateliers/internet-et-le-web/contents+fr.lr:workshop.description)
-msgid "En partenariat avec The Coding Club et we are coders asbl."
 msgstr ""
 
 #: http://localhost/intervenants/christine-lefevre/
@@ -1765,6 +1773,13 @@ msgid ""
 "Détection des lacunes assistée par ordinateur (DLAO) 1985;"
 msgstr ""
 
+#: http://localhost/ateliers/internet-et-le-web/
+#: (content/ateliers/internet-et-le-web/contents+fr.lr:workshop.description)
+msgid ""
+"Partage de ressources Open Source et Libres de l'EdTech (Technologies de "
+"l'éducation) pour l'enseignement des compétences numériques."
+msgstr ""
+
 #: http://localhost/intervenants/benjamin-henrion/
 #: (content/intervenants/benjamin-henrion/contents+fr.lr:speaker.description)
 msgid ""
@@ -1772,14 +1787,6 @@ msgid ""
 "www.hsbxl.be)), laboratoire communautaire bruxellois où des gens (les "
 "hackers) peuvent partager ressources et savoir."
 msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.registration)
-msgid ""
-"Pour plus d'information, voir [le wiki](http://wiki.educode.be) ou en nous "
-"contactant par [email](info@educode.be)"
-msgstr ""
-"Voor meer informatie, zie het [wiki](http://wiki.educode.be) of door contact "
-"met ons op te nemen via [email](info@educode.be)"
 
 #: http://localhost/ateliers/une-education-de-qualite-lodd4-questionne-par-le-numerique/
 #: (content/ateliers/une-education-de-qualite-lodd4-questionne-par-le-numerique/contents+fr.lr:workshop.description)
@@ -2360,11 +2367,6 @@ msgstr ""
 "-   Mede-oprichter van het [Class'Code project](https://pixees.fr/"
 "classcode/)."
 
-#: http://localhost/ (content/contents+fr.lr:page.about)
-msgid ""
-"Pour plus d'information et la préinscription, voir http://wiki.educode.be"
-msgstr "Voor meer informatie en pre-registratie, zie http://wiki.educode.be"
-
 #: http://localhost/concert/
 #: (content/concert/contents+fr.lr:concert.description)
 msgid "Sans cocktail : 30€ / 20€ / 15€ (étudiant) / 12€ (sans emploi)"
@@ -2798,6 +2800,12 @@ msgstr ""
 msgid "Sac à dos numérique pour l'apprentissage par compétences"
 msgstr "Digitale rugzak om te leren door vaardigheden"
 
+#: http://localhost/ateliers/decouverte-de-la-fabrication-numerique-pour-vos-classes-decoupeuse-vinyle/
+#: (content/ateliers/decouverte-de-la-fabrication-numerique-pour-vos-classes-decoupeuse-vinyle/contents+fr.lr:workshop.title)
+msgid ""
+"Découverte de la fabrication numérique pour vos classes - Découpeuse vinyle"
+msgstr ""
+
 #: http://localhost/ateliers/de-la-tortue-logo-au-chat-scratch/
 #: (content/ateliers/de-la-tortue-logo-au-chat-scratch/contents+fr.lr:workshop.description)
 msgid ""
@@ -3029,8 +3037,12 @@ msgstr "Internet en internet"
 
 #: http://localhost/ateliers/apprendre-a-souder/
 #: (content/ateliers/apprendre-a-souder/contents+fr.lr:workshop.tag)
+#: http://localhost/ateliers/decouverte-de-la-fabrication-numerique-pour-vos-classes-decoupeuse-vinyle/
+#: (content/ateliers/decouverte-de-la-fabrication-numerique-pour-vos-classes-decoupeuse-vinyle/contents+fr.lr:workshop.tag)
 #: http://localhost/ateliers/le-numerique-pour-faire-face-aux-inegalites-scolaires/
 #: (content/ateliers/le-numerique-pour-faire-face-aux-inegalites-scolaires/contents+fr.lr:workshop.tag)
+#: http://localhost/ateliers/decouverte-de-la-fabrication-numerique-pour-vos-classes-impression-3d/
+#: (content/ateliers/decouverte-de-la-fabrication-numerique-pour-vos-classes-impression-3d/contents+fr.lr:workshop.tag)
 #: http://localhost/ateliers/premiers-pas-dans-la-programmation-ludique-et-creative/
 #: (content/ateliers/premiers-pas-dans-la-programmation-ludique-et-creative/contents+fr.lr:workshop.tag)
 #: http://localhost/ateliers/de-la-tortue-logo-au-chat-scratch/
@@ -3106,6 +3118,14 @@ msgid ""
 "perturbateurs)."
 msgstr ""
 
+#: http://localhost/ateliers/internet-et-le-web/
+#: (content/ateliers/internet-et-le-web/contents+fr.lr:workshop.description)
+msgid ""
+"**Internet et le web, [We are coders](https://www.wearecoders.org/) et "
+"[Internet Society Belgium](http://www.isoc.be/portal.php?pagina=indexfr."
+"htm&afdeling=fr&ln=fre/) **"
+msgstr ""
+
 #: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
 #: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.description)
 msgid ""
@@ -3122,12 +3142,6 @@ msgid ""
 msgstr ""
 "[Klik hier](../concert) voor meer informatie over de vertegenwoordiging."
 
-#: http://localhost/ateliers/internet-et-le-web/
-#: (content/ateliers/internet-et-le-web/contents+fr.lr:workshop.description)
-msgid ""
-"* Quelles ressources éducatives de qualité pour l’enseignement du numérique ?"
-msgstr "* Welke kwaliteitsvolle leermiddelen voor digitaal onderwijs?"
-
 #: http://localhost/ (content/contents+fr.lr:page.submissions_text)
 msgid "La liste des ateliers présent est disponible [ici](ateliers)"
 msgstr "De lijst met aanwezige workshops is [hier](workshops) beschikbaar"
@@ -3136,6 +3150,12 @@ msgstr "De lijst met aanwezige workshops is [hier](workshops) beschikbaar"
 #: (content/concert-festif-avant-premiere/contents+fr.lr:details-program.description)
 msgid ", 1060 Saint-Gilles"
 msgstr ", 1060 Sint-Gillis"
+
+#: http://localhost/ (content/contents+fr.lr:page.concert)
+msgid ""
+"- 19h Conférence de [Gilles Dowek](intervenants/gilles-dowek/) sur la "
+"transformation au numérique des écoles françaises"
+msgstr ""
 
 #: http://localhost/ateliers/decouverte-des-learningapps/
 #: (content/ateliers/decouverte-des-learningapps/contents+fr.lr:workshop.description)
@@ -3298,6 +3318,11 @@ msgstr ""
 msgid ""
 "À travers 4 business cases, l'étudiant prend le rôle du directeur de "
 "l'entreprise et organise la vie interne de celle-ci."
+msgstr ""
+
+#: http://localhost/ateliers/decouverte-de-la-fabrication-numerique-pour-vos-classes-impression-3d/
+#: (content/ateliers/decouverte-de-la-fabrication-numerique-pour-vos-classes-impression-3d/contents+fr.lr:workshop.title)
+msgid "Découverte de la fabrication numérique pour vos classes - Impression 3D"
 msgstr ""
 
 #: http://localhost/ateliers/codenplay-fischer/
@@ -3963,6 +3988,12 @@ msgstr ""
 msgid "CodeNPlay-Instituteurs"
 msgstr "CodeNPlay-Leraren"
 
+#: http://localhost/ateliers/decouverte-de-la-fabrication-numerique-pour-vos-classes-decoupeuse-vinyle/
+#: (content/ateliers/decouverte-de-la-fabrication-numerique-pour-vos-classes-decoupeuse-vinyle/contents+fr.lr:workshop.abstract)
+#: (content/ateliers/decouverte-de-la-fabrication-numerique-pour-vos-classes-decoupeuse-vinyle/contents+fr.lr:workshop.description)
+msgid "Approche pédagogique amusante et découverte de la découpeuse vinyle."
+msgstr ""
+
 #: http://localhost/ (content/contents+fr.lr:page.about)
 msgid ""
 "L'organisation de cette conférence est essentiellement *bénévole*. _Toute "
@@ -4314,6 +4345,31 @@ msgstr "Preview van het concert"
 #: templates/macros/sections.html:30 templates/macros/sections.html:58
 msgid "Info pratiques"
 msgstr "Praktische informatie"
+
+#~ msgid ""
+#~ "- 19h Conférence de [Gilles Dowek](https://wiki.educode.be/doku.php/"
+#~ "personnes/gilles_dowek) sur la transformation au numérique des écoles "
+#~ "françaises"
+#~ msgstr ""
+#~ "- 19.00 uur Conferentie door [Gilles Dowek](https://wiki.educode.be/doku."
+#~ "php/personnes/gilles_dowek) over de digitale transformatie van Franse "
+#~ "scholen"
+
+#~ msgid ""
+#~ "Pour plus d'information, voir [le wiki](http://wiki.educode.be) ou en "
+#~ "nous contactant par [email](info@educode.be)"
+#~ msgstr ""
+#~ "Voor meer informatie, zie het [wiki](http://wiki.educode.be) of door "
+#~ "contact met ons op te nemen via [email](info@educode.be)"
+
+#~ msgid ""
+#~ "Pour plus d'information et la préinscription, voir http://wiki.educode.be"
+#~ msgstr "Voor meer informatie en pre-registratie, zie http://wiki.educode.be"
+
+#~ msgid ""
+#~ "* Quelles ressources éducatives de qualité pour l’enseignement du "
+#~ "numérique ?"
+#~ msgstr "* Welke kwaliteitsvolle leermiddelen voor digitaal onderwijs?"
 
 #~ msgid "- 17h à 18h : buffet de clôture"
 #~ msgstr "- 17.00 tot 18.00 uur: buffet sluiten"
