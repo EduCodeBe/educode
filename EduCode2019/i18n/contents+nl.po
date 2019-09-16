@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: educode\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-16 08:51+CET\n"
+"POT-Creation-Date: 2019-09-16 09:14+CET\n"
 "PO-Revision-Date: 2019-09-11 10:03\n"
 "Last-Translator: npettiaux\n"
 "Language-Team: Flemish\n"
@@ -16,7 +16,7 @@ msgstr ""
 "X-Crowdin-Language: vls-BE\n"
 "X-Crowdin-File: educode2019.pot\n"
 
-#: http://localhost/ (content/contents+fr.lr:page.s_overview_program) (dynamic)
+#: http://localhost/ (content/contents+fr.lr:page.s_overview_program)
 msgid "Aperçu du programme"
 msgstr "Programma overzicht"
 
@@ -131,13 +131,12 @@ msgstr ""
 msgid "secondaire"
 msgstr "secundair"
 
-#: http://localhost/intervenants/fabrice-flore-thebault/
-#: (content/intervenants/fabrice-flore-thebault/contents+fr.lr:speaker.description)
+#: http://localhost/comites/
+#: (content/comites/contents+fr.lr:details-program.description)
 msgid ""
-"* A passé quelques années à gérer et automatiser des infrastructures basées "
-"sur des logiciels libres avec [Ansible](https://www.ansible.com/) et [Rudder]"
-"(https://rudder.io/)."
+"- Denis Longrée (président de roue de secours asbl, maitre en mathématique)"
 msgstr ""
+"- Denis Longrée (president van Roue de secours asbl, meester in wiskunde)"
 
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
@@ -157,8 +156,6 @@ msgid ""
 "au numérique et à la programmation."
 msgstr ""
 
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
 #: http://localhost/comites/
 #: (content/comites/contents+fr.lr:details-program.description)
 msgid "- Prof Thierry Massart (ULB)"
@@ -188,22 +185,14 @@ msgstr ""
 "* Het maakt het mogelijk om computerprogrammering te leren: begrijp dat "
 "machines met algoritmen werken en dat de bewegingen vooraf worden bepaald."
 
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
 #: http://localhost/comites/
 #: (content/comites/contents+fr.lr:details-program.description)
 msgid "- Prof Colin de la Higuera (Université de Nantes)"
 msgstr "- Prof Colin de la Higuera (Universiteit van Nantes)"
 
 #: http://localhost/dons/ (content/dons/contents+fr.lr:details-program.date)
-#: (dynamic)
 msgid "Dons"
 msgstr "Donaties"
-
-#: (dynamic)
-msgid ""
-"Dans la salle gothique de l'hôtel de ville de Bruxelles, à la Grand-Place."
-msgstr "In de gotische hal van het stadhuis van Brussel op de Grote Markt."
 
 #: http://localhost/intervenants/laurence-bourguignon/
 #: (content/intervenants/laurence-bourguignon/contents+fr.lr:speaker.description)
@@ -230,8 +219,6 @@ msgstr ""
 msgid "1x50'"
 msgstr "1x50'"
 
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
 #: http://localhost/comites/
 #: (content/comites/contents+fr.lr:details-program.description)
 msgid "# Comité scientifique et de soutien"
@@ -241,10 +228,6 @@ msgstr "# Wetenschappelijk en ondersteunend comité"
 #: (content/ateliers/apprendre-a-souder/contents+fr.lr:workshop.description)
 msgid "* Apprendre à mettre les composants dans le bon sens"
 msgstr "* Leer de componenten in de juiste richting te plaatsen"
-
-#: (dynamic)
-msgid "Afficher que la catégorie"
-msgstr ""
 
 #: http://localhost/ateliers/coder-en-25-defis/
 #: (content/ateliers/coder-en-25-defis/contents+fr.lr:workshop.abstract)
@@ -330,10 +313,6 @@ msgstr ""
 "Concerto voor piano en orkest in B mineur, gebaseerd op de fragmenten van "
 "een onvoltooid concert van Edvard Grieg."
 
-#: (dynamic)
-msgid "Toutes les heures"
-msgstr ""
-
 #: http://localhost/ (content/contents+fr.lr:page.concert_avant_premiere)
 msgid "[Plus d'informations...](concert-festif-avant-premiere)"
 msgstr "[Meer informatie...](concert-festif-avant-premiere)"
@@ -373,10 +352,6 @@ msgstr ""
 msgid "À propos d'EduCode"
 msgstr "Over EduCode"
 
-#: (dynamic)
-msgid "Journée principale"
-msgstr "Belangrijkste dag"
-
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "#Localisation"
@@ -413,8 +388,6 @@ msgstr "Ontdek leermogelijkheden met Thymio-robots voor jongere kleuters."
 msgid "de projections audio-visuelles."
 msgstr "audiovisuele projecties."
 
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
 #: http://localhost/comites/
 #: (content/comites/contents+fr.lr:details-program.description)
 msgid "- Eric Robette"
@@ -423,10 +396,6 @@ msgstr "- Eric Robette"
 #: http://localhost/ (content/contents+fr.lr:page.s_contact)
 msgid "Contact"
 msgstr "Contact"
-
-#: (dynamic)
-msgid "Au local"
-msgstr ""
 
 #: http://localhost/intervenants/laurent-beeckmans/
 #: (content/intervenants/laurent-beeckmans/contents+fr.lr:speaker.description)
@@ -449,17 +418,11 @@ msgstr ""
 "thematische concerten produceert in een originele omgeving waarin geluid en "
 "beeld worden geïntegreerd"
 
-#: (dynamic)
-msgid "alto"
-msgstr "viola"
-
 #: http://localhost/ateliers/initiation-a-la-pensee-informatique-en-primaire/
 #: (content/ateliers/initiation-a-la-pensee-informatique-en-primaire/contents+fr.lr:workshop.title)
 msgid "Initiation à la pensée informatique en primaire"
 msgstr "Initiatie tot computerdenken in de eerste plaats"
 
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
 #: http://localhost/comites/
 #: (content/comites/contents+fr.lr:details-program.description)
 msgid "- Dr Pierre De Buyl (KU Leuven, chercheur)"
@@ -473,21 +436,9 @@ msgid ""
 "bibliosansfrontieres.org/)"
 msgstr ""
 
-#: (dynamic)
-msgid "Toutes les catégories"
-msgstr ""
-
-#: (dynamic)
-msgid "contrebasse"
-msgstr "bas"
-
 #: http://localhost/ (content/contents+fr.lr:page.s_saturday)
 msgid "Samedi"
 msgstr "Zaterdag"
-
-#: (dynamic)
-msgid "Primaire"
-msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.journee_sans_ordi)
 msgid ""
@@ -563,6 +514,14 @@ msgstr ""
 "* Gericht op kinderen van drie jaar en ouder, werkt Cubetto zonder scherm en "
 "zonder taal, het is universeel, toegankelijk voor alle kinderen."
 
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
+msgid ""
+"* 11h10 à 11h30 : <abbr title=\"Conférences brèves (20 minutes)\">B</abbr> – "
+"*Découverte de la gestion d'entreprise à travers le jeu Scale-Up* par "
+"Charline Louis (Odoo)"
+msgstr ""
+
 #: http://localhost/ (content/contents+fr.lr:page.s_speakers)
 msgid "Intervenants"
 msgstr "Speakers"
@@ -585,10 +544,6 @@ msgstr ""
 "de klas wat ze hebben geleerd. Deze hands-on workshops zullen zich richten "
 "op een breed scala aan onderwerpen rond onderwijs en het gebruik van "
 "digitaal en computerdenken, en nieuwe manieren van werken die digitaal zijn."
-
-#: (dynamic)
-msgid "Voir les ateliers"
-msgstr "Bekijk de workshops"
 
 #: http://localhost/lieux/villebxl/
 #: (content/lieux/villebxl/contents+fr.lr:location.directions)
@@ -617,7 +572,7 @@ msgstr ""
 "De organisatie van deze conferentie is in wezen vrijwillig. Elk geschenk is "
 "welkom."
 
-#: http://localhost/ (content/contents+fr.lr:page.s_program) (dynamic)
+#: http://localhost/ (content/contents+fr.lr:page.s_program)
 msgid "Programme"
 msgstr "Programma"
 
@@ -681,6 +636,13 @@ msgstr ""
 "* Associate Coordinator van [ASAEC](http://asaec.info/)(Asociación Argentina "
 "de Estudios Canadienses) ."
 
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
+msgid ""
+"* 12h00 à 14h00 : *Pause déjeuner, visite de l'exposition, rencontres, "
+"échanges*"
+msgstr ""
+
 #: http://localhost/ateliers/construire-des-projets-et-des-labos-arduino/
 #: (content/ateliers/construire-des-projets-et-des-labos-arduino/contents+fr.lr:workshop.title)
 msgid "Construire des projets et des labos Arduino"
@@ -700,11 +662,12 @@ msgid ""
 "d’élèves du secondaire supérieur (15-18 ans)."
 msgstr ""
 
-#: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
-#: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.description)
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid ""
-"* Les  environnements des participants restent disponibles après le cours."
-msgstr "* De omgevingen van de deelnemers blijven beschikbaar na de les."
+"* 14h30 à 15h00 : <abbr title=\"Conférence\">C</abbr> – *Éduquer au "
+"numérique : quoi, qui, pourquoi, comment* par Julie Henry"
+msgstr ""
 
 #: http://localhost/intervenants/erick-mascart/
 #: (content/intervenants/erick-mascart/contents+fr.lr:speaker.description)
@@ -727,12 +690,16 @@ msgstr ""
 "U kunt ook nuttige documenten downloaden door op de onderstaande link te "
 "klikken."
 
+#: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
+#: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.description)
+msgid ""
+"* Les  environnements des participants restent disponibles après le cours."
+msgstr "* De omgevingen van de deelnemers blijven beschikbaar na de les."
+
 #: http://localhost/ (content/contents+fr.lr:page.s_more_infos)
 msgid "Plus d'infos"
 msgstr "Meer info"
 
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
 #: http://localhost/comites/
 #: (content/comites/contents+fr.lr:details-program.description)
 msgid "- Éric Deprins, ex CEO de Toyota Belgium, Unilever, Mestdagh"
@@ -762,18 +729,19 @@ msgstr ""
 "die momenteel een zeer belangrijke energie vereist van een zeer klein aantal "
 "acteurs, vrouwen en mannen."
 
-#: (dynamic)
-msgid "Le carnaval des animaux"
-msgstr "Het carnaval van dieren"
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
+msgid ""
+"* 9h30 à 9h50 : <abbr title=\"Conférences brèves (20 minutes)\">B</abbr> –* "
+"De la démystification de l’intelligence artificielle au développement de la "
+"pensée informatique : enjeux pour l’apprentissage de l’informatique à "
+"l’école* par Margorida Romero"
+msgstr ""
 
 #: http://localhost/ateliers/codenplay-krings/
 #: (content/ateliers/codenplay-krings/contents+fr.lr:workshop.title)
 msgid "CodeNPlay-Directeurs"
 msgstr "CodeNPlay-Bestuurders"
-
-#: (dynamic)
-msgid "clarinette"
-msgstr "klarinet"
 
 #: http://localhost/ateliers/sac-a-dos-numerique-pour-lapprentissage-par-competences/
 #: (content/ateliers/sac-a-dos-numerique-pour-lapprentissage-par-competences/contents+fr.lr:workshop.description)
@@ -791,6 +759,18 @@ msgstr ""
 #: http://localhost/intervenants/erick-mascart/
 #: (content/intervenants/erick-mascart/contents+fr.lr:speaker.description)
 msgid "* Est membre actif de l'équipe Educode."
+msgstr ""
+
+#: http://localhost/ateliers/apprendre-a-souder/
+#: (content/ateliers/apprendre-a-souder/contents+fr.lr:workshop.description)
+msgid "Compétences :"
+msgstr "Vaardigheden:"
+
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
+msgid ""
+"* 11h30 à 11h50 : <abbr title=\"Conférences brèves (20 minutes)\">B</abbr> – "
+"Activités du CIRB-CIBG à Bruxelles pour les écoles"
 msgstr ""
 
 #: http://localhost/ateliers/sac-a-dos-numerique-pour-lapprentissage-par-competences/
@@ -862,14 +842,12 @@ msgstr ""
 msgid "** Comment mettre en oeuvre Eclipse Che. **"
 msgstr ""
 
-#: http://localhost/ateliers/decouvrir-le-robot-cubetto/
-#: (content/ateliers/decouvrir-le-robot-cubetto/contents+fr.lr:workshop.description)
+#: http://localhost/intervenants/rupert-meurice-de-dormale/
+#: (content/intervenants/rupert-meurice-de-dormale/contents+fr.lr:speaker.description)
 msgid ""
-"* Cubetto est un petit robot inspiré par le langage Logo et qui se programme "
-"simplement avec les mains, sans PC ni écran !"
+"* Coauteur avec Philippe Dardenne d'un manuel sur l'apprentissage de la "
+"démarche scientifique (3<sup>ème</sup> Rénové) 1980;"
 msgstr ""
-"* Cubetto is een kleine robot geïnspireerd op het taallogo en die eenvoudig "
-"met de handen wordt geprogrammeerd, zonder pc of scherm!"
 
 #: http://localhost/intervenants/colin-de-la-higuera/
 #: (content/intervenants/colin-de-la-higuera/contents+fr.lr:speaker.description)
@@ -932,6 +910,13 @@ msgstr ""
 "onderwijs. Ze deelt graag haar passies en je kunt haar vinden in [deze video]"
 "(https://www.youtube.com/watch?v=AA8_QCbhrNo)"
 
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
+msgid ""
+"* 8h30 à 8h45 : Accueil par Yves Robaey, co-président de HE2B, et Pierre "
+"Wolper, recteur de l'Université de Liège"
+msgstr ""
+
 #: http://localhost/intervenants/dimitri-krings/
 #: (content/intervenants/dimitri-krings/contents+fr.lr:speaker.description)
 msgid ""
@@ -948,15 +933,6 @@ msgstr ""
 #: (content/intervenants/francoise-bols/contents+fr.lr:speaker.description)
 msgid "Françoise est une membre active de l'équipe Educode."
 msgstr ""
-
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
-#: http://localhost/comites/
-#: (content/comites/contents+fr.lr:details-program.description)
-msgid ""
-"- Denis Longrée (président de roue de secours asbl, maitre en mathématique)"
-msgstr ""
-"- Denis Longrée (president van Roue de secours asbl, meester in wiskunde)"
 
 #: http://localhost/intervenants/patricia-corieri/
 #: (content/intervenants/patricia-corieri/contents+fr.lr:speaker.description)
@@ -975,10 +951,6 @@ msgstr ""
 "<a href=\"../ateliers\" class=\"btn btn-lg btn-warning text-uppercase"
 "\">Bekijk de workshops</a>"
 
-#: (dynamic)
-msgid "Tranche d'âge"
-msgstr ""
-
 #: http://localhost/intervenants/gilles-dowek/
 #: (content/intervenants/gilles-dowek/contents+fr.lr:speaker.description)
 msgid "* _La logique_, Édition Le Pommier, 2015"
@@ -992,18 +964,10 @@ msgstr "Praktische informatie"
 msgid "Soumettre un poster"
 msgstr "Verzend een poster"
 
-#: (dynamic)
-msgid "Présentation des ateliers"
-msgstr ""
-
 #: http://localhost/intervenants/rupert-meurice-de-dormale/
 #: (content/intervenants/rupert-meurice-de-dormale/contents+fr.lr:speaker.description)
 msgid "Divers"
 msgstr ""
-
-#: (dynamic)
-msgid "violon"
-msgstr "viool"
 
 #: http://localhost/lieux/becentral/
 #: (content/lieux/becentral/contents+fr.lr:location.directions)
@@ -1018,6 +982,13 @@ msgstr ""
 "Laat ons uw standvoorstellen binnen de tentoonstelling weten door op de "
 "onderstaande knop te klikken."
 
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
+msgid ""
+"* 17h50 à 18h00 : Clôture par Hugues Bersini, professeur à l'Université "
+"libre de Bruxelles"
+msgstr ""
+
 #: http://localhost/intervenants/myriam-criquet/
 #: (content/intervenants/myriam-criquet/contents+fr.lr:speaker.description)
 msgid ""
@@ -1029,10 +1000,6 @@ msgstr ""
 #: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
 #: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.description)
 msgid "** Quels sont les environnements sont supportés? **"
-msgstr ""
-
-#: (dynamic)
-msgid "A une certaine heure"
 msgstr ""
 
 #: http://localhost/intervenants/christine-lefevre/
@@ -1119,10 +1086,6 @@ msgstr ""
 "Piano Duo, gespecialiseerd in de uitvoering van arrangementen en "
 "transcripties van orkestwerken."
 
-#: (dynamic)
-msgid "En savoir plus"
-msgstr ""
-
 #: http://localhost/intervenants/julie-henry/
 #: (content/intervenants/julie-henry/contents+fr.lr:speaker.description)
 msgid "- https://researchportal.unamur.be/fr/persons/julie-henry"
@@ -1148,14 +1111,6 @@ msgstr ""
 #: http://localhost/ateliers/decouvrir-le-robot-cubetto/
 #: (content/ateliers/decouvrir-le-robot-cubetto/contents+fr.lr:workshop.abstract)
 msgid "Découvrir le robot Cubetto et animer un atelier dans sa classe"
-msgstr ""
-
-#: (dynamic)
-msgid "violoncelle"
-msgstr "cello"
-
-#: (dynamic)
-msgid "Rechercher parmi les ateliers"
 msgstr ""
 
 #: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
@@ -1228,9 +1183,13 @@ msgid ""
 msgstr ""
 "- Deel deze \"devfile\" onder de deelnemers om hun eigen omgeving te creëren."
 
-#: (dynamic)
-msgid "conteuse"
-msgstr "raconteur"
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
+msgid ""
+"* 9h50 à 10h10 : <abbr title=\"Conférences brèves (20 minutes)\">B</abbr> – "
+"*Hackerspaces: apprentissage par la pratique et mains dans le camboui* par "
+"Benjamin Henrion et Dimitri Del Marmol"
+msgstr ""
 
 #: http://localhost/intervenants/nicolas-pettiaux/
 #: (content/intervenants/nicolas-pettiaux/contents+fr.lr:speaker.description)
@@ -1243,8 +1202,6 @@ msgstr ""
 "software-activiteiten in Brussel, waaronder de [Free Software World Meeting "
 "in 2013](https://2013.rmll.info/nl/)."
 
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
 #: http://localhost/comites/
 #: (content/comites/contents+fr.lr:details-program.description)
 msgid "- Erick Mascart"
@@ -1348,8 +1305,6 @@ msgstr ""
 msgid "* Licence en Biologie animale (Bac+4) UCLouvain 1976;"
 msgstr ""
 
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
 #: http://localhost/comites/
 #: (content/comites/contents+fr.lr:details-program.description)
 msgid "- Olivier Goletti (Ulouvain & SIcarre, chercheur)"
@@ -1360,48 +1315,26 @@ msgid ""
 "Merci de vous munir des documents d’inscription pour une vérification aisée."
 msgstr "Breng registratiedocumenten mee voor eenvoudige verificatie."
 
-#: http://localhost/intervenants/rupert-meurice-de-dormale/
-#: (content/intervenants/rupert-meurice-de-dormale/contents+fr.lr:speaker.description)
+#: http://localhost/ateliers/decouvrir-le-robot-cubetto/
+#: (content/ateliers/decouvrir-le-robot-cubetto/contents+fr.lr:workshop.description)
 msgid ""
-"* Coauteur avec Philippe Dardenne d'un manuel sur l'apprentissage de la "
-"démarche scientifique (3<sup>ème</sup> Rénové) 1980;"
+"* Cubetto est un petit robot inspiré par le langage Logo et qui se programme "
+"simplement avec les mains, sans PC ni écran !"
 msgstr ""
+"* Cubetto is een kleine robot geïnspireerd op het taallogo en die eenvoudig "
+"met de handen wordt geprogrammeerd, zonder pc of scherm!"
 
 #: http://localhost/journee-info-sans-ordi/
 #: (content/journee-info-sans-ordi/contents+fr.lr:details-program.description)
 msgid "**Qu'est ce qu'est la Journée sans ordi**"
 msgstr ""
 
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
-msgid ""
-"Quelques conférences mais surtout des ateliers pratiques et des "
-"présentations, notamment par des enseignants  et leurs étudiants, ou par des "
-"représentants des diverses sociétés spécialisées ou des associations qui "
-"contribuent à la formation à l'utilisation des TICE à l'école (telles que "
-"HE2B, ULBruxelles, ULiège, Unamur, UMons, USaintLouis, Devoxx4kids, SICarré, "
-"La société informatique de France, Class'Code, la  Scientothèque, "
-"Fablabe'ke, OpenFab, WeAreCoders, Roue de secours, BxLug, Abelli, CESEP, "
-"ForSud ... ). L'équipe de pilotage de la conférence souhaite mettre au "
-"service des acteurs de l'enseignement et du Pacte d'excellence sa "
-"connaissance des acteurs et sa capacité d'organisation de rencontres entre "
-"professionnels d'horizon divers."
+#: http://localhost/ateliers/jouer-pour-comprendre-lintelligence-artificielle/
+#: (content/ateliers/jouer-pour-comprendre-lintelligence-artificielle/contents+fr.lr:workshop.tag)
+#: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
+#: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.tag)
+msgid "secondaire, primaire"
 msgstr ""
-"Sommige conferenties, maar meestal praktische workshops en presentaties, "
-"vooral door leraren en hun studenten, of door vertegenwoordigers van "
-"verschillende gespecialiseerde bedrijven of verenigingen die bijdragen aan "
-"de training in het gebruik van ICT op school (zoals HE2B, ULBrussels, "
-"ULiège, UNamur, UMons, USaintLouis, Devoxx4kids, SICarré, het "
-"computerbedrijf van Frankrijk, Class'Code, the Scientothèque, Fablabe'ke, "
-"OpenFab, WeAreCoders, Reservewiel, BxLug, Abelli, CESEP, ForSud ...) . De "
-"stuurgroep van de conferentie wil de actoren van het onderwijs en het Pact "
-"of excellentie zijn kennis van de actoren en zijn capaciteit voor het "
-"organiseren van vergaderingen tussen professionals van verschillende "
-"horizonten ten dienste stellen."
-
-#: (dynamic)
-msgid "flûte"
-msgstr "fluit"
 
 #: http://localhost/intervenants/erick-mascart/
 #: (content/intervenants/erick-mascart/contents+fr.lr:speaker.description)
@@ -1474,8 +1407,6 @@ msgstr ""
 "de __concret__ in tegenstelling tot het vaak theoretische en abstracte "
 "gebruik in de leer."
 
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
 #: http://localhost/comites/
 #: (content/comites/contents+fr.lr:details-program.description)
 msgid ""
@@ -1493,8 +1424,6 @@ msgid ""
 "be/))"
 msgstr ""
 
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
 #: http://localhost/comites/
 #: (content/comites/contents+fr.lr:details-program.description)
 msgid "- Prof Bernard Rentier (Uliège, ancien recteur)"
@@ -1567,10 +1496,6 @@ msgstr ""
 msgid "Grand-place, 1000 Bruxelles"
 msgstr "Grote Markt, 1000 Brussel"
 
-#: (dynamic)
-msgid "percussion"
-msgstr "percussie"
-
 #: http://localhost/intervenants/nicolas-seinlet/
 #: (content/intervenants/nicolas-seinlet/contents+fr.lr:speaker.description)
 msgid ""
@@ -1584,17 +1509,11 @@ msgstr ""
 msgid "Premiers pas dans la programmation ludique et créative"
 msgstr "Eerste stappen in leuk en creatief programmeren"
 
-#: (dynamic)
-msgid "Avec"
-msgstr "Met"
-
 #: http://localhost/intervenants/nicolas-seinlet/
 #: (content/intervenants/nicolas-seinlet/contents+fr.lr:speaker.description)
 msgid "* Contributeur sur divers projets open-source autour de PostgreSQL"
 msgstr ""
 
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
 #: http://localhost/comites/
 #: (content/comites/contents+fr.lr:details-program.description)
 msgid "- Prof Olivier Debeir (ULB)"
@@ -1607,19 +1526,15 @@ msgid ""
 msgstr ""
 "* Facilitator van robotica-workshops [Educode 2019](https://2019.educode.be)"
 
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
 #: http://localhost/comites/
 #: (content/comites/contents+fr.lr:details-program.description)
 msgid "- Denis Matagne (HE2B-Defré, directeur)"
 msgstr "- Denis Matagne (HE2B-Defré, directeur)"
 
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
-#: http://localhost/comites/
-#: (content/comites/contents+fr.lr:details-program.description)
-msgid "- Michel Willemse (HE2B-ESI, directeur)"
-msgstr "- Michel Willemse (HE2B-ESI, directeur)"
+#: http://localhost/ateliers/
+#: (content/ateliers/contents+fr.lr:workshops-container.description)
+msgid "Liste des ateliers présentés"
+msgstr "Lijst van gepresenteerde workshops"
 
 #: http://localhost/ateliers/lenseignement-de-la-programmation-en-insertion-socio-professionnelle/
 #: (content/ateliers/lenseignement-de-la-programmation-en-insertion-socio-professionnelle/contents+fr.lr:workshop.description)
@@ -1688,8 +1603,6 @@ msgstr ""
 "uitdagingen van digitale technologie te informeren, op te leiden en te "
 "stimuleren__."
 
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
 #: http://localhost/comites/
 #: (content/comites/contents+fr.lr:details-program.description)
 msgid "- Prof Hugues Bersini (ULB)"
@@ -1711,12 +1624,6 @@ msgstr ""
 "Nicolas Pettiaux is de initiatiefnemer en coördinator van de EduCode-"
 "conferentie."
 
-#: (dynamic)
-msgid "Concert festif"
-msgstr "Feestelijk concert"
-
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
 #: http://localhost/comites/
 #: (content/comites/contents+fr.lr:details-program.description)
 msgid "- Yves Robaey (HE2B, co-président)"
@@ -1747,10 +1654,6 @@ msgstr ""
 "en geregistreerd bij IFC met **opleidingsnummer 03001901/34350** om te "
 "worden opgenomen in de website [www.ifc.cfwb.be](http://www.ifc.cfwb.be/)"
 
-#: (dynamic)
-msgid "Secondaire"
-msgstr ""
-
 #: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
 #: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.description)
 msgid ""
@@ -1766,8 +1669,6 @@ msgstr ""
 "de broncode die nodig is voor zijn werk en een omgeving om zijn applicatie "
 "te testen."
 
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
 #: http://localhost/comites/
 #: (content/comites/contents+fr.lr:details-program.description)
 msgid "- Françoise Bols"
@@ -1776,10 +1677,6 @@ msgstr "- Françoise Bols"
 #: http://localhost/ (content/contents+fr.lr:page.concert)
 msgid "[Plus d'informations...](concert)"
 msgstr "[Meer informaties...](concert)"
-
-#: (dynamic)
-msgid "Lundi 7 octobre 2019 de 19h à 23h avec cocktail dinatoire."
-msgstr "Maandag 7 oktober 2019 van 19.00 tot 23.00 uur met cocktaildiner."
 
 #: http://localhost/intervenants/rupert-meurice-de-dormale/
 #: (content/intervenants/rupert-meurice-de-dormale/contents+fr.lr:speaker.description)
@@ -1880,10 +1777,6 @@ msgstr ""
 "van ieders werkomgeving, in plaats van meteen met de eigenlijke inhoud van "
 "de training te beginnen."
 
-#: (dynamic)
-msgid "Journée info sans ordi (annulé)"
-msgstr ""
-
 #: http://localhost/ (content/contents+fr.lr:page.s_wednesday)
 msgid "Mercredi"
 msgstr "Woensdag"
@@ -1920,7 +1813,7 @@ msgstr ""
 msgid "* Anime des ateliers dans le cadre scolaire et parascolaire"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.s_propose_atelier) (dynamic)
+#: http://localhost/ (content/contents+fr.lr:page.s_propose_atelier)
 msgid "Proposer un atelier"
 msgstr "Stel een workshop voor"
 
@@ -1929,8 +1822,6 @@ msgstr "Stel een workshop voor"
 msgid "- Préparez un (\"devfile\") pour chaque cours."
 msgstr "- Maak een (\"devfile\") voor elke cursus."
 
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
 #: http://localhost/comites/
 #: (content/comites/contents+fr.lr:details-program.description)
 msgid "- Karin Van Loon (HE2B-ISIB, directrice)"
@@ -2024,6 +1915,10 @@ msgid ""
 "-   Trustee of the [Knowledge for All Foundation](http://www.k4all.org/)."
 msgstr ""
 "-  Trustee van de [Knowledge for All Foundation](http://www.k4all.org/)."
+
+#: http://localhost/ (content/contents+fr.lr:page.text_button)
+msgid "Devenir exposant"
+msgstr "Word exposant"
 
 #: http://localhost/ateliers/codenplay-krings/
 #: (content/ateliers/codenplay-krings/contents+fr.lr:workshop.description)
@@ -2131,12 +2026,6 @@ msgid ""
 "* Anime des ateliers aliant science et technologie pour un public adolescent"
 msgstr ""
 
-#: (dynamic)
-msgid "piano"
-msgstr "piano"
-
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
 #: http://localhost/comites/
 #: (content/comites/contents+fr.lr:details-program.description)
 msgid "- Eric Robette (HE2B-Defré, maître-assistant)"
@@ -2154,16 +2043,15 @@ msgstr ""
 msgid "* C'est un outil multi-plateforme, utilisable sur PC, tablette ou TBI."
 msgstr ""
 
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
 #: http://localhost/comites/
 #: (content/comites/contents+fr.lr:details-program.description)
 msgid "- Alexia Pasini (HE2B, co-présidente)"
 msgstr "- Alexia Pasini (HE2B, co-voorzitter)"
 
-#: (dynamic)
-msgid "de"
-msgstr "van"
+#: http://localhost/ateliers/coder-en-25-defis/
+#: (content/ateliers/coder-en-25-defis/contents+fr.lr:workshop.title)
+msgid "Coder en 25 défis"
+msgstr ""
 
 #: http://localhost/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/
 #: (content/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/contents+fr.lr:workshop.description)
@@ -2277,10 +2165,10 @@ msgid "2. Une ouverte au grand public avec exposition et conférences"
 msgstr ""
 "2. Een opening voor het grote publiek met tentoonstelling en conferenties"
 
-#: http://localhost/ateliers/
-#: (content/ateliers/contents+fr.lr:workshops-container.description)
-msgid "Liste des ateliers présentés"
-msgstr "Lijst van gepresenteerde workshops"
+#: http://localhost/comites/
+#: (content/comites/contents+fr.lr:details-program.description)
+msgid "- Michel Willemse (HE2B-ESI, directeur)"
+msgstr "- Michel Willemse (HE2B-ESI, directeur)"
 
 #: http://localhost/intervenants/laurence-bourguignon/
 #: (content/intervenants/laurence-bourguignon/contents+fr.lr:speaker.description)
@@ -2346,9 +2234,14 @@ msgstr ""
 "laboratoria voor natuurkunde, technologie, programmeren of in een "
 "buitenschoolse context voor de uitwerking van projecten op langere termijn …"
 
-#: http://localhost/ (content/contents+fr.lr:page.text_button)
-msgid "Devenir exposant"
-msgstr "Word exposant"
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
+msgid ""
+"* 16h00 à 17h50 : <abbr title=\"Film suivi de discussion\">F</abbr> – *La "
+"bataille libre : un histoire de communs et de partage*, de Philippe Borrel "
+"avec la participation du réalisateur qui complétera le film par une séance "
+"de questions – réponses."
+msgstr ""
 
 #: http://localhost/intervenants/colin-de-la-higuera/
 #: (content/intervenants/colin-de-la-higuera/contents+fr.lr:speaker.description)
@@ -2368,9 +2261,11 @@ msgstr "Voor meer informatie en pre-registratie, zie http://wiki.educode.be"
 msgid "Sans cocktail : 30€ / 20€ / 15€ (étudiant) / 12€ (sans emploi)"
 msgstr "Zonder cocktail: 30 € / 20 € / 15 € (student) / 12 € (werkloos)"
 
-#: http://localhost/ateliers/coder-en-25-defis/
-#: (content/ateliers/coder-en-25-defis/contents+fr.lr:workshop.title)
-msgid "Coder en 25 défis"
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
+msgid ""
+"Le verre de l'amitié sera pris le soir à la Cellule133a après l'[avant-"
+"première du concert festif](../concert-festif-avant-premiere)"
 msgstr ""
 
 #: http://localhost/journee-principale/
@@ -2422,10 +2317,6 @@ msgstr ""
 "In het bijzonder kunt u doneren <script src=\"https://liberapay.com/"
 "npettiaux/widgets/button.js\"> </script>"
 
-#: (dynamic)
-msgid "Réinitialiser les filtres"
-msgstr ""
-
 #: http://localhost/lieux/becentral/
 #: (content/lieux/becentral/contents+fr.lr:location.address)
 msgid "Gare centrale, 1000 Bruxelles"
@@ -2461,8 +2352,6 @@ msgstr ""
 msgid "Mardi"
 msgstr "Dinsdag"
 
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
 #: http://localhost/comites/
 #: (content/comites/contents+fr.lr:details-program.description)
 msgid "- Denis Longrée"
@@ -2476,8 +2365,6 @@ msgid ""
 "la résoudre de manière empirique."
 msgstr ""
 
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
 #: http://localhost/comites/
 #: (content/comites/contents+fr.lr:details-program.description)
 msgid "- Prof Pierre Wolper (Uliège, recteur)"
@@ -2559,6 +2446,13 @@ msgstr ""
 "Speel om te begrijpen wat een kunstmatige intelligentie is en hoe het kan "
 "leren"
 
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
+msgid ""
+"* 15h00 à 15h50 : <abbr title=\"Conférence\">C</abbr> – *Spectacle "
+"interactif et animé d'informagie* par Marie Duflot-Kremer"
+msgstr ""
+
 #: http://localhost/intervenants/laurence-bourguignon/
 #: (content/intervenants/laurence-bourguignon/contents+fr.lr:speaker.description)
 msgid ""
@@ -2576,17 +2470,6 @@ msgstr ""
 msgid "* Section normale primaire"
 msgstr ""
 
-#: (dynamic)
-msgid "S'inscrire"
-msgstr "Inschrijven"
-
-#: http://localhost/ateliers/jouer-pour-comprendre-lintelligence-artificielle/
-#: (content/ateliers/jouer-pour-comprendre-lintelligence-artificielle/contents+fr.lr:workshop.tag)
-#: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
-#: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.tag)
-msgid "secondaire, primaire"
-msgstr ""
-
 #: http://localhost/intervenants/julie-henry/
 #: (content/intervenants/julie-henry/contents+fr.lr:speaker.description)
 msgid "- https://www.linkedin.com/in/julie-henry-5076951b/"
@@ -2596,6 +2479,16 @@ msgstr "- https://www.linkedin.com/in/julie-henry-5076951b/"
 #: (content/ateliers/decouverte-des-learningapps/contents+fr.lr:workshop.description)
 msgid "* C'est un outil très intéressant pour les enseignants car :"
 msgstr "* Dit is een zeer interessant hulpmiddel voor leraren omdat:"
+
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
+msgid ""
+"* 10h10 à 10h30 : <abbr title=\"Conférences brèves (20 minutes)\">B</abbr> – "
+"*Cyber Héros et Voyageurs du Numérique, un kit pédagogiques pour aborder les "
+"questions de la citoyenneté numérique et des outils pour créer avec le "
+"numérique en classe* par Dimitri Verboomen & Jonathan Smets (Bibliothèques "
+"Sans Frontières)"
+msgstr ""
 
 #: http://localhost/ateliers/lenseignement-de-la-programmation-en-insertion-socio-professionnelle/
 #: (content/ateliers/lenseignement-de-la-programmation-en-insertion-socio-professionnelle/contents+fr.lr:workshop.title)
@@ -2644,7 +2537,7 @@ msgid ""
 msgstr ""
 
 #: http://localhost/comites/
-#: (content/comites/contents+fr.lr:details-program.date) (dynamic)
+#: (content/comites/contents+fr.lr:details-program.date)
 msgid "Comités"
 msgstr ""
 
@@ -2691,10 +2584,6 @@ msgid ""
 msgstr ""
 "* Leer omgaan met een soldeerbout (koud, warm, temperatuur, bescherming)"
 
-#: (dynamic)
-msgid "Journée info sans ordi"
-msgstr "Infodag zonder computer"
-
 #: http://localhost/intervenants/marie-duflot-kremer/
 #: (content/intervenants/marie-duflot-kremer/contents+fr.lr:speaker.description)
 msgid ""
@@ -2712,8 +2601,6 @@ msgstr ""
 "iedereen, animator, leraar, ouder... te trainen die jonge mensen van 8 tot "
 "14 jaar kennis wil laten maken met computerdenken."
 
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
 #: http://localhost/comites/
 #: (content/comites/contents+fr.lr:details-program.description)
 msgid "- Françoise Bols (HE2B-Nivelles, chargé de cours)"
@@ -2730,10 +2617,6 @@ msgstr ""
 #: (content/intervenants/gregoire-fischer/contents+fr.lr:speaker.description)
 msgid "* Formation et soutien de professeurs"
 msgstr ""
-
-#: (dynamic)
-msgid "Concert"
-msgstr "Concert"
 
 #: http://localhost/intervenants/thierry-massart/
 #: (content/intervenants/thierry-massart/contents+fr.lr:speaker.description)
@@ -2834,17 +2717,10 @@ msgstr ""
 msgid "Exposer et tenir un stand"
 msgstr "Stel een stand tentoon en houd vast"
 
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
 #: http://localhost/comites/
 #: (content/comites/contents+fr.lr:details-program.description)
 msgid "- Julie Henry (UNamur, chercheuse)"
 msgstr "- Julie Henry (UNamur, onderzoeker)"
-
-#: http://localhost/ateliers/decouvrir-le-robot-cubetto/
-#: (content/ateliers/decouvrir-le-robot-cubetto/contents+fr.lr:workshop.description)
-msgid "**Cubetto : Héritier du Logo**"
-msgstr "**Cubetto: erfgenaam van het Logo**"
 
 #: http://localhost/ateliers/apprendre-a-souder/
 #: (content/ateliers/apprendre-a-souder/contents+fr.lr:workshop.description)
@@ -2905,12 +2781,18 @@ msgstr ""
 "auprès de l'orchestre de jeunes musiciens Melomania et de l'orchestre de "
 "chambre de l'Ecole Européenne de Bruxelles."
 
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
 #: http://localhost/comites/
 #: (content/comites/contents+fr.lr:details-program.description)
 msgid "- Georges Khaznadar (Lycée Jean Bart, Dunkerque)"
 msgstr "- Georges Khaznadar (Lycee Jean Bart, Duinkerken)"
+
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
+msgid ""
+"* 10h30 à 10h50 : <abbr title=\"Conférences brèves (20 minutes)\">B</abbr> – "
+"*CodeNPlay : l'enseignement du numérique, l'importance d'une approche de "
+"terrain* par Nadine Khouzam et Dimitri Krings"
+msgstr ""
 
 #: http://localhost/intervenants/nicolas-pettiaux/
 #: (content/intervenants/nicolas-pettiaux/contents+fr.lr:speaker.description)
@@ -2946,10 +2828,6 @@ msgid ""
 msgstr ""
 "Op deze manier ervaart u het voordeel van dit soort gebruik in een "
 "klaslokaal."
-
-#: (dynamic)
-msgid "Maternelle"
-msgstr ""
 
 #: http://localhost/ateliers/decouverte-des-learningapps/
 #: (content/ateliers/decouverte-des-learningapps/contents+fr.lr:workshop.description)
@@ -3045,8 +2923,6 @@ msgstr ""
 "- 15.30 uur tot 16.00 uur: conferentie **Staat van onderwijs en digitaal "
 "onderzoek** door Julie Henry (Unamur)"
 
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
 #: http://localhost/comites/
 #: (content/comites/contents+fr.lr:details-program.description)
 msgid "- Dr Nicolas Pettiaux"
@@ -3087,10 +2963,6 @@ msgstr ""
 #: http://localhost/ (content/contents+fr.lr:page.concert)
 msgid "Un soirée exceptionnelle dans un lieu d'exception"
 msgstr "Een uitzonderlijke avond op een uitzonderlijke plek"
-
-#: (dynamic)
-msgid "Langue"
-msgstr "Taal"
 
 #: http://localhost/intervenants/rupert-meurice-de-dormale/
 #: (content/intervenants/rupert-meurice-de-dormale/contents+fr.lr:speaker.description)
@@ -3135,10 +3007,6 @@ msgid ""
 msgstr ""
 "[Klik hier](../concert) voor meer informatie over de vertegenwoordiging."
 
-#: (dynamic)
-msgid "Concert festif exceptionnel"
-msgstr "Uitzonderlijk feestelijk concert"
-
 #: http://localhost/ateliers/internet-et-le-web/
 #: (content/ateliers/internet-et-le-web/contents+fr.lr:workshop.description)
 msgid ""
@@ -3175,10 +3043,6 @@ msgstr ""
 #: (content/intervenants/dimitri-krings/contents+fr.lr:speaker.description)
 msgid "Au programme:"
 msgstr ""
-
-#: (dynamic)
-msgid "Avant première du concert festif"
-msgstr "Preview van het feestelijke concert"
 
 #: http://localhost/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/
 #: (content/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/contents+fr.lr:workshop.description)
@@ -3357,8 +3221,6 @@ msgstr ""
 msgid "Initier au codage Python avec l’aide d’un MOOC"
 msgstr "Introductie van Python-codering met behulp van een MOOC"
 
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
 #: http://localhost/comites/
 #: (content/comites/contents+fr.lr:details-program.description)
 msgid "#Comité d’organisation"
@@ -3369,8 +3231,14 @@ msgstr "#Organisatiecomité"
 msgid "Avec cocktail : 50€ / 40€ / 30€ (étudiant) / 25€ (sans emploi)"
 msgstr "Met cocktail: 50 € / 40 € / 30 € (student) / 25 € (werkloos)"
 
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
+#: http://localhost/intervenants/fabrice-flore-thebault/
+#: (content/intervenants/fabrice-flore-thebault/contents+fr.lr:speaker.description)
+msgid ""
+"* A passé quelques années à gérer et automatiser des infrastructures basées "
+"sur des logiciels libres avec [Ansible](https://www.ansible.com/) et [Rudder]"
+"(https://rudder.io/)."
+msgstr ""
+
 #: http://localhost/comites/
 #: (content/comites/contents+fr.lr:details-program.description)
 msgid ""
@@ -3388,6 +3256,11 @@ msgstr ""
 #: (content/ateliers/codenplay-fischer/contents+fr.lr:workshop.tag)
 msgid "primaire"
 msgstr "primair"
+
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
+msgid "#<p id=\"conf\">Conférences</p>"
+msgstr ""
 
 #: http://localhost/ateliers/une-education-de-qualite-lodd4-questionne-par-le-numerique/
 #: (content/ateliers/une-education-de-qualite-lodd4-questionne-par-le-numerique/contents+fr.lr:workshop.title)
@@ -3452,10 +3325,6 @@ msgstr ""
 "jongere kleuters. We hebben ervaren dat kinderen in het speciaal onderwijs "
 "vooral worden aangetrokken door interactie met robots."
 
-#: (dynamic)
-msgid "Info pratiques"
-msgstr "Praktische informatie"
-
 #: http://localhost/ateliers/jouer-pour-comprendre-lintelligence-artificielle/
 #: (content/ateliers/jouer-pour-comprendre-lintelligence-artificielle/contents+fr.lr:workshop.title)
 msgid "Jouer pour comprendre l'intelligence artificielle"
@@ -3480,8 +3349,6 @@ msgstr ""
 msgid "A propos de ce MOOC:"
 msgstr "Over deze MOOC:"
 
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
 #: http://localhost/comites/
 #: (content/comites/contents+fr.lr:details-program.description)
 msgid "- Erick Mascart (Forsub, conseiller pédagogique et formateur)"
@@ -3542,10 +3409,10 @@ msgstr ""
 "Een omgeving die geschikt is voor uw behoeften kan worden beschreven in een "
 "YAML-bestand met de naam \"devfile\"."
 
-#: http://localhost/ateliers/apprendre-a-souder/
-#: (content/ateliers/apprendre-a-souder/contents+fr.lr:workshop.description)
-msgid "Compétences :"
-msgstr "Vaardigheden:"
+#: http://localhost/ateliers/decouvrir-le-robot-cubetto/
+#: (content/ateliers/decouvrir-le-robot-cubetto/contents+fr.lr:workshop.description)
+msgid "**Cubetto : Héritier du Logo**"
+msgstr "**Cubetto: erfgenaam van het Logo**"
 
 #: http://localhost/concert-festif-avant-premiere/
 #: (content/concert-festif-avant-premiere/contents+fr.lr:details-program.date)
@@ -3593,10 +3460,6 @@ msgid ""
 "des Centres cybermédia par la Région wallonne 1998-1999;"
 msgstr ""
 
-#: (dynamic)
-msgid "Conférence de Gille Dowek"
-msgstr "Gille Dowek-lezing"
-
 #: http://localhost/ (content/contents+fr.lr:page.s_expo)
 msgid "Exposition"
 msgstr "Blootstelling"
@@ -3611,8 +3474,6 @@ msgstr ""
 msgid "Il est l'auteur de nombreux ouvrages tels que"
 msgstr "Hij is de auteur van vele boeken zoals"
 
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
 #: http://localhost/comites/
 #: (content/comites/contents+fr.lr:details-program.description)
 msgid "- Prof Bibiana Boccolini (Université de Rosario, Argentine)"
@@ -3680,13 +3541,17 @@ msgstr ""
 "internet/article-normal-195123.htm). Voor het einde van 2018 zal een "
 "beoordeling worden uitgevoerd en gepubliceerd."
 
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
+msgid ""
+"* 10h50 à 11h10 : <abbr title=\"Conférences brèves (20 minutes)\">B</abbr> – "
+"*Enjeux, culture et ressources numériques pour l'éducation*, par Nathalie "
+"Kuborn & Serge Rodrigues (we are coders asbl)"
+msgstr ""
+
 #: http://localhost/concert/ (content/concert/contents+fr.lr:concert.cocktail)
 msgid "A 21h, rendez-vous pour un cocktail dînatoire"
 msgstr "Ga om 21.00 uur voor een cocktaildiner"
-
-#: (dynamic)
-msgid "Résumé"
-msgstr ""
 
 #: http://localhost/intervenants/gregoire-fischer/
 #: (content/intervenants/gregoire-fischer/contents+fr.lr:speaker.description)
@@ -3704,6 +3569,13 @@ msgstr ""
 #: (content/journee-principale/contents+fr.lr:details-program.date)
 msgid "27 septembre 2019"
 msgstr "27 september 2019"
+
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
+msgid ""
+"* 8h45 à 9h00 : Quelques aspects organisationnels et techniques par Nicolas "
+"Pettiaux"
+msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.s_thursday)
 msgid "Jeudi"
@@ -3796,8 +3668,6 @@ msgstr ""
 "oefening op te halen om deze te wijzigen en de inhoud ervan aan te passen "
 "aan wat u in uw klas doet."
 
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
 #: http://localhost/comites/
 #: (content/comites/contents+fr.lr:details-program.description)
 msgid "#Comité de programme"
@@ -3835,30 +3705,43 @@ msgstr "Gotische hal van het stadhuis van Brussel"
 msgid "Lundi"
 msgstr "Maandag"
 
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
+msgid ""
+"[Quelques conférences](#conf) mais surtout des ateliers pratiques et des "
+"présentations, notamment par des enseignants  et leurs étudiants, ou par des "
+"représentants des diverses sociétés spécialisées ou des associations qui "
+"contribuent à la formation à l'utilisation des TICE à l'école (telles que "
+"HE2B, ULBruxelles, ULiège, Unamur, UMons, USaintLouis, Devoxx4kids, SICarré, "
+"La société informatique de France, Class'Code, la  Scientothèque, "
+"Fablabe'ke, OpenFab, WeAreCoders, Roue de secours, BxLug, Abelli, CESEP, "
+"ForSud ... ). L'équipe de pilotage de la conférence souhaite mettre au "
+"service des acteurs de l'enseignement et du Pacte d'excellence sa "
+"connaissance des acteurs et sa capacité d'organisation de rencontres entre "
+"professionnels d'horizon divers."
+msgstr ""
+
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
+msgid ""
+"* 9h00 à 9h30 : <abbr title=\"Conférence\">C</abbr> – *La classe inversée, "
+"une autre manière d'enseigner à l'heure du numérique* par Marcel Lebrun"
+msgstr ""
+
 #: http://localhost/intervenants/benoit-naveau/
 #: (content/intervenants/benoit-naveau/contents+fr.lr:speaker.description)
 msgid "* Instituteur de 5è et 6è primaire pendant 20 ans"
 msgstr "* Leraar van het 5e en 6e leerjaar voor 20 jaar"
 
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
 #: http://localhost/comites/
 #: (content/comites/contents+fr.lr:details-program.description)
 msgid "- Dr Nicolas Pettiaux (ESI-HE2B & ULB-Lisa, maître-assistant)"
 msgstr "- Dr Nicolas Pettiaux (ESI-HE2B & ULB-Lisa, assistent-master)"
 
-#: (dynamic)
-msgid "Cocktail dinatoire"
-msgstr "Cocktail diner"
-
 #: http://localhost/ateliers/des-robots-des-la-maternelle/
 #: (content/ateliers/des-robots-des-la-maternelle/contents+fr.lr:workshop.tag)
 msgid "maternelle"
 msgstr "kleuterschool"
-
-#: (dynamic)
-msgid "Avant première du concert"
-msgstr "Preview van het concert"
 
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
@@ -3878,8 +3761,6 @@ msgstr ""
 msgid "Les propositions devront être entrées pour le 15 septembre 2019."
 msgstr "Voorstellen moeten uiterlijk op 15 september 2019 zijn ingediend."
 
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
 #: http://localhost/comites/
 #: (content/comites/contents+fr.lr:details-program.description)
 msgid "#Contact"
@@ -3956,10 +3837,6 @@ msgid ""
 msgstr ""
 "* Toegekend door [Ashoka](https://eduinnovation.be/fr/) voor een innovatief "
 "educatief project"
-
-#: (dynamic)
-msgid "à :"
-msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.partners_about)
 msgid ""
@@ -4095,6 +3972,207 @@ msgid ""
 msgstr ""
 "Elk hulpvoorstel kan worden gestuurd naar [aider@educode.be](mailto://"
 "aider@educode.be?subject=Help educode&body=Ik wil educode helpen)."
+
+#: templates/concert.html:12
+msgid "Concert festif exceptionnel"
+msgstr "Uitzonderlijk feestelijk concert"
+
+#: templates/concert.html:14
+msgid ""
+"Dans la salle gothique de l'hôtel de ville de Bruxelles, à la Grand-Place."
+msgstr "In de gotische hal van het stadhuis van Brussel op de Grote Markt."
+
+#: templates/concert.html:14
+msgid "Lundi 7 octobre 2019 de 19h à 23h avec cocktail dinatoire."
+msgstr "Maandag 7 oktober 2019 van 19.00 tot 23.00 uur met cocktaildiner."
+
+#: templates/concert.html:19
+msgid "Conférence de Gille Dowek"
+msgstr "Gille Dowek-lezing"
+
+#: templates/concert.html:26
+msgid "Le carnaval des animaux"
+msgstr "Het carnaval van dieren"
+
+#: templates/concert.html:27
+msgid "de"
+msgstr "van"
+
+#: templates/concert.html:29
+msgid "Avec"
+msgstr "Met"
+
+#: templates/concert.html:31
+msgid "flûte"
+msgstr "fluit"
+
+#: templates/concert.html:32
+msgid "clarinette"
+msgstr "klarinet"
+
+#: templates/concert.html:33 templates/concert.html:34
+msgid "violon"
+msgstr "viool"
+
+#: templates/concert.html:35
+msgid "alto"
+msgstr "viola"
+
+#: templates/concert.html:36
+msgid "violoncelle"
+msgstr "cello"
+
+#: templates/concert.html:37
+msgid "contrebasse"
+msgstr "bas"
+
+#: templates/concert.html:38 templates/concert.html:39
+msgid "piano"
+msgstr "piano"
+
+#: templates/concert.html:40
+msgid "percussion"
+msgstr "percussie"
+
+#: templates/concert.html:41
+msgid "conteuse"
+msgstr "raconteur"
+
+#: templates/concert.html:46
+msgid "Cocktail dinatoire"
+msgstr "Cocktail diner"
+
+#: templates/layout.html:40
+msgid "Langue"
+msgstr "Taal"
+
+#: templates/macros/sections.html:20 templates/macros/sections.html:48
+#: templates/page.html:53 templates/speaker.html:73
+msgid "Journée principale"
+msgstr "Belangrijkste dag"
+
+#: templates/page.html:61
+msgid "Voir les ateliers"
+msgstr "Bekijk de workshops"
+
+#: templates/page.html:67
+msgid "Avant première du concert festif"
+msgstr "Preview van het feestelijke concert"
+
+#: templates/page.html:76
+msgid "Journée info sans ordi (annulé)"
+msgstr ""
+
+#: templates/macros/sections.html:23 templates/macros/sections.html:51
+#: templates/page.html:85
+msgid "Concert festif"
+msgstr "Feestelijk concert"
+
+#: templates/page.html:221
+msgid "S'inscrire"
+msgstr "Inschrijven"
+
+#: templates/macros/sections.html:21 templates/macros/sections.html:49
+#: templates/speaker.html:74
+msgid "Journée info sans ordi"
+msgstr "Infodag zonder computer"
+
+#: templates/speaker.html:75
+msgid "Concert"
+msgstr "Concert"
+
+#: templates/workshops-container.html:8
+msgid "Présentation des ateliers"
+msgstr ""
+
+#: templates/workshops-container.html:18
+msgid "Rechercher parmi les ateliers"
+msgstr ""
+
+#: templates/workshops-container.html:23
+msgid "Afficher que la catégorie"
+msgstr ""
+
+#: templates/workshops-container.html:25
+msgid "Toutes les catégories"
+msgstr ""
+
+#: templates/workshops-container.html:26
+msgid "Maternelle"
+msgstr ""
+
+#: templates/workshops-container.html:27
+msgid "Primaire"
+msgstr ""
+
+#: templates/workshops-container.html:28
+msgid "Secondaire"
+msgstr ""
+
+#: templates/workshops-container.html:32
+msgid "Tranche d'âge"
+msgstr ""
+
+#: templates/workshops-container.html:43
+msgid "A une certaine heure"
+msgstr ""
+
+#: templates/workshops-container.html:45
+msgid "Toutes les heures"
+msgstr ""
+
+#: templates/workshops-container.html:55
+msgid "Réinitialiser les filtres"
+msgstr ""
+
+#: templates/workshops-container.html:79
+msgid "Résumé"
+msgstr ""
+
+#: templates/workshops-container.html:85
+msgid "Au local"
+msgstr ""
+
+#: templates/workshops-container.html:85
+msgid "à :"
+msgstr ""
+
+#: templates/workshops-container.html:95
+msgid "En savoir plus"
+msgstr ""
+
+#: templates/macros/sections.html:22 templates/macros/sections.html:50
+msgid "Avant première du concert"
+msgstr "Preview van het concert"
+
+#: templates/macros/sections.html:30 templates/macros/sections.html:58
+msgid "Info pratiques"
+msgstr "Praktische informatie"
+
+#~ msgid ""
+#~ "Quelques conférences mais surtout des ateliers pratiques et des "
+#~ "présentations, notamment par des enseignants  et leurs étudiants, ou par "
+#~ "des représentants des diverses sociétés spécialisées ou des associations "
+#~ "qui contribuent à la formation à l'utilisation des TICE à l'école (telles "
+#~ "que HE2B, ULBruxelles, ULiège, Unamur, UMons, USaintLouis, Devoxx4kids, "
+#~ "SICarré, La société informatique de France, Class'Code, la  "
+#~ "Scientothèque, Fablabe'ke, OpenFab, WeAreCoders, Roue de secours, BxLug, "
+#~ "Abelli, CESEP, ForSud ... ). L'équipe de pilotage de la conférence "
+#~ "souhaite mettre au service des acteurs de l'enseignement et du Pacte "
+#~ "d'excellence sa connaissance des acteurs et sa capacité d'organisation de "
+#~ "rencontres entre professionnels d'horizon divers."
+#~ msgstr ""
+#~ "Sommige conferenties, maar meestal praktische workshops en presentaties, "
+#~ "vooral door leraren en hun studenten, of door vertegenwoordigers van "
+#~ "verschillende gespecialiseerde bedrijven of verenigingen die bijdragen "
+#~ "aan de training in het gebruik van ICT op school (zoals HE2B, ULBrussels, "
+#~ "ULiège, UNamur, UMons, USaintLouis, Devoxx4kids, SICarré, het "
+#~ "computerbedrijf van Frankrijk, Class'Code, the Scientothèque, Fablabe'ke, "
+#~ "OpenFab, WeAreCoders, Reservewiel, BxLug, Abelli, CESEP, ForSud ...) . De "
+#~ "stuurgroep van de conferentie wil de actoren van het onderwijs en het "
+#~ "Pact of excellentie zijn kennis van de actoren en zijn capaciteit voor "
+#~ "het organiseren van vergaderingen tussen professionals van verschillende "
+#~ "horizonten ten dienste stellen."
 
 #~ msgid ""
 #~ "..* Il est possible de créer un compte pour sa classe où chaque élève "
