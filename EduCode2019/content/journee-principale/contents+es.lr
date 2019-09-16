@@ -27,7 +27,7 @@ L’évènement comporte 3 parties pour 4 publics :
 
 #Contenu
 
-Quelques conférences mais surtout des ateliers pratiques et des présentations, notamment par des enseignants  et leurs étudiants, ou par des représentants des diverses sociétés spécialisées ou des associations qui contribuent à la formation à l'utilisation des TICE à l'école (telles que HE2B, ULBruxelles, ULiège, Unamur, UMons, USaintLouis, Devoxx4kids, SICarré, La société informatique de France, Class'Code, la  Scientothèque, Fablabe'ke, OpenFab, WeAreCoders, Roue de secours, BxLug, Abelli, CESEP, ForSud ... ). L'équipe de pilotage de la conférence souhaite mettre au service des acteurs de l'enseignement et du Pacte d'excellence sa connaissance des acteurs et sa capacité d'organisation de rencontres entre professionnels d'horizon divers.
+[Quelques conférences](#conf) mais surtout des ateliers pratiques et des présentations, notamment par des enseignants  et leurs étudiants, ou par des représentants des diverses sociétés spécialisées ou des associations qui contribuent à la formation à l'utilisation des TICE à l'école (telles que HE2B, ULBruxelles, ULiège, Unamur, UMons, USaintLouis, Devoxx4kids, SICarré, La société informatique de France, Class'Code, la  Scientothèque, Fablabe'ke, OpenFab, WeAreCoders, Roue de secours, BxLug, Abelli, CESEP, Forsub ... ). L'équipe de pilotage de la conférence souhaite mettre au service des acteurs de l'enseignement et du Pacte d'excellence sa connaissance des acteurs et sa capacité d'organisation de rencontres entre professionnels d'horizon divers.
 <div class="col-12 text-center">
                         <a href="../ateliers" class="btn btn-lg btn-warning text-uppercase">Voir les ateliers</a>
 </div>
@@ -44,39 +44,22 @@ Quelques conférences mais surtout des ateliers pratiques et des présentations,
 - 9h à 17h : plus de 30 ateliers pratiques sont organisés (100 ordinateurs seront installés dans des locaux de séminaires, et les participants seront invités à venir avec leurs portables)
 - 17h à 18h : buffet de clôture
 
-#Comité d’organisation
-- Dr Nicolas Pettiaux (ESI-HE2B & ULB-Lisa, maître-assistant)
-- Françoise Bols (HE2B-Nivelles, chargé de cours)
-- Erick Mascart (Forsub, conseiller pédagogique et formateur)
-- Eric Robette (HE2B-Defré, maître-assistant)
-- Denis Longrée (président de roue de secours asbl, maitre en mathématique)
+#<p id="conf">Conférences</p>
 
-#Comité de programme 
-- Françoise Bols
-- Laurence Bourguignon (Forsud, conseillère pédagogique - formatrice TICE et institutrice primaire, à Athénée Royal de Couvin - fondamental)
-- Prof Olivier Debeir (ULB)
-- Dr Pierre De Buyl (KU Leuven, chercheur)
-- Julie Henry (UNamur, chercheuse)
-- Georges Khaznadar (Lycée Jean Bart, Dunkerque)
-- Denis Longrée
-- Erick Mascart
-- Prof Thierry Massart (ULB)
-- Dr Nicolas Pettiaux
-- Eric Robette
+* 8h30 à 8h45 : Accueil par Yves Robaey, co-président de HE2B, et Pierre Wolper, recteur de l'Université de Liège
+* 8h45 à 9h00 : Quelques aspects organisationnels et techniques par Nicolas Pettiaux
+* 9h00 à 9h30 : <abbr title="Conférence">C</abbr> – *La classe inversée, une autre manière d'enseigner à l'heure du numérique* par Marcel Lebrun
+* 9h30 à 9h50 : <abbr title="Conférences brèves (20 minutes)">B</abbr> –* De la démystification de l’intelligence artificielle au développement de la pensée informatique : enjeux pour l’apprentissage de l’informatique à l’école* par Margorida Romero
+* 9h50 à 10h10 : <abbr title="Conférences brèves (20 minutes)">B</abbr> – *Hackerspaces: apprentissage par la pratique et mains dans le camboui* par Benjamin Henrion et Dimitri Del Marmol
+* 10h10 à 10h30 : <abbr title="Conférences brèves (20 minutes)">B</abbr> – *Cyber Héros et Voyageurs du Numérique, un kit pédagogiques pour aborder les questions de la citoyenneté numérique et des outils pour créer avec le numérique en classe* par Dimitri Verboomen & Jonathan Smets (Bibliothèques Sans Frontières)
+* 10h30 à 10h50 : <abbr title="Conférences brèves (20 minutes)">B</abbr> – *CodeNPlay : l'enseignement du numérique, l'importance d'une approche de terrain* par Nadine Khouzam et Dimitri Krings
+* 10h50 à 11h10 : <abbr title="Conférences brèves (20 minutes)">B</abbr> – *Enjeux, culture et ressources numériques pour l'éducation*, par Nathalie Kuborn & Serge Rodrigues (we are coders asbl)
+* 11h10 à 11h30 : <abbr title="Conférences brèves (20 minutes)">B</abbr> – *Découverte de la gestion d'entreprise à travers le jeu Scale-Up* par Charline Louis (Odoo)
+* 11h30 à 11h50 : <abbr title="Conférences brèves (20 minutes)">B</abbr> – Activités du CIRB-CIBG à Bruxelles pour les écoles
+* 12h00 à 14h00 : *Pause déjeuner, visite de l'exposition, rencontres, échanges*
+* 14h30 à 15h00 : <abbr title="Conférence">C</abbr> – *Éduquer au numérique : quoi, qui, pourquoi, comment* par Julie Henry
+* 15h00 à 15h50 : <abbr title="Conférence">C</abbr> – *Spectacle interactif et animé d'informagie* par Marie Duflot-Kremer
+* 16h00 à 17h50 : <abbr title="Film suivi de discussion">F</abbr> – *La bataille libre : un histoire de communs et de partage*, de Philippe Borrel avec la participation du réalisateur qui complétera le film par une séance de questions – réponses.
+* 17h50 à 18h00 : Clôture par Hugues Bersini, professeur à l'Université libre de Bruxelles
 
-# Comité scientifique et de soutien
-- Prof Hugues Bersini (ULB)
-- Prof Bibiana Boccolini (Université de Rosario, Argentine)
-- Prof Colin de la Higuera (Université de Nantes)
-- Éric Deprins, ex CEO de Toyota Belgium, Unilever, Mestdagh
-- Olivier Goletti (Ulouvain & SIcarre, chercheur)
-- Denis Matagne (HE2B-Defré, directeur) 
-- Alexia Pasini (HE2B, co-présidente)
-- Yves Robaey (HE2B, co-président)
-- Prof Bernard Rentier (Uliège, ancien recteur)
-- Karin Van Loon (HE2B-ISIB, directrice)
-- Michel Willemse (HE2B-ESI, directeur)
-- Prof Pierre Wolper (Uliège, recteur)
-
-#Contact
-Nicolas Pettiaux, président de l’asbl educode, nicolas@educode.be, gsm 496 24 55 01
+Le verre de l'amitié sera pris le soir à la Cellule133a après l'[avant-première du concert festif](../concert-festif-avant-premiere)
