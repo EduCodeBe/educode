@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: educode\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-16 09:14+CET\n"
+"POT-Creation-Date: 2019-09-16 09:26+CET\n"
 "PO-Revision-Date: 2019-09-11 09:35\n"
 "Last-Translator: npettiaux\n"
 "Language-Team: French\n"
@@ -19,16 +19,6 @@ msgstr ""
 #: http://localhost/ (content/contents+fr.lr:page.s_overview_program)
 msgid "Aperçu du programme"
 msgstr "Aperçu du programme"
-
-#: http://localhost/ateliers/sexperiences-en-education-avec-en-logiciel-libre/
-#: (content/ateliers/sexperiences-en-education-avec-en-logiciel-libre/contents+fr.lr:workshop.description)
-msgid ""
-"Chaque axe sera rapporté et pensé à partir de l'expérience avec des cas "
-"particuliers. Le premier sera reconstruit à partir de la manière dont on "
-"prétend créer une communauté d'enseignants où l'on partage non seulement des "
-"méthodologies pédagogiques mais aussi que l'on construise collaborativement "
-"les chaires et les pratiques qui permettent ces échanges."
-msgstr ""
 
 #: http://localhost/ateliers/une-cle-usb-vive-pour-enseigner-avec-un-systeme-libre/
 #: (content/ateliers/une-cle-usb-vive-pour-enseigner-avec-un-systeme-libre/contents+fr.lr:workshop.description)
@@ -788,8 +778,6 @@ msgstr ""
 #: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.language)
 #: http://localhost/ateliers/de-la-tortue-logo-au-chat-scratch/
 #: (content/ateliers/de-la-tortue-logo-au-chat-scratch/contents+fr.lr:workshop.language)
-#: http://localhost/ateliers/sexperiences-en-education-avec-en-logiciel-libre/
-#: (content/ateliers/sexperiences-en-education-avec-en-logiciel-libre/contents+fr.lr:workshop.language)
 msgid "fr"
 msgstr ""
 
@@ -1279,6 +1267,22 @@ msgid ""
 "forme de «sobriété numérique» et le «[Green-IT](https://www.greenit.fr/a-"
 "propos/)», les questions actuelles que soulève le numérique à propos de la "
 "vie privée ou de la consommation d'énergie."
+msgstr ""
+
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
+msgid ""
+"[Quelques conférences](#conf) mais surtout des ateliers pratiques et des "
+"présentations, notamment par des enseignants  et leurs étudiants, ou par des "
+"représentants des diverses sociétés spécialisées ou des associations qui "
+"contribuent à la formation à l'utilisation des TICE à l'école (telles que "
+"HE2B, ULBruxelles, ULiège, Unamur, UMons, USaintLouis, Devoxx4kids, SICarré, "
+"La société informatique de France, Class'Code, la  Scientothèque, "
+"Fablabe'ke, OpenFab, WeAreCoders, Roue de secours, BxLug, Abelli, CESEP, "
+"Forsub ... ). L'équipe de pilotage de la conférence souhaite mettre au "
+"service des acteurs de l'enseignement et du Pacte d'excellence sa "
+"connaissance des acteurs et sa capacité d'organisation de rencontres entre "
+"professionnels d'horizon divers."
 msgstr ""
 
 #: http://localhost/ateliers/jouer-pour-comprendre-lintelligence-artificielle/
@@ -1844,22 +1848,6 @@ msgstr ""
 "projets, explorant sans relâche des directions nouvelles où apparaît son "
 "désir de décloisonner les différents genres musicaux."
 
-#: http://localhost/ateliers/sexperiences-en-education-avec-en-logiciel-libre/
-#: (content/ateliers/sexperiences-en-education-avec-en-logiciel-libre/contents+fr.lr:workshop.description)
-msgid ""
-"Le deuxième axe de travail sera reconstruit à partir de l'expérience avec "
-"les étudiants qui suivent la carrière de la prison de “Las Flores”, un "
-"espace qui a créé sa propre communauté de Logiciel Libre et qui compte des "
-"étudiants qui obtiendront bientot leur diplôme. Ces étudiants, avec "
-"certaines initiatives autonomes qu'ils ont pensées et réalisées, ont "
-"provoqué le triplement dans le nombre d'étudiants qui suivent leurs études "
-"de la prison. Par ailleurs, on mentionnera l'expérience des Journées que la "
-"TUSL organise lors des jours d'examen, et qui ont permis que le parcours de "
-"certains étudiants, ainsi que leur engagement avec la carrière, devienne "
-"plus tard dans leur incorporation, une fois diplômés, aux équipes de chaires "
-"dans certaines matières."
-msgstr ""
-
 #: http://localhost/ateliers/modus-operandi-des-cartoparties-participatives/
 #: (content/ateliers/modus-operandi-des-cartoparties-participatives/contents+fr.lr:workshop.title)
 #: (content/ateliers/modus-operandi-des-cartoparties-participatives/contents+fr.lr:workshop.abstract)
@@ -2029,16 +2017,6 @@ msgstr ""
 "* _Ces préjugés qui nous encombrent_, Paris, Édition Le Pommier, coll. « "
 "Manifestes », 2009"
 
-#: http://localhost/ateliers/sexperiences-en-education-avec-en-logiciel-libre/
-#: (content/ateliers/sexperiences-en-education-avec-en-logiciel-libre/contents+fr.lr:workshop.abstract)
-#: (content/ateliers/sexperiences-en-education-avec-en-logiciel-libre/contents+fr.lr:workshop.description)
-msgid ""
-"Cette proposition a l'intention de reconstruire dans un récit expérientiel "
-"les stratégies pédagogiques opérant dans le travail des enseignants, des "
-"tuteurs/accompagnateurs et des coordinateurs dans la “Tecnicatura "
-"Universitaria en Software Libre” (TUSL)."
-msgstr ""
-
 #: http://localhost/intervenants/thierry-massart/
 #: (content/intervenants/thierry-massart/contents+fr.lr:speaker.description)
 msgid ""
@@ -2198,11 +2176,6 @@ msgid ""
 "facultés à l'[université libre de Bruxelles](http://ulb.be/)"
 msgstr ""
 
-#: http://localhost/ateliers/sexperiences-en-education-avec-en-logiciel-libre/
-#: (content/ateliers/sexperiences-en-education-avec-en-logiciel-libre/contents+fr.lr:workshop.tag)
-msgid "tous"
-msgstr ""
-
 #: http://localhost/intervenants/laurent-beeckmans/
 #: (content/intervenants/laurent-beeckmans/contents+fr.lr:speaker.description)
 msgid ""
@@ -2214,11 +2187,6 @@ msgstr ""
 "mathématicien né à Enghien (Belgique), Laurent Beeckmans est un personnage "
 "aux multiples facettes. En qualité de professeur, pianiste,"
 
-#: http://localhost/ateliers/sexperiences-en-education-avec-en-logiciel-libre/
-#: (content/ateliers/sexperiences-en-education-avec-en-logiciel-libre/contents+fr.lr:workshop.title)
-msgid "SExpériences en éducation avec / en Logiciel Libre"
-msgstr ""
-
 #: http://localhost/ (content/contents+fr.lr:page.s_submit_here)
 msgid "Soumettez ici"
 msgstr "Soumettez ici"
@@ -2229,10 +2197,6 @@ msgid ""
 "* hacktiviste, nuance logiciel libre pédagogique, animateur pour le thème "
 "Sciences/Éducation aux [RMLL](http://comite.rmll.info/) de [2006]"
 "(http://2006.rmll.info/) à [2017](https://2017.rmll.info/) ;"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.s_intro_dates)
-msgid "27 et 28 septembre 2019"
 msgstr ""
 
 #: http://localhost/ateliers/le-numerique-pour-faire-face-aux-inegalites-scolaires/
@@ -2340,18 +2304,6 @@ msgid ""
 "âge permette de construire un futur dans lequel le numérique sera vecteur de "
 "partage des savoirs et d'émancipation plutôt que d'asservissement à ce qu'il "
 "convient d'appeler le «capitalisme de surveillance»."
-msgstr ""
-
-#: http://localhost/ateliers/sexperiences-en-education-avec-en-logiciel-libre/
-#: (content/ateliers/sexperiences-en-education-avec-en-logiciel-libre/contents+fr.lr:workshop.description)
-msgid ""
-"L'un des défis de la TUSL c'est de pouvoir aborder des stratégies "
-"pédqgogiques et sociales pour former une communauté, et que les étudiants "
-"acquièrent non seulement les connaissances liéés au programme académique, "
-"mais aussi qu'ils s'intègrent dans les communautés de Logiciel Libre et "
-"Culture Libre. C'est pour cela que nous nous attaquons à trois axes "
-"fondammentaux: l'expérience des enseignants, les rapports avec les étudiants "
-"et l'articulation avec les communautés."
 msgstr ""
 
 #: http://localhost/comites/
@@ -3167,18 +3119,6 @@ msgid ""
 "nécessaires et ont été en mesure d'installer tous les outils."
 msgstr ""
 
-#: http://localhost/ateliers/sexperiences-en-education-avec-en-logiciel-libre/
-#: (content/ateliers/sexperiences-en-education-avec-en-logiciel-libre/contents+fr.lr:workshop.description)
-msgid ""
-"Le dernier axe est lié à l'axe 2, puisque les relations entre Logiciel Libre "
-"et Culture Libre s'articulent lors de la réalisation des journées "
-"mentionnées. Parmi les communautés invitées à participer de ces journées il "
-"y a des groupes plus liées aux aspects techniques (Erre, Wikimedia), mais "
-"aussi d'autres qui représentent des mouvements libertaires tels que le "
-"féminisme et le ,ouve,ent LGTB. Ces dernières rencontres ont abouti à la "
-"réalisation des Premières et Deuxièmes Journées de Genre et Logiciel Libre."
-msgstr ""
-
 #: http://localhost/intervenants/rupert-meurice-de-dormale/
 #: (content/intervenants/rupert-meurice-de-dormale/contents+fr.lr:speaker.description)
 msgid ""
@@ -3291,6 +3231,7 @@ msgid ""
 "ludique élèves."
 msgstr ""
 
+#: http://localhost/ (content/contents+fr.lr:page.s_intro_dates)
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.date)
 msgid "27 septembre 2019"
@@ -3416,22 +3357,6 @@ msgstr "Salle gothique de l'hôtel de ville de Bruxelles"
 #: http://localhost/ (content/contents+fr.lr:page.s_monday)
 msgid "Lundi"
 msgstr "Lundi"
-
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
-msgid ""
-"[Quelques conférences](#conf) mais surtout des ateliers pratiques et des "
-"présentations, notamment par des enseignants  et leurs étudiants, ou par des "
-"représentants des diverses sociétés spécialisées ou des associations qui "
-"contribuent à la formation à l'utilisation des TICE à l'école (telles que "
-"HE2B, ULBruxelles, ULiège, Unamur, UMons, USaintLouis, Devoxx4kids, SICarré, "
-"La société informatique de France, Class'Code, la  Scientothèque, "
-"Fablabe'ke, OpenFab, WeAreCoders, Roue de secours, BxLug, Abelli, CESEP, "
-"ForSud ... ). L'équipe de pilotage de la conférence souhaite mettre au "
-"service des acteurs de l'enseignement et du Pacte d'excellence sa "
-"connaissance des acteurs et sa capacité d'organisation de rencontres entre "
-"professionnels d'horizon divers."
-msgstr ""
 
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
