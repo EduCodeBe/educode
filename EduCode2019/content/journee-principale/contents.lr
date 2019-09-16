@@ -8,7 +8,7 @@ Les enseignants et leurs directions pourront suivre des conférences, une table-
 
 Durant les pauses, ils pourront rencontrer de très nombreux acteurs, essentiellement associatifs, qui proposent des activités liées au numérique et à la formation. Des solutions de garde d'enfants avec des activités seront organisées pour que tous les parents puissent participer.
 
-﻿#Introduction
+#Introduction
 La conférence est ouverte et généraliste, et ne se limite pas au codage, même si les aspects liés à la résolution de problèmes, à la compréhension des mécanismes de fonctionnement des ordinateurs, des questions légales et éthiques liées à l'usage du numérique etc. sont très importantes. Elles devraient en 2019 faire partie des enseignements généraux du citoyen du XXI siècle.
 
 #Objectifs
@@ -35,31 +35,22 @@ L’évènement comporte 3 parties pour 4 publics :
 #Localisation
 À la haute école Bruxelles-Brabant, Catégorie Defré, avenue Defré à 1180 Uccle, très aisément accessible en transports en commun, voiture et vélo.
 
-#Activités
-- 9h - 17h : petites conférences et exposés pour les enseignants et toute personne intéressée. Durant les pauses, les écoles, associations, entreprises exposent leurs réalisations et projets liés au numérique et à l'éducation, et des projets faits dans les classes (dans les couloirs et autres espaces)
-- 14h00 à 15h00 : Table-ronde Enseignement et technologie dans le monde : ce qui marche ou pas, et pourquoi, ce qui pourrait être fait (avec des représentants nationaux de différents pays)
-- 15h00 à 15h30 : Conférence par Françoise Bols (HE2B et ULiège) : Enseigner le numérique et l'informatique en haute école : défis et opportunités
-- 15h30 à 16h00 : Conférence **État de la recherche en éducation et numérique** par Julie Henry (Unamur)
-- 16h00 à 18h00 : Projection du film **La bataille du libre** suivie d'une discussion avec son réalisateur, Philippe Borel
-- 9h à 17h : plus de 30 ateliers pratiques sont organisés (100 ordinateurs seront installés dans des locaux de séminaires, et les participants seront invités à venir avec leurs portables)
-- 17h à 18h : buffet de clôture
-
 #<p id="conf">Conférences</p>
 
-* 8h30 à 8h45 : Accueil par Yves Robaey, co-président de HE2B, et Pierre Wolper, recteur de l'Université de Liège
-* 8h45 à 9h00 : Quelques aspects organisationnels et techniques par Nicolas Pettiaux
+* 8h30 à 8h45 : Accueil par [Yves Robaey](../intervenants/yves-robaey/), co-président de HE2B, et [Pierre Wolper](../intervenants/pierre-wolper/), recteur de l'[Université de Liège](https://www.uliege.be/)
+* 8h45 à 9h00 : Quelques aspects organisationnels et techniques par [Nicolas Pettiaux](../intervenants/nicolas-pettiaux/)
 * 9h00 à 9h30 : <abbr title="Conférence">C</abbr> – *La classe inversée, une autre manière d'enseigner à l'heure du numérique* par Marcel Lebrun
-* 9h30 à 9h50 : <abbr title="Conférences brèves (20 minutes)">B</abbr> –* De la démystification de l’intelligence artificielle au développement de la pensée informatique : enjeux pour l’apprentissage de l’informatique à l’école* par Margorida Romero
-* 9h50 à 10h10 : <abbr title="Conférences brèves (20 minutes)">B</abbr> – *Hackerspaces: apprentissage par la pratique et mains dans le camboui* par Benjamin Henrion et Dimitri Del Marmol
-* 10h10 à 10h30 : <abbr title="Conférences brèves (20 minutes)">B</abbr> – *Cyber Héros et Voyageurs du Numérique, un kit pédagogiques pour aborder les questions de la citoyenneté numérique et des outils pour créer avec le numérique en classe* par Dimitri Verboomen & Jonathan Smets (Bibliothèques Sans Frontières)
-* 10h30 à 10h50 : <abbr title="Conférences brèves (20 minutes)">B</abbr> – *CodeNPlay : l'enseignement du numérique, l'importance d'une approche de terrain* par Nadine Khouzam et Dimitri Krings
-* 10h50 à 11h10 : <abbr title="Conférences brèves (20 minutes)">B</abbr> – *Enjeux, culture et ressources numériques pour l'éducation*, par Nathalie Kuborn & Serge Rodrigues (we are coders asbl)
-* 11h10 à 11h30 : <abbr title="Conférences brèves (20 minutes)">B</abbr> – *Découverte de la gestion d'entreprise à travers le jeu Scale-Up* par Charline Louis (Odoo)
-* 11h30 à 11h50 : <abbr title="Conférences brèves (20 minutes)">B</abbr> – Activités du CIRB-CIBG à Bruxelles pour les écoles
-* 12h00 à 14h00 : *Pause déjeuner, visite de l'exposition, rencontres, échanges*
-* 14h30 à 15h00 : <abbr title="Conférence">C</abbr> – *Éduquer au numérique : quoi, qui, pourquoi, comment* par Julie Henry
-* 15h00 à 15h50 : <abbr title="Conférence">C</abbr> – *Spectacle interactif et animé d'informagie* par Marie Duflot-Kremer
-* 16h00 à 17h50 : <abbr title="Film suivi de discussion">F</abbr> – *La bataille libre : un histoire de communs et de partage*, de Philippe Borrel avec la participation du réalisateur qui complétera le film par une séance de questions – réponses.
-* 17h50 à 18h00 : Clôture par Hugues Bersini, professeur à l'Université libre de Bruxelles
+* 9h40 à 10h00 : <abbr title="Conférences brèves (20 minutes)">B</abbr> –[De la démystification de l’intelligence artificielle au développement de la pensée informatique : enjeux pour l’apprentissage de l’informatique à l’école](de-la-demystification-de-lintelligence-artificielle-au-developpement-de-la-pensee-informatique) par [Margorida Romero](../intervenants/margarida-romero/)
+* 10h15 à 10h35 : <abbr title="Conférences brèves (20 minutes)">B</abbr> – [Hackerspaces: apprentissage par la pratique et mains dans le camboui](hackerspaces-apprentissage-par-la-pratique-et-mains-dans-le-camboui) par [Benjamin Henrion](../intervenants/benjamin-henrion/) et Dimitri Del Marmol
+* 10h50 à 11h10 : <abbr title="Conférences brèves (20 minutes)">B</abbr> – *Cyber Héros et Voyageurs du Numérique, un kit pédagogiques pour aborder les questions de la citoyenneté numérique et des outils pour créer avec le numérique en classe* par Dimitri Verboomen & Jonathan Smets (Bibliothèques Sans Frontières)
+* 11h25 à 11h40 : <abbr title="Conférences brèves (20 minutes)">B</abbr> – *CodeNPlay : l'enseignement du numérique, l'importance d'une approche de terrain* par [Nadine Khouzam](../intervenants/nadine-khouzam/) et [Dimitri Krings](../intervenants/dimitri-krings/)
+* 12h00 à 12h20 : <abbr title="Conférences brèves (20 minutes)">B</abbr> – [Enjeux, culture et ressources numériques pour l'éducation](enjeux-culture-et-ressources-numeriques-pour-leducation/), par [Nathalie Kuborn](../intervenants/nathalie-kuborn/) & Serge Rodrigues (we are coders asbl)
+* 12h30 à 13h30 : *Pause déjeuner, visite de l'exposition, rencontres, échanges*
+* 13h30 à 13h50 : <abbr title="Conférences brèves (20 minutes)">B</abbr> – [Découverte de la gestion d'entreprise à travers le jeu Scale-Up](la-decouverte-de-la-gestion-dentreprise-a-travers-le-jeu-scale-up) par [Charline Louis](../intervenants/charline-louis/) ([Odoo](https://odoo.com/)) 
+* 13h30 à 13h50 : <abbr title="Conférences brèves (20 minutes)">B</abbr> – Activités du CIRB-CIBG à Bruxelles pour les écoles
+* 14h10 à 14h40 : <abbr title="Conférence">C</abbr> – Éduquer au numérique : quoi, qui, pourquoi, comment par Julie Henry
+* 15h00 à 15h50 : <abbr title="Conférence">C</abbr> – Spectacle interactif et animé d'informagie par [Marie Duflot-Kremer](../intervenants/marie-duflot-kremer/)
+* 16h00 à 17h50 : <abbr title="Film suivi de discussion">F</abbr> – *La bataille libre* : un histoire de communs et de partage, de Philippe Borrel avec la participation du réalisateur qui complétera le film par une séance de questions – réponses.
+* 17h50 à 18h00 : Clôture par [Hugues Bersini](../intervenants/hugues-bersini/), professeur à l'[Université Libre de Bruxelles](https://www.ulb.be/)
 
 Le verre de l'amitié sera pris le soir à la Cellule133a après l'[avant-première du concert festif](../concert-festif-avant-premiere)
