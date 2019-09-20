@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: educode\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-19 09:27+CET\n"
+"POT-Creation-Date: 2019-09-20 12:09+CET\n"
 "PO-Revision-Date: 2019-09-11 10:03\n"
 "Last-Translator: npettiaux\n"
 "Language-Team: Flemish\n"
@@ -28,7 +28,7 @@ msgstr ""
 msgid "Approche pédagogique amusante et découverte de l’impression 3D"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.s_overview_program)
+#: http://localhost/ (content/contents+fr.lr:page.s_overview_program) (dynamic)
 msgid "Aperçu du programme"
 msgstr "Programma overzicht"
 
@@ -409,6 +409,10 @@ msgid ""
 "pensée informatique"
 msgstr ""
 
+#: (dynamic)
+msgid "Journée principale"
+msgstr "Belangrijkste dag"
+
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "#Localisation"
@@ -641,7 +645,7 @@ msgstr ""
 "De organisatie van deze conferentie is in wezen vrijwillig. Elk geschenk is "
 "welkom."
 
-#: http://localhost/ (content/contents+fr.lr:page.s_program)
+#: http://localhost/ (content/contents+fr.lr:page.s_program) (dynamic)
 msgid "Programme"
 msgstr "Programma"
 
@@ -653,6 +657,13 @@ msgstr "Een meetkoffer voor de experimentele wetenschappen"
 #: http://localhost/ (content/contents+fr.lr:page.s_intro_location_city)
 msgid "Bruxelles, Belgique"
 msgstr "Brussel, België"
+
+#: http://localhost/ (content/contents+fr.lr:page.registration)
+msgid ""
+"Les participants **doivent** s'[inscrire](https://inscriptions.educode.be), "
+"et indiquer à quels ateliers ils [souhaitent participer](https://choix."
+"educode.be)"
+msgstr ""
 
 #: http://localhost/ateliers/lenseignement-de-la-programmation-en-insertion-socio-professionnelle/
 #: (content/ateliers/lenseignement-de-la-programmation-en-insertion-socio-professionnelle/contents+fr.lr:workshop.abstract)
@@ -919,6 +930,14 @@ msgstr "Een USB-stick om les te geven met een gratis systeem"
 #: http://localhost/ (content/contents+fr.lr:page.s_may)
 msgid "mai"
 msgstr "mei"
+
+#: http://localhost/intervenants/nicolas-seinlet/
+#: (content/intervenants/nicolas-seinlet/contents+fr.lr:speaker.description)
+msgid ""
+"Développeur de logiciels de gestions depuis près de 20 ans et père de "
+"plusieurs enfants, sans aucune expérience dans l'éducation, mais convaincu "
+"des bienfaits de l'apprentissage de la programmation aux enfants…"
+msgstr ""
 
 #: http://localhost/ateliers/decouvrir-le-robot-cubetto/
 #: (content/ateliers/decouvrir-le-robot-cubetto/contents+fr.lr:workshop.description)
@@ -1548,23 +1567,18 @@ msgid ""
 "Pour plus d'informations, nous sommes joignables par [email](info@educode.be)"
 msgstr ""
 
-#: http://localhost/intervenants/nicolas-seinlet/
-#: (content/intervenants/nicolas-seinlet/contents+fr.lr:speaker.description)
-msgid ""
-"Développeur de logiciels de gestions depuis près de 20 ans et père de "
-"plusieurs enfants, sans aucune expérience dans l'éducation, mais convaincu "
-"des bienfaits de l'apprentissage de la programmation aux enfants…"
-msgstr ""
+#: (dynamic)
+msgid "Journée info sans ordi"
+msgstr "Infodag zonder computer"
 
 #: http://localhost/ateliers/premiers-pas-dans-la-programmation-ludique-et-creative/
 #: (content/ateliers/premiers-pas-dans-la-programmation-ludique-et-creative/contents+fr.lr:workshop.title)
 msgid "Premiers pas dans la programmation ludique et créative"
 msgstr "Eerste stappen in leuk en creatief programmeren"
 
-#: http://localhost/intervenants/nicolas-seinlet/
-#: (content/intervenants/nicolas-seinlet/contents+fr.lr:speaker.description)
-msgid "* Contributeur sur divers projets open-source autour de PostgreSQL"
-msgstr ""
+#: (dynamic)
+msgid "Concert festif"
+msgstr "Feestelijk concert"
 
 #: http://localhost/comites/
 #: (content/comites/contents+fr.lr:details-program.description)
@@ -1677,6 +1691,11 @@ msgid ""
 msgstr ""
 "Nicolas Pettiaux is de initiatiefnemer en coördinator van de EduCode-"
 "conferentie."
+
+#: http://localhost/intervenants/nicolas-seinlet/
+#: (content/intervenants/nicolas-seinlet/contents+fr.lr:speaker.description)
+msgid "* Contributeur sur divers projets open-source autour de PostgreSQL"
+msgstr ""
 
 #: http://localhost/comites/
 #: (content/comites/contents+fr.lr:details-program.description)
@@ -2576,7 +2595,7 @@ msgid ""
 msgstr ""
 
 #: http://localhost/comites/
-#: (content/comites/contents+fr.lr:details-program.date)
+#: (content/comites/contents+fr.lr:details-program.date) (dynamic)
 msgid "Comités"
 msgstr ""
 
@@ -2662,6 +2681,7 @@ msgid "- Françoise Bols (HE2B-Nivelles, chargé de cours)"
 msgstr "- Françoise Bols (HE2B-Nivelles, lector)"
 
 #: http://localhost/dons/ (content/dons/contents+fr.lr:details-program.date)
+#: (dynamic)
 msgid "Dons"
 msgstr "Donaties"
 
@@ -2671,6 +2691,10 @@ msgstr "Donaties"
 #: (content/intervenants/gregoire-fischer/contents+fr.lr:speaker.description)
 msgid "* Formation et soutien de professeurs"
 msgstr ""
+
+#: (dynamic)
+msgid "Concert"
+msgstr "Concert"
 
 #: http://localhost/intervenants/thierry-massart/
 #: (content/intervenants/thierry-massart/contents+fr.lr:speaker.description)
@@ -3054,6 +3078,10 @@ msgstr ""
 "en digitale technologieën. Ze is verantwoordelijk voor de cursus Didactiek "
 "van informatica en ICT in het kader van het universitaire certificaat "
 "Form@TICEF aan de Universiteit van Luik."
+
+#: (dynamic)
+msgid "Langue"
+msgstr "Taal"
 
 #: http://localhost/intervenants/rupert-meurice-de-dormale/
 #: (content/intervenants/rupert-meurice-de-dormale/contents+fr.lr:speaker.description)
@@ -3447,6 +3475,10 @@ msgstr ""
 "Het gaat over het verkennen van leermogelijkheden met Thymio-robots voor "
 "jongere kleuters. We hebben ervaren dat kinderen in het speciaal onderwijs "
 "vooral worden aangetrokken door interactie met robots."
+
+#: (dynamic)
+msgid "Info pratiques"
+msgstr "Praktische informatie"
 
 #: http://localhost/ateliers/jouer-pour-comprendre-lintelligence-artificielle/
 #: (content/ateliers/jouer-pour-comprendre-lintelligence-artificielle/contents+fr.lr:workshop.title)
@@ -4008,14 +4040,6 @@ msgstr ""
 "mechanismen van de werking van computers, juridische en ethische kwesties in "
 "verband met het gebruik van digitale enz. zijn erg belangrijk."
 
-#: http://localhost/ (content/contents+fr.lr:page.registration)
-msgid ""
-"Les participants aux ateliers doivent aussi s'inscrire à chacun de ceux-ci "
-"dans la page [choix.educode.be](https://choix.educode.be)"
-msgstr ""
-"De workshopdeelnemers moeten zich ook voor elk van hen registreren op de "
-"pagina [choix.educode.be](https://choix.educode.be)"
-
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid ""
@@ -4160,40 +4184,25 @@ msgstr "percussie"
 msgid "conteuse"
 msgstr "raconteur"
 
-#: templates/layout.html:40
-msgid "Langue"
-msgstr "Taal"
-
-#: templates/macros/sections.html:20 templates/macros/sections.html:47
-#: templates/page.html:53 templates/speaker.html:73
-msgid "Journée principale"
-msgstr "Belangrijkste dag"
-
 #: templates/page.html:61
 msgid "Voir les ateliers"
 msgstr "Bekijk de workshops"
-
-#: templates/macros/sections.html:22 templates/macros/sections.html:49
-#: templates/page.html:67
-msgid "Concert festif"
-msgstr "Feestelijk concert"
 
 #: templates/page.html:76
 msgid "Journée info sans ordi (annulé)"
 msgstr ""
 
-#: templates/page.html:212
-msgid "S'inscrire"
-msgstr "Inschrijven"
+#: templates/page.html:213
+msgid "1. S'inscrire"
+msgstr ""
 
-#: templates/macros/sections.html:21 templates/macros/sections.html:48
-#: templates/speaker.html:74
-msgid "Journée info sans ordi"
-msgstr "Infodag zonder computer"
+#: templates/page.html:219
+msgid "2. Choisir les ateliers"
+msgstr ""
 
-#: templates/speaker.html:75
-msgid "Concert"
-msgstr "Concert"
+#: templates/page.html:225
+msgid "3. IFC"
+msgstr ""
 
 #: templates/workshops-container.html:8
 msgid "Présentation des ateliers"
@@ -4255,9 +4264,15 @@ msgstr ""
 msgid "En savoir plus"
 msgstr ""
 
-#: templates/macros/sections.html:29 templates/macros/sections.html:56
-msgid "Info pratiques"
-msgstr "Praktische informatie"
+#~ msgid "S'inscrire"
+#~ msgstr "Inschrijven"
+
+#~ msgid ""
+#~ "Les participants aux ateliers doivent aussi s'inscrire à chacun de ceux-"
+#~ "ci dans la page [choix.educode.be](https://choix.educode.be)"
+#~ msgstr ""
+#~ "De workshopdeelnemers moeten zich ook voor elk van hen registreren op de "
+#~ "pagina [choix.educode.be](https://choix.educode.be)"
 
 #~ msgid "[Plus d'informations...](concert-festif-avant-premiere)"
 #~ msgstr "[Meer informatie...](concert-festif-avant-premiere)"
