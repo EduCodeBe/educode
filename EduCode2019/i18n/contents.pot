@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-20 12:09+CET\n"
+"POT-Creation-Date: 2019-09-20 17:10+CET\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: fr <LL@li.org>\n"
@@ -224,6 +224,11 @@ msgstr ""
 msgid "#Résumé de la conférence"
 msgstr ""
 
+#: http://localhost/intervenants/frederic-taes/
+#: (content/intervenants/frederic-taes/contents+fr.lr:speaker.description)
+msgid "* Père de 4 enfants (de 0 à 18 ans)"
+msgstr ""
+
 #: http://localhost/intervenants/hugues-bersini/
 #: (content/intervenants/hugues-bersini/contents+fr.lr:speaker.description)
 msgid ""
@@ -339,6 +344,11 @@ msgstr ""
 msgid "Journée principale"
 msgstr ""
 
+#: http://localhost/intervenants/frederic-taes/
+#: (content/intervenants/frederic-taes/contents+fr.lr:speaker.description)
+msgid "* Passionné de BD et musique en tout genre"
+msgstr ""
+
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "#Localisation"
@@ -448,6 +458,11 @@ msgstr ""
 msgid ""
 "Construire des projets et des labos motivants en classe ou ailleurs avec "
 "Arduino"
+msgstr ""
+
+#: http://localhost/intervenants/frederic-taes/
+#: (content/intervenants/frederic-taes/contents+fr.lr:speaker.description)
+msgid "* Manager européen en sécurité informatique (Ahold Delhaize)"
 msgstr ""
 
 #: http://localhost/ateliers/initier-au-codage-python-avec-laide-dun-mooc/
@@ -820,13 +835,6 @@ msgid ""
 "enseignants"
 msgstr ""
 
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
-msgid ""
-"* 13h30 à 13h50 : <abbr title=\"Conférences brèves (20 minutes)\">B</abbr> – "
-"Activités du CIRB-CIBG à Bruxelles pour les écoles"
-msgstr ""
-
 #: http://localhost/intervenants/gilles-dowek/
 #: (content/intervenants/gilles-dowek/contents+fr.lr:speaker.description)
 msgid ""
@@ -964,14 +972,6 @@ msgid ""
 "Les petites pommes du savoir », 2002"
 msgstr ""
 
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
-msgid ""
-"* 15h00 à 15h50 : <abbr title=\"Conférence\">C</abbr> – Spectacle interactif "
-"et animé d'informagie par [Marie Duflot-Kremer](../intervenants/marie-duflot-"
-"kremer/)"
-msgstr ""
-
 #: http://localhost/ateliers/de-la-tortue-logo-au-chat-scratch/
 #: (content/ateliers/de-la-tortue-logo-au-chat-scratch/contents+fr.lr:workshop.description)
 msgid ""
@@ -1029,6 +1029,14 @@ msgstr ""
 #: http://localhost/ateliers/decouvrir-le-robot-cubetto/
 #: (content/ateliers/decouvrir-le-robot-cubetto/contents+fr.lr:workshop.abstract)
 msgid "Découvrir le robot Cubetto et animer un atelier dans sa classe"
+msgstr ""
+
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
+msgid ""
+"* 13h30 à 13h50 : <abbr title=\"Conférences brèves (20 minutes)\">B</abbr> – "
+"*Les inscriptions scolaires avec le guichet électronique IRISbox* par "
+"Bastien Van Aelst"
 msgstr ""
 
 #: http://localhost/journee-principale/la-decouverte-de-la-gestion-dentreprise-a-travers-le-jeu-scale-up/
@@ -1128,6 +1136,14 @@ msgstr ""
 #: http://localhost/comites/
 #: (content/comites/contents+fr.lr:details-program.description)
 msgid "- Erick Mascart"
+msgstr ""
+
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
+msgid ""
+"* 15h00 à 15h30 : <abbr title=\"Conférence\">C</abbr> – *Eduquer à "
+"Internet : dangers, enjeux et opportunités* par [Frédéric Taes](../"
+"intervenants/frederic-taes) ([Isoc Belgique](http://isoc.be/))"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.journee_sans_ordi)
@@ -1581,6 +1597,11 @@ msgstr ""
 #: (content/ateliers/de-la-tortue-logo-au-chat-scratch/contents+fr.lr:workshop.abstract)
 msgid ""
 "De la tortue Logo au chat Scratch, tout un univers de formes géométriques"
+msgstr ""
+
+#: http://localhost/intervenants/frederic-taes/
+#: (content/intervenants/frederic-taes/contents+fr.lr:speaker.description)
+msgid "* Président Internet Society Belgium"
 msgstr ""
 
 #: http://localhost/concert/

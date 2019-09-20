@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: educode\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-20 12:09+CET\n"
+"POT-Creation-Date: 2019-09-20 17:10+CET\n"
 "PO-Revision-Date: 2019-09-11 10:03\n"
 "Last-Translator: npettiaux\n"
 "Language-Team: Flemish\n"
@@ -267,6 +267,11 @@ msgstr "* Leer de componenten in de juiste richting te plaatsen"
 msgid "#Résumé de la conférence"
 msgstr ""
 
+#: http://localhost/intervenants/frederic-taes/
+#: (content/intervenants/frederic-taes/contents+fr.lr:speaker.description)
+msgid "* Père de 4 enfants (de 0 à 18 ans)"
+msgstr ""
+
 #: http://localhost/intervenants/hugues-bersini/
 #: (content/intervenants/hugues-bersini/contents+fr.lr:speaker.description)
 msgid ""
@@ -413,6 +418,11 @@ msgstr ""
 msgid "Journée principale"
 msgstr "Belangrijkste dag"
 
+#: http://localhost/intervenants/frederic-taes/
+#: (content/intervenants/frederic-taes/contents+fr.lr:speaker.description)
+msgid "* Passionné de BD et musique en tout genre"
+msgstr ""
+
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "#Localisation"
@@ -537,6 +547,11 @@ msgid ""
 "Arduino"
 msgstr ""
 "Bouw motiverende projecten en laboratoria in de klas of elders met Arduino"
+
+#: http://localhost/intervenants/frederic-taes/
+#: (content/intervenants/frederic-taes/contents+fr.lr:speaker.description)
+msgid "* Manager européen en sécurité informatique (Ahold Delhaize)"
+msgstr ""
 
 #: http://localhost/ateliers/initier-au-codage-python-avec-laide-dun-mooc/
 #: (content/ateliers/initier-au-codage-python-avec-laide-dun-mooc/contents+fr.lr:workshop.description)
@@ -953,13 +968,6 @@ msgstr ""
 "1. Conferenties, workshops en tentoonstellingen voornamelijk voor "
 "leerkrachten"
 
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
-msgid ""
-"* 13h30 à 13h50 : <abbr title=\"Conférences brèves (20 minutes)\">B</abbr> – "
-"Activités du CIRB-CIBG à Bruxelles pour les écoles"
-msgstr ""
-
 #: http://localhost/intervenants/gilles-dowek/
 #: (content/intervenants/gilles-dowek/contents+fr.lr:speaker.description)
 msgid ""
@@ -1117,14 +1125,6 @@ msgstr ""
 "* _Voulez-vous jouer avec les maths ?_, Paris, Édition Le Pommier, coll. « "
 "Les petites pommes du savoir », 2002"
 
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
-msgid ""
-"* 15h00 à 15h50 : <abbr title=\"Conférence\">C</abbr> – Spectacle interactif "
-"et animé d'informagie par [Marie Duflot-Kremer](../intervenants/marie-duflot-"
-"kremer/)"
-msgstr ""
-
 #: http://localhost/ateliers/de-la-tortue-logo-au-chat-scratch/
 #: (content/ateliers/de-la-tortue-logo-au-chat-scratch/contents+fr.lr:workshop.description)
 msgid ""
@@ -1197,6 +1197,14 @@ msgstr ""
 #: http://localhost/ateliers/decouvrir-le-robot-cubetto/
 #: (content/ateliers/decouvrir-le-robot-cubetto/contents+fr.lr:workshop.abstract)
 msgid "Découvrir le robot Cubetto et animer un atelier dans sa classe"
+msgstr ""
+
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
+msgid ""
+"* 13h30 à 13h50 : <abbr title=\"Conférences brèves (20 minutes)\">B</abbr> – "
+"*Les inscriptions scolaires avec le guichet électronique IRISbox* par "
+"Bastien Van Aelst"
 msgstr ""
 
 #: http://localhost/journee-principale/la-decouverte-de-la-gestion-dentreprise-a-travers-le-jeu-scale-up/
@@ -1311,6 +1319,14 @@ msgstr ""
 #: (content/comites/contents+fr.lr:details-program.description)
 msgid "- Erick Mascart"
 msgstr "- Erick Mascart"
+
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
+msgid ""
+"* 15h00 à 15h30 : <abbr title=\"Conférence\">C</abbr> – *Eduquer à "
+"Internet : dangers, enjeux et opportunités* par [Frédéric Taes](../"
+"intervenants/frederic-taes) ([Isoc Belgique](http://isoc.be/))"
+msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.journee_sans_ordi)
 msgid ""
@@ -1828,6 +1844,11 @@ msgid ""
 msgstr ""
 "Van de Logo-schildpad tot de Scratch-kat, een heel universum van "
 "geometrische vormen"
+
+#: http://localhost/intervenants/frederic-taes/
+#: (content/intervenants/frederic-taes/contents+fr.lr:speaker.description)
+msgid "* Président Internet Society Belgium"
+msgstr ""
 
 #: http://localhost/concert/
 #: (content/concert/contents+fr.lr:concert.description)
