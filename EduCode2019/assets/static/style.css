@@ -4,6 +4,12 @@
 @font-face {
   font-family: 'Lato';
   src: url("../fonts/Lato-Regular.ttf") format("truetype"); }
+
+
+@font-face {
+  font-family: 'Liberation Sans';
+  src: url('../fonts/Liberation Sans/LiberationSans-Regular.ttf') format('truetype');
+}
 /**
  * Dans cette feuille, il y aura toutes les fonctions/mixins
  */
@@ -55,6 +61,12 @@
 @font-face {
   font-family: 'Lato';
   src: url("../fonts/Lato-Regular.ttf") format("truetype"); }
+
+
+@font-face {
+  font-family: 'Liberation Sans';
+  src: url('../fonts/Liberation Sans/LiberationSans-Regular.ttf') format('truetype');
+}
 /**
  * Dans cette feuille, il y aura toutes les fonctions/mixins
  */
@@ -111,6 +123,12 @@
 @font-face {
   font-family: 'Lato';
   src: url("../fonts/Lato-Regular.ttf") format("truetype"); }
+
+
+@font-face {
+  font-family: 'Liberation Sans';
+  src: url('../fonts/Liberation Sans/LiberationSans-Regular.ttf') format('truetype');
+}
 /**
  * Dans cette feuille, il y aura toutes les fonctions/mixins
  */
@@ -167,6 +185,11 @@
 @font-face {
   font-family: 'Lato';
   src: url("../fonts/Lato-Regular.ttf") format("truetype"); }
+
+  @font-face {
+    font-family: 'Liberation Sans';
+    src: url('../fonts/Liberation Sans/LiberationSans-Regular.ttf') format('truetype');
+  }
 /**
  * Dans cette feuille, il y aura toutes les fonctions/mixins
  */
@@ -223,6 +246,11 @@
 @font-face {
   font-family: 'Lato';
   src: url("../fonts/Lato-Regular.ttf") format("truetype"); }
+
+  @font-face {
+    font-family: 'Liberation Sans';
+    src: url('../fonts/Liberation Sans/LiberationSans-Regular.ttf') format('truetype');
+  }
 /**
  * Dans cette feuille, il y aura toutes les fonctions/mixins
  */
@@ -286,6 +314,11 @@
 @font-face {
   font-family: 'Lato';
   src: url("../fonts/Lato-Regular.ttf") format("truetype"); }
+
+  @font-face {
+    font-family: 'Liberation Sans';
+    src: url('../fonts/Liberation Sans/LiberationSans-Regular.ttf') format('truetype');
+  }
 /**
  * Dans cette feuille, il y aura toutes les fonctions/mixins
  */
@@ -333,7 +366,7 @@
 
 .main {
   height: 100vh;
-  font-family: "Unica One", "Roboto Slab", serif; }
+  font-family: "Liberation Sans", "Unica One", "Roboto Slab", serif; }
   .main .overlay {
     padding-top: 150px;
     text-align: center;
@@ -426,7 +459,7 @@ table td, table th {
   font-family: Lato, "Roboto Slab", Roboto, serif; }
 
 .title {
-  font-family: "Unica One", "Roboto Slab", serif;
+  font-family: "Liberation Sans", "Unica One", "Roboto Slab", serif;
   margin-top: 15px;
   margin-bottom: 15px; }
   .title.text-center {
@@ -434,7 +467,7 @@ table td, table th {
     border-left: solid #e1b12c 15px; }
 
 h1, h2 {
-  font-family: "Unica One", "Roboto Slab", serif !important; }
+  font-family: "Liberation Sans", "Unica One", "Roboto Slab", serif !important; }
 
 .speaker {
   min-height: 300px;
@@ -449,7 +482,7 @@ h1, h2 {
   .speaker:hover .speaker-name, .speaker:hover .speaker-name a {
     color: #b18528; }
   .speaker .speaker-name {
-    font-family: "Unica One", "Roboto Slab", serif;
+    font-family: "Liberation Sans", "Unica One", "Roboto Slab", serif;
     font-weight: 600;
     margin-top: 10px;
     margin-bottom: 20px; }
@@ -487,6 +520,11 @@ h1, h2 {
 @font-face {
   font-family: 'Lato';
   src: url("../fonts/Lato-Regular.ttf") format("truetype"); }
+
+  @font-face {
+    font-family: 'Liberation Sans';
+    src: url('../fonts/Liberation Sans/LiberationSans-Regular.ttf') format('truetype');
+  }
 /**
  * Dans cette feuille, il y aura toutes les fonctions/mixins
  */
@@ -575,7 +613,7 @@ h1, h2 {
 
 #sidebar, #mobile-sidebar {
   z-index: 3;
-  font-family: 'Unica One', cursive !important;
+  font-family: "Liberation Sans", 'Unica One', cursive !important;
   /* level 1*/
   /* level 2*/ }
   #sidebar #sidebar-wrapper, #mobile-sidebar #sidebar-wrapper {

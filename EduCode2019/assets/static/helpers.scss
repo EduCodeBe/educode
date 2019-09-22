@@ -13,6 +13,11 @@ $darker-yellow: #b18528;
   src: url('../fonts/Lato-Regular.ttf') format('truetype');
 }
 
+@font-face {
+  font-family: 'Liberation Sans';
+  src: url('../fonts/Liberation Sans/LiberationSans-Regular.ttf') format('truetype');
+}
+
 @mixin transition($params) {
   -webkit-transition: #{$params};
   -moz-transition:    #{$params};

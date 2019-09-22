@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: educode\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-20 17:10+CET\n"
+"POT-Creation-Date: 2019-09-22 14:35+CET\n"
 "PO-Revision-Date: 2019-09-11 09:35\n"
 "Last-Translator: npettiaux\n"
 "Language-Team: Spanish\n"
@@ -28,7 +28,7 @@ msgstr ""
 msgid "Approche pédagogique amusante et découverte de l’impression 3D"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.s_overview_program) (dynamic)
+#: http://localhost/ (content/contents+fr.lr:page.s_overview_program)
 msgid "Aperçu du programme"
 msgstr ""
 
@@ -345,10 +345,6 @@ msgid ""
 "pensée informatique"
 msgstr ""
 
-#: (dynamic)
-msgid "Journée principale"
-msgstr ""
-
 #: http://localhost/intervenants/frederic-taes/
 #: (content/intervenants/frederic-taes/contents+fr.lr:speaker.description)
 msgid "* Passionné de BD et musique en tout genre"
@@ -559,7 +555,7 @@ msgid ""
 "est le bienvenu."
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.s_program) (dynamic)
+#: http://localhost/ (content/contents+fr.lr:page.s_program)
 msgid "Programme"
 msgstr ""
 
@@ -818,14 +814,6 @@ msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.s_may)
 msgid "mai"
-msgstr ""
-
-#: http://localhost/intervenants/nicolas-seinlet/
-#: (content/intervenants/nicolas-seinlet/contents+fr.lr:speaker.description)
-msgid ""
-"Développeur de logiciels de gestions depuis près de 20 ans et père de "
-"plusieurs enfants, sans aucune expérience dans l'éducation, mais convaincu "
-"des bienfaits de l'apprentissage de la programmation aux enfants…"
 msgstr ""
 
 #: http://localhost/ateliers/decouvrir-le-robot-cubetto/
@@ -1377,8 +1365,12 @@ msgid ""
 "Pour plus d'informations, nous sommes joignables par [email](info@educode.be)"
 msgstr ""
 
-#: (dynamic)
-msgid "Journée info sans ordi"
+#: http://localhost/intervenants/nicolas-seinlet/
+#: (content/intervenants/nicolas-seinlet/contents+fr.lr:speaker.description)
+msgid ""
+"Développeur de logiciels de gestions depuis près de 20 ans et père de "
+"plusieurs enfants, sans aucune expérience dans l'éducation, mais convaincu "
+"des bienfaits de l'apprentissage de la programmation aux enfants…"
 msgstr ""
 
 #: http://localhost/ateliers/premiers-pas-dans-la-programmation-ludique-et-creative/
@@ -1386,8 +1378,9 @@ msgstr ""
 msgid "Premiers pas dans la programmation ludique et créative"
 msgstr ""
 
-#: (dynamic)
-msgid "Concert festif"
+#: http://localhost/intervenants/nicolas-seinlet/
+#: (content/intervenants/nicolas-seinlet/contents+fr.lr:speaker.description)
+msgid "* Contributeur sur divers projets open-source autour de PostgreSQL"
 msgstr ""
 
 #: http://localhost/comites/
@@ -1488,11 +1481,6 @@ msgstr ""
 msgid ""
 "Nicolas Pettiaux est l'initiateur et le coordinateur de la conférence "
 "EduCode."
-msgstr ""
-
-#: http://localhost/intervenants/nicolas-seinlet/
-#: (content/intervenants/nicolas-seinlet/contents+fr.lr:speaker.description)
-msgid "* Contributeur sur divers projets open-source autour de PostgreSQL"
 msgstr ""
 
 #: http://localhost/comites/
@@ -2282,7 +2270,7 @@ msgid ""
 msgstr ""
 
 #: http://localhost/comites/
-#: (content/comites/contents+fr.lr:details-program.date) (dynamic)
+#: (content/comites/contents+fr.lr:details-program.date)
 msgid "Comités"
 msgstr ""
 
@@ -2349,7 +2337,6 @@ msgid "- Françoise Bols (HE2B-Nivelles, chargé de cours)"
 msgstr ""
 
 #: http://localhost/dons/ (content/dons/contents+fr.lr:details-program.date)
-#: (dynamic)
 msgid "Dons"
 msgstr ""
 
@@ -2358,10 +2345,6 @@ msgstr ""
 #: http://localhost/intervenants/gregoire-fischer/
 #: (content/intervenants/gregoire-fischer/contents+fr.lr:speaker.description)
 msgid "* Formation et soutien de professeurs"
-msgstr ""
-
-#: (dynamic)
-msgid "Concert"
 msgstr ""
 
 #: http://localhost/intervenants/thierry-massart/
@@ -2692,10 +2675,6 @@ msgid ""
 "l'informatique et aux technologies numériques. Elle est responsable du cours "
 "de Didactique de l'Informatique et des TIC dans le cadre du certificat "
 "universitaire Form@TICEF, à l'Université de Liège."
-msgstr ""
-
-#: (dynamic)
-msgid "Langue"
 msgstr ""
 
 #: http://localhost/intervenants/rupert-meurice-de-dormale/
@@ -3032,10 +3011,6 @@ msgid ""
 "pour les plus jeunes en maternelle. Nous avons pu expérimenter que les "
 "enfants en enseignement spécialisé sont particulièrement attirés par "
 "l’interaction avec les robots."
-msgstr ""
-
-#: (dynamic)
-msgid "Info pratiques"
 msgstr ""
 
 #: http://localhost/ateliers/jouer-pour-comprendre-lintelligence-artificielle/
@@ -3645,8 +3620,22 @@ msgstr ""
 msgid "conteuse"
 msgstr ""
 
+#: templates/layout.html:40
+msgid "Langue"
+msgstr ""
+
+#: templates/macros/sections.html:20 templates/macros/sections.html:47
+#: templates/page.html:53 templates/speaker.html:73
+msgid "Journée principale"
+msgstr ""
+
 #: templates/page.html:61
 msgid "Voir les ateliers"
+msgstr ""
+
+#: templates/macros/sections.html:21 templates/macros/sections.html:48
+#: templates/page.html:67
+msgid "Concert festif"
 msgstr ""
 
 #: templates/page.html:76
@@ -3663,6 +3652,15 @@ msgstr ""
 
 #: templates/page.html:225
 msgid "3. IFC"
+msgstr ""
+
+#: templates/macros/sections.html:22 templates/macros/sections.html:49
+#: templates/speaker.html:74
+msgid "Journée info sans ordi"
+msgstr ""
+
+#: templates/speaker.html:75
+msgid "Concert"
 msgstr ""
 
 #: templates/workshops-container.html:8
@@ -3723,4 +3721,8 @@ msgstr ""
 
 #: templates/workshops-container.html:95
 msgid "En savoir plus"
+msgstr ""
+
+#: templates/macros/sections.html:29 templates/macros/sections.html:56
+msgid "Info pratiques"
 msgstr ""
