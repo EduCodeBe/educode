@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: educode\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-23 20:46+CET\n"
+"POT-Creation-Date: 2019-09-24 08:50+CET\n"
 "PO-Revision-Date: 2019-09-11 09:35\n"
 "Last-Translator: npettiaux\n"
 "Language-Team: English\n"
@@ -222,6 +222,13 @@ msgid ""
 "partager ses trouvailles et son expérience avec ses collègues instituteurs."
 msgstr ""
 
+#: http://localhost/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/
+#: (content/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/contents+fr.lr:details-program.description)
+msgid ""
+"* en participant aux initiatives citoyennes, à l'Open Source, à l'Internet "
+"Society."
+msgstr ""
+
 #: http://localhost/ateliers/le-numerique-pour-faire-face-aux-inegalites-scolaires/
 #: (content/ateliers/le-numerique-pour-faire-face-aux-inegalites-scolaires/contents+fr.lr:workshop.periodes)
 msgid "1x50'"
@@ -235,6 +242,14 @@ msgstr "# Scientific and Support Committee"
 #: http://localhost/ateliers/apprendre-a-souder/
 #: (content/ateliers/apprendre-a-souder/contents+fr.lr:workshop.description)
 msgid "* Apprendre à mettre les composants dans le bon sens"
+msgstr ""
+
+#: http://localhost/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/
+#: (content/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/contents+fr.lr:details-program.description)
+msgid ""
+"Eduquer à Internet est une nécessité dans notre monde actuel. La conférence "
+"illustrera ses dangers avec des exemples, présentera les enjeux majeurs, et "
+"les solutions."
 msgstr ""
 
 #: http://localhost/journee-principale/de-la-demystification-de-lintelligence-artificielle-au-developpement-de-la-pensee-informatique/
@@ -332,6 +347,11 @@ msgstr ""
 msgid "Apprendre à souder son premier circuit électronique"
 msgstr ""
 
+#: http://localhost/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/
+#: (content/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/contents+fr.lr:details-program.description)
+msgid "* par l'éducation à la technologie;"
+msgstr ""
+
 #: http://localhost/ (content/contents+fr.lr:page.press_text)
 msgid ""
 "Une conférence de presse sera organisée début septembre 2019 à Bruxelles. Un "
@@ -354,6 +374,11 @@ msgstr ""
 #: http://localhost/ (content/contents+fr.lr:page.s_about_educode)
 msgid "À propos d'EduCode"
 msgstr "About EduCode"
+
+#: http://localhost/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/
+#: (content/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/contents+fr.lr:details-program.description)
+msgid "**Résumé de la conférence**"
+msgstr ""
 
 #: http://localhost/journee-principale/de-la-demystification-de-lintelligence-artificielle-au-developpement-de-la-pensee-informatique/
 #: (content/journee-principale/de-la-demystification-de-lintelligence-artificielle-au-developpement-de-la-pensee-informatique/contents+fr.lr:details-program.date)
@@ -408,6 +433,13 @@ msgstr "- Eric Robette"
 msgid "Contact"
 msgstr "Contact"
 
+#: http://localhost/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/
+#: (content/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/contents+fr.lr:details-program.description)
+msgid ""
+"Un débat de société, tel que trouver l'équilibre entre liberté et contrôle "
+"total de tout ce que l'on fait ou que l'on doit faire."
+msgstr ""
+
 #: http://localhost/intervenants/laurent-beeckmans/
 #: (content/intervenants/laurent-beeckmans/contents+fr.lr:speaker.description)
 msgid ""
@@ -437,6 +469,13 @@ msgid ""
 "* Chargée de formations et contenus [Khan Academy](https://fr.khanacademy."
 "org/) à [Bibliothèques Sans Frontières Belgique](https://www."
 "bibliosansfrontieres.org/)"
+msgstr ""
+
+#: http://localhost/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/
+#: (content/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/contents+fr.lr:details-program.description)
+msgid ""
+"* **la consolidation** : Internet devrait être pour tous mais se retrouve de "
+"plus en plus aux mains de quelques-uns: les GAFAM"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.s_saturday)
@@ -504,6 +543,13 @@ msgid ""
 "copiable"
 msgstr ""
 
+#: http://localhost/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/
+#: (content/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/contents+fr.lr:details-program.description)
+msgid ""
+"* **l'ouverture du réseau:** tout le monde n'a pas accès à Internet, et nous "
+"n'avons pas accès à tout Internet de manière équitable;"
+msgstr ""
+
 #: http://localhost/ateliers/sac-a-dos-numerique-pour-lapprentissage-par-competences/
 #: (content/ateliers/sac-a-dos-numerique-pour-lapprentissage-par-competences/contents+fr.lr:workshop.tag)
 #: http://localhost/ateliers/decouverte-des-learningapps/
@@ -517,6 +563,12 @@ msgstr ""
 #: http://localhost/ateliers/une-cle-usb-vive-pour-enseigner-avec-un-systeme-libre/
 #: (content/ateliers/une-cle-usb-vive-pour-enseigner-avec-un-systeme-libre/contents+fr.lr:workshop.tag)
 msgid "secondaire, primaire, maternelle"
+msgstr ""
+
+#: http://localhost/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/
+#: (content/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/contents+fr.lr:details-program.description)
+msgid ""
+"**L'enjeu?** _Faites d'Internet votre Internet, notre Internet à tous !_"
 msgstr ""
 
 #: http://localhost/ateliers/decouvrir-le-robot-cubetto/
@@ -924,6 +976,13 @@ msgstr ""
 msgid "Françoise est une membre active de l'équipe Educode."
 msgstr ""
 
+#: http://localhost/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/
+#: (content/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/contents+fr.lr:details-program.description)
+msgid ""
+"Rejoignez-le mouvement, découvrez les arcanes d'Internet et influencez son "
+"évolution. Faites d'Internet votre internet!"
+msgstr ""
+
 #: http://localhost/intervenants/patricia-corieri/
 #: (content/intervenants/patricia-corieri/contents+fr.lr:speaker.description)
 msgid ""
@@ -1023,6 +1082,11 @@ msgstr ""
 msgid ""
 "* _Voulez-vous jouer avec les maths ?_, Paris, Édition Le Pommier, coll. « "
 "Les petites pommes du savoir », 2002"
+msgstr ""
+
+#: http://localhost/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/
+#: (content/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/contents+fr.lr:details-program.description)
+msgid "par [Frédéric Taes](../../intervenants/frederic-taes)"
 msgstr ""
 
 #: http://localhost/ateliers/de-la-tortue-logo-au-chat-scratch/
@@ -1192,14 +1256,6 @@ msgstr ""
 #: (content/comites/contents+fr.lr:details-program.description)
 msgid "- Erick Mascart"
 msgstr "- Erick Mascart"
-
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
-msgid ""
-"* 15h00 à 15h30 : <abbr title=\"Conférence\">C</abbr> – *Eduquer à "
-"Internet : dangers, enjeux et opportunités* par [Frédéric Taes](../"
-"intervenants/frederic-taes) ([Isoc Belgique](http://isoc.be/))"
-msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.journee_sans_ordi)
 msgid ""
@@ -1387,6 +1443,11 @@ msgid ""
 "musicale à la Chapelle Musicale Reine Elisabeth et comme chef d'orchestre "
 "auprès de l'orchestre de jeunes musiciens Melomania et de l'orchestre de "
 "chambre de l'Ecole Européenne de Bruxelles."
+msgstr ""
+
+#: http://localhost/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/
+#: (content/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/contents+fr.lr:details-program.description)
+msgid "Quelques dangers et menaces:"
 msgstr ""
 
 #: http://localhost/intervenants/marie-duflot-kremer/
@@ -2301,6 +2362,15 @@ msgid ""
 "l'édition [2018 d'Educode](https://2018.educode.be)"
 msgstr ""
 
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
+msgid ""
+"* 15h00 à 15h30 : <abbr title=\"Conférence\">C</abbr> – [Eduquer à "
+"Internet : dangers, enjeux et opportunités](eduquer-a-internet-dangers-"
+"enjeux-et-opportunites) par [Frédéric Taes](../intervenants/frederic-taes) "
+"([Isoc Belgique](http://isoc.be/))"
+msgstr ""
+
 #: http://localhost/intervenants/rupert-meurice-de-dormale/
 #: (content/intervenants/rupert-meurice-de-dormale/contents+fr.lr:speaker.description)
 msgid "* Agrégation à l'Enseignement secondaire supérieur UCLouvain 1976;"
@@ -2311,6 +2381,11 @@ msgstr ""
 msgid "* Section normale primaire"
 msgstr ""
 
+#: http://localhost/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/
+#: (content/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/contents+fr.lr:details-program.date)
+msgid "Eduquer à Internet : dangers, enjeux et opportunités"
+msgstr ""
+
 #: http://localhost/intervenants/julie-henry/
 #: (content/intervenants/julie-henry/contents+fr.lr:speaker.description)
 msgid "- https://www.linkedin.com/in/julie-henry-5076951b/"
@@ -2319,6 +2394,13 @@ msgstr ""
 #: http://localhost/ateliers/decouverte-des-learningapps/
 #: (content/ateliers/decouverte-des-learningapps/contents+fr.lr:workshop.description)
 msgid "* C'est un outil très intéressant pour les enseignants car :"
+msgstr ""
+
+#: http://localhost/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/
+#: (content/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/contents+fr.lr:details-program.description)
+msgid ""
+"* **la vie privée** : Internet est omniprésent et nous sommes surveillés de "
+"partout... pour quelles finalités?"
 msgstr ""
 
 #: http://localhost/intervenants/nadine-khouzam/
@@ -2362,6 +2444,11 @@ msgid ""
 "convient d'appeler le «capitalisme de surveillance»."
 msgstr ""
 
+#: http://localhost/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/
+#: (content/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/contents+fr.lr:details-program.description)
+msgid "Il y a plein d'opportunités:"
+msgstr ""
+
 #: http://localhost/comites/
 #: (content/comites/contents+fr.lr:details-program.date)
 msgid "Comités"
@@ -2388,6 +2475,14 @@ msgid ""
 "tâche avec succès. Vous pourrez ainsi vivre une double expérience, celle de "
 "réellement commencer votre formation à donner ce cours et celle des élèves "
 "en situation d'apprentissage."
+msgstr ""
+
+#: http://localhost/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/
+#: (content/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/contents+fr.lr:details-program.description)
+msgid ""
+"Un chapitre local existe près de chez vous: Internet Society Belgium (in "
+"rejuvenation), une asbl. Nous travaillons notamment sur des projets de "
+"guides et d'encadrement à l'usage des jeunes, parents et enseignants."
 msgstr ""
 
 #: http://localhost/ateliers/apprendre-a-souder/
@@ -2610,6 +2705,13 @@ msgid ""
 "Nantes."
 msgstr ""
 
+#: http://localhost/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/
+#: (content/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/contents+fr.lr:details-program.description)
+msgid ""
+"* **la sécurité** : tout est connecté, votre living est accessible du monde "
+"entier, et des organisations criminelles s'invitent chez vous;"
+msgstr ""
+
 #: http://localhost/intervenants/myriam-criquet/
 #: (content/intervenants/myriam-criquet/contents+fr.lr:speaker.description)
 msgid ""
@@ -2725,6 +2827,11 @@ msgstr ""
 msgid ""
 "Au programme des activités de [codenplay_asbl](http://codenplay.be/), par "
 "exemple,"
+msgstr ""
+
+#: http://localhost/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/
+#: (content/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/contents+fr.lr:details-program.description)
+msgid "* en devenant acteur, en apprenant à coder dès le plus jeune âge;"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.baseline)
@@ -3342,6 +3449,13 @@ msgid ""
 "Pettiaux](../intervenants/nicolas-pettiaux/)"
 msgstr ""
 
+#: http://localhost/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/
+#: (content/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/contents+fr.lr:details-program.description)
+msgid ""
+"* **la confiance** est nécessaire, mais les informations sur Internet sont-"
+"elles toutes fiables?"
+msgstr ""
+
 #: http://localhost/ (content/contents+fr.lr:page.s_intro_dates)
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.date)
@@ -3544,6 +3658,14 @@ msgstr ""
 #: (content/ateliers/decouverte-de-la-fabrication-numerique-pour-vos-classes-decoupeuse-vinyle/contents+fr.lr:workshop.abstract)
 #: (content/ateliers/decouverte-de-la-fabrication-numerique-pour-vos-classes-decoupeuse-vinyle/contents+fr.lr:workshop.description)
 msgid "Approche pédagogique amusante et découverte de la découpeuse vinyle."
+msgstr ""
+
+#: http://localhost/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/
+#: (content/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/contents+fr.lr:details-program.description)
+msgid ""
+"L'Internet Society est une ONG représentant l'ensemble de la communauté "
+"Internet et est l'autorité morale et technique la plus influente dans le "
+"monde au sujet d'Internet."
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.about)
