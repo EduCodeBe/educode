@@ -1,12 +1,17 @@
 @font-face {
   font-family: 'Unica One';
   src: url("../fonts/UnicaOne-Regular.ttf") format("truetype"); }
+
+@font-face {
+  font-family: 'Liberation Sans';
+  src: url('../fonts/Liberation Sans/LiberationSans-Regular.ttf') format('truetype');
+}
 .main {
   height: 100vh;
   overflow-y: scroll; }
   .main .overlay {
     text-align: center;
-    font-family: "Unica One", "Roboto Slab", serif;
+    font-family: "Liberation Sans", "Unica One", "Roboto Slab", serif;
     font-size: 1.7rem;
     overflow: hidden; }
     .main .overlay .darker-background {

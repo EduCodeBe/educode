@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: educode\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-20 12:08+CET\n"
+"POT-Creation-Date: 2019-09-24 08:49+CET\n"
 "PO-Revision-Date: 2019-09-11 10:03\n"
 "Last-Translator: npettiaux\n"
 "Language-Team: Flemish\n"
@@ -28,7 +28,7 @@ msgstr ""
 msgid "Approche pédagogique amusante et découverte de l’impression 3D"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.s_overview_program)
+#: http://localhost/ (content/contents+fr.lr:page.s_overview_program) (dynamic)
 msgid "Aperçu du programme"
 msgstr "Programma overzicht"
 
@@ -92,6 +92,10 @@ msgstr "**Ideaal voor werkende spatialisatie**"
 msgid "* Membre de l'[Académie Royale de Belgique](http://academieroyale.be/)"
 msgstr ""
 
+#: (dynamic)
+msgid "1060 Saint-Gilles."
+msgstr ""
+
 #: http://localhost/intervenants/laurent-beeckmans/
 #: (content/intervenants/laurent-beeckmans/contents+fr.lr:speaker.description)
 msgid ""
@@ -140,6 +144,8 @@ msgstr ""
 #: (content/ateliers/initier-au-codage-python-avec-laide-dun-mooc/contents+fr.lr:workshop.tag)
 #: http://localhost/ateliers/modus-operandi-des-cartoparties-participatives/
 #: (content/ateliers/modus-operandi-des-cartoparties-participatives/contents+fr.lr:workshop.tag)
+#: http://localhost/ateliers/decouvrir-la-gestion-dentreprise-avec-scale-up/
+#: (content/ateliers/decouvrir-la-gestion-dentreprise-avec-scale-up/contents+fr.lr:workshop.tag)
 msgid "secondaire"
 msgstr "secundair"
 
@@ -247,6 +253,13 @@ msgid ""
 "partager ses trouvailles et son expérience avec ses collègues instituteurs."
 msgstr ""
 
+#: http://localhost/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/
+#: (content/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/contents+fr.lr:details-program.description)
+msgid ""
+"* en participant aux initiatives citoyennes, à l'Open Source, à l'Internet "
+"Society."
+msgstr ""
+
 #: http://localhost/ateliers/le-numerique-pour-faire-face-aux-inegalites-scolaires/
 #: (content/ateliers/le-numerique-pour-faire-face-aux-inegalites-scolaires/contents+fr.lr:workshop.periodes)
 msgid "1x50'"
@@ -262,9 +275,22 @@ msgstr "# Wetenschappelijk en ondersteunend comité"
 msgid "* Apprendre à mettre les composants dans le bon sens"
 msgstr "* Leer de componenten in de juiste richting te plaatsen"
 
+#: http://localhost/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/
+#: (content/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/contents+fr.lr:details-program.description)
+msgid ""
+"Eduquer à Internet est une nécessité dans notre monde actuel. La conférence "
+"illustrera ses dangers avec des exemples, présentera les enjeux majeurs, et "
+"les solutions."
+msgstr ""
+
 #: http://localhost/journee-principale/de-la-demystification-de-lintelligence-artificielle-au-developpement-de-la-pensee-informatique/
 #: (content/journee-principale/de-la-demystification-de-lintelligence-artificielle-au-developpement-de-la-pensee-informatique/contents+fr.lr:details-program.description)
 msgid "#Résumé de la conférence"
+msgstr ""
+
+#: http://localhost/intervenants/frederic-taes/
+#: (content/intervenants/frederic-taes/contents+fr.lr:speaker.description)
+msgid "* Père de 4 enfants (de 0 à 18 ans)"
 msgstr ""
 
 #: http://localhost/intervenants/hugues-bersini/
@@ -339,6 +365,10 @@ msgstr ""
 "Concerto voor piano en orkest in B mineur, gebaseerd op de fragmenten van "
 "een onvoltooid concert van Edvard Grieg."
 
+#: (dynamic)
+msgid "Toutes les heures"
+msgstr ""
+
 #: http://localhost/ateliers/internet-et-le-web/
 #: (content/ateliers/internet-et-le-web/contents+fr.lr:workshop.description)
 msgid ""
@@ -356,6 +386,10 @@ msgstr ""
 msgid "Le prix est libre, les dons sont les bienvenus"
 msgstr ""
 
+#: (dynamic)
+msgid "Avec"
+msgstr "Met"
+
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid ""
@@ -371,6 +405,11 @@ msgstr ""
 #: (content/ateliers/apprendre-a-souder/contents+fr.lr:workshop.title)
 msgid "Apprendre à souder son premier circuit électronique"
 msgstr "Leer hoe u uw eerste elektronische circuit kunt solderen"
+
+#: http://localhost/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/
+#: (content/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/contents+fr.lr:details-program.description)
+msgid "* par l'éducation à la technologie;"
+msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.press_text)
 msgid ""
@@ -402,6 +441,11 @@ msgstr ""
 msgid "À propos d'EduCode"
 msgstr "Over EduCode"
 
+#: http://localhost/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/
+#: (content/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/contents+fr.lr:details-program.description)
+msgid "**Résumé de la conférence**"
+msgstr ""
+
 #: http://localhost/journee-principale/de-la-demystification-de-lintelligence-artificielle-au-developpement-de-la-pensee-informatique/
 #: (content/journee-principale/de-la-demystification-de-lintelligence-artificielle-au-developpement-de-la-pensee-informatique/contents+fr.lr:details-program.date)
 msgid ""
@@ -409,10 +453,23 @@ msgid ""
 "pensée informatique"
 msgstr ""
 
+#: (dynamic)
+msgid "Journée principale"
+msgstr "Belangrijkste dag"
+
+#: http://localhost/intervenants/frederic-taes/
+#: (content/intervenants/frederic-taes/contents+fr.lr:speaker.description)
+msgid "* Passionné de BD et musique en tout genre"
+msgstr ""
+
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "#Localisation"
 msgstr "#Localisation"
+
+#: (dynamic)
+msgid "3. IFC"
+msgstr ""
 
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
@@ -450,6 +507,17 @@ msgstr "- Eric Robette"
 msgid "Contact"
 msgstr "Contact"
 
+#: http://localhost/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/
+#: (content/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/contents+fr.lr:details-program.description)
+msgid ""
+"Un débat de société, tel que trouver l'équilibre entre liberté et contrôle "
+"total de tout ce que l'on fait ou que l'on doit faire."
+msgstr ""
+
+#: (dynamic)
+msgid "Au local"
+msgstr ""
+
 #: http://localhost/intervenants/laurent-beeckmans/
 #: (content/intervenants/laurent-beeckmans/contents+fr.lr:speaker.description)
 msgid ""
@@ -471,6 +539,10 @@ msgstr ""
 "thematische concerten produceert in een originele omgeving waarin geluid en "
 "beeld worden geïntegreerd"
 
+#: (dynamic)
+msgid "alto"
+msgstr "viola"
+
 #: http://localhost/ateliers/initiation-a-la-pensee-informatique-en-primaire/
 #: (content/ateliers/initiation-a-la-pensee-informatique-en-primaire/contents+fr.lr:workshop.title)
 msgid "Initiation à la pensée informatique en primaire"
@@ -489,6 +561,21 @@ msgid ""
 "bibliosansfrontieres.org/)"
 msgstr ""
 
+#: http://localhost/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/
+#: (content/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/contents+fr.lr:details-program.description)
+msgid ""
+"* **la consolidation** : Internet devrait être pour tous mais se retrouve de "
+"plus en plus aux mains de quelques-uns: les GAFAM"
+msgstr ""
+
+#: (dynamic)
+msgid "Toutes les catégories"
+msgstr ""
+
+#: (dynamic)
+msgid "contrebasse"
+msgstr "bas"
+
 #: http://localhost/ (content/contents+fr.lr:page.s_saturday)
 msgid "Samedi"
 msgstr "Zaterdag"
@@ -499,6 +586,10 @@ msgid ""
 "* 8h30 à 8h45 : Accueil par [Yves Robaey](../intervenants/yves-robaey/), co-"
 "président de HE2B, et [Pierre Wolper](../intervenants/pierre-wolper/), "
 "recteur de l'[Université de Liège](https://www.uliege.be/)"
+msgstr ""
+
+#: (dynamic)
+msgid "Primaire"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.journee_sans_ordi)
@@ -534,6 +625,11 @@ msgid ""
 msgstr ""
 "Bouw motiverende projecten en laboratoria in de klas of elders met Arduino"
 
+#: http://localhost/intervenants/frederic-taes/
+#: (content/intervenants/frederic-taes/contents+fr.lr:speaker.description)
+msgid "* Manager européen en sécurité informatique (Ahold Delhaize)"
+msgstr ""
+
 #: http://localhost/ateliers/initier-au-codage-python-avec-laide-dun-mooc/
 #: (content/ateliers/initier-au-codage-python-avec-laide-dun-mooc/contents+fr.lr:workshop.description)
 msgid ""
@@ -557,6 +653,13 @@ msgstr ""
 "Een levendige USB-stick om te onderwijzen met een legaal en vrij kopieerbaar "
 "systeem"
 
+#: http://localhost/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/
+#: (content/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/contents+fr.lr:details-program.description)
+msgid ""
+"* **l'ouverture du réseau:** tout le monde n'a pas accès à Internet, et nous "
+"n'avons pas accès à tout Internet de manière équitable;"
+msgstr ""
+
 #: http://localhost/ateliers/sac-a-dos-numerique-pour-lapprentissage-par-competences/
 #: (content/ateliers/sac-a-dos-numerique-pour-lapprentissage-par-competences/contents+fr.lr:workshop.tag)
 #: http://localhost/ateliers/decouverte-des-learningapps/
@@ -570,6 +673,12 @@ msgstr ""
 #: http://localhost/ateliers/une-cle-usb-vive-pour-enseigner-avec-un-systeme-libre/
 #: (content/ateliers/une-cle-usb-vive-pour-enseigner-avec-un-systeme-libre/contents+fr.lr:workshop.tag)
 msgid "secondaire, primaire, maternelle"
+msgstr ""
+
+#: http://localhost/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/
+#: (content/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/contents+fr.lr:details-program.description)
+msgid ""
+"**L'enjeu?** _Faites d'Internet votre Internet, notre Internet à tous !_"
 msgstr ""
 
 #: http://localhost/ateliers/decouvrir-le-robot-cubetto/
@@ -614,6 +723,10 @@ msgstr ""
 "op een breed scala aan onderwerpen rond onderwijs en het gebruik van "
 "digitaal en computerdenken, en nieuwe manieren van werken die digitaal zijn."
 
+#: (dynamic)
+msgid "Voir les ateliers"
+msgstr "Bekijk de workshops"
+
 #: http://localhost/journee-principale/enjeux-culture-et-ressources-numeriques-pour-leducation/
 #: (content/journee-principale/enjeux-culture-et-ressources-numeriques-pour-leducation/contents+fr.lr:details-program.date)
 msgid "Enjeux, culture et ressources numériques pour l’éducation"
@@ -641,7 +754,7 @@ msgstr ""
 "De organisatie van deze conferentie is in wezen vrijwillig. Elk geschenk is "
 "welkom."
 
-#: http://localhost/ (content/contents+fr.lr:page.s_program)
+#: http://localhost/ (content/contents+fr.lr:page.s_program) (dynamic)
 msgid "Programme"
 msgstr "Programma"
 
@@ -669,6 +782,10 @@ msgid ""
 msgstr ""
 "Onderwijs sociaal-professionele inbrengprogrammering: uitdagingen en "
 "uitdagingen"
+
+#: (dynamic)
+msgid "A la Cellule 133a, situé"
+msgstr ""
 
 #: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
 #: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.description)
@@ -800,10 +917,26 @@ msgstr ""
 "die momenteel een zeer belangrijke energie vereist van een zeer klein aantal "
 "acteurs, vrouwen en mannen."
 
+#: http://localhost/ateliers/decouvrir-la-gestion-dentreprise-avec-scale-up/
+#: (content/ateliers/decouvrir-la-gestion-dentreprise-avec-scale-up/contents+fr.lr:workshop.abstract)
+#: (content/ateliers/decouvrir-la-gestion-dentreprise-avec-scale-up/contents+fr.lr:workshop.description)
+msgid ""
+"Lors de cet atelier vous découvrirez les bases de la gestion d'entreprise "
+"avec l'aide du logiciel Odoo."
+msgstr ""
+
+#: (dynamic)
+msgid "Le carnaval des animaux"
+msgstr "Het carnaval van dieren"
+
 #: http://localhost/ateliers/codenplay-krings/
 #: (content/ateliers/codenplay-krings/contents+fr.lr:workshop.title)
 msgid "CodeNPlay-Directeurs"
 msgstr "CodeNPlay-Bestuurders"
+
+#: (dynamic)
+msgid "clarinette"
+msgstr "klarinet"
 
 #: http://localhost/ateliers/sac-a-dos-numerique-pour-lapprentissage-par-competences/
 #: (content/ateliers/sac-a-dos-numerique-pour-lapprentissage-par-competences/contents+fr.lr:workshop.description)
@@ -873,6 +1006,8 @@ msgstr ""
 #: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.language)
 #: http://localhost/ateliers/de-la-tortue-logo-au-chat-scratch/
 #: (content/ateliers/de-la-tortue-logo-au-chat-scratch/contents+fr.lr:workshop.language)
+#: http://localhost/ateliers/decouvrir-la-gestion-dentreprise-avec-scale-up/
+#: (content/ateliers/decouvrir-la-gestion-dentreprise-avec-scale-up/contents+fr.lr:workshop.language)
 msgid "fr"
 msgstr "fr"
 
@@ -923,9 +1058,23 @@ msgstr ""
 msgid "Une clé USB vive, pour enseigner avec un système libre"
 msgstr "Een USB-stick om les te geven met een gratis systeem"
 
+#: http://localhost/ateliers/decouvrir-la-gestion-dentreprise-avec-scale-up/
+#: (content/ateliers/decouvrir-la-gestion-dentreprise-avec-scale-up/contents+fr.lr:workshop.description)
+msgid ""
+"Scale-Up! est gratuit pour tous les profs, vous repartirez avec votre "
+"exemplaire!"
+msgstr ""
+
 #: http://localhost/ (content/contents+fr.lr:page.s_may)
 msgid "mai"
 msgstr "mei"
+
+#: http://localhost/ateliers/decouvrir-la-gestion-dentreprise-avec-scale-up/
+#: (content/ateliers/decouvrir-la-gestion-dentreprise-avec-scale-up/contents+fr.lr:workshop.description)
+msgid ""
+"Scale-Up! est un jeu de carte qui permet d'apprendre aux étudiants la "
+"gestion d'entreprise, tout en s'amusant."
+msgstr ""
 
 #: http://localhost/ateliers/decouvrir-le-robot-cubetto/
 #: (content/ateliers/decouvrir-le-robot-cubetto/contents+fr.lr:workshop.description)
@@ -940,13 +1089,6 @@ msgid ""
 msgstr ""
 "1. Conferenties, workshops en tentoonstellingen voornamelijk voor "
 "leerkrachten"
-
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
-msgid ""
-"* 13h30 à 13h50 : <abbr title=\"Conférences brèves (20 minutes)\">B</abbr> – "
-"Activités du CIRB-CIBG à Bruxelles pour les écoles"
-msgstr ""
 
 #: http://localhost/intervenants/gilles-dowek/
 #: (content/intervenants/gilles-dowek/contents+fr.lr:speaker.description)
@@ -994,6 +1136,13 @@ msgstr ""
 msgid "Françoise est une membre active de l'équipe Educode."
 msgstr ""
 
+#: http://localhost/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/
+#: (content/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/contents+fr.lr:details-program.description)
+msgid ""
+"Rejoignez-le mouvement, découvrez les arcanes d'Internet et influencez son "
+"évolution. Faites d'Internet votre internet!"
+msgstr ""
+
 #: http://localhost/intervenants/patricia-corieri/
 #: (content/intervenants/patricia-corieri/contents+fr.lr:speaker.description)
 msgid ""
@@ -1011,6 +1160,10 @@ msgstr ""
 "<a href=\"../ateliers\" class=\"btn btn-lg btn-warning text-uppercase"
 "\">Bekijk de workshops</a>"
 
+#: (dynamic)
+msgid "Tranche d'âge"
+msgstr ""
+
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid ""
@@ -1027,6 +1180,10 @@ msgstr "Praktische informatie"
 #: http://localhost/ (content/contents+fr.lr:page.s_submit_paper)
 msgid "Soumettre un poster"
 msgstr "Verzend een poster"
+
+#: (dynamic)
+msgid "Présentation des ateliers"
+msgstr ""
 
 #: http://localhost/journee-principale/hackerspaces-apprentissage-par-la-pratique-et-mains-dans-le-camboui/
 #: (content/journee-principale/hackerspaces-apprentissage-par-la-pratique-et-mains-dans-le-camboui/contents+fr.lr:details-program.description)
@@ -1046,6 +1203,10 @@ msgstr ""
 msgid "Divers"
 msgstr ""
 
+#: (dynamic)
+msgid "violon"
+msgstr "viool"
+
 #: http://localhost/ (content/contents+fr.lr:page.submissions_text)
 msgid ""
 "Faites-nous part de vos propositions de stand au sein de l'exposition  en "
@@ -1061,6 +1222,15 @@ msgid ""
 "[Découverte de la gestion d'entreprise à travers le jeu Scale-Up](la-"
 "decouverte-de-la-gestion-dentreprise-a-travers-le-jeu-scale-up) par "
 "[Charline Louis](../intervenants/charline-louis/) ([Odoo](https://odoo.com/))"
+msgstr ""
+
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
+msgid ""
+"* 15h00 à 15h30 : <abbr title=\"Conférence\">C</abbr> – [Eduquer à "
+"Internet : dangers, enjeux et opportunités](eduquer-a-internet-dangers-"
+"enjeux-et-opportunites)par [Frédéric Taes](../intervenants/frederic-taes) "
+"([Isoc Belgique](http://isoc.be/))"
 msgstr ""
 
 #: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
@@ -1105,12 +1275,9 @@ msgstr ""
 "* _Voulez-vous jouer avec les maths ?_, Paris, Édition Le Pommier, coll. « "
 "Les petites pommes du savoir », 2002"
 
-#: http://localhost/journee-principale/
-#: (content/journee-principale/contents+fr.lr:details-program.description)
-msgid ""
-"* 15h00 à 15h50 : <abbr title=\"Conférence\">C</abbr> – Spectacle interactif "
-"et animé d'informagie par [Marie Duflot-Kremer](../intervenants/marie-duflot-"
-"kremer/)"
+#: http://localhost/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/
+#: (content/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/contents+fr.lr:details-program.description)
+msgid "par [Frédéric Taes](../../intervenants/frederic-taes)"
 msgstr ""
 
 #: http://localhost/ateliers/de-la-tortue-logo-au-chat-scratch/
@@ -1133,6 +1300,10 @@ msgstr ""
 #: (content/intervenants/rupert-meurice-de-dormale/contents+fr.lr:speaker.description)
 msgid ""
 "* Détaché à l'Enseignement à Distance de la Communauté française 2004-2005."
+msgstr ""
+
+#: (dynamic)
+msgid "2. Choisir les ateliers"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.s_registration)
@@ -1159,6 +1330,10 @@ msgstr ""
 "repertoire van 4 handen, vormt hij momenteel met Pieter Dhoore het Mahler "
 "Piano Duo, gespecialiseerd in de uitvoering van arrangementen en "
 "transcripties van orkestwerken."
+
+#: (dynamic)
+msgid "En savoir plus"
+msgstr ""
 
 #: http://localhost/intervenants/julie-henry/
 #: (content/intervenants/julie-henry/contents+fr.lr:speaker.description)
@@ -1187,6 +1362,14 @@ msgstr ""
 msgid "Découvrir le robot Cubetto et animer un atelier dans sa classe"
 msgstr ""
 
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
+msgid ""
+"* 13h30 à 13h50 : <abbr title=\"Conférences brèves (20 minutes)\">B</abbr> – "
+"*Les inscriptions scolaires avec le guichet électronique IRISbox* par "
+"Bastien Van Aelst"
+msgstr ""
+
 #: http://localhost/journee-principale/la-decouverte-de-la-gestion-dentreprise-a-travers-le-jeu-scale-up/
 #: (content/journee-principale/la-decouverte-de-la-gestion-dentreprise-a-travers-le-jeu-scale-up/contents+fr.lr:details-program.description)
 msgid ""
@@ -1199,6 +1382,14 @@ msgstr ""
 #: http://localhost/intervenants/yves-robaey/
 #: (content/intervenants/yves-robaey/contents+fr.lr:speaker.description)
 msgid "* Psychopédagogue"
+msgstr ""
+
+#: (dynamic)
+msgid "violoncelle"
+msgstr "cello"
+
+#: (dynamic)
+msgid "Rechercher parmi les ateliers"
 msgstr ""
 
 #: http://localhost/intervenants/gilles-dowek/
@@ -1261,6 +1452,10 @@ msgstr ""
 msgid "Presse"
 msgstr "Press"
 
+#: (dynamic)
+msgid "Afficher que la catégorie"
+msgstr ""
+
 #: http://localhost/intervenants/lina-karimi/
 #: (content/intervenants/lina-karimi/contents+fr.lr:speaker.description)
 msgid ""
@@ -1275,6 +1470,10 @@ msgid ""
 "environnement."
 msgstr ""
 "- Deel deze \"devfile\" onder de deelnemers om hun eigen omgeving te creëren."
+
+#: (dynamic)
+msgid "conteuse"
+msgstr "raconteur"
 
 #: http://localhost/intervenants/nicolas-pettiaux/
 #: (content/intervenants/nicolas-pettiaux/contents+fr.lr:speaker.description)
@@ -1299,6 +1498,14 @@ msgstr ""
 #: (content/comites/contents+fr.lr:details-program.description)
 msgid "- Erick Mascart"
 msgstr "- Erick Mascart"
+
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
+msgid ""
+"* 15h00 à 15h30 : <abbr title=\"Conférence\">C</abbr> – *Eduquer à "
+"Internet : dangers, enjeux et opportunités* par [Frédéric Taes](../"
+"intervenants/frederic-taes) ([Isoc Belgique](http://isoc.be/))"
+msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.journee_sans_ordi)
 msgid ""
@@ -1392,6 +1599,10 @@ msgstr ""
 #: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.tag)
 msgid "secondaire, primaire"
 msgstr ""
+
+#: (dynamic)
+msgid "flûte"
+msgstr "fluit"
 
 #: http://localhost/intervenants/erick-mascart/
 #: (content/intervenants/erick-mascart/contents+fr.lr:speaker.description)
@@ -1510,6 +1721,11 @@ msgstr ""
 "auprès de l'orchestre de jeunes musiciens Melomania et de l'orchestre de "
 "chambre de l'Ecole Européenne de Bruxelles."
 
+#: http://localhost/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/
+#: (content/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/contents+fr.lr:details-program.description)
+msgid "Quelques dangers et menaces:"
+msgstr ""
+
 #: http://localhost/intervenants/marie-duflot-kremer/
 #: (content/intervenants/marie-duflot-kremer/contents+fr.lr:speaker.description)
 msgid ""
@@ -1554,6 +1770,10 @@ msgstr ""
 msgid ""
 "Pour plus d'informations, nous sommes joignables par [email](info@educode.be)"
 msgstr ""
+
+#: (dynamic)
+msgid "percussion"
+msgstr "percussie"
 
 #: http://localhost/intervenants/nicolas-seinlet/
 #: (content/intervenants/nicolas-seinlet/contents+fr.lr:speaker.description)
@@ -1676,6 +1896,11 @@ msgstr "- Prof Hugues Bersini (ULB)"
 msgid "Plus tard"
 msgstr "Later"
 
+#: http://localhost/ateliers/decouvrir-la-gestion-dentreprise-avec-scale-up/
+#: (content/ateliers/decouvrir-la-gestion-dentreprise-avec-scale-up/contents+fr.lr:workshop.description)
+msgid "**A propos de Scale-Up!:**"
+msgstr ""
+
 #: http://localhost/intervenants/nicolas-pettiaux/
 #: (content/intervenants/nicolas-pettiaux/contents+fr.lr:speaker.description)
 msgid ""
@@ -1684,6 +1909,10 @@ msgid ""
 msgstr ""
 "Nicolas Pettiaux is de initiatiefnemer en coördinator van de EduCode-"
 "conferentie."
+
+#: (dynamic)
+msgid "Concert festif"
+msgstr "Feestelijk concert"
 
 #: http://localhost/comites/
 #: (content/comites/contents+fr.lr:details-program.description)
@@ -1719,6 +1948,10 @@ msgstr ""
 "De conferentie is gratis voor leerkrachten van de Federatie Wallonië-Brussel "
 "en geregistreerd bij IFC met **opleidingsnummer 03001901/34350** om te "
 "worden opgenomen in de website [www.ifc.cfwb.be](http://www.ifc.cfwb.be/)"
+
+#: (dynamic)
+msgid "Secondaire"
+msgstr ""
 
 #: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
 #: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.description)
@@ -1817,6 +2050,11 @@ msgstr ""
 "Van de Logo-schildpad tot de Scratch-kat, een heel universum van "
 "geometrische vormen"
 
+#: http://localhost/intervenants/frederic-taes/
+#: (content/intervenants/frederic-taes/contents+fr.lr:speaker.description)
+msgid "* Président Internet Society Belgium"
+msgstr ""
+
 #: http://localhost/concert/
 #: (content/concert/contents+fr.lr:concert.description)
 msgid "####Achetez les tickets [ici](http://inscriptions.educode.be)"
@@ -1850,6 +2088,10 @@ msgstr ""
 "Over het algemeen worden de eerste uren besteed aan het functioneel maken "
 "van ieders werkomgeving, in plaats van meteen met de eigenlijke inhoud van "
 "de training te beginnen."
+
+#: (dynamic)
+msgid "Journée info sans ordi (annulé)"
+msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.s_wednesday)
 msgid "Mercredi"
@@ -1887,7 +2129,7 @@ msgstr ""
 msgid "* Anime des ateliers dans le cadre scolaire et parascolaire"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.s_propose_atelier)
+#: http://localhost/ (content/contents+fr.lr:page.s_propose_atelier) (dynamic)
 msgid "Proposer un atelier"
 msgstr "Stel een workshop voor"
 
@@ -2111,6 +2353,10 @@ msgid ""
 "Responsable Product Marketing & E-learning chez [Odoo](https://odoo.com/)"
 msgstr ""
 
+#: (dynamic)
+msgid "piano"
+msgstr "piano"
+
 #: http://localhost/comites/
 #: (content/comites/contents+fr.lr:details-program.description)
 msgid "- Eric Robette (HE2B-Defré, maître-assistant)"
@@ -2261,11 +2507,23 @@ msgstr ""
 "We hebben uw financiële steun nodig, waarvan we hopen dat deze zeer "
 "binnenkort belastingvrij is voor donaties van meer dan € 40."
 
+#: http://localhost/ateliers/decouvrir-la-gestion-dentreprise-avec-scale-up/
+#: (content/ateliers/decouvrir-la-gestion-dentreprise-avec-scale-up/contents+fr.lr:workshop.description)
+msgid ""
+"Avec 4 business cases à simuler dans le logiciel de gestion Odoo, les "
+"étudiants prennent le rôle de chef d'entreprise et organise les procédures "
+"interne suite à différentes conversations avec les employés."
+msgstr ""
+
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid "2. Une ouverte au grand public avec exposition et conférences"
 msgstr ""
 "2. Een opening voor het grote publiek met tentoonstelling en conferenties"
+
+#: (dynamic)
+msgid "1. S'inscrire"
+msgstr ""
 
 #: http://localhost/comites/
 #: (content/comites/contents+fr.lr:details-program.description)
@@ -2304,6 +2562,10 @@ msgid ""
 msgstr ""
 "* _Ces préjugés qui nous encombrent_, Paris, Édition Le Pommier, coll. « "
 "Manifestes », 2009"
+
+#: (dynamic)
+msgid "133a avenue Ducpétiaux"
+msgstr ""
 
 #: http://localhost/intervenants/thierry-massart/
 #: (content/intervenants/thierry-massart/contents+fr.lr:speaker.description)
@@ -2386,6 +2648,10 @@ msgid ""
 msgstr ""
 "In het bijzonder kunt u doneren <script src=\"https://liberapay.com/"
 "npettiaux/widgets/button.js\"> </script>"
+
+#: (dynamic)
+msgid "Réinitialiser les filtres"
+msgstr ""
 
 #: http://localhost/intervenants/nicolas-seinlet/
 #: (content/intervenants/nicolas-seinlet/contents+fr.lr:speaker.description)
@@ -2521,6 +2787,15 @@ msgid ""
 "l'édition [2018 d'Educode](https://2018.educode.be)"
 msgstr ""
 
+#: http://localhost/journee-principale/
+#: (content/journee-principale/contents+fr.lr:details-program.description)
+msgid ""
+"* 15h00 à 15h30 : <abbr title=\"Conférence\">C</abbr> – [Eduquer à "
+"Internet : dangers, enjeux et opportunités](eduquer-a-internet-dangers-"
+"enjeux-et-opportunites) par [Frédéric Taes](../intervenants/frederic-taes) "
+"([Isoc Belgique](http://isoc.be/))"
+msgstr ""
+
 #: http://localhost/intervenants/rupert-meurice-de-dormale/
 #: (content/intervenants/rupert-meurice-de-dormale/contents+fr.lr:speaker.description)
 msgid "* Agrégation à l'Enseignement secondaire supérieur UCLouvain 1976;"
@@ -2529,6 +2804,11 @@ msgstr ""
 #: http://localhost/intervenants/christine-lefevre/
 #: (content/intervenants/christine-lefevre/contents+fr.lr:speaker.description)
 msgid "* Section normale primaire"
+msgstr ""
+
+#: http://localhost/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/
+#: (content/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/contents+fr.lr:details-program.date)
+msgid "Eduquer à Internet : dangers, enjeux et opportunités"
 msgstr ""
 
 #: http://localhost/intervenants/julie-henry/
@@ -2540,6 +2820,13 @@ msgstr "- https://www.linkedin.com/in/julie-henry-5076951b/"
 #: (content/ateliers/decouverte-des-learningapps/contents+fr.lr:workshop.description)
 msgid "* C'est un outil très intéressant pour les enseignants car :"
 msgstr "* Dit is een zeer interessant hulpmiddel voor leraren omdat:"
+
+#: http://localhost/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/
+#: (content/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/contents+fr.lr:details-program.description)
+msgid ""
+"* **la vie privée** : Internet est omniprésent et nous sommes surveillés de "
+"partout... pour quelles finalités?"
+msgstr ""
 
 #: http://localhost/intervenants/nadine-khouzam/
 #: (content/intervenants/nadine-khouzam/contents+fr.lr:speaker.description)
@@ -2582,8 +2869,13 @@ msgid ""
 "convient d'appeler le «capitalisme de surveillance»."
 msgstr ""
 
+#: http://localhost/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/
+#: (content/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/contents+fr.lr:details-program.description)
+msgid "Il y a plein d'opportunités:"
+msgstr ""
+
 #: http://localhost/comites/
-#: (content/comites/contents+fr.lr:details-program.date)
+#: (content/comites/contents+fr.lr:details-program.date) (dynamic)
 msgid "Comités"
 msgstr ""
 
@@ -2622,6 +2914,18 @@ msgstr ""
 "ervaring te beleven, namelijk dat je echt begint met je training om deze "
 "cursus te geven en die van de studenten in een leersituatie."
 
+#: http://localhost/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/
+#: (content/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/contents+fr.lr:details-program.description)
+msgid ""
+"Un chapitre local existe près de chez vous: Internet Society Belgium (in "
+"rejuvenation), une asbl. Nous travaillons notamment sur des projets de "
+"guides et d'encadrement à l'usage des jeunes, parents et enseignants."
+msgstr ""
+
+#: (dynamic)
+msgid "Vendredi 27 septembre 2019 à 20h."
+msgstr ""
+
 #: http://localhost/ateliers/apprendre-a-souder/
 #: (content/ateliers/apprendre-a-souder/contents+fr.lr:workshop.description)
 msgid ""
@@ -2638,6 +2942,10 @@ msgid ""
 "(hackerspaces-apprentissage-par-la-pratique-et-mains-dans-le-camboui) par "
 "[Benjamin Henrion](../intervenants/benjamin-henrion/) et Dimitri Del Marmol"
 msgstr ""
+
+#: (dynamic)
+msgid "Journée info sans ordi"
+msgstr "Infodag zonder computer"
 
 #: http://localhost/journee-principale/hackerspaces-apprentissage-par-la-pratique-et-mains-dans-le-camboui/
 #: (content/journee-principale/hackerspaces-apprentissage-par-la-pratique-et-mains-dans-le-camboui/contents+fr.lr:details-program.description)
@@ -2669,6 +2977,7 @@ msgid "- Françoise Bols (HE2B-Nivelles, chargé de cours)"
 msgstr "- Françoise Bols (HE2B-Nivelles, lector)"
 
 #: http://localhost/dons/ (content/dons/contents+fr.lr:details-program.date)
+#: (dynamic)
 msgid "Dons"
 msgstr "Donaties"
 
@@ -2678,6 +2987,10 @@ msgstr "Donaties"
 #: (content/intervenants/gregoire-fischer/contents+fr.lr:speaker.description)
 msgid "* Formation et soutien de professeurs"
 msgstr ""
+
+#: (dynamic)
+msgid "Concert"
+msgstr "Concert"
 
 #: http://localhost/intervenants/thierry-massart/
 #: (content/intervenants/thierry-massart/contents+fr.lr:speaker.description)
@@ -2866,6 +3179,13 @@ msgstr ""
 "nantes.fr/00542841/0/fiche___pagelibre/&RH=1403710895111) aan de "
 "universiteit van Nantes."
 
+#: http://localhost/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/
+#: (content/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/contents+fr.lr:details-program.description)
+msgid ""
+"* **la sécurité** : tout est connecté, votre living est accessible du monde "
+"entier, et des organisations criminelles s'invitent chez vous;"
+msgstr ""
+
 #: http://localhost/intervenants/myriam-criquet/
 #: (content/intervenants/myriam-criquet/contents+fr.lr:speaker.description)
 msgid ""
@@ -2914,6 +3234,10 @@ msgstr ""
 "Op deze manier ervaart u het voordeel van dit soort gebruik in een "
 "klaslokaal."
 
+#: (dynamic)
+msgid "Maternelle"
+msgstr ""
+
 #: http://localhost/ateliers/decouverte-des-learningapps/
 #: (content/ateliers/decouverte-des-learningapps/contents+fr.lr:workshop.description)
 msgid "* Un QR code est généré automatiquement pour chaque application."
@@ -2959,6 +3283,10 @@ msgstr ""
 msgid "**Compétences** :"
 msgstr ""
 
+#: (dynamic)
+msgid "de"
+msgstr "van"
+
 #: http://localhost/ateliers/apprendre-a-souder/
 #: (content/ateliers/apprendre-a-souder/contents+fr.lr:workshop.abstract)
 #: (content/ateliers/apprendre-a-souder/contents+fr.lr:workshop.description)
@@ -2995,6 +3323,11 @@ msgstr ""
 msgid ""
 "Au programme des activités de [codenplay_asbl](http://codenplay.be/), par "
 "exemple,"
+msgstr ""
+
+#: http://localhost/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/
+#: (content/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/contents+fr.lr:details-program.description)
+msgid "* en devenant acteur, en apprenant à coder dès le plus jeune âge;"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.baseline)
@@ -3062,6 +3395,10 @@ msgstr ""
 "van informatica en ICT in het kader van het universitaire certificaat "
 "Form@TICEF aan de Universiteit van Luik."
 
+#: (dynamic)
+msgid "Langue"
+msgstr "Taal"
+
 #: http://localhost/intervenants/rupert-meurice-de-dormale/
 #: (content/intervenants/rupert-meurice-de-dormale/contents+fr.lr:speaker.description)
 msgid ""
@@ -3115,9 +3452,20 @@ msgstr ""
 "* Het is ook een uitstekend hulpmiddel om op een leuke en aantrekkelijke "
 "manier te werken aan ruimtevraagstukken binnen een klas."
 
+#: (dynamic)
+msgid "Concert festif exceptionnel"
+msgstr "Uitzonderlijk feestelijk concert"
+
 #: http://localhost/ (content/contents+fr.lr:page.submissions_text)
 msgid "La liste des ateliers présent est disponible [ici](ateliers)"
 msgstr "De lijst met aanwezige workshops is [hier](workshops) beschikbaar"
+
+#: http://localhost/ateliers/decouvrir-la-gestion-dentreprise-avec-scale-up/
+#: (content/ateliers/decouvrir-la-gestion-dentreprise-avec-scale-up/contents+fr.lr:workshop.description)
+msgid ""
+"Scale-Up! est un outil pédagogique pour tout type de cours tel que la "
+"comptabilité, la gestion, la logistique, l'entreprenariat, etc."
+msgstr ""
 
 #: http://localhost/ateliers/decouverte-des-learningapps/
 #: (content/ateliers/decouverte-des-learningapps/contents+fr.lr:workshop.description)
@@ -3455,6 +3803,10 @@ msgstr ""
 "jongere kleuters. We hebben ervaren dat kinderen in het speciaal onderwijs "
 "vooral worden aangetrokken door interactie met robots."
 
+#: (dynamic)
+msgid "Info pratiques"
+msgstr "Praktische informatie"
+
 #: http://localhost/ateliers/jouer-pour-comprendre-lintelligence-artificielle/
 #: (content/ateliers/jouer-pour-comprendre-lintelligence-artificielle/contents+fr.lr:workshop.title)
 msgid "Jouer pour comprendre l'intelligence artificielle"
@@ -3483,6 +3835,11 @@ msgstr "Over deze MOOC:"
 #: (content/comites/contents+fr.lr:details-program.description)
 msgid "- Erick Mascart (Forsub, conseiller pédagogique et formateur)"
 msgstr "- Erick Mascart (Forsub, educatieve adviseur en trainer)"
+
+#: http://localhost/ateliers/decouvrir-la-gestion-dentreprise-avec-scale-up/
+#: (content/ateliers/decouvrir-la-gestion-dentreprise-avec-scale-up/contents+fr.lr:workshop.title)
+msgid "Découvrir la gestion d'entreprise avec Scale-Up!"
+msgstr ""
 
 #: http://localhost/intervenants/julie-henry/
 #: (content/intervenants/julie-henry/contents+fr.lr:speaker.description)
@@ -3523,6 +3880,11 @@ msgstr ""
 #: http://localhost/ (content/contents+fr.lr:page.s_become_partner)
 msgid "Devenez partenaire"
 msgstr "Partner worden"
+
+#: http://localhost/ateliers/decouvrir-la-gestion-dentreprise-avec-scale-up/
+#: (content/ateliers/decouvrir-la-gestion-dentreprise-avec-scale-up/contents+fr.lr:workshop.description)
+msgid "Nous sommes persuadés que jouer est la meilleure façon d'apprendre."
+msgstr ""
 
 #: http://localhost/intervenants/bibiana-boccolini/
 #: (content/intervenants/bibiana-boccolini/contents+fr.lr:speaker.description)
@@ -3581,6 +3943,10 @@ msgstr ""
 "Er moet voor worden gezorgd dat de deelnemers de aanbevelingen voor de "
 "vereisten hebben opgevolgd, dat ze alle benodigde bronnen hebben gedownload "
 "en alle tools hebben kunnen installeren."
+
+#: (dynamic)
+msgid "A une certaine heure"
+msgstr ""
 
 #: http://localhost/intervenants/rupert-meurice-de-dormale/
 #: (content/intervenants/rupert-meurice-de-dormale/contents+fr.lr:speaker.description)
@@ -3666,6 +4032,10 @@ msgstr ""
 msgid "A 21h, rendez-vous pour un cocktail dînatoire"
 msgstr "Ga om 21.00 uur voor een cocktaildiner"
 
+#: (dynamic)
+msgid "Résumé"
+msgstr ""
+
 #: http://localhost/ateliers/apprendre-a-souder/
 #: (content/ateliers/apprendre-a-souder/contents+fr.lr:workshop.description)
 msgid "https://www.sparkfun.com/products/10723"
@@ -3688,6 +4058,13 @@ msgstr ""
 msgid ""
 "* 8h45 à 9h00 : Quelques aspects organisationnels et techniques par [Nicolas "
 "Pettiaux](../intervenants/nicolas-pettiaux/)"
+msgstr ""
+
+#: http://localhost/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/
+#: (content/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/contents+fr.lr:details-program.description)
+msgid ""
+"* **la confiance** est nécessaire, mais les informations sur Internet sont-"
+"elles toutes fiables?"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.s_intro_dates)
@@ -3923,6 +4300,14 @@ msgstr "CodeNPlay-Leraren"
 msgid "Approche pédagogique amusante et découverte de la découpeuse vinyle."
 msgstr ""
 
+#: http://localhost/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/
+#: (content/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/contents+fr.lr:details-program.description)
+msgid ""
+"L'Internet Society est une ONG représentant l'ensemble de la communauté "
+"Internet et est l'autorité morale et technique la plus influente dans le "
+"monde au sujet d'Internet."
+msgstr ""
+
 #: http://localhost/ (content/contents+fr.lr:page.about)
 msgid ""
 "L'organisation de cette conférence est essentiellement *bénévole*. _Toute "
@@ -3951,6 +4336,10 @@ msgid ""
 msgstr ""
 "* Toegekend door [Ashoka](https://eduinnovation.be/fr/) voor een innovatief "
 "educatief project"
+
+#: (dynamic)
+msgid "à :"
+msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.partners_about)
 msgid ""
@@ -4090,181 +4479,6 @@ msgid ""
 msgstr ""
 "Elk hulpvoorstel kan worden gestuurd naar [aider@educode.be](mailto://"
 "aider@educode.be?subject=Help educode&body=Ik wil educode helpen)."
-
-#: templates/concert.html:12
-msgid "Concert festif exceptionnel"
-msgstr "Uitzonderlijk feestelijk concert"
-
-#: templates/concert.html:14
-msgid "A la Cellule 133a, situé"
-msgstr ""
-
-#: templates/concert.html:14
-msgid "133a avenue Ducpétiaux"
-msgstr ""
-
-#: templates/concert.html:14
-msgid "1060 Saint-Gilles."
-msgstr ""
-
-#: templates/concert.html:16
-msgid "Vendredi 27 septembre 2019 à 20h."
-msgstr ""
-
-#: templates/concert.html:21
-msgid "Le carnaval des animaux"
-msgstr "Het carnaval van dieren"
-
-#: templates/concert.html:22
-msgid "de"
-msgstr "van"
-
-#: templates/concert.html:24
-msgid "Avec"
-msgstr "Met"
-
-#: templates/concert.html:26
-msgid "flûte"
-msgstr "fluit"
-
-#: templates/concert.html:27
-msgid "clarinette"
-msgstr "klarinet"
-
-#: templates/concert.html:28 templates/concert.html:29
-msgid "violon"
-msgstr "viool"
-
-#: templates/concert.html:30
-msgid "alto"
-msgstr "viola"
-
-#: templates/concert.html:31
-msgid "violoncelle"
-msgstr "cello"
-
-#: templates/concert.html:32
-msgid "contrebasse"
-msgstr "bas"
-
-#: templates/concert.html:33 templates/concert.html:34
-msgid "piano"
-msgstr "piano"
-
-#: templates/concert.html:35
-msgid "percussion"
-msgstr "percussie"
-
-#: templates/concert.html:36
-msgid "conteuse"
-msgstr "raconteur"
-
-#: templates/layout.html:40
-msgid "Langue"
-msgstr "Taal"
-
-#: templates/macros/sections.html:20 templates/macros/sections.html:47
-#: templates/page.html:53 templates/speaker.html:73
-msgid "Journée principale"
-msgstr "Belangrijkste dag"
-
-#: templates/page.html:61
-msgid "Voir les ateliers"
-msgstr "Bekijk de workshops"
-
-#: templates/macros/sections.html:21 templates/macros/sections.html:48
-#: templates/page.html:67
-msgid "Concert festif"
-msgstr "Feestelijk concert"
-
-#: templates/page.html:76
-msgid "Journée info sans ordi (annulé)"
-msgstr ""
-
-#: templates/page.html:213
-msgid "1. S'inscrire"
-msgstr ""
-
-#: templates/page.html:219
-msgid "2. Choisir les ateliers"
-msgstr ""
-
-#: templates/page.html:225
-msgid "3. IFC"
-msgstr ""
-
-#: templates/macros/sections.html:22 templates/macros/sections.html:49
-#: templates/speaker.html:74
-msgid "Journée info sans ordi"
-msgstr "Infodag zonder computer"
-
-#: templates/speaker.html:75
-msgid "Concert"
-msgstr "Concert"
-
-#: templates/workshops-container.html:8
-msgid "Présentation des ateliers"
-msgstr ""
-
-#: templates/workshops-container.html:18
-msgid "Rechercher parmi les ateliers"
-msgstr ""
-
-#: templates/workshops-container.html:23
-msgid "Afficher que la catégorie"
-msgstr ""
-
-#: templates/workshops-container.html:25
-msgid "Toutes les catégories"
-msgstr ""
-
-#: templates/workshops-container.html:26
-msgid "Maternelle"
-msgstr ""
-
-#: templates/workshops-container.html:27
-msgid "Primaire"
-msgstr ""
-
-#: templates/workshops-container.html:28
-msgid "Secondaire"
-msgstr ""
-
-#: templates/workshops-container.html:32
-msgid "Tranche d'âge"
-msgstr ""
-
-#: templates/workshops-container.html:43
-msgid "A une certaine heure"
-msgstr ""
-
-#: templates/workshops-container.html:45
-msgid "Toutes les heures"
-msgstr ""
-
-#: templates/workshops-container.html:55
-msgid "Réinitialiser les filtres"
-msgstr ""
-
-#: templates/workshops-container.html:79
-msgid "Résumé"
-msgstr ""
-
-#: templates/workshops-container.html:85
-msgid "Au local"
-msgstr ""
-
-#: templates/workshops-container.html:85
-msgid "à :"
-msgstr ""
-
-#: templates/workshops-container.html:95
-msgid "En savoir plus"
-msgstr ""
-
-#: templates/macros/sections.html:29 templates/macros/sections.html:56
-msgid "Info pratiques"
-msgstr "Praktische informatie"
 
 #~ msgid "S'inscrire"
 #~ msgstr "Inschrijven"
