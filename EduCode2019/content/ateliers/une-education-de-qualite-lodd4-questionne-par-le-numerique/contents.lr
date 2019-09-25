@@ -27,3 +27,5 @@ tag: secondaire, primaire, maternelle
 hours: 11:00 - 12:00
 ---
 local: 205
+---
+_hidden: yes

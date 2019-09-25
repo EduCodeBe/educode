@@ -21,3 +21,5 @@ hours: 11:00 - 12:00
 local: 204
 ---
 tag: secondaire
+---
+_hidden: yes
