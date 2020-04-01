@@ -1,0 +1,29 @@
+_model: workshop
+---
+title: CodeNPlay-Directeurs
+---
+abstract: Enseignement au numérique: une approche pratique pour les directeurs primaires
+---
+age: 6-12
+---
+age_max: 12
+---
+age_min: 6
+---
+contact_name: Dimitri Krings
+---
+description: Envie d'intégrer le numérique au sein de votre école ? Nous proposons une approche sur différents piliers tels que l'enseignement et l'infrastructure.
+---
+language: fr
+---
+number: 15
+---
+required_materials: Projecteur, Internet
+---
+tag: primaire
+---
+periodes: 
+---
+hours: 16:00 - 17:00
+---
+local: 215

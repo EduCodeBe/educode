@@ -1,0 +1,41 @@
+_model: workshop
+---
+title: Découvrir la gestion d'entreprise avec Scale-Up!
+---
+abstract: Lors de cet atelier vous découvrirez les bases de la gestion d'entreprise avec l'aide du logiciel Odoo.
+---
+age: 15-18
+---
+age_max: 18
+---
+age_min: 15
+---
+contact_name: Charline Louis
+---
+description:
+
+Lors de cet atelier vous découvrirez les bases de la gestion d'entreprise avec l'aide du logiciel Odoo.
+
+**A propos de Scale-Up!:**
+Scale-Up! est un jeu de carte qui permet d'apprendre aux étudiants la gestion d'entreprise, tout en s'amusant.
+
+Avec 4 business cases à simuler dans le logiciel de gestion Odoo, les étudiants prennent le rôle de chef d'entreprise et organise les procédures interne suite à différentes conversations avec les employés.
+
+Nous sommes persuadés que jouer est la meilleure façon d'apprendre.
+
+Scale-Up! est un outil pédagogique pour tout type de cours tel que la comptabilité, la gestion, la logistique, l'entreprenariat, etc.
+
+Scale-Up! est gratuit pour tous les profs, vous repartirez avec votre exemplaire!
+
+---
+hours: 11:00 - 12:00
+---
+local: 206
+---
+number: 15
+---
+required_materials: Ordinateur, Internet
+---
+tag: secondaire
+---
+language: fr

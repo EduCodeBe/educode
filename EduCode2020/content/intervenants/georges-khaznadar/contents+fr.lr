@@ -1,0 +1,19 @@
+_model: speaker
+---
+title: Georges Khaznadar
+---
+country: France
+---
+description:
+
+Ancien élève de l'[École Normale Supérieure](https://www.ens.fr/), Georges est un professeur de physique, chimie  et informatique au [lycéé Jean Bart](https://www.lyceejeanbart.fr). Il a des formations en biochimie, chimie organique, informatique et science des matériaux, obtenues à l'E.N.S. rue d'Ulm (Paris), l'Université Pierre et Marie Curie (Paris), l'Université de Lorraine (Nancy), et l'Université du Littoral (Dunkerque).
+
+* développeur [Debian](https://www.debian.org/), en charge de quelques dizaines de [paquets logiciels](https://qa.debian.org/developer.php?login=georgesk@debian.org)
+* hacktiviste, nuance logiciel libre pédagogique, animateur pour le thème Sciences/Éducation aux [RMLL](http://comite.rmll.info/) de [2006](http://2006.rmll.info/) à [2017](https://2017.rmll.info/) ;
+maintient la distribution de logiciels libres [Freeduc](https://usb.freeduc.org/), pour l'enseignement des sciences dans le secondaire.
+
+Est membre de l'équipe Educode
+---
+name: Georges Khaznadar
+---
+dates: journee-principale

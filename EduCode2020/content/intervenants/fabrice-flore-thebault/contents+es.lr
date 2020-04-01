@@ -1,0 +1,20 @@
+_model: speaker
+---
+title: Fabrice Flore-Thébault
+---
+country: Belgium
+---
+dates: journee-principale
+---
+description:
+
+* Membre de l'équipe de documentation d'[Eclipse Che](https://www.eclipse.org/che/docs/che-7/).
+* Technical writer pour [Red Hat](https://redhat.com/).
+* A passé quelques années à gérer et automatiser des infrastructures basées sur des logiciels libres avec [Ansible](https://www.ansible.com/) et [Rudder](https://rudder.io/).
+* [Contributeur](https://github.com/themr0c/) enthousiaste aux communautés du logiciel libre.
+
+
+---
+name: Fabrice Flore-Thébault
+---
+_hidden: yes
