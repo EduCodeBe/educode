@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: educode\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-25 09:15+CET\n"
+"POT-Creation-Date: 2019-09-26 12:03+CET\n"
 "PO-Revision-Date: 2019-09-11 09:35\n"
 "Last-Translator: npettiaux\n"
 "Language-Team: Spanish\n"
@@ -28,7 +28,7 @@ msgstr ""
 msgid "Approche pédagogique amusante et découverte de l’impression 3D"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.s_overview_program)
+#: http://localhost/ (content/contents+fr.lr:page.s_overview_program) (dynamic)
 msgid "Aperçu du programme"
 msgstr ""
 
@@ -134,10 +134,12 @@ msgid ""
 "vos élèves ou vos enfants !"
 msgstr ""
 
-#: http://localhost/comites/
-#: (content/comites/contents+fr.lr:details-program.description)
+#: http://localhost/intervenants/fabrice-flore-thebault/
+#: (content/intervenants/fabrice-flore-thebault/contents+fr.lr:speaker.description)
 msgid ""
-"- Denis Longrée (président de roue de secours asbl, maitre en mathématique)"
+"* A passé quelques années à gérer et automatiser des infrastructures basées "
+"sur des logiciels libres avec [Ansible](https://www.ansible.com/) et [Rudder]"
+"(https://rudder.io/)."
 msgstr ""
 
 #: http://localhost/journee-principale/hackerspaces-apprentissage-par-la-pratique-et-mains-dans-le-camboui/
@@ -368,6 +370,10 @@ msgstr ""
 msgid ""
 "De la démystification de l’intelligence artificielle au développement de la "
 "pensée informatique"
+msgstr ""
+
+#: (dynamic)
+msgid "Journée principale"
 msgstr ""
 
 #: http://localhost/intervenants/frederic-taes/
@@ -605,7 +611,7 @@ msgid ""
 "est le bienvenu."
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.s_program)
+#: http://localhost/ (content/contents+fr.lr:page.s_program) (dynamic)
 msgid "Programme"
 msgstr ""
 
@@ -879,11 +885,12 @@ msgstr ""
 msgid "mai"
 msgstr ""
 
-#: http://localhost/ateliers/decouvrir-la-gestion-dentreprise-avec-scale-up/
-#: (content/ateliers/decouvrir-la-gestion-dentreprise-avec-scale-up/contents+fr.lr:workshop.description)
+#: http://localhost/intervenants/nicolas-seinlet/
+#: (content/intervenants/nicolas-seinlet/contents+fr.lr:speaker.description)
 msgid ""
-"Scale-Up! est un jeu de carte qui permet d'apprendre aux étudiants la "
-"gestion d'entreprise, tout en s'amusant."
+"Développeur de logiciels de gestions depuis près de 20 ans et père de "
+"plusieurs enfants, sans aucune expérience dans l'éducation, mais convaincu "
+"des bienfaits de l'apprentissage de la programmation aux enfants…"
 msgstr ""
 
 #: http://localhost/ateliers/decouvrir-le-robot-cubetto/
@@ -932,6 +939,12 @@ msgstr ""
 #: http://localhost/intervenants/francoise-bols/
 #: (content/intervenants/francoise-bols/contents+fr.lr:speaker.description)
 msgid "Françoise est une membre active de l'équipe Educode."
+msgstr ""
+
+#: http://localhost/comites/
+#: (content/comites/contents+fr.lr:details-program.description)
+msgid ""
+"- Denis Longrée (président de roue de secours asbl, maitre en mathématique)"
 msgstr ""
 
 #: http://localhost/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/
@@ -1397,6 +1410,13 @@ msgid ""
 "chambre de l'Ecole Européenne de Bruxelles."
 msgstr ""
 
+#: http://localhost/ateliers/decouvrir-la-gestion-dentreprise-avec-scale-up/
+#: (content/ateliers/decouvrir-la-gestion-dentreprise-avec-scale-up/contents+fr.lr:workshop.description)
+msgid ""
+"Scale-Up! est un jeu de carte qui permet d'apprendre aux étudiants la "
+"gestion d'entreprise, tout en s'amusant."
+msgstr ""
+
 #: http://localhost/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/
 #: (content/journee-principale/eduquer-a-internet-dangers-enjeux-et-opportunites/contents+fr.lr:details-program.description)
 msgid "Quelques dangers et menaces:"
@@ -1444,12 +1464,8 @@ msgid ""
 "Pour plus d'informations, nous sommes joignables par [email](info@educode.be)"
 msgstr ""
 
-#: http://localhost/intervenants/nicolas-seinlet/
-#: (content/intervenants/nicolas-seinlet/contents+fr.lr:speaker.description)
-msgid ""
-"Développeur de logiciels de gestions depuis près de 20 ans et père de "
-"plusieurs enfants, sans aucune expérience dans l'éducation, mais convaincu "
-"des bienfaits de l'apprentissage de la programmation aux enfants…"
+#: (dynamic)
+msgid "Journée info sans ordi"
 msgstr ""
 
 #: http://localhost/ateliers/premiers-pas-dans-la-programmation-ludique-et-creative/
@@ -1457,9 +1473,8 @@ msgstr ""
 msgid "Premiers pas dans la programmation ludique et créative"
 msgstr ""
 
-#: http://localhost/intervenants/nicolas-seinlet/
-#: (content/intervenants/nicolas-seinlet/contents+fr.lr:speaker.description)
-msgid "* Contributeur sur divers projets open-source autour de PostgreSQL"
+#: (dynamic)
+msgid "Concert festif"
 msgstr ""
 
 #: http://localhost/comites/
@@ -1567,6 +1582,11 @@ msgid ""
 "EduCode."
 msgstr ""
 
+#: http://localhost/intervenants/nicolas-seinlet/
+#: (content/intervenants/nicolas-seinlet/contents+fr.lr:speaker.description)
+msgid "* Contributeur sur divers projets open-source autour de PostgreSQL"
+msgstr ""
+
 #: http://localhost/comites/
 #: (content/comites/contents+fr.lr:details-program.description)
 msgid "- Yves Robaey (HE2B, co-président)"
@@ -1590,13 +1610,6 @@ msgstr ""
 #: http://localhost/journee-principale/la-decouverte-de-la-gestion-dentreprise-a-travers-le-jeu-scale-up/
 #: (content/journee-principale/la-decouverte-de-la-gestion-dentreprise-a-travers-le-jeu-scale-up/contents+fr.lr:details-program.date)
 msgid "La découverte de la gestion d'entreprise à travers le jeu Scale-Up"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.journee_principale)
-msgid ""
-"La conférence est gratuite pour les enseignants de la Fédération Wallonie-"
-"Bruxelles et inscrit à IFC avec le **numéro de formation 03001901/34350** à "
-"introduire dans le site [www.ifc.cfwb.be](http://www.ifc.cfwb.be/)"
 msgstr ""
 
 #: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
@@ -1630,6 +1643,13 @@ msgstr ""
 msgid ""
 "Partage de ressources Open Source et Libres de l'EdTech (Technologies de "
 "l'éducation) pour l'enseignement des compétences numériques."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.journee_principale)
+msgid ""
+"La conférence est gratuite pour les enseignants de la Fédération Wallonie-"
+"Bruxelles et inscrit à IFC avec le **numéro de formation 503001901/34350** à "
+"introduire dans le site [www.ifc.cfwb.be](http://www.ifc.cfwb.be/)"
 msgstr ""
 
 #: http://localhost/intervenants/benjamin-henrion/
@@ -2359,7 +2379,7 @@ msgid "Il y a plein d'opportunités:"
 msgstr ""
 
 #: http://localhost/comites/
-#: (content/comites/contents+fr.lr:details-program.date)
+#: (content/comites/contents+fr.lr:details-program.date) (dynamic)
 msgid "Comités"
 msgstr ""
 
@@ -2434,6 +2454,7 @@ msgid "- Françoise Bols (HE2B-Nivelles, chargé de cours)"
 msgstr ""
 
 #: http://localhost/dons/ (content/dons/contents+fr.lr:details-program.date)
+#: (dynamic)
 msgid "Dons"
 msgstr ""
 
@@ -2442,6 +2463,10 @@ msgstr ""
 #: http://localhost/intervenants/gregoire-fischer/
 #: (content/intervenants/gregoire-fischer/contents+fr.lr:speaker.description)
 msgid "* Formation et soutien de professeurs"
+msgstr ""
+
+#: (dynamic)
+msgid "Concert"
 msgstr ""
 
 #: http://localhost/intervenants/thierry-massart/
@@ -2786,6 +2811,10 @@ msgid ""
 "universitaire Form@TICEF, à l'Université de Liège."
 msgstr ""
 
+#: (dynamic)
+msgid "Langue"
+msgstr ""
+
 #: http://localhost/intervenants/rupert-meurice-de-dormale/
 #: (content/intervenants/rupert-meurice-de-dormale/contents+fr.lr:speaker.description)
 msgid ""
@@ -2998,6 +3027,14 @@ msgid ""
 "www.interface3namur.be/)."
 msgstr ""
 
+#: http://localhost/ (content/contents+fr.lr:page.registration)
+msgid ""
+"L'inscription est **gratuite** pour les enseignants de la Fédération "
+"Wallonie-Bruxelles (maternelle, primaire, secondaire et supérieur) "
+"**inscrits** auprès de [IFC](http://www.ifc.cfwb.be) avec le numéro de "
+"formation **503001901/34350**."
+msgstr ""
+
 #: http://localhost/ateliers/
 #: (content/ateliers/contents+fr.lr:workshops-container.description)
 msgid ""
@@ -3049,14 +3086,6 @@ msgstr ""
 #: http://localhost/comites/
 #: (content/comites/contents+fr.lr:details-program.description)
 msgid "#Comité d’organisation"
-msgstr ""
-
-#: http://localhost/intervenants/fabrice-flore-thebault/
-#: (content/intervenants/fabrice-flore-thebault/contents+fr.lr:speaker.description)
-msgid ""
-"* A passé quelques années à gérer et automatiser des infrastructures basées "
-"sur des logiciels libres avec [Ansible](https://www.ansible.com/) et [Rudder]"
-"(https://rudder.io/)."
 msgstr ""
 
 #: http://localhost/comites/
@@ -3121,6 +3150,10 @@ msgid ""
 "pour les plus jeunes en maternelle. Nous avons pu expérimenter que les "
 "enfants en enseignement spécialisé sont particulièrement attirés par "
 "l’interaction avec les robots."
+msgstr ""
+
+#: (dynamic)
+msgid "Info pratiques"
 msgstr ""
 
 #: http://localhost/ateliers/jouer-pour-comprendre-lintelligence-artificielle/
@@ -3587,14 +3620,6 @@ msgid ""
 "ateliers..."
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.registration)
-msgid ""
-"L'inscription est **gratuite** pour les enseignants de la Fédération "
-"Wallonie-Bruxelles (maternelle, primaire, secondaire et supérieur) "
-"**inscrits** auprès de [IFC](http://www.ifc.cfwb.be) avec le numéro de "
-"formation **03001901/34350**."
-msgstr ""
-
 #: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
 #: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.description)
 msgid ""
@@ -3755,22 +3780,8 @@ msgstr ""
 msgid "conteuse"
 msgstr ""
 
-#: templates/layout.html:40
-msgid "Langue"
-msgstr ""
-
-#: templates/macros/sections.html:20 templates/macros/sections.html:47
-#: templates/page.html:53 templates/speaker.html:73
-msgid "Journée principale"
-msgstr ""
-
 #: templates/page.html:61
 msgid "Voir les ateliers"
-msgstr ""
-
-#: templates/macros/sections.html:21 templates/macros/sections.html:48
-#: templates/page.html:67
-msgid "Concert festif"
 msgstr ""
 
 #: templates/page.html:76
@@ -3787,15 +3798,6 @@ msgstr ""
 
 #: templates/page.html:225
 msgid "3. IFC"
-msgstr ""
-
-#: templates/macros/sections.html:22 templates/macros/sections.html:49
-#: templates/speaker.html:74
-msgid "Journée info sans ordi"
-msgstr ""
-
-#: templates/speaker.html:75
-msgid "Concert"
 msgstr ""
 
 #: templates/workshops-container.html:8
@@ -3856,8 +3858,4 @@ msgstr ""
 
 #: templates/workshops-container.html:95
 msgid "En savoir plus"
-msgstr ""
-
-#: templates/macros/sections.html:29 templates/macros/sections.html:56
-msgid "Info pratiques"
 msgstr ""

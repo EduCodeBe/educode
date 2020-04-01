@@ -1,0 +1,7 @@
+_model: partner
+---
+name: Odoo
+---
+url: http://odoo.com
+---
+priority: 1

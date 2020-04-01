@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: educode\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-25 09:14+CET\n"
+"POT-Creation-Date: 2019-09-25 09:15+CET\n"
 "PO-Revision-Date: 2019-09-11 09:35\n"
 "Last-Translator: npettiaux\n"
 "Language-Team: French\n"
@@ -28,7 +28,7 @@ msgstr ""
 msgid "Approche pédagogique amusante et découverte de l’impression 3D"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.s_overview_program) (dynamic)
+#: http://localhost/ (content/contents+fr.lr:page.s_overview_program)
 msgid "Aperçu du programme"
 msgstr "Aperçu du programme"
 
@@ -131,8 +131,6 @@ msgstr ""
 #: (content/ateliers/internet-et-le-web/contents+fr.lr:workshop.tag)
 #: http://localhost/ateliers/initier-au-codage-python-avec-laide-dun-mooc/
 #: (content/ateliers/initier-au-codage-python-avec-laide-dun-mooc/contents+fr.lr:workshop.tag)
-#: http://localhost/ateliers/modus-operandi-des-cartoparties-participatives/
-#: (content/ateliers/modus-operandi-des-cartoparties-participatives/contents+fr.lr:workshop.tag)
 #: http://localhost/ateliers/decouvrir-la-gestion-dentreprise-avec-scale-up/
 #: (content/ateliers/decouvrir-la-gestion-dentreprise-avec-scale-up/contents+fr.lr:workshop.tag)
 msgid "secondaire"
@@ -341,10 +339,6 @@ msgstr ""
 "et du Concerto pour piano et orchestre en si mineur, d'après les fragments "
 "d'un concerto inachevé d'Edvard Grieg."
 
-#: (dynamic)
-msgid "Toutes les heures"
-msgstr ""
-
 #: http://localhost/ateliers/internet-et-le-web/
 #: (content/ateliers/internet-et-le-web/contents+fr.lr:workshop.description)
 msgid ""
@@ -424,10 +418,6 @@ msgid ""
 "pensée informatique"
 msgstr ""
 
-#: (dynamic)
-msgid "Journée principale"
-msgstr "Journée principale"
-
 #: http://localhost/intervenants/frederic-taes/
 #: (content/intervenants/frederic-taes/contents+fr.lr:speaker.description)
 msgid "* Passionné de BD et musique en tout genre"
@@ -481,10 +471,6 @@ msgid ""
 "total de tout ce que l'on fait ou que l'on doit faire."
 msgstr ""
 
-#: (dynamic)
-msgid "Au local"
-msgstr ""
-
 #: http://localhost/intervenants/laurent-beeckmans/
 #: (content/intervenants/laurent-beeckmans/contents+fr.lr:speaker.description)
 msgid ""
@@ -531,10 +517,6 @@ msgid ""
 "plus en plus aux mains de quelques-uns: les GAFAM"
 msgstr ""
 
-#: (dynamic)
-msgid "Toutes les catégories"
-msgstr ""
-
 #: http://localhost/ (content/contents+fr.lr:page.s_saturday)
 msgid "Samedi"
 msgstr "Samedi"
@@ -545,10 +527,6 @@ msgid ""
 "* 8h30 à 8h45 : Accueil par [Yves Robaey](../intervenants/yves-robaey/), co-"
 "président de HE2B, et [Pierre Wolper](../intervenants/pierre-wolper/), "
 "recteur de l'[Université de Liège](https://www.uliege.be/)"
-msgstr ""
-
-#: (dynamic)
-msgid "Primaire"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.journee_sans_ordi)
@@ -617,8 +595,6 @@ msgstr ""
 #: (content/ateliers/sac-a-dos-numerique-pour-lapprentissage-par-competences/contents+fr.lr:workshop.tag)
 #: http://localhost/ateliers/decouverte-des-learningapps/
 #: (content/ateliers/decouverte-des-learningapps/contents+fr.lr:workshop.tag)
-#: http://localhost/ateliers/une-education-de-qualite-lodd4-questionne-par-le-numerique/
-#: (content/ateliers/une-education-de-qualite-lodd4-questionne-par-le-numerique/contents+fr.lr:workshop.tag)
 #: http://localhost/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/
 #: (content/ateliers/des-robots-pour-donner-de-l-interet-et-de-la-motivation-a-l-apprentissage/contents+fr.lr:workshop.tag)
 #: http://localhost/ateliers/minecraft-en-python-sur-raspberry-pi/
@@ -701,7 +677,7 @@ msgstr ""
 "L'organisation de cette conférence est essentiellement bénévole. Toute don "
 "est le bienvenu."
 
-#: http://localhost/ (content/contents+fr.lr:page.s_program) (dynamic)
+#: http://localhost/ (content/contents+fr.lr:page.s_program)
 msgid "Programme"
 msgstr "Programme"
 
@@ -895,8 +871,6 @@ msgstr ""
 #: (content/ateliers/construire-des-projets-et-des-labos-arduino/contents+fr.lr:workshop.language)
 #: http://localhost/ateliers/coder-en-25-defis/
 #: (content/ateliers/coder-en-25-defis/contents+fr.lr:workshop.language)
-#: http://localhost/ateliers/une-education-de-qualite-lodd4-questionne-par-le-numerique/
-#: (content/ateliers/une-education-de-qualite-lodd4-questionne-par-le-numerique/contents+fr.lr:workshop.language)
 #: http://localhost/ateliers/jouer-pour-comprendre-lintelligence-artificielle/
 #: (content/ateliers/jouer-pour-comprendre-lintelligence-artificielle/contents+fr.lr:workshop.language)
 #: http://localhost/ateliers/codenplay-krings/
@@ -917,8 +891,6 @@ msgstr ""
 #: (content/ateliers/minecraft-en-python-sur-raspberry-pi/contents+fr.lr:workshop.language)
 #: http://localhost/ateliers/le-numerique-pour-faire-face-aux-inegalites-scolaires/
 #: (content/ateliers/le-numerique-pour-faire-face-aux-inegalites-scolaires/contents+fr.lr:workshop.language)
-#: http://localhost/ateliers/modus-operandi-des-cartoparties-participatives/
-#: (content/ateliers/modus-operandi-des-cartoparties-participatives/contents+fr.lr:workshop.language)
 #: http://localhost/ateliers/decouverte-de-la-fabrication-numerique-pour-vos-classes-impression-3d/
 #: (content/ateliers/decouverte-de-la-fabrication-numerique-pour-vos-classes-impression-3d/contents+fr.lr:workshop.language)
 #: http://localhost/ateliers/des-robots-des-la-maternelle/
@@ -1076,10 +1048,6 @@ msgid ""
 "les ateliers</a>"
 msgstr ""
 
-#: (dynamic)
-msgid "Tranche d'âge"
-msgstr ""
-
 #: http://localhost/journee-principale/
 #: (content/journee-principale/contents+fr.lr:details-program.description)
 msgid ""
@@ -1096,10 +1064,6 @@ msgstr "Infos pratiques"
 #: http://localhost/ (content/contents+fr.lr:page.s_submit_paper)
 msgid "Soumettre un poster"
 msgstr "Soumettre un poster"
-
-#: (dynamic)
-msgid "Présentation des ateliers"
-msgstr ""
 
 #: http://localhost/journee-principale/hackerspaces-apprentissage-par-la-pratique-et-mains-dans-le-camboui/
 #: (content/journee-principale/hackerspaces-apprentissage-par-la-pratique-et-mains-dans-le-camboui/contents+fr.lr:details-program.description)
@@ -1219,10 +1183,6 @@ msgstr ""
 "Pieter Dhoore le Mahler Piano Duo, spécialisé dans l’exécution "
 "d’arrangements et de transcriptions d’œuvres orchestrales."
 
-#: (dynamic)
-msgid "En savoir plus"
-msgstr ""
-
 #: http://localhost/intervenants/julie-henry/
 #: (content/intervenants/julie-henry/contents+fr.lr:speaker.description)
 msgid "- https://researchportal.unamur.be/fr/persons/julie-henry"
@@ -1268,10 +1228,6 @@ msgstr ""
 #: http://localhost/intervenants/yves-robaey/
 #: (content/intervenants/yves-robaey/contents+fr.lr:speaker.description)
 msgid "* Psychopédagogue"
-msgstr ""
-
-#: (dynamic)
-msgid "Rechercher parmi les ateliers"
 msgstr ""
 
 #: http://localhost/intervenants/gilles-dowek/
@@ -1333,10 +1289,6 @@ msgstr ""
 #: http://localhost/ (content/contents+fr.lr:page.s_press)
 msgid "Presse"
 msgstr "Presse"
-
-#: (dynamic)
-msgid "Afficher que la catégorie"
-msgstr ""
 
 #: http://localhost/intervenants/lina-karimi/
 #: (content/intervenants/lina-karimi/contents+fr.lr:speaker.description)
@@ -1755,10 +1707,6 @@ msgstr ""
 "Nicolas Pettiaux est l'initiateur et le coordinateur de la conférence "
 "EduCode."
 
-#: (dynamic)
-msgid "Concert festif"
-msgstr "Concert festif"
-
 #: http://localhost/comites/
 #: (content/comites/contents+fr.lr:details-program.description)
 msgid "- Yves Robaey (HE2B, co-président)"
@@ -1789,10 +1737,6 @@ msgid ""
 "La conférence est gratuite pour les enseignants de la Fédération Wallonie-"
 "Bruxelles et inscrit à IFC avec le **numéro de formation 03001901/34350** à "
 "introduire dans le site [www.ifc.cfwb.be](http://www.ifc.cfwb.be/)"
-msgstr ""
-
-#: (dynamic)
-msgid "Secondaire"
 msgstr ""
 
 #: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
@@ -1834,17 +1778,6 @@ msgid ""
 "Benjamin Henrion est le fondateur du Hacker Space Brussels ([HSBXL](http://"
 "www.hsbxl.be)), laboratoire communautaire bruxellois où des gens (les "
 "hackers) peuvent partager ressources et savoir."
-msgstr ""
-
-#: http://localhost/ateliers/une-education-de-qualite-lodd4-questionne-par-le-numerique/
-#: (content/ateliers/une-education-de-qualite-lodd4-questionne-par-le-numerique/contents+fr.lr:workshop.description)
-msgid ""
-"Atelier innovant : entre jeux, idéation, retour d’expériences, partages de "
-"doléances, espérances, et bonnes pratiques. A l’heure du numérique, qu’est "
-"ce qu’une éducation de qualité ? Via des jeux et des exemples concrets, "
-"enrichissons notre vision et/ou nos pratiques de l’enseignement. Demandons-"
-"nous en quoi et pourquoi le numérique nous aide, nous bouscule, nous freine, "
-"nous interroge pour atteindre une éducation de qualité."
 msgstr ""
 
 #: http://localhost/journee-principale/
@@ -1966,18 +1899,6 @@ msgstr ""
 #: http://localhost/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/
 #: (content/ateliers/eclipse-che-pour-simplifier-les-besoins-dinstallation-lors-des-formations/contents+fr.lr:workshop.description)
 msgid "La communauté propose des examples pour des cas d'utilisation courants."
-msgstr ""
-
-#: http://localhost/ateliers/modus-operandi-des-cartoparties-participatives/
-#: (content/ateliers/modus-operandi-des-cartoparties-participatives/contents+fr.lr:workshop.description)
-msgid ""
-"Nous avons choisi de travailler sur le thème de l’accessibilité aux "
-"commerces pour les Personnes à Mobilité Réduite, lors de la première "
-"cartopartie. D'autres thèmes ont été ensuite abordés comme le street-art et "
-"l'humanitaire. Quel est le mode opératoire de ces cartographies "
-"OpenStreetMap, comment y participer, quels sont les usages, qui peut y "
-"participer, quels sont les objectifs recherchés ? Pour le savoir, venez "
-"participer à cette présentation."
 msgstr ""
 
 #: http://localhost/intervenants/colin-de-la-higuera/
@@ -2117,12 +2038,6 @@ msgstr ""
 "chef d’orchestre, compositeur ou arrangeur, il s'investit dans de nombreux "
 "projets, explorant sans relâche des directions nouvelles où apparaît son "
 "désir de décloisonner les différents genres musicaux."
-
-#: http://localhost/ateliers/modus-operandi-des-cartoparties-participatives/
-#: (content/ateliers/modus-operandi-des-cartoparties-participatives/contents+fr.lr:workshop.title)
-#: (content/ateliers/modus-operandi-des-cartoparties-participatives/contents+fr.lr:workshop.abstract)
-msgid "Modus operandi des Cartoparties participatives"
-msgstr ""
 
 #: http://localhost/intervenants/emmanuel-beeckmans/
 #: (content/intervenants/emmanuel-beeckmans/contents+fr.lr:speaker.description)
@@ -2395,10 +2310,6 @@ msgstr ""
 "En particulier, vous pouvez faire des dons <script src=\"https://liberapay."
 "com/npettiaux/widgets/button.js\"></script>"
 
-#: (dynamic)
-msgid "Réinitialiser les filtres"
-msgstr ""
-
 #: http://localhost/intervenants/nicolas-seinlet/
 #: (content/intervenants/nicolas-seinlet/contents+fr.lr:speaker.description)
 msgid "* Développeur pour la société Odoo s.a."
@@ -2618,7 +2529,7 @@ msgid "Il y a plein d'opportunités:"
 msgstr ""
 
 #: http://localhost/comites/
-#: (content/comites/contents+fr.lr:details-program.date) (dynamic)
+#: (content/comites/contents+fr.lr:details-program.date)
 msgid "Comités"
 msgstr ""
 
@@ -2669,10 +2580,6 @@ msgid ""
 "[Benjamin Henrion](../intervenants/benjamin-henrion/) et Dimitri Del Marmol"
 msgstr ""
 
-#: (dynamic)
-msgid "Journée info sans ordi"
-msgstr "Journée info sans ordi"
-
 #: http://localhost/journee-principale/hackerspaces-apprentissage-par-la-pratique-et-mains-dans-le-camboui/
 #: (content/journee-principale/hackerspaces-apprentissage-par-la-pratique-et-mains-dans-le-camboui/contents+fr.lr:details-program.description)
 msgid ""
@@ -2703,7 +2610,6 @@ msgid "- Françoise Bols (HE2B-Nivelles, chargé de cours)"
 msgstr "- Françoise Bols (HE2B-Nivelles, chargé de cours)"
 
 #: http://localhost/dons/ (content/dons/contents+fr.lr:details-program.date)
-#: (dynamic)
 msgid "Dons"
 msgstr "Dons"
 
@@ -2935,10 +2841,6 @@ msgid ""
 "classe."
 msgstr ""
 
-#: (dynamic)
-msgid "Maternelle"
-msgstr ""
-
 #: http://localhost/ateliers/decouverte-des-learningapps/
 #: (content/ateliers/decouverte-des-learningapps/contents+fr.lr:workshop.description)
 msgid "* Un QR code est généré automatiquement pour chaque application."
@@ -3086,10 +2988,6 @@ msgstr ""
 "l'informatique et aux technologies numériques. Elle est responsable du cours "
 "de Didactique de l'Informatique et des TIC dans le cadre du certificat "
 "universitaire Form@TICEF, à l'Université de Liège."
-
-#: (dynamic)
-msgid "Langue"
-msgstr ""
 
 #: http://localhost/intervenants/rupert-meurice-de-dormale/
 #: (content/intervenants/rupert-meurice-de-dormale/contents+fr.lr:speaker.description)
@@ -3404,12 +3302,6 @@ msgstr ""
 msgid "#<p id=\"conf\">Conférences</p>"
 msgstr ""
 
-#: http://localhost/ateliers/une-education-de-qualite-lodd4-questionne-par-le-numerique/
-#: (content/ateliers/une-education-de-qualite-lodd4-questionne-par-le-numerique/contents+fr.lr:workshop.title)
-#: (content/ateliers/une-education-de-qualite-lodd4-questionne-par-le-numerique/contents+fr.lr:workshop.abstract)
-msgid "Une éducation de qualité : l’ODD4 questionné par le numérique"
-msgstr ""
-
 #: http://localhost/ateliers/decouvrir-le-robot-cubetto/
 #: (content/ateliers/decouvrir-le-robot-cubetto/contents+fr.lr:workshop.description)
 msgid "**Destiné aux enfants dès 3 ans**"
@@ -3455,10 +3347,6 @@ msgid ""
 "pour les plus jeunes en maternelle. Nous avons pu expérimenter que les "
 "enfants en enseignement spécialisé sont particulièrement attirés par "
 "l’interaction avec les robots."
-msgstr ""
-
-#: (dynamic)
-msgid "Info pratiques"
 msgstr ""
 
 #: http://localhost/ateliers/jouer-pour-comprendre-lintelligence-artificielle/
@@ -3579,10 +3467,6 @@ msgid ""
 "nécessaires et ont été en mesure d'installer tous les outils."
 msgstr ""
 
-#: (dynamic)
-msgid "A une certaine heure"
-msgstr ""
-
 #: http://localhost/intervenants/rupert-meurice-de-dormale/
 #: (content/intervenants/rupert-meurice-de-dormale/contents+fr.lr:speaker.description)
 msgid ""
@@ -3665,10 +3549,6 @@ msgstr ""
 
 #: http://localhost/concert/ (content/concert/contents+fr.lr:concert.cocktail)
 msgid "A 21h, rendez-vous pour un cocktail dînatoire"
-msgstr ""
-
-#: (dynamic)
-msgid "Résumé"
 msgstr ""
 
 #: http://localhost/ateliers/apprendre-a-souder/
@@ -3947,10 +3827,6 @@ msgid ""
 "pédagogique innovant"
 msgstr ""
 
-#: (dynamic)
-msgid "à :"
-msgstr ""
-
 #: http://localhost/ (content/contents+fr.lr:page.partners_about)
 msgid ""
 "Les partenaires de la conférence sont tous les acteurs qui considèrent que "
@@ -4149,9 +4025,23 @@ msgstr "percussion"
 msgid "conteuse"
 msgstr "conteuse"
 
+#: templates/layout.html:40
+msgid "Langue"
+msgstr ""
+
+#: templates/macros/sections.html:20 templates/macros/sections.html:47
+#: templates/page.html:53 templates/speaker.html:73
+msgid "Journée principale"
+msgstr "Journée principale"
+
 #: templates/page.html:61
 msgid "Voir les ateliers"
 msgstr ""
+
+#: templates/macros/sections.html:21 templates/macros/sections.html:48
+#: templates/page.html:67
+msgid "Concert festif"
+msgstr "Concert festif"
 
 #: templates/page.html:76
 msgid "Journée info sans ordi (annulé)"
@@ -4169,8 +4059,77 @@ msgstr ""
 msgid "3. IFC"
 msgstr ""
 
+#: templates/macros/sections.html:22 templates/macros/sections.html:49
+#: templates/speaker.html:74
+msgid "Journée info sans ordi"
+msgstr "Journée info sans ordi"
+
 #: templates/speaker.html:75
 msgid "Concert"
+msgstr ""
+
+#: templates/workshops-container.html:8
+msgid "Présentation des ateliers"
+msgstr ""
+
+#: templates/workshops-container.html:18
+msgid "Rechercher parmi les ateliers"
+msgstr ""
+
+#: templates/workshops-container.html:23
+msgid "Afficher que la catégorie"
+msgstr ""
+
+#: templates/workshops-container.html:25
+msgid "Toutes les catégories"
+msgstr ""
+
+#: templates/workshops-container.html:26
+msgid "Maternelle"
+msgstr ""
+
+#: templates/workshops-container.html:27
+msgid "Primaire"
+msgstr ""
+
+#: templates/workshops-container.html:28
+msgid "Secondaire"
+msgstr ""
+
+#: templates/workshops-container.html:32
+msgid "Tranche d'âge"
+msgstr ""
+
+#: templates/workshops-container.html:43
+msgid "A une certaine heure"
+msgstr ""
+
+#: templates/workshops-container.html:45
+msgid "Toutes les heures"
+msgstr ""
+
+#: templates/workshops-container.html:55
+msgid "Réinitialiser les filtres"
+msgstr ""
+
+#: templates/workshops-container.html:79
+msgid "Résumé"
+msgstr ""
+
+#: templates/workshops-container.html:85
+msgid "Au local"
+msgstr ""
+
+#: templates/workshops-container.html:85
+msgid "à :"
+msgstr ""
+
+#: templates/workshops-container.html:95
+msgid "En savoir plus"
+msgstr ""
+
+#: templates/macros/sections.html:29 templates/macros/sections.html:56
+msgid "Info pratiques"
 msgstr ""
 
 #~ msgid "[Plus d'informations...](concert-festif-avant-premiere)"

@@ -1,0 +1,29 @@
+_model: workshop
+---
+title: Robots uit de kleuterklas
+---
+abstract: Ontdek leermogelijkheden met Thymio-robots voor jongere kleuters.
+---
+age: 4-6
+---
+age_max: 6
+---
+age_min: 4
+---
+contact_name: Patricia Corieri
+---
+description: Het gaat over het verkennen van leermogelijkheden met Thymio-robots voor jongere kleuters. We hebben ervaren dat kinderen in het speciaal onderwijs vooral worden aangetrokken door interactie met robots.
+---
+language: fr
+---
+number: 12
+---
+periodes:
+---
+required_materials: Projecteur
+---
+tag: kleuterschool
+---
+hours: 9:00 - 10:00
+---
+local: 203

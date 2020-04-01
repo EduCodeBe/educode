@@ -1,0 +1,246 @@
+_template: page.html
+---
+about: Educode veut aider les enseignants et les parents à assurer la continuité pédagogique grâce aux outils numériques, les former et les accompagner dans ces nouveaux défis. Educode s'organisera en EducodeTV et EducodeSchool. EducodeTV proposera mercredi 08/04/2020 de 15 à 16h sur [(lien à venir)](#) un webinard (conférence en ligne intéractive) sur des méthodes, techniques, repères et pièges de l'enseignement en ligne.
+---
+baseline: Aider les enseignants et les parents à l'occasion de l'urgence COVID-19
+---
+monday: A faire : overview
+---
+thuesday:
+---
+title: Welcome to Educode
+---
+wednesday:
+---
+_about_educode: About EduCode
+---
+_become_partner: Become partner
+---
+_contact: Contact
+---
+_expo: Exposition
+---
+_hotel: Hotels
+---
+_location: Locations
+---
+_monday: Monday
+---
+_more_infos: Tuesday
+---
+_our_partners: Our partners
+---
+_overview_program: Overview of the program
+---
+_partners: Partners
+---
+_practical_infos: Practical infos
+---
+_press: Press
+---
+_registration: Registration
+---
+_speakers: Speakers
+---
+_sunday: Sunday
+---
+_thuesday: Thuesday
+---
+_wednesday: Wednesday
+---
+expo_about:
+
+Durant les pauses-café et repas, toutes les structures (associations, institutions publiques, écoles, sociétés commerciales ...) actives dans le milieu de l’éducation numérique en Belgique et ailleurs représentés lors de la conférence, présenteront leurs réalisations dans l'exposition.  
+
+Celle-ci sera accessible essentiellement durant les pauses-cafés et repas du midi et du soir.
+
+Ce sera l’occasion pour les enseignants, leurs directions, les élus et leurs équipes, ainsi que pour les pouvoirs publics de prendre connaissance de la grande diversité des acteurs du numérique dans le domaine de l’enseignement. Ceux-ci pourront assister et aider les écoles dans une mission d'accompagnement et de formation aux très nombreux usages du numérique.
+---
+partners_about:
+
+The partners of the conference are all the actors who consider that the question is important and who wish to contribute to the extent of their means. They are Belgian and foreign, most associative. Some provide essential financial support, the others participate in the promotion and dissemination of information around the conference, are members of the organizing committee of the conference, supervise workshops...
+
+Many participate in the exhibition.
+---
+practical_infos:
+
+Educode participants are expected from 8.30am. Conferences and workshops start at 9:00 am.
+
+The day will take place in the premises of HE2B-Defré, avenue Defré 62 in 1180 Brussels
+
+Please bring registration documents for easy verification.
+
+If they have not done so during registration, participants can order sandwiches for lunch upon arrival. Coffee, tea and drinks will be provided.
+---
+practical_infos_brussels:
+
+Brussels is the capital of Belgium and Europe. The medieval Grand Place is huge. It has many buildings of the 17th century and hosts daily flower markets. Reopened in 2006, the Atomium, Brussels' Eiffel Tower, offers breathtaking views both inside and out. Architecture lovers should not miss visiting the Horta Museum, housed in the home of the great Belgian architect Victor Horta. The clubs and bars of St. Gery Square never fail. Seafood dishes abound in St. Catherine. If you want more information about Brussels, click [here](http://visit.brussels) 
+---
+text_button: Become partner
+---
+s_about_educode: About EduCode
+---
+s_become_partner: Become a partner
+---
+s_contact: Contact
+---
+s_expo: Exposition
+---
+s_hotel: Hôtels
+---
+s_location: Places
+---
+s_monday: Monday
+---
+s_more_infos: More info
+---
+s_our_partners: Our partners
+---
+s_overview_program: Program Overview
+---
+s_partners: Partners
+---
+s_practical_infos: Practical information
+---
+s_press: Press
+---
+s_registration: Registration
+---
+s_speakers: Speakers
+---
+s_sunday: Sunday
+---
+s_thuesday: Tuesday
+---
+s_wednesday: Wednesday
+---
+s_intro_dates: September 27, 2019
+---
+s_intro_location_city: Brussels, Belgium
+---
+s_intro_location_institutions: HE2B-Defré
+---
+s_intro_location_institutions_2:
+---
+sunday:
+---
+registration:
+
+L'inscription est **gratuite** pour les enseignants de la Fédération Wallonie-Bruxelles (maternelle, primaire, secondaire et supérieur) **inscrits** auprès de [IFC](http://www.ifc.cfwb.be) avec le numéro de formation **503001901/34350**.
+
+Les participants **doivent** s'[inscrire](https://inscriptions.educode.be), et indiquer à quels ateliers ils [souhaitent participer](https://choix.educode.be)
+
+Pour plus d'informations, nous sommes joignables par [email](info@educode.be)
+---
+press_text:
+
+A press conference will be organized in early September 2019 in Brussels. A press point will also be organized during the conference around 1 pm. 
+
+You can also download useful documents by clicking on the link below.
+---
+s_submission: Appel à soumission
+---
+s_submit_here: Submit here
+---
+submissions_text:
+
+Faites-nous part de vos propositions de stand au sein de l'exposition  en cliquant sur le bouton ci-dessous.
+
+Les propositions devront être entrées pour le 15 septembre 2019.
+
+La liste des ateliers présent est disponible [ici](ateliers)
+
+---
+s_submissions: Call for proposals
+---
+s_may: may
+---
+s_monday_27: Lundi 27
+---
+s_sunday_26: Dimanche 26
+---
+s_thuesday_28: Mardi 28
+---
+s_wednesday_29: Mercredi 29
+---
+s_thursday: Thursday
+---
+s_friday: Friday
+---
+s_saturday: Saturday
+---
+s_program: Program
+---
+practical_infos_hostels:
+---
+inscription_tarif: Il faut envoyer un courriel à [factures@educode.be](mailto:tfactures@educode.be?subject=Facture pour educode) pour obtenir une facture.
+---
+s_free_expose: Exhibit and hold a stand
+---
+s_propose_atelier: Suggest a workshop
+---
+s_submit_paper: Submit a poster
+---
+contact:
+
+Les plus technophiles d'entre vous (soit vous tous ;-), qui voulez apprendre et comme les apprenants de BeCentral qui le font, si mes informations sont correctes, dès les tous premiers jours de leur formation) peuvent le faire en (vous apprécierez l'algorithme, d'apprendre un peu le code et ce qui accompagne, et de pouvoir taper un peu dans un terminal ;-)
+
+*    installant sur votre machine (windows ou macos x ou gnulinux)
+ *        le logiciel libre avec lequel le site est fait Lektor (voir https://getlektor.org; c'est beaucoup plus facile sur une machine gnulinux que macox x ou windows, sans être difficile sur celles-ci)
+ *      le logiciel libre git (voir https://git-scm.com/download/)
+*    en vous créant un login sur http://github.com
+*    en allant sur https://github.com/EduCodeBe/educode.be et en forkant le projet (en haut à droite)
+*    tapant dans le terminal (git-bash sur windows)
+   *     git clone https://github.com/VOTRE_LOGIN/educode.be
+   *     cd <le répertoire où vous êtes>/educode.be/EduCode
+   *     lektor server
+   *     firefox http://localhost:5000/
+   *     (vous pouvez alors
+      *       éditer le site avec une jolie interface graphique dans le navigateur et un petit crayon à droite qui permet d'éditer, et
+      *       aller par exemple sur la page http://localhost:5000/admin/root:exposants/edit
+      *       ajouter une page "exposant" en cliquant sur la première ligne sur + et en ajoutant une page dont le modèle est "Exposant"
+      *       en complétant les champs au format markdown  https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet assez facile
+      *       en sauvant localement sur votre machine au bas de la page
+      *       si vous voulez aider à une traduction de n'importe quelle page, c'est ici que cela se passe en allant dans le menu à gauche de la langue. Les textes ont été traduits en espagnol déjà mais je n'ai pas eu le temps de les incorporer. Ils sont dans )
+      *      arrêtant le serveur local par CONTROL-C
+*     en faisant tout remonter sur le serveur central en tapant
+  *           git add *
+  *          git commit -m "une description de vos modifications et ajouts"
+  *          git push (vous rentrez alors vos logins et mots de passe)
+  *        en me prévenant que vous voulez que nous intégrions vos modifications par mail à site@educode.be
+  *     et si possible en faisant sur github un pull request (qui simplifie les procédures 6 di-dessus et suivantes pour moi)
+    *         vous allez sur votre page https://github.com/VOTRE_LOGIN/educode.be/pulls
+    *            vous cliquez à droite sur le bouton NEW PULL REQUEST et vérifiez que votre projet est bien lié à EducodeBe/educode.be (le master)
+    *            vous complétez un petit mot
+    *            et envoyer
+    *    j'accepte votre proposition si il n'y a pas de conflit et hop
+    *     je mets en ligne dès que je peux (ou un autre membre de l'équipe le fait)
+        comme cela, vraiment, tous ensemble nous mettons en œuvre la collaboration pour le site et tout le reste.
+
+#     La mise en pratique de la théorie et le numérique, c'est aussi pour nous !
+---
+concert:
+
+Le _carnaval des animaux_ de Camille Saint-Saëns, concert festif avec 2 pianos et récitante.
+
+Un concert en petit commité,  à la Cellule 133a à 1060 Saint-Gilles .
+
+[More info...](concert)
+---
+journee_principale:
+
+La journée principale consiste en des conférences, ateliers et une exposition pour rencontrer des associations actives autour de la formation au numérique et à la programmation.
+
+La conférence est gratuite pour les enseignants de la Fédération Wallonie-Bruxelles et inscrit à IFC avec le **numéro de formation 503001901/34350** à introduire dans le site [www.ifc.cfwb.be](http://www.ifc.cfwb.be/)
+
+The organization of this conference is essentially voluntary. Any gift is welcome.
+
+[More info...](journee-principale)
+---
+journee_sans_ordi:
+
+Pour des raisons indépendantes de notre volonté, la journée du [28 septembre](journee-info-sans-ordi) ne sera pas organisée. Nous serons heureux de vous recevoir le [27 septembre](journee-principale).
+
+A day specially dedicated to teachers interested in disconnected computing.
+---
+wiki: Pour tout renseignement, rejoignez-nous sur le [wiki](https://wiki.educode.be/doku.php).

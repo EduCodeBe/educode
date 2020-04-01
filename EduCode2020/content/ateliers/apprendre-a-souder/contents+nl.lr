@@ -1,0 +1,48 @@
+_model: workshop
+---
+title:
+
+ Leer hoe u uw eerste elektronische circuit kunt solderen 
+---
+abstract:
+
+Leer de basisprincipes van het lassen van elektronische componenten met het "Weevil Eye". 
+---
+description:
+
+**Objectifs**
+
+Leer de basisprincipes van het lassen van elektronische componenten met het "Weevil Eye". 
+
+<img src="ohm2013-soldering-kids.jpg" alt="Photo activité" style="max-height:400px">
+
+**Compétences** :
+  * Leer omgaan met een soldeerbout (koud, warm, temperatuur, bescherming)
+  * Leer omgaan met soldeer
+  * Leer de componenten in de juiste richting te plaatsen
+  * Leer een circuit te testen
+  * Leer de instructies uit een handleiding te volgen
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Gp5PxgSj2v4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Lien**
+
+https://www.sparkfun.com/products/10723
+---
+language: fr
+---
+hours: 10:00 - 11:00, 11:00 - 12:00, 14:00 - 15:00, 15:00 - 16:00, 16:00 - 17:00
+---
+local: 217
+---
+tag: primaire, secondaire
+---
+contact_name: Benjamin Henrion et Dimitri Del Marmol
+---
+age: 6-99
+---
+age_max: 99
+---
+age_min: 6
+---
+number: 10

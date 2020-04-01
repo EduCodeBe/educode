@@ -1,0 +1,36 @@
+_model: workshop
+---
+title: Initier au codage Python avec l’aide d’un MOOC
+---
+abstract: Cet atelier se veut une discussion sur la manière d’utiliser le MOOC sur la plateforme FUN  “Apprendre à coder avec Python”  (cours gratuit) comme base pour animer un cours complet d’initiation à la programmation pour un public d’élèves du secondaire supérieur (15-18 ans).
+---
+age: 15-18
+---
+age_max: 18
+---
+age_min: 15
+---
+contact_name:
+
+Sébastien Hoarau et Thierry Massart 
+---
+description:
+
+Cet atelier se veut une discussion sur la manière d’utiliser le MOOC sur la plateforme FUN [Apprendre à coder avec Python](https://www.fun-mooc.fr/courses/course-v1:ulb+44013+session02/about)” (cours gratuit) comme base pour animer un cours complet d’initiation à la programmation pour un public d’élèves du secondaire supérieur (15-18 ans).
+
+A propos de ce MOOC:
+
+Vous avez un ordinateur, désirez apprendre à coder et êtes totalement ou partiellement débutant dans le domaine; vous êtes étudiant, professeur ou simplement une personne qui sente l’envie ou le besoin d’apprendre la programmation de base; ce cours utilise Python 3 comme clé pour vous ouvrir la porte de cette connaissance informatique.
+Ce cours est orienté vers la pratique, et propose un matériel abondant pour couvrir l’apprentissage de la programmation de base, d’une part en montrant et expliquant les concepts grâce à de nombreuses capsules vidéo courtes et des explications simples, et d’autre part en vous demandant de mettre ces concepts en pratique d’abord de façon guidée et ensuite autonome. Plusieurs quiz, un projet individuel, et de nombreux exercices à réaliser et validés automatiquement avec notre outil UpyLaB intégré au cours, vous permettent de polir et ensuite de valider votre apprentissage.
+---
+language: fr
+---
+number: 20
+---
+required_materials: Ordinateur
+---
+tag: secondaire
+---
+hours: 15:00 - 16:00
+---
+local: 203

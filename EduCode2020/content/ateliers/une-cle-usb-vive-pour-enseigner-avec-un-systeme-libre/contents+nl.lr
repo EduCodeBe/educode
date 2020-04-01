@@ -1,0 +1,23 @@
+_model: workshop
+---
+title: Een USB-stick om les te geven met een gratis systeem
+---
+abstract:
+
+ Een levendige USB-stick om te onderwijzen met een legaal en vrij kopieerbaar systeem 
+---
+contact_name: Georges Khaznadar
+---
+description:
+
+Hoe kunnen we onze studenten alle IT geven die ze nodig hebben? Illegaal, dus "ondenkbaar"? In feite is het mogelijk, de voorwaarde is dat de hele repository gratis is, elk element gecertificeerd door zijn copyrightkennisgeving en licentie. Als ik dat onder Windows wil doen, is dat problematisch. De distributie [Freeduc-JBART](https://usb.freeduc.org/jbart.html) lost dit probleem op. Een USB-stick, zo opstartbaar als een externe schijf, met een GNULinux-systeem en een selectie van enkele duizenden softwarepakketten uit de Debian-repository. 
+---
+language: fr
+---
+periodes:
+---
+hours: 10:00 - 11:00
+---
+local: 203
+---
+tag: secondaire, primaire, maternelle

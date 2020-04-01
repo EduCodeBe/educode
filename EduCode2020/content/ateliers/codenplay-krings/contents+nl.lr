@@ -1,0 +1,29 @@
+_model: workshop
+---
+title: CodeNPlay-Bestuurders
+---
+abstract: Digitaal onderwijs: een praktische aanpak voor primaire directeuren
+---
+age: 6-12
+---
+age_max: 12
+---
+age_min: 6
+---
+contact_name: Dimitri Krings
+---
+description: Wil je digitaal integreren in je school? We stellen een aanpak voor op verschillende pijlers, zoals onderwijs en infrastructuur.
+---
+language: fr
+---
+number: 15
+---
+required_materials: Projecteur, Internet
+---
+tag: primair
+---
+periodes:
+---
+hours: 16:00 - 17:00
+---
+local: 215
