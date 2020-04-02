@@ -1,6 +1,6 @@
 _template: page.html
 ---
-about: Educode veut aider les enseignants et les parents à assurer la continuité pédagogique grâce aux outils numériques, les former et les accompagner dans ces nouveaux défis. Educode s'organisera en EducodeTV et EducodeSchool. EducodeTV proposera mercredi 08/04/2020 de 15 à 16h sur [(lien à venir)](#), un webinard (conférence en ligne intéractive) sur des méthodes, techniques, repères et pièges de l'enseignement en ligne.
+about: *Educode* veut aider les enseignants et les parents à assurer la continuité pédagogique grâce aux outils numériques, les former et les accompagner dans ces nouveaux défis. *Educode* s'organisera en *EducodeTV* et *EducodeSchool*. *EducodeTV* proposera mercredi 08/04/2020 de 15 à 16h sur [(lien à venir)](#), un webinard (conférence en ligne intéractive) sur des méthodes, techniques, repères et pièges de l'enseignement en ligne.
 ---
 baseline: Aider les enseignants et les parents à l'occasion de l'urgence COVID-19
 ---
@@ -8,7 +8,7 @@ monday: A faire : overview
 ---
 thuesday: 
 ---
-title: Bienvenue à EduCode
+title: Bienvenue à educode
 ---
 wednesday: 
 ---
@@ -244,3 +244,5 @@ Pour des raisons indépendantes de notre volonté, la journée du [28 septembre]
 Une journée spécialement dédiée aux enseignants intéressés par l'informatique débranchée.
 ---
 wiki: Pour tout renseignement, rejoignez-nous sur le [wiki](https://wiki.educode.be/doku.php).
+---
+form: Afin de nous permettre d'organiser au mieux ces activités, nous aimerions que vous remplissiez ce petit questionnaire
