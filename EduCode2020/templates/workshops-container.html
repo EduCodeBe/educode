@@ -5,7 +5,7 @@
         <div class="container">
             <div class="row">
                 <h1 class="col-12 title mt-5 mb-5 text-center color-darker-yellow">
-                    <strong>{{_("Présentation des ateliers")}}</strong>
+                    <strong>Présentation des ateliers</strong>
                 </h1>
                 <div class="col-12">
                     {{ this.description }}
@@ -15,21 +15,21 @@
 
             <form class="p-3" style="background-color: #e1b12c42">
                 <div class="form-row">
-                    <h5 class="col-12">{{_("Rechercher parmi les ateliers")}}</h5>
+                    <h5 class="col-12">Rechercher parmi les ateliers</h5>
                     <div class="col-12">
                         <hr>
                     </div>
                     <div class="form-group col-md-4">
-                        <label for="select-filter-category"><i class="fa fa-tag"></i> {{_("Afficher que la catégorie")}}</label>
+                        <label for="select-filter-category"><i class="fa fa-tag"></i> Afficher que la catégorie</label>
                         <select name="filter-category" id="select-filter-category" class="custom-select form-control">
-                            <option value="tous" selected>{{_("Toutes les catégories")}}</option>
-                            <option value="maternelle">{{_("Maternelle")}}</option>
-                            <option value="primaire">{{_("Primaire")}}</option>
-                            <option value="secondaire">{{_("Secondaire")}}</option>
+                            <option value="tous" selected>Toutes les catégories</option>
+                            <option value="maternelle">Maternelle</option>
+                            <option value="primaire">Primaire</option>
+                            <option value="secondaire">Secondaire</option>
                         </select>
                     </div>
                     <div class="form-group col-md-4">
-                        <label class="d-inline-block w-100"><i class="fa fa-child"></i> {{_("Tranche d'âge")}}</label>
+                        <label class="d-inline-block w-100"><i class="fa fa-child"></i>Tranche d'âge</label>
                         <div class="form-row">
                             <div class="form-group col-md-6">
                                 <input type="number" min="1" max="120" class="form-control" id="input-min-age" placeholder="âge minimum">
@@ -40,9 +40,9 @@
                         </div>
                     </div>
                     <div class="form-group col-md-4">
-                        <label for="select-filter-hours"><i class="fa fa-clock-o"></i> {{_("A une certaine heure")}}</label>
+                        <label for="select-filter-hours"><i class="fa fa-clock-o"></i>A une certaine heure</label>
                         <select name="filter-hours" id="select-filter-hours" class="custom-select form-control">
-                            <option value="all" selected>{{_("Toutes les heures")}}</option>
+                            <option value="all" selected>Toutes les heures</option>
                             <option value="9:00">9:00 - 10:00</option>
                             <option value="10:00">10:00 - 11:00</option>
                             <option value="11:00">11:00 - 12:00</option>
@@ -52,7 +52,7 @@
                         </select>
                     </div>
                     <p class="col-12 text-center">
-                            <button id="reset-filters" class="btn btn-warning"><i class="fa fa-undo"></i> {{_("Réinitialiser les filtres")}}</button>
+                            <button id="reset-filters" class="btn btn-warning"><i class="fa fa-undo"></i>Réinitialiser les filtres</button>
                     </p>
                 </div>
             </form>
@@ -76,13 +76,13 @@
                                 
                                 <hr>
                                 <div class="card-text">
-                                    <strong>{{_("Résumé")}}</strong><br>
+                                    <strong>Résumé</strong><br>
                                     {{ workshop.abstract }}
                                 </div>
                             </div>
                             <div class="card-footer">
                                 <hr>
-                                <p class="mb-0">{{_("Au local")}} {{workshop.local}} {{_("à :")}}</p>
+                                <p class="mb-0">Au local {{workshop.local}} à :</p>
                                 <ul style="min-height: 50px;">
                                     {% for periode in workshop.hours %} 
                                         <li>{{periode}}</li>
@@ -92,7 +92,7 @@
                                 <p class="text-right"><i class="fa fa-tag"></i> {% for tag in workshop.tag %} {{tag}} {% endfor %}</p>
                                 <hr>
                                 <a href="{{ workshop.url_path }}" class="btn btn-sm btn-primary btn-block color-dark">
-                                    {{_("En savoir plus")}}
+                                    En savoir plus
                                 </a>
                             </div>
                         </div>

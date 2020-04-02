@@ -67,22 +67,6 @@
             </div>
             <div class="col-12 col-sm-10 border-dark">
                 <div>
-                    <span class="text-dark"><i class="fa fa-calendar"></i> Dates d'intervention</span>
-                    <br>
-                    {% set dates_label = {
-                        "journee-principale": _("Journée principale"),
-                        "journee-info-sans-ordi": _("Journée info sans ordi"),
-                        "concert": _("Concert")
-                        }
-                    %}
-                    <ul>
-                        {% for date in this.dates %}
-                            <li><a href="{{ ('/' + date) | url(alt)}}">{{ dates_label[date] }}</a></li>
-                        {% endfor %}
-                    </ul>
-
-                    <hr>
-                </div>
                 <div>
                     <span class="text-dark"><i class="fa fa-globe"></i> Pays</span>
                     <br>
