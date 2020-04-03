@@ -14,7 +14,7 @@
                     <img src="{{  "/imgs/user.png" | url }}" alt="" width="100%">
                 {% endif %}
                 <hr>
-                <ul style="padding-left: 15px; " class="list-unstyled">
+                <ul class="list-unstyled p-0">
                     {% if this.twitter_id and this.twitter_url %}
                         <li class="mb-1">
                             <img width="24px" src="{{ "/imgs/twitter.png" | url }}" alt=""/>
@@ -61,6 +61,12 @@
                         <li class="mb-1">
                             <img width="12px" src="{{ "/imgs/tel.png" | url }}" alt=""/>
                             <strong>{{ this.tel }}</strong>
+                        </li>
+                    {% endif %}
+                    {% if this.email %}
+                        <li class="mb-1">
+                            <img width="24px" src="{{ "/imgs/mail.png" | url }}" alt=""/>
+                            <strong><a href="mailto:{{ this.email }}" target="_top">Contacter</a></strong>
                         </li>
                     {% endif %}
                 </ul>
