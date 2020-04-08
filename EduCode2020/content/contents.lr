@@ -1,6 +1,10 @@
 _template: page.html
 ---
-about: *Educode* veut aider les enseignants et les parents à assurer la continuité pédagogique grâce aux outils numériques, les former et les accompagner dans ces nouveaux défis. *Educode* s'organisera en *EducodeTV* et *EducodeSchool*. *EducodeTV* proposera mercredi 08/04/2020 de 15 à 16h sur [(lien à venir)](#), un webinard (conférence en ligne intéractive) sur des méthodes, techniques, repères et pièges de l'enseignement en ligne.
+about:
+
+*Educode* veut aider les enseignants et les parents à assurer la continuité pédagogique grâce aux outils numériques, les former et les accompagner dans ces nouveaux défis. *Educode* s'organisera en *EducodeTV* et *EducodeSchool*. *EducodeTV* proposera mercredi 08/04/2020 de 15 à 16h sur [notre plateforme](https://conf.domainepublic.net/educodeSchool-photo), un webinard (conférence en ligne intéractive) sur la photographie par [Luc Viatour](/intervenants/luc-viatour/).
+
+Besoin de plus d'information sur cette conférence ? Rendez-vous sur [cette page](https://wiki.educode.be/doku.php/educodeschool_photo) de notre wiki.
 ---
 baseline: Aider les enseignants et les parents à l'occasion de l'urgence COVID-19
 ---
