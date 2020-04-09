@@ -37,7 +37,7 @@
                 </div>
 
                 {% else %}
-                <a href="{{ item.href }}" class="list-group-item d-inline-block">{{ item.text }}</a>
+                <a href="{{ item.href | url }}" class="list-group-item d-inline-block">{{ item.text }}</a>
                 {% endif %}
                 {% endfor %}
                 <hr>
@@ -109,7 +109,7 @@
             </div>
 
             {% else %}
-            <a href="{{ item.href }}" class="list-group-item d-inline-block">{{ item.text }}</a>
+            <a href="{{ item.href | url }}" class="list-group-item d-inline-block">{{ item.text }}</a>
             {% endif %}
             {% endfor %}
             <hr>
