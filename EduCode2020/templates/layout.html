@@ -74,7 +74,7 @@
             $(document).on("scroll", onScroll);
 
             {% if this == site.get_root() %}
-            window.history.pushState("object or string", "Welcome - EduCode", "{{ this.path | url(alt=alt) }}");
+            window.history.pushState("object or string", "Welcome - EduCode", "{{ this.path | url }}");
             {% endif %}
 
             var $root = $('html, body');
