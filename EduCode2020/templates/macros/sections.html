@@ -1,248 +1,139 @@
-{% macro render_sidebar(context, alt, root_url) %}
-    {% if alt == 'fr' %}
-        {% set alt = '' %}
-    {% else %}
-        {% set alt = '/' + alt %}
-    {% endif %}
+{% macro render_sidebar() %}
 
-    <!-- Here I define the menu when we are in the home page -->
-    <!-- I don't see how to create a submenu under practical infos and group there
-    /garderie and other infos to come -->
-    {% if context.url_path in root_url %}
-        {%
-            set menu = [
-		 {
-                    "expandable": True,
-                    "href": "#program",
-                    "text": _("Programme"),
-                    "children": [
-                        {"href": alt + "/#anchor-overview",  "text": _("Aperçu du programme")},
-                        {"href": "/journee-principale"    | url, "text": _("Journée principale")},
-                        {"href": "/concert"    | url, "text": _("Concert festif")},
-                        {"href": "/journee-info-sans-ordi"    | url, "text": _("Journée info sans ordi")}
-                    ]
-                },
-                {"expandable": False, "href": '#anchor-speakers',        "text": context.s_speakers},
-                {"expandable": False, "href": '#anchor-expo',            "text": context.s_expo},
-                {"expandable": False, "href": '#anchor-partners',        "text": context.s_partners},
-                {"expandable": False, "href": '#anchor-inscription',     "text": context.s_registration},
-                {"expandable": False, "href": '#anchor-practical-infos',     "text": _("Info pratiques")},
-                {"expandable": False, "href": '#anchor-press',           "text": context.s_press},    
-                {"expandable": False, "href": '/dons' | url,           "text": _("Dons")},    
-                {"expandable": False, "href": '/comites' | url,           "text": _("Comités")},    
-                {"expandable": False, "href": '#anchor-contact',         "text": context.s_contact}
-            ]
-        %}
-    {% else %}
-        {% set root_page = site.get_root(alt=alt) %}
-        {%
-		
-            set menu = [
-		 {
-                    "expandable": True,
-                    "href": "#program",
-                    "text": _("Programme"),
-                    "children": [
-                        {"href": alt + "/#anchor-overview",  "text": _("Aperçu du programme")},
-                        {"href": "/journee-principale"    | url, "text": _("Journée principale")},
-                        {"href": "/concert"    | url, "text": _("Concert festif")},
-                        {"href": "/journee-info-sans-ordi"    | url, "text": _("Journée info sans ordi")}
-                    ]
-                },
-                {"expandable": False, "href": alt + '/#anchor-speakers',        "text": root_page.s_speakers},
-                {"expandable": False, "href": alt + '/#anchor-expo',            "text": root_page.s_expo},
-                {"expandable": False, "href": alt + '/#anchor-partners',        "text": root_page.s_partners},
-                {"expandable": False, "href": alt + '/#anchor-inscription',     "text": root_page.s_registration},
-                {"expandable": False, "href": alt + '/#anchor-practical-infos',     "text": _("Info pratiques")},
-                {"expandable": False, "href": alt + '/#anchor-press',           "text": root_page.s_press},     
-                {"expandable": False, "href": alt + '/dons' | url,           "text": _("Dons")},      
-                {"expandable": False, "href": alt + '/comites' | url,           "text": _("Comités")},     
-                {"expandable": False, "href": alt + '/#anchor-contact',         "text": root_page.s_contact}
-            ]
-        %}
-    {% endif %}
+<!-- MENU CONFIGURATION -->
+{%
+    set menu = [
+        {"expandable": False, "href": "/#anchor-a-propos",  "text": "A propos"},
+        {"expandable": False, "href": "/#anchor-speakers",  "text": "Les intervenants"},
+        {"expandable": False, "href": "/#anchor-participate",  "text": "Participer"},
+        {"expandable": False, "href": "/#anchor-wiki",  "text": "Wiki"}
+    ]
+%}
 
-    <div id="sidebar" class="d-none d-sm-block col-sm-4 col-md-3 col-lg-2 float-left pl-0 pr-0">
-        <div class="position-fixed d-none d-sm-block col-sm-4 col-md-3 col-lg-2 float-left pl-0 pr-0">
-            <div id="sidebar-wrapper">
-                <div class="text-center brand">
-                    <a href="{{ '/' | url }}">
-                        <img src="{{ '/imgs/educode-logo-transparent.png' | url }}" alt="">
-                    </a>
-                </div>
-                <div class="list-group border-0 card">
-                    <!-- we create the menu -->
-                    {% for item in menu %}
-                        <!-- if the current item contains children -->
-                        {% if item.expandable %}
-                            <a href="{{ item.href }}"
-                               class="list-group-item d-inline-block collapsed menu-expandable"
-                               data-toggle="collapse"
-                               aria-expanded="false">{{ item.text }}</a>
-
-                            <div class="collapse" id="{{ item.href[1:] }}">
-                                {% for subitem in item.children %}
-                                    <a href="{{ subitem.href }}" class="list-group-item item-expanded">
-                                        <i class="fa fa-angle-right" aria-hidden="true"></i>
-                                        {{ subitem.text }}
-                                    </a>
-                                {% endfor %}
-                            </div>
-
-                        {% else %}
-                            <a href="{{ item.href }}" class="list-group-item d-inline-block">{{ item.text }}</a>
-                        {% endif %}
-                    {% endfor %}
-                    <hr>
-                    {%
-                        set icons = [
-                            {
-                                "image": "/partenaires/inoviris/inoviris_logo.svg" | url(''),
-                                "link": "https://innoviris.brussels/fr",
-                                "title": "Inoviris",
-                                "width": "100px"
-                            },
-                            {
-                                "image": "/partenaires/he2b/HE2B-white-bg.jpg" | url(''),
-                                "link": "https://www.he2b.be/",
-                                "title": "HE2B",
-                                "width": "75px"
-                            },
-                            {
-                                "image": "/partenaires/universite-de-liege/pasted-image-small-119.png" | url(''),
-                                "link": "http://ulg.ac.be",
-                                "title": "ULiège",
-                                "width": "80px"
-                            },
-                            {
-                                "image": "/partenaires/digital-wallonia/digitalwallonia-logo-degrades-358x259.png" | url(''),
-                                "link": "https://www.digitalwallonia.be",
-                                "title": "Digital Wallonia",
-                                "width": "75px"
-                            },
-                            {
-                                "image": "/partenaires/odoo/odoo_logo.png" | url(''),
-                                "link": "http://odoo.com",
-                                "title": "Odoo",
-                                "width": "72px"
-                            },
-                            {
-                                "image": "/partenaires/cirb/cirb_220_620.png" | url(''),
-                                "link": "http://cirb.brussels",
-                                "title": "Cirb",
-                                "width": "100px"
-                            }
-                        ]
-                    %}
-                    <div class="container">
-                        <div class="row">
-                            {% for icon in icons %}
-                                <div class="col-6 text-center mb-1 p-1">
-                                    <a href="{{ icon.link }}" target="_blank">
-                                        <img width="{{ icon.width }}" src="{{ icon.image }}" alt="{{ icon.title }}">
-                                    </a>
-                                </div>
-                            {% endfor %}
-                        </div>
-                    </div>
-                    <hr>
-                    <div class="license text-center police-normal small p-2">
-                        {{ render_cc_license("by-sa", "normal") }}
-                    </div>
-                    <!-- &copy; Copyleft 2018 by Nicolas Pettiaux. -->
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div id="mobile-sidebar" class="d-block d-sm-none">
+<div id="sidebar" class="d-none d-sm-block col-sm-4 col-md-3 col-lg-2 float-left pl-0 pr-0">
+    <div class="position-fixed d-none d-sm-block col-sm-4 col-md-3 col-lg-2 float-left pl-0 pr-0">
         <div id="sidebar-wrapper">
             <div class="text-center brand">
                 <a href="{{ '/' | url }}">
-                    <img src="{{ '/imgs/educode-logo-transparent.png' | url }}" alt="">
+                    <img src="{{ '/imgs/educode_logo_mono/monochrome/svg/complet.svg' | url }}" alt="">
+                    <!-- TODO: Put outline on logo -->
                 </a>
             </div>
             <div class="list-group border-0 card">
-                    <!-- we create the menu -->
-                    {% for item in menu %}
-                        <!-- if the current item contains children -->
-                        {% if item.expandable %}
-                            <a href="{{ item.href + "--mobile" }}"
-                               class="list-group-item d-inline-block collapsed menu-expandable"
-                               data-toggle="collapse"
-                               aria-expanded="false">{{ item.text }}</a>
+                <!-- we create the menu -->
+                {% for item in menu %}
+                <!-- if the current item contains children -->
+                {% if item.expandable %}
+                <a href="{{ item.href | url }}" class="list-group-item d-inline-block collapsed menu-expandable"
+                    data-toggle="collapse" aria-expanded="false">{{ item.text }}</a>
 
-                            <div class="collapse" id="{{ item.href[1:] + "--mobile" }}">
-                                {% for subitem in item.children %}
-                                    <a href="{{ subitem.href }}" class="list-group-item item-expanded">
-                                        <i class="fa fa-angle-right" aria-hidden="true"></i>
-                                        {{ subitem.text }}
-                                    </a>
-                                {% endfor %}
-                            </div>
-
-                        {% else %}
-                            <a href="{{ item.href }}" class="list-group-item d-inline-block">{{ item.text }}</a>
-                        {% endif %}
+                <div class="collapse" id="{{ item.href[1:] | url }}">
+                    {% for subitem in item.children %}
+                    <a href="{{ subitem.href | url }}" class="list-group-item item-expanded">
+                        <i class="fa fa-angle-right" aria-hidden="true"></i>
+                        {{ subitem.text }}
+                    </a>
                     {% endfor %}
-                    <hr>
-                    {%
-                        set icons = [
-                            {
-                                "image": "/partenaires/inoviris/inoviris_logo.svg" | url(''),
-                                "link": "https://innoviris.brussels/fr",
-                                "title": "Inoviris",
-                                "width": "75px"
-                            },
-                            {
-                                "image": "/partenaires/he2b/HE2B-white-bg.jpg" | url(''),
-                                "link": "https://www.he2b.be/",
-                                "title": "HE2B",
-                                "width": "75px"
-                            },
-                            {
-                                "image": "/partenaires/universite-de-liege/pasted-image-small-119.png" | url(''),
-                                "link": "http://ulg.ac.be",
-                                "title": "ULiège",
-                                "width": "75px"
-                            },
-                            {
-                                "image": "/partenaires/digital-wallonia/digitalwallonia-logo-degrades-358x259.png" | url(''),
-                                "link": "https://www.digitalwallonia.be",
-                                "title": "Digital Wallonia",
-                                "width": "55px"
-                            },
-                            {
-                                "image": "/partenaires/odoo/odoo_logo.png" | url(''),
-                                "link": "http://odoo.com",
-                                "title": "Odoo",
-                                "width": "50px"
-                            },
-                            {
-                                "image": "/partenaires/cirb/cirb_220_620.png" | url(''),
-                                "link": "http://cirb.brussels",
-                                "title": "Cirb",
-                                "width": "60px"
-                            }
-                        ]
-                    %}
-                    <div class="container">
-                        <div class="row">
-                            {% for icon in icons %}
-                                <div class="col-6 text-center mb-1 p-1">
-                                    <a href="{{ icon.link }}" target="_blank">
-                                        <img width="{{ icon.width }}" src="{{ icon.image }}" alt="{{ icon.title }}">
-                                    </a>
-                                </div>
-                            {% endfor %}
-                        </div>
-                    </div>
-                    <hr>
-                    <div class="license text-center police-normal small p-2">
-                        {{ render_cc_license("by-sa", "normal") }}
-                    </div>
-                    <!-- &copy; Copyleft 2018 by Nicolas Pettiaux. -->
                 </div>
+
+                {% else %}
+                <a href="{{ item.href }}" class="list-group-item d-inline-block">{{ item.text }}</a>
+                {% endif %}
+                {% endfor %}
+                <hr>
+                <!-- SET SPONSORS -->
+    
+                <!-- EXEMPLE -->
+                <!-- Fill JSON with something like this -->
+                <!-- { 
+                    "image": "/partenaires/inoviris/inoviris_logo.svg" | url,
+                    "link": "https://innoviris.brussels/fr",
+                    "title": "Inoviris",
+                    "width": "100px"
+                } -->
+                {%
+                    set sponsors = [
+                    ]
+                %}
+
+                <!-- SPONSORS -->
+                <div class="container">
+                    <div class="row">
+                        {% for sponsor in sponsors %}
+                        <div class="col-6 text-center mb-1 p-1">
+                            <a href="{{ sponsor.link }}" target="_blank">
+                                <img width="{{ sponsor.width }}" src="{{ sponsor.image }}" alt="{{ sponsor.title }}">
+                            </a>
+                        </div>
+                        {% endfor %}
+                    </div>
+                </div>
+
+                <hr>
+
+                <div class="license text-center police-normal small p-2">
+                    {{ render_cc_license("by-sa", "normal") }}
+                </div>
+                <!-- &copy; Copyleft 2018 by Nicolas Pettiaux. -->
+
+            </div>
         </div>
     </div>
+</div>
+
+<!-- TODO: find a way to remove this duplicated code -->
+<div id="mobile-sidebar" class="d-block d-sm-none">
+    <div id="sidebar-wrapper">
+        <div class="text-center brand">
+            <a href="{{ '/' | url }}">
+                <img src="{{ '/imgs/educode_logo_mono/monochrome/svg/complet.svg' | url }}" alt="">
+                <!-- TODO: Put outline on logo -->
+            </a>
+        </div>
+        <div class="list-group border-0 card">
+            <!-- we create the menu -->
+            {% for item in menu %}
+            <!-- if the current item contains children -->
+            {% if item.expandable %}
+            <a href="{{ item.href + "--mobile" | url }}"
+                class="list-group-item d-inline-block collapsed menu-expandable" data-toggle="collapse"
+                aria-expanded="false">{{ item.text }}</a>
+
+            <div class="collapse" id="{{ item.href[1:] + "--mobile" | url }}">
+                {% for subitem in item.children %}
+                <a href="{{ subitem.href | url }}" class="list-group-item item-expanded">
+                    <i class="fa fa-angle-right" aria-hidden="true"></i>
+                    {{ subitem.text }}
+                </a>
+                {% endfor %}
+            </div>
+
+            {% else %}
+            <a href="{{ item.href }}" class="list-group-item d-inline-block">{{ item.text }}</a>
+            {% endif %}
+            {% endfor %}
+            <hr>
+            {%
+                set sponsors = [
+                ]
+            %}
+            <div class="container">
+                <div class="row">
+                    {% for sponsor in sponsors %}
+                    <div class="col-6 text-center mb-1 p-1">
+                        <a href="{{ sponsor.link }}" target="_blank">
+                            <img width="{{ sponsor.width }}" src="{{ sponsor.image }}" alt="{{ icon.title }}">
+                        </a>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+            <hr>
+            <div class="license text-center police-normal small p-2">
+                {{ render_cc_license("by-sa", "normal") }}
+            </div>
+            <!-- &copy; Copyleft 2018 by Nicolas Pettiaux. -->
+        </div>
+    </div>
+</div>
 {% endmacro %}
