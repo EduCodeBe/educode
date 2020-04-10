@@ -10,19 +10,37 @@
     ]
 %}
 
+<!-- SPONSORS CONFIGURATION -->
+<!-- EXEMPLE -->
+<!-- Fill JSON with something like this -->
+<!-- { 
+        "image": "/partenaires/inoviris/inoviris_logo.svg" | url,
+        "link": "https://innoviris.brussels/fr",
+        "title": "Inoviris",
+        "width": "100px"
+    } -->
+
+{%
+    set sponsors = 
+        [
+            
+        ]
+%}
+
 <div id="sidebar" class="d-none d-sm-block col-sm-4 col-md-3 col-lg-2 float-left pl-0 pr-0">
     <div class="position-fixed d-none d-sm-block col-sm-4 col-md-3 col-lg-2 float-left pl-0 pr-0">
         <div id="sidebar-wrapper">
             <!-- BRAND -->
             <div class="text-center brand">
                 <a href="{{ '/' | url }}">
-                    <img src="{{ '/imgs/educode_logo_mono/monochrome/outlined/complet 1pt.png' | url }}" alt="">
-                    <!-- Improve logo display -->
+                    <img src="{{ '/imgs/educode_logo_mono/monochrome/outlined/complet 1pt.png' | url }}"
+                        alt="Educode logo">
+                    <!-- TODO: Improve logo display -->
                 </a>
             </div>
 
-            <div class="list-group border-0 card">
-                <!-- MENU -->
+            <!-- MENU -->
+            <div class="list-group border-0 card my-3">
                 {% for item in menu %}
                 {% if item.expandable %}
                 <a href="{{ item.href | url }}" class="list-group-item d-inline-block collapsed menu-expandable"
@@ -43,27 +61,13 @@
                 {% endfor %}
             </div>
 
-            <hr>
-
             <!-- SPONSORS -->
-            <!-- EXEMPLE -->
-            <!-- Fill JSON with something like this -->
-            <!-- { 
-                    "image": "/partenaires/inoviris/inoviris_logo.svg" | url,
-                    "link": "https://innoviris.brussels/fr",
-                    "title": "Inoviris",
-                    "width": "100px"
-                } -->
-            {%
-                    set sponsors = [
-                    ]
-                %}
             <div class="container">
                 <div class="row">
                     {% for sponsor in sponsors %}
                     <div class="col-6 text-center mb-1 p-1">
                         <a href="{{ sponsor.link }}" target="_blank">
-                            <img width="{{ sponsor.width }}" src="{{ sponsor.image }}" alt="{{ sponsor.title }}">
+                            <img width="{{ sponsor.width }}" src="{{ sponsor.image | url }}" alt="{{ sponsor.title }}">
                         </a>
                     </div>
                     {% endfor %}
@@ -85,14 +89,14 @@
     <div id="sidebar-wrapper">
         <div class="text-center brand">
             <a href="{{ '/' | url }}">
-                <img src="{{ '/imgs/educode_logo_mono/monochrome/svg/complet.svg' | url }}" alt="">
-                <!-- TODO: Put outline on logo -->
+                <img src="{{ '/imgs/educode_logo_mono/monochrome/outlined/complet 1pt.png' | url }}" alt="Educode logo">
+                <!-- TODO: Improve logo display -->
             </a>
         </div>
-        <div class="list-group border-0 card">
-            <!-- we create the menu -->
+
+        <!-- MENU -->
+        <div class="list-group border-0 card my-3">
             {% for item in menu %}
-            <!-- if the current item contains children -->
             {% if item.expandable %}
             <a href="{{ item.href + "--mobile" | url }}"
                 class="list-group-item d-inline-block collapsed menu-expandable" data-toggle="collapse"
@@ -111,28 +115,27 @@
             <a href="{{ item.href | url }}" class="list-group-item d-inline-block">{{ item.text }}</a>
             {% endif %}
             {% endfor %}
-            <hr>
-            {%
-                set sponsors = [
-                ]
-            %}
-            <div class="container">
-                <div class="row">
-                    {% for sponsor in sponsors %}
-                    <div class="col-6 text-center mb-1 p-1">
-                        <a href="{{ sponsor.link }}" target="_blank">
-                            <img width="{{ sponsor.width }}" src="{{ sponsor.image }}" alt="{{ icon.title }}">
-                        </a>
-                    </div>
-                    {% endfor %}
-                </div>
-            </div>
-            <hr>
-            <div class="license text-center police-normal small p-2">
-                {{ render_cc_license("by-sa", "normal") }}
-            </div>
-            <!-- &copy; Copyleft 2018 by Nicolas Pettiaux. -->
+
         </div>
+
+        <!-- SPONSORS -->
+        <div class="container">
+            <div class="row">
+                {% for sponsor in sponsors %}
+                <div class="col-6 text-center mb-1 p-1">
+                    <a href="{{ sponsor.link }}" target="_blank">
+                        <img width="{{ sponsor.width }}" src="{{ sponsor.image | url}}" alt="{{ icon.title }}">
+                    </a>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+
+        <!-- COPYRIGHT -->
+        <div class="license text-center police-normal small p-2">
+            {{ render_cc_license("by-sa", "normal") }}
+        </div>
+        <!-- &copy; Copyleft 2018 by Nicolas Pettiaux. -->
     </div>
 </div>
 {% endmacro %}
