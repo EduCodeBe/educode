@@ -1,4 +1,5 @@
-{% from "macros/sections.html" import render_sidebar %}
+{% from "macros/sidebar.html" import render_sidebar %}
+{% from "macros/language-menu.html" import render_language_menu %}
 
 <!doctype html>
 <html>
@@ -30,24 +31,8 @@
 
             <!-- LANGUAGE MENU -->
             <main class="col col-sm-8 col-md-9 col-lg-10 float-left p-0 main">
-                <div class="container-fluid">
-                    <div class="language row">
-                        <div class="col-12">
-                            <span class="text-white">Langue</span>
-
-                            <a class="language-link" href="{{ this.path | url(alt='fr') }}">
-                                <img src="https://www.countryflags.io/fr/flat/16.png" alt="French"> FR
-                            </a>
-                            <a class="language-link" href="{{ this.path | url(alt='nl') }}">
-                                <img src="https://www.countryflags.io/nl/flat/16.png" alt="Dutch"> NL
-                            </a>
-                            <a class="language-link" href="{{ this.path | url(alt='en') }}">
-                                <img src="https://www.countryflags.io/gb/flat/16.png" alt="English"> EN
-                            </a>
-
-                        </div>
-                    </div>
-                </div>
+                <!-- LANGUAGE MENU -->
+                {{ render_language_menu(this) }}
 
                 <!-- CONTENT -->
                 <div id="content-wrapper">
