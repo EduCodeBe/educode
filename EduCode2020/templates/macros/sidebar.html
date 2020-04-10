@@ -1,12 +1,13 @@
 {% macro render_sidebar() %}
 
 <!-- MENU CONFIGURATION -->
+<!-- You can't set an anchor inside the field 'href'. Using this will result a bad behavior with alternatives -->
 {%
     set menu = [
-        {"expandable": False, "href": "/#anchor-a-propos",  "text": "A propos"},
-        {"expandable": False, "href": "/#anchor-speakers",  "text": "Les intervenants"},
-        {"expandable": False, "href": "/#anchor-participate",  "text": "Participer"},
-        {"expandable": False, "href": "/#anchor-wiki",  "text": "Wiki"}
+    {"expandable": False, "href": "/", "anchor": "#anchor-a-propos", "text": "A propos"},
+    {"expandable": False, "href": "/", "anchor": "#anchor-speakers", "text": "Les intervenants"},
+    {"expandable": False, "href": "/", "anchor": "#anchor-participate", "text": "Participer"},
+    {"expandable": False, "href": "/", "anchor": "#anchor-wiki", "text": "Wiki"},
     ]
 %}
 
@@ -43,12 +44,12 @@
             <div class="list-group border-0 card my-3">
                 {% for item in menu %}
                 {% if item.expandable %}
-                <a href="{{ item.href | url }}" class="list-group-item d-inline-block collapsed menu-expandable"
+                <a href="{{ (item.href | url) + item.anchor }}" class="list-group-item d-inline-block collapsed menu-expandable"
                     data-toggle="collapse" aria-expanded="false">{{ item.text }}</a>
 
-                <div class="collapse" id="{{ item.href[1:] | url }}">
+                <div class="collapse" id="{{ (item.href[1:] | url) + item.anchor }}">
                     {% for subitem in item.children %}
-                    <a href="{{ subitem.href | url }}" class="list-group-item item-expanded">
+                    <a href="{{ (subitem.href | url) + item.anchor }}" class="list-group-item item-expanded">
                         <i class="fa fa-angle-right" aria-hidden="true"></i>
                         {{ subitem.text }}
                     </a>
@@ -56,7 +57,7 @@
                 </div>
 
                 {% else %}
-                <a href="{{ item.href | url }}" class="list-group-item d-inline-block">{{ item.text }}</a>
+                <a href="{{ (item.href | url) + item.anchor }}" class="list-group-item d-inline-block">{{ item.text }}</a>
                 {% endif %}
                 {% endfor %}
             </div>
@@ -98,13 +99,13 @@
         <div class="list-group border-0 card my-3">
             {% for item in menu %}
             {% if item.expandable %}
-            <a href="{{ item.href + "--mobile" | url }}"
+            <a href="{{ (item.href + "--mobile" | url) + item.anchor }}"
                 class="list-group-item d-inline-block collapsed menu-expandable" data-toggle="collapse"
                 aria-expanded="false">{{ item.text }}</a>
 
-            <div class="collapse" id="{{ item.href[1:] + "--mobile" | url }}">
+            <div class="collapse" id="{{ (item.href[1:] + "--mobile" | url) + item.anchor }}">
                 {% for subitem in item.children %}
-                <a href="{{ subitem.href | url }}" class="list-group-item item-expanded">
+                <a href="{{ (subitem.href | url) + subitem.anchor }}" class="list-group-item item-expanded">
                     <i class="fa fa-angle-right" aria-hidden="true"></i>
                     {{ subitem.text }}
                 </a>
@@ -112,7 +113,7 @@
             </div>
 
             {% else %}
-            <a href="{{ item.href | url }}" class="list-group-item d-inline-block">{{ item.text }}</a>
+            <a href="{{ (item.href | url) + item.anchor }}" class="list-group-item d-inline-block">{{ item.text }}</a>
             {% endif %}
             {% endfor %}
 
