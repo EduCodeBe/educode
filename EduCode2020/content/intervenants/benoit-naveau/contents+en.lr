@@ -1,7 +1,3 @@
-_model: speaker
----
-title: Benoît Naveau
----
 country: Belgium
 ---
 dates: journee-principale
@@ -46,8 +42,10 @@ Vidéo de présentation :
 
 Vous pouvez rejoindre la Robotic Academy sur :
 
-[![Robot Academy sur Youtube](robot-academy-youtube.png)](https://www.youtube.com/channel/UCiVET6HJpiu62Uzgui5neNQ)
-[![Robot Academy sur Facebook](robot-academy-facebook.png)](https://www.facebook.com/lsgTeam)
+[![Robot Academy sur Youtube](/intervenants/benoit-naveau/robot-academy-youtube.png)](https://www.youtube.com/channel/UCiVET6HJpiu62Uzgui5neNQ)
+[![Robot Academy sur Facebook](/intervenants/benoit-naveau/robot-academy-facebook.png)](https://www.facebook.com/lsgTeam)
 
 ---
 name: Benoît Naveau
+---
+title: Benoît Naveau

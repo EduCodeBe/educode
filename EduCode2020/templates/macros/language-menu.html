@@ -1,0 +1,22 @@
+{% macro render_language_menu(context) %}
+
+<div class="container-fluid">
+    <div class="language row">
+        <div class="col-12">
+            <span class="text-white">Langue</span>
+
+            <a class="language-link" href="{{ context.path | url(alt='fr') }}">
+                <img src="https://www.countryflags.io/fr/flat/16.png" alt="French"> FR
+            </a>
+            <a class="language-link" href="{{ context.path | url(alt='nl') }}">
+                <img src="https://www.countryflags.io/nl/flat/16.png" alt="Dutch"> NL
+            </a>
+            <a class="language-link" href="{{ context.path | url(alt='en') }}">
+                <img src="https://www.countryflags.io/gb/flat/16.png" alt="English"> EN
+            </a>
+
+        </div>
+    </div>
+</div>
+
+{% endmacro %}

@@ -1,0 +1,142 @@
+{% macro render_sidebar() %}
+
+<!-- MENU CONFIGURATION -->
+<!-- You can't set an anchor inside the field 'href'. Using this will result a bad behavior with alternatives -->
+{%
+    set menu = [
+    {"expandable": False, "href": "/", "anchor": "#anchor-a-propos", "text": "A propos"},
+    {"expandable": False, "href": "/", "anchor": "#anchor-speakers", "text": "Les intervenants"},
+    {"expandable": False, "href": "/", "anchor": "#anchor-participate", "text": "Participer"},
+    {"expandable": False, "href": "/", "anchor": "#anchor-wiki", "text": "Wiki"},
+    ]
+%}
+
+<!-- SPONSORS CONFIGURATION -->
+<!-- EXEMPLE -->
+<!-- Fill JSON with something like this -->
+<!-- { 
+        "image": "/partenaires/inoviris/inoviris_logo.svg" | url,
+        "link": "https://innoviris.brussels/fr",
+        "title": "Inoviris",
+        "width": "100px"
+    } -->
+
+{%
+    set sponsors = 
+        [
+            
+        ]
+%}
+
+<div id="sidebar" class="d-none d-sm-block col-sm-4 col-md-3 col-lg-2 float-left pl-0 pr-0">
+    <div class="position-fixed d-none d-sm-block col-sm-4 col-md-3 col-lg-2 float-left pl-0 pr-0">
+        <div id="sidebar-wrapper">
+            <!-- BRAND -->
+            <div class="text-center brand">
+                <a href="{{ '/' | url }}">
+                    <img src="{{ '/imgs/educode_logo_mono/monochrome/outlined/complet 1pt.png' | url }}"
+                        alt="Educode logo">
+                    <!-- TODO: Improve logo display -->
+                </a>
+            </div>
+
+            <!-- MENU -->
+            <div class="list-group border-0 card my-3">
+                {% for item in menu %}
+                {% if item.expandable %}
+                <a href="{{ (item.href | url) + item.anchor }}" class="list-group-item d-inline-block collapsed menu-expandable"
+                    data-toggle="collapse" aria-expanded="false">{{ item.text }}</a>
+
+                <div class="collapse" id="{{ (item.href[1:] | url) + item.anchor }}">
+                    {% for subitem in item.children %}
+                    <a href="{{ (subitem.href | url) + item.anchor }}" class="list-group-item item-expanded">
+                        <i class="fa fa-angle-right" aria-hidden="true"></i>
+                        {{ subitem.text }}
+                    </a>
+                    {% endfor %}
+                </div>
+
+                {% else %}
+                <a href="{{ (item.href | url) + item.anchor }}" class="list-group-item d-inline-block">{{ item.text }}</a>
+                {% endif %}
+                {% endfor %}
+            </div>
+
+            <!-- SPONSORS -->
+            <div class="container">
+                <div class="row">
+                    {% for sponsor in sponsors %}
+                    <div class="col-6 text-center mb-1 p-1">
+                        <a href="{{ sponsor.link }}" target="_blank">
+                            <img width="{{ sponsor.width }}" src="{{ sponsor.image | url }}" alt="{{ sponsor.title }}">
+                        </a>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+
+            <!-- COPYRIGHT -->
+            <div class="license text-center police-normal small p-2">
+                {{ render_cc_license("by-sa", "normal") }}
+            </div>
+            <!-- &copy; Copyleft 2018 by Nicolas Pettiaux. -->
+
+        </div>
+    </div>
+</div>
+
+<!-- TODO: find a way to remove this duplicated code -->
+<div id="mobile-sidebar" class="d-block d-sm-none">
+    <div id="sidebar-wrapper">
+        <div class="text-center brand">
+            <a href="{{ '/' | url }}">
+                <img src="{{ '/imgs/educode_logo_mono/monochrome/outlined/complet 1pt.png' | url }}" alt="Educode logo">
+                <!-- TODO: Improve logo display -->
+            </a>
+        </div>
+
+        <!-- MENU -->
+        <div class="list-group border-0 card my-3">
+            {% for item in menu %}
+            {% if item.expandable %}
+            <a href="{{ (item.href + "--mobile" | url) + item.anchor }}"
+                class="list-group-item d-inline-block collapsed menu-expandable" data-toggle="collapse"
+                aria-expanded="false">{{ item.text }}</a>
+
+            <div class="collapse" id="{{ (item.href[1:] + "--mobile" | url) + item.anchor }}">
+                {% for subitem in item.children %}
+                <a href="{{ (subitem.href | url) + subitem.anchor }}" class="list-group-item item-expanded">
+                    <i class="fa fa-angle-right" aria-hidden="true"></i>
+                    {{ subitem.text }}
+                </a>
+                {% endfor %}
+            </div>
+
+            {% else %}
+            <a href="{{ (item.href | url) + item.anchor }}" class="list-group-item d-inline-block">{{ item.text }}</a>
+            {% endif %}
+            {% endfor %}
+
+        </div>
+
+        <!-- SPONSORS -->
+        <div class="container">
+            <div class="row">
+                {% for sponsor in sponsors %}
+                <div class="col-6 text-center mb-1 p-1">
+                    <a href="{{ sponsor.link }}" target="_blank">
+                        <img width="{{ sponsor.width }}" src="{{ sponsor.image | url}}" alt="{{ icon.title }}">
+                    </a>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+
+        <!-- COPYRIGHT -->
+        <div class="license text-center police-normal small p-2">
+            {{ render_cc_license("by-sa", "normal") }}
+        </div>
+        <!-- &copy; Copyleft 2018 by Nicolas Pettiaux. -->
+    </div>
+</div>
+{% endmacro %}
