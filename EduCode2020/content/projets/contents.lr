@@ -1,7 +1,13 @@
 _model: projets
 ---
-description: TODO : description plincipale
+description:
+
+La pandémie du covd19 montre la nécessité que les enseignants, les directions d’établissements et les parents soient formés aux méthodes d’enseignement à distance avec le numérique, disposent des outils adéquats avec un support professionnel, tant pour les aspects pédagogiques que techniques, et des logiciels et contenus pour assurer dans les meilleures conditions la continuité pédagogique.
+
+Notre offre consiste à accompagner les écoles face aux défis du numérique : conférences, cours, ateliers, en présentiel ou à distance, pour développer l'usage de l'informatique en classe et apprendre aux enseignants à adopter le numérique pour le maîtriser. Educode veut dans le même ordre d'idées offrir les mêmes services à toutes les personnes qui veulent apprendre.
+
+Educode propose des formations, ateliers et accompagnements professionnels pour des groupes de 1 à 20 personnes en visioconférence (ou en présentiel) en mode fortement interactif et participatif ([EducodeSchool](#educodeschool)), ou en mode de conférences diffusées avec interaction textuelle (chat) ([EducodeTV](#educodetv)), sur tous les sujets liés au numérique à l’école : les méthodes d’enseignement à distance, mais aussi les outils et logiciels tant sur des serveurs que sur les postes de travail et les smartphones. Exemple : programmation, robotique, développement photographique, mathématique…
 ---
-educodeschool: TODO : description EducodeSchool
+educodeschool: EducodeSchool travaille activement à la mise en place de la formation "méthodologie de travail en ligne". De nouvelles informations seront très prochainement publiés.
 ---
-educodetv: TODO : description EducodeTV
+educodetv: Retrouvez ci-dessous certaines de nos formations.

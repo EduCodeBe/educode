@@ -13,7 +13,7 @@
         
         {% set ateliers = this.children.include_hidden(false).filter(F.projet == 'EducodeTV') %}
         {% for atelier in ateliers %}
-        <div>
+        <div id="{{ atelier._id }}">
             <h3>{{ atelier.title }}</h3>
             <p>{{ atelier.description }}</p>
             {% if atelier.video %}
