@@ -5,6 +5,11 @@
 {%
     set menu = [
     {"expandable": False, "href": "/", "anchor": "#anchor-a-propos", "text": "A propos"},
+    {"expandable": True, "href": "/projets", "anchor": "", "text": "Les projets",
+        "children": [
+            {"href": "/projets", "anchor": "#educodetv", "text": "EducodeTV"},
+            {"href": "/projets", "anchor": "#educodeschool", "text": "EducodeSchool"}
+        ]},
     {"expandable": False, "href": "/", "anchor": "#anchor-speakers", "text": "Les intervenants"},
     {"expandable": False, "href": "/", "anchor": "#anchor-participate", "text": "Participer"},
     {"expandable": False, "href": "/", "anchor": "#anchor-wiki", "text": "Wiki"},
@@ -44,20 +49,22 @@
             <div class="list-group border-0 card my-3">
                 {% for item in menu %}
                 {% if item.expandable %}
-                <a href="{{ (item.href | url) + item.anchor }}" class="list-group-item d-inline-block collapsed menu-expandable"
-                    data-toggle="collapse" aria-expanded="false">{{ item.text }}</a>
+                <a href="{{ (item.href | url) + item.anchor }}"
+                    class="list-group-item d-inline-block collapsed menu-expandable" data-toggle="collapse"
+                    data-target="#sub{{ item.href[1:] + item.anchor }}" aria-expanded="false">{{ item.text }}</a>
 
-                <div class="collapse" id="{{ (item.href[1:] | url) + item.anchor }}">
+                <div class="collapse" id="sub{{ item.href[1:] + item.anchor }}">
                     {% for subitem in item.children %}
-                    <a href="{{ (subitem.href | url) + item.anchor }}" class="list-group-item item-expanded">
-                        <i class="fa fa-angle-right" aria-hidden="true"></i>
+                    <a href="{{ (subitem.href | url) + subitem.anchor }}" class="list-group-item item-expanded">
+                        <i class="fa fa-angle-right"></i>
                         {{ subitem.text }}
                     </a>
                     {% endfor %}
                 </div>
 
                 {% else %}
-                <a href="{{ (item.href | url) + item.anchor }}" class="list-group-item d-inline-block">{{ item.text }}</a>
+                <a href="{{ (item.href | url) + item.anchor }}"
+                    class="list-group-item d-inline-block">{{ item.text }}</a>
                 {% endif %}
                 {% endfor %}
             </div>
@@ -101,9 +108,9 @@
             {% if item.expandable %}
             <a href="{{ (item.href + "--mobile" | url) + item.anchor }}"
                 class="list-group-item d-inline-block collapsed menu-expandable" data-toggle="collapse"
-                aria-expanded="false">{{ item.text }}</a>
+                data-target="#sub{{ item.href[1:] + item.anchor + '--mobile' }}" aria-expanded="false">{{ item.text }}</a>
 
-            <div class="collapse" id="{{ (item.href[1:] + "--mobile" | url) + item.anchor }}">
+            <div class="collapse" id="sub{{ item.href[1:] + item.anchor + '--mobile'}}">
                 {% for subitem in item.children %}
                 <a href="{{ (subitem.href | url) + subitem.anchor }}" class="list-group-item item-expanded">
                     <i class="fa fa-angle-right" aria-hidden="true"></i>

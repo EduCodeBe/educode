@@ -1,0 +1,58 @@
+{% extends "layout.html" %}
+
+{% block content %}
+<main id="page-program" class="container">
+    <div class="content-wrapper">
+        <h1 class="title mb-5 text-center color-darker-yellow"><strong>Les projets</strong></h1>
+        <p>{{ this.description }}</p>
+
+        <h2 class="text-center" id="educodetv"><strong>EducodeTV</strong></h2>
+        <p>{{ this.educodetv }}</p>
+
+        <hr>
+        
+        {% set ateliers = this.children.include_hidden(false).filter(F.projet == 'EducodeTV') %}
+        {% for atelier in ateliers %}
+        <div id="{{ atelier._id }}">
+            <h3>{{ atelier.title }}</h3>
+            <p>{{ atelier.description }}</p>
+            {% if atelier.video %}
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/{{atelier.video}}" frameborder="0"
+                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen></iframe>
+            {% endif %}
+        </div>
+        
+        <hr>
+        {% endfor %}
+
+
+        <h2 class="text-center" id="educodeschool"><strong>EducodeSchool</strong></h2>
+        <p>{{ this.educodeschool }}</p>
+
+        <hr>
+        
+        {% set ateliers = this.children.include_hidden(false).filter(F.projet == 'EducodeSchool') %}
+        {% for atelier in ateliers %}
+        <div>
+            <h3>{{ atelier.title }}</h3>
+            <p>{{ atelier.description }}</p>
+            {% if atelier.video %}
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/{{atelier.video}}" frameborder="0"
+                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen></iframe>
+            {% endif %}
+        </div>
+
+        <hr>
+        {% endfor %}
+
+    </div>
+
+    <p class="text-center p-5">
+        <a class="btn btn-warning mb-1" href="{{ '/' | url }}">
+            <i class="fa fa-home"></i> Retour à l'accueil
+        </a>
+    </p>
+</main>
+{% endblock %}

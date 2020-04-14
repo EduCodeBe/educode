@@ -2,11 +2,15 @@ _template: page.html
 ---
 about:
 
-*Educode* veut aider les enseignants et les parents à assurer la continuité pédagogique grâce aux outils numériques, les former et les accompagner dans ces nouveaux défis. *Educode* s'organisera en *EducodeTV* et *EducodeSchool*. *EducodeTV* proposera mercredi 08/04/2020 de 15 à 16h sur [notre plateforme](https://conf.domainepublic.net/educodeSchool-photo), un webinard (conférence en ligne intéractive) sur la photographie par [Luc Viatour](../intervenants/luc-viatour/).
+En cette période de confinement pour cause virale, Educode veut aider les enseignants et les parents à assurer la continuité pédagogique grâce aux outils numériques, les former et les accompagner dans ces nouveaux défis. Educode propose donc le projet RELIE et organise les actions [EducodeTV](projets#educodetv) et [EducodeSchool](projets#educodeschool).
 
-Besoin de plus d'information sur cette conférence ? Rendez-vous sur [cette page](https://wiki.educode.be/doku.php/educodeschool_photo) de notre wiki.
+! EducodeTV sont des webinaires (des séminaires interactifs sur le web) et propose ce mardi 12/04/2020 de 15 à 16h sur [BBB](https://bbb-1.wsweet.cloud/b/nic-7vu-ygq ) un webinaire sur la robotique pédagogique par [Benoit Naveau](intervenants/benoit-naveau) et Vanessa Cacciatore.
+
+Besoin de plus d'information sur cette conférence ? Rendez-vous sur [cette page](./projets#la-robotique-pedagogique), ou sur notre [wiki](https://wiki.educode.be/doku.php/educodeschool/robotique/formation01).
 ---
-baseline: Aider les enseignants et les parents à l'occasion de l'urgence COVID-19
+baseline:
+
+ Accompagner les écoles face aux défis du numérique
 ---
 monday: A faire : overview
 ---
@@ -247,8 +251,12 @@ Pour des raisons indépendantes de notre volonté, la journée du [28 septembre]
 
 Une journée spécialement dédiée aux enseignants intéressés par l'informatique débranchée.
 ---
-wiki: Pour tout renseignement, rejoignez-nous sur le [wiki](https://wiki.educode.be/doku.php).
+wiki:
+
+Le wiki est une plateforme ressemblant à, Wikipedia. Il contient beaucoup d'informations utiles sur tous nos projets, et tous le monde peut y participer.
+
+Pour tout renseignement, [rejoignez-nous](https://wiki.educode.be/doku.php) !
 ---
 form: Afin de nous permettre d'organiser au mieux ces activités, nous aimerions que vous remplissiez ce petit questionnaire
 ---
-formulaire: Afin de nous permettre d'organiser au mieux les activités, veuillez remplir le formulaire ci-dessous.
+formulaire: Afin de nous permettre d'organiser au mieux les activités, ainsi que de vous proposer des activités qui vous intéressent, veuillez remplir le formulaire ci-dessous.
