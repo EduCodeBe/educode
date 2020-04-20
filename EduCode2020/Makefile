@@ -1,5 +1,5 @@
 #NOM	: Makefile
-#HOWTO	: 
+#HOWTO	: make, make crowdin-pull, make crowdin-push
 #AUTEUR	: 
 #CONTACT: 
 
