@@ -1,20 +1,28 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: EduCode 2020\n"
+"Project-Id-Version: educode\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-04-19 18:17+CET\n"
-"PO-Revision-Date: 2020-04-19 18:15+CET\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"POT-Creation-Date: 2020-04-23 10:56+CET\n"
+"PO-Revision-Date: 2020-04-19 17:38\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Spanish\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: educode\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: educode2020.pot\n"
 
 #: http://localhost/intervenants/benoit-naveau/
 #: (content/intervenants/benoit-naveau/contents+fr.lr:speaker.description)
 msgid "- Coach First Lego League depuis 2017"
+msgstr ""
+
+#: http://localhost/projets/learning-management-systems-moodle/
+#: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description)
+msgid "COURS N°3 : LES RESSOURCES au service des ACTIVITES."
 msgstr ""
 
 #: http://localhost/intervenants/luc-viatour/
@@ -22,14 +30,31 @@ msgstr ""
 msgid "[https://Lucnix.be](https://Lucnix.be)"
 msgstr ""
 
+#: http://localhost/projets/learning-management-systems-moodle/
+#: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description)
+msgid "COURS N° 5 : LES QCM EN LIGNE."
+msgstr ""
+
 #: http://localhost/intervenants/benoit-naveau/
 #: (content/intervenants/benoit-naveau/contents+fr.lr:speaker.description)
 msgid "- Formateur et coordinateur en robotique pour EducodeSchool"
 msgstr ""
 
+#: http://localhost/projets/
+#: (content/projets/contents+fr.lr:projets.educodeschool)
+msgid ""
+"Retrouvez ci-dessous certaines de nos formations pensées pour les "
+"enseignants."
+msgstr ""
+
 #: http://localhost/intervenants/benoit-naveau/
 #: (content/intervenants/benoit-naveau/contents+fr.lr:speaker.description)
 msgid "- Animateur et formateur chez Kaleidi"
+msgstr ""
+
+#: http://localhost/projets/learning-management-systems-moodle/
+#: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description)
+msgid "COURS N°2 : ORGANISER SON ESPACE MOODLE."
 msgstr ""
 
 #: http://localhost/intervenants/benoit-naveau/
@@ -43,9 +68,14 @@ msgid ""
 "pédagogie."
 msgstr ""
 
-#: http://localhost/intervenants/benoit-naveau/
-#: (content/intervenants/benoit-naveau/contents+fr.lr:speaker.description)
-msgid "Vidéo de présentation :"
+#: http://localhost/projets/
+#: (content/projets/contents+fr.lr:projets.description)
+msgid ""
+"Notre offre consiste à accompagner les écoles face aux défis du numérique : "
+"conférences, cours, ateliers, en présentiel ou à distance, pour développer "
+"l'usage de l'informatique en classe et apprendre aux enseignants à adopter "
+"le numérique pour le maîtriser. Educode veut dans le même ordre d'idées "
+"offrir les mêmes services à toutes les personnes qui veulent apprendre."
 msgstr ""
 
 #: http://localhost/intervenants/laurence-bourguignon/
@@ -53,6 +83,17 @@ msgstr ""
 msgid ""
 "* Auteur d'un blog à photos sur [pinterest](https://www.pinterest.com/"
 "LoBourg/)"
+msgstr ""
+
+#: http://localhost/projets/la-robotique-pedagogique/
+#: (content/projets/la-robotique-pedagogique/contents+fr.lr:atelier.description)
+msgid ""
+"Pour les enseignant, mon objectif est de les former à la robotique "
+"pédagogique à l'aide du dossier pédagogique centré sur l’apprentissage des "
+"mathématiques tout en développant d'autres compétences disciplinaires et "
+"surtout transversales en lien avec leur programme, A terme, ils deviendront "
+"autonome afin qu'ils puissent percoler cette méthode au sein de leur "
+"pédagogie."
 msgstr ""
 
 #: http://localhost/intervenants/benoit-naveau/
@@ -75,6 +116,29 @@ msgstr ""
 msgid "Bienvenue à educode"
 msgstr ""
 
+#: http://localhost/projets/learning-management-systems-moodle/
+#: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description)
+msgid ""
+"COURS N°4 : MISE EN PLACE D'UNE PLATEFORME MOODLE pour une école primaire ou "
+"le 1er degré du secondaire."
+msgstr ""
+
+#: http://localhost/projets/
+#: (content/projets/contents+fr.lr:projets.description)
+msgid ""
+"La pandémie du covd19 montre la nécessité que les enseignants, les "
+"directions d’établissements et les parents soient formés aux méthodes "
+"d’enseignement à distance avec le numérique, disposent des outils adéquats "
+"avec un support professionnel, tant pour les aspects pédagogiques que "
+"techniques, et des logiciels et contenus pour assurer dans les meilleures "
+"conditions la continuité pédagogique."
+msgstr ""
+
+#: http://localhost/intervenants/luc-viatour/
+#: (content/intervenants/luc-viatour/contents+fr.lr:speaker.description)
+msgid "Travaille exclusivement avec des logiciels libres."
+msgstr ""
+
 #: http://localhost/intervenants/nicolas-pettiaux/
 #: (content/intervenants/nicolas-pettiaux/contents+fr.lr:speaker.description)
 msgid ""
@@ -83,17 +147,6 @@ msgid ""
 "du [laboratoire LISA](http://lisa.ulb.ac.be) de l'[École polytechnique]"
 "(http://www.ulb.ac.be/facs/polytech/) de l'[Université libre de Bruxelles]"
 "(http://ulb.ac.be)."
-msgstr ""
-
-#: http://localhost/intervenants/nicolas-pettiaux/
-#: (content/intervenants/nicolas-pettiaux/contents+fr.lr:speaker.description)
-msgid ""
-"Nicolas est un des représentants officiels de [Creative Commons](http://"
-"creativecommons.org) en Belgique. Il pense en particulier que la licence par "
-"défaut pour tous les travaux des élèves, étudiants et professeurs devrait "
-"être la licence [CC-BY](https://creativecommons.org/licenses/by/2.0/fr/) et "
-"que tous les travaux financés par des deniers publics devraient être sous la "
-"licence [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/fr/)."
 msgstr ""
 
 #: http://localhost/intervenants/nicolas-pettiaux/
@@ -111,6 +164,27 @@ msgid ""
 "outils numériques, les former et les accompagner dans ces nouveaux défis. "
 "Educode propose donc le projet RELIE et organise les actions [EducodeTV]"
 "(projets#educodetv) et [EducodeSchool](projets#educodeschool)."
+msgstr ""
+
+#: http://localhost/intervenants/benoit-naveau/
+#: (content/intervenants/benoit-naveau/contents+fr.lr:speaker.description)
+msgid "- Facilitateur certifié à la méthode TeamPitfalls"
+msgstr ""
+
+#: http://localhost/intervenants/nicolas-pettiaux/
+#: (content/intervenants/nicolas-pettiaux/contents+fr.lr:speaker.description)
+msgid ""
+"Nicolas est un des représentants officiels de [Creative Commons](http://"
+"creativecommons.org) en Belgique. Il pense en particulier que la licence par "
+"défaut pour tous les travaux des élèves, étudiants et professeurs devrait "
+"être la licence [CC-BY](https://creativecommons.org/licenses/by/2.0/fr/) et "
+"que tous les travaux financés par des deniers publics devraient être sous la "
+"licence [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/fr/)."
+msgstr ""
+
+#: http://localhost/projets/learning-management-systems-moodle/
+#: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.title)
+msgid "Learning management systems - MOODLE"
 msgstr ""
 
 #: http://localhost/intervenants/luc-viatour/
@@ -148,6 +222,11 @@ msgid ""
 "mené et publié."
 msgstr ""
 
+#: http://localhost/projets/formation-a-darktable/
+#: (content/projets/formation-a-darktable/contents+fr.lr:atelier.title)
+msgid "Formation à darktable"
+msgstr ""
+
 #: http://localhost/intervenants/benoit-naveau/
 #: (content/intervenants/benoit-naveau/contents+fr.lr:speaker.description)
 msgid "**EducodeSchool**"
@@ -161,9 +240,9 @@ msgid ""
 "codes simples pour effectuer des mini défis)"
 msgstr ""
 
-#: http://localhost/intervenants/luc-viatour/
-#: (content/intervenants/luc-viatour/contents+fr.lr:speaker.description)
-msgid "Travaille exclusivement avec des logiciels libres."
+#: http://localhost/intervenants/benoit-naveau/
+#: (content/intervenants/benoit-naveau/contents+fr.lr:speaker.description)
+msgid "Vidéo de présentation :"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.formulaire)
@@ -175,7 +254,14 @@ msgstr ""
 
 #: http://localhost/intervenants/benoit-naveau/
 #: (content/intervenants/benoit-naveau/contents+fr.lr:speaker.description)
-msgid "- Facilitateur certifié à la méthode TeamPitfalls"
+msgid ""
+"Instituteur primaire en bonne partie en sixième et constatant une diminution "
+"d'intérêt et de motivation des élèves, je me suis mis à la recherche d'un "
+"moyen pour y pallier. Suite à différentes formations, j'ai commencé à "
+"intégrer le codage et la robotique. Les effets positifs sont arrivés très "
+"rapidement et c'est là que j'ai découvert les ingrédients nécessaires pour "
+"rendre les élèves actifs et investis : un projet réel, du sens à nos actions "
+"et une approche concrète des choses."
 msgstr ""
 
 #: http://localhost/intervenants/benoit-naveau/
@@ -213,6 +299,13 @@ msgid ""
 "lors de l'édition [2018 d'Educode](https://2018.educode.be)."
 msgstr ""
 
+#: http://localhost/ (content/contents+fr.lr:page.about)
+msgid ""
+"! EducodeSchool propose ce **jeudi 23/04/2020 de 15 à 16h** sur [BBB]"
+"(https://bbb-1.wsweet.cloud/b/nic-7vu-ygq ), une formation sur la plateforme "
+"Moodle, par [François Mottard](intervenants/françois-mottard)."
+msgstr ""
+
 #: http://localhost/intervenants/benoit-naveau/
 #: (content/intervenants/benoit-naveau/contents+fr.lr:speaker.description)
 msgid ""
@@ -242,6 +335,20 @@ msgid ""
 "* Coordinateur TICE pour [Forsud asbl](https://www.forsud.be/), accompagne "
 "les projets numériques de 30 écoles fondamentales & 66 implantations dans le "
 "sud des provinces de Hainaut et Namur."
+msgstr ""
+
+#: http://localhost/projets/
+#: (content/projets/contents+fr.lr:projets.description)
+msgid ""
+"Educode propose des formations, ateliers et accompagnements professionnels "
+"pour des groupes de 1 à 20 personnes en visioconférence (ou en présentiel) "
+"en mode fortement interactif et participatif ([EducodeSchool]"
+"(#educodeschool)), ou en mode de conférences diffusées avec interaction "
+"textuelle (chat) ([EducodeTV](#educodetv)), sur tous les sujets liés au "
+"numérique à l’école : les méthodes d’enseignement à distance, mais aussi les "
+"outils et logiciels tant sur des serveurs que sur les postes de travail et "
+"les smartphones. Exemple : programmation, robotique, développement "
+"photographique, mathématique…"
 msgstr ""
 
 #: http://localhost/intervenants/benoit-naveau/
@@ -274,6 +381,13 @@ msgid ""
 "Le wiki est une plateforme ressemblant à, Wikipedia. Il contient beaucoup "
 "d'informations utiles sur tous nos projets, et tous le monde peut y "
 "participer."
+msgstr ""
+
+#: http://localhost/projets/learning-management-systems-moodle/
+#: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description)
+msgid ""
+"COURS N°1 : MISE EN PLACE D'UNE PLATEFORME MOODLE totalement gratuite pour 1 "
+"ou 2 enseignants."
 msgstr ""
 
 #: http://localhost/intervenants/erick-mascart/
@@ -316,11 +430,6 @@ msgid ""
 "open-access."
 msgstr ""
 
-#: http://localhost/intervenants/erick-mascart/
-#: (content/intervenants/erick-mascart/contents+fr.lr:speaker.description)
-msgid "* Est membre actif de l'équipe Educode."
-msgstr ""
-
 #: http://localhost/intervenants/laurence-bourguignon/
 #: (content/intervenants/laurence-bourguignon/contents+fr.lr:speaker.description)
 msgid "* Institutrice dans le fondamental (primaire) depuis 23 ans."
@@ -357,6 +466,11 @@ msgid ""
 "convient d'appeler le «capitalisme de surveillance»."
 msgstr ""
 
+#: http://localhost/projets/la-robotique-pedagogique/
+#: (content/projets/la-robotique-pedagogique/contents+fr.lr:atelier.title)
+msgid "La robotique pédagogique"
+msgstr ""
+
 #: http://localhost/intervenants/benoit-naveau/
 #: (content/intervenants/benoit-naveau/contents+fr.lr:speaker.description)
 msgid "**EducodeTV:**"
@@ -367,6 +481,14 @@ msgstr ""
 msgid ""
 "* À co-animé 5 ateliers avec [Erick Mascart](../erick-mascart) lors de "
 "l'édition [2018 d'Educode](https://2018.educode.be)"
+msgstr ""
+
+#: http://localhost/projets/formation-a-darktable/
+#: (content/projets/formation-a-darktable/contents+fr.lr:atelier.description)
+msgid ""
+"Darktable, un logiciel de développement et optimisation de fichiers raw et "
+"jpg. Le cours vous apprendra à sublimer vos photos grâce aux noubreuses "
+"fonctionnalités qu'offre ce logiciel open source"
 msgstr ""
 
 #: http://localhost/intervenants/erick-mascart/
@@ -387,6 +509,10 @@ msgid ""
 "vie privée ou de la consommation d'énergie."
 msgstr ""
 
+#: http://localhost/projets/ (content/projets/contents+fr.lr:projets.educodetv)
+msgid "Retrouvez ci-dessous certaines de nos formations."
+msgstr ""
+
 #: http://localhost/intervenants/erick-mascart/
 #: (content/intervenants/erick-mascart/contents+fr.lr:speaker.description)
 msgid ""
@@ -395,8 +521,19 @@ msgid ""
 "dans son film conceptuel [Hyper-Reality](http://hyper-reality.co/)…"
 msgstr ""
 
+#: http://localhost/projets/la-robotique-pedagogique/
+#: (content/projets/la-robotique-pedagogique/contents+fr.lr:atelier.description)
+msgid ""
+"Pour les autres, mon objectif est de leur faire découvrir comment par le jeu "
+"on peut apprendre et développer des compétences utilisables dans la vie "
+"(autonomie, résolution de problèmes, confiance en soi, créativité, esprit "
+"critique,…)."
+msgstr ""
+
 #: http://localhost/intervenants/benoit-naveau/
 #: (content/intervenants/benoit-naveau/contents+fr.lr:speaker.description)
+#: http://localhost/projets/la-robotique-pedagogique/
+#: (content/projets/la-robotique-pedagogique/contents+fr.lr:atelier.description)
 msgid ""
 "Pour les enfants, mon objectif est de développer chez eux des compétences "
 "disciplinaires mais surtout transversales indispensables pour une ouverture "
@@ -425,16 +562,9 @@ msgid ""
 "facebook.com/lsgTeam)"
 msgstr ""
 
-#: http://localhost/intervenants/benoit-naveau/
-#: (content/intervenants/benoit-naveau/contents+fr.lr:speaker.description)
-msgid ""
-"Instituteur primaire en bonne partie en sixième et constatant une diminution "
-"d'intérêt et de motivation des élèves, je me suis mis à la recherche d'un "
-"moyen pour y pallier. Suite à différentes formations, j'ai commencé à "
-"intégrer le codage et la robotique. Les effets positifs sont arrivés très "
-"rapidement et c'est là que j'ai découvert les ingrédients nécessaires pour "
-"rendre les élèves actifs et investis : un projet réel, du sens à nos actions "
-"et une approche concrète des choses."
+#: http://localhost/intervenants/erick-mascart/
+#: (content/intervenants/erick-mascart/contents+fr.lr:speaker.description)
+msgid "* Est membre actif de l'équipe Educode."
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.about)
@@ -455,6 +585,11 @@ msgstr ""
 #: http://localhost/intervenants/luc-viatour/
 #: (content/intervenants/luc-viatour/contents+fr.lr:speaker.description)
 msgid "A fait ses études aux arts et métiers à Bruxelles."
+msgstr ""
+
+#: http://localhost/projets/learning-management-systems-moodle/
+#: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description)
+msgid "Cette formation se déroule en 5 cours :"
 msgstr ""
 
 #: http://localhost/intervenants/laurence-bourguignon/

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-04-19 18:46+CET\n"
+"POT-Creation-Date: 2020-04-23 11:08+CET\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: fr <LL@li.org>\n"
@@ -16,9 +16,27 @@ msgstr ""
 msgid "- Coach First Lego League depuis 2017"
 msgstr ""
 
+#: http://localhost/projets/learning-management-systems-moodle/
+#: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description)
+msgid "COURS N°3 : LES RESSOURCES au service des ACTIVITES."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.about)
+msgid ""
+"! EducodeSchool propose ce **jeudi 23/04/2020 de 15 à 16h** sur [BBB]"
+"(https://bbb-1.wsweet.cloud/b/nic-7vu-ygq ), une [formation sur la "
+"plateforme Moodle](/projets#learning-management-systems-moodle), par "
+"[François Mottard](intervenants/françois-mottard)."
+msgstr ""
+
 #: http://localhost/intervenants/luc-viatour/
 #: (content/intervenants/luc-viatour/contents+fr.lr:speaker.description)
 msgid "[https://Lucnix.be](https://Lucnix.be)"
+msgstr ""
+
+#: http://localhost/projets/learning-management-systems-moodle/
+#: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description)
+msgid "COURS N° 5 : LES QCM EN LIGNE."
 msgstr ""
 
 #: http://localhost/intervenants/benoit-naveau/
@@ -36,6 +54,11 @@ msgstr ""
 #: http://localhost/intervenants/benoit-naveau/
 #: (content/intervenants/benoit-naveau/contents+fr.lr:speaker.description)
 msgid "- Animateur et formateur chez Kaleidi"
+msgstr ""
+
+#: http://localhost/projets/learning-management-systems-moodle/
+#: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description)
+msgid "COURS N°2 : ORGANISER SON ESPACE MOODLE."
 msgstr ""
 
 #: http://localhost/intervenants/benoit-naveau/
@@ -66,6 +89,17 @@ msgid ""
 "LoBourg/)"
 msgstr ""
 
+#: http://localhost/projets/la-robotique-pedagogique/
+#: (content/projets/la-robotique-pedagogique/contents+fr.lr:atelier.description)
+msgid ""
+"Pour les enseignant, mon objectif est de les former à la robotique "
+"pédagogique à l'aide du dossier pédagogique centré sur l’apprentissage des "
+"mathématiques tout en développant d'autres compétences disciplinaires et "
+"surtout transversales en lien avec leur programme, A terme, ils deviendront "
+"autonome afin qu'ils puissent percoler cette méthode au sein de leur "
+"pédagogie."
+msgstr ""
+
 #: http://localhost/intervenants/benoit-naveau/
 #: (content/intervenants/benoit-naveau/contents+fr.lr:speaker.description)
 msgid "Vous pouvez rejoindre la Robotic Academy sur :"
@@ -84,6 +118,13 @@ msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.title)
 msgid "Bienvenue à educode"
+msgstr ""
+
+#: http://localhost/projets/learning-management-systems-moodle/
+#: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description)
+msgid ""
+"COURS N°4 : MISE EN PLACE D'UNE PLATEFORME MOODLE pour une école primaire ou "
+"le 1er degré du secondaire."
 msgstr ""
 
 #: http://localhost/projets/
@@ -145,6 +186,11 @@ msgid ""
 "licence [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/fr/)."
 msgstr ""
 
+#: http://localhost/projets/learning-management-systems-moodle/
+#: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.title)
+msgid "Learning management systems - MOODLE"
+msgstr ""
+
 #: http://localhost/intervenants/luc-viatour/
 #: (content/intervenants/luc-viatour/contents+fr.lr:speaker.description)
 msgid "Utilisateur averti de GIMP le pendant libre de \"Photoshop\"."
@@ -178,6 +224,11 @@ msgid ""
 "be/economie/high-tech/les-4-grands-partis-francophones-signent-un-triple-"
 "pacte-internet/article-normal-195123.html). Avant fin 2018, un bilan sera "
 "mené et publié."
+msgstr ""
+
+#: http://localhost/projets/formation-a-darktable/
+#: (content/projets/formation-a-darktable/contents+fr.lr:atelier.title)
+msgid "Formation à darktable"
 msgstr ""
 
 #: http://localhost/intervenants/benoit-naveau/
@@ -250,6 +301,13 @@ msgstr ""
 msgid ""
 "* À co-animé 5 ateliers avec [Laurence Bourguignon](../laurence-bourguignon) "
 "lors de l'édition [2018 d'Educode](https://2018.educode.be)."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.about)
+msgid ""
+"! EducodeSchool propose ce **jeudi 23/04/2020 de 15 à 16h** sur [BBB]"
+"(https://bbb-1.wsweet.cloud/b/nic-7vu-ygq ), une formation sur la plateforme "
+"Moodle, par [François Mottard](intervenants/françois-mottard)."
 msgstr ""
 
 #: http://localhost/intervenants/benoit-naveau/
@@ -329,6 +387,13 @@ msgid ""
 "participer."
 msgstr ""
 
+#: http://localhost/projets/learning-management-systems-moodle/
+#: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description)
+msgid ""
+"COURS N°1 : MISE EN PLACE D'UNE PLATEFORME MOODLE totalement gratuite pour 1 "
+"ou 2 enseignants."
+msgstr ""
+
 #: http://localhost/intervenants/erick-mascart/
 #: (content/intervenants/erick-mascart/contents+fr.lr:speaker.description)
 msgid ""
@@ -405,6 +470,11 @@ msgid ""
 "convient d'appeler le «capitalisme de surveillance»."
 msgstr ""
 
+#: http://localhost/projets/la-robotique-pedagogique/
+#: (content/projets/la-robotique-pedagogique/contents+fr.lr:atelier.title)
+msgid "La robotique pédagogique"
+msgstr ""
+
 #: http://localhost/intervenants/benoit-naveau/
 #: (content/intervenants/benoit-naveau/contents+fr.lr:speaker.description)
 msgid "**EducodeTV:**"
@@ -415,6 +485,14 @@ msgstr ""
 msgid ""
 "* À co-animé 5 ateliers avec [Erick Mascart](../erick-mascart) lors de "
 "l'édition [2018 d'Educode](https://2018.educode.be)"
+msgstr ""
+
+#: http://localhost/projets/formation-a-darktable/
+#: (content/projets/formation-a-darktable/contents+fr.lr:atelier.description)
+msgid ""
+"Darktable, un logiciel de développement et optimisation de fichiers raw et "
+"jpg. Le cours vous apprendra à sublimer vos photos grâce aux noubreuses "
+"fonctionnalités qu'offre ce logiciel open source"
 msgstr ""
 
 #: http://localhost/intervenants/erick-mascart/
@@ -447,8 +525,19 @@ msgid ""
 "dans son film conceptuel [Hyper-Reality](http://hyper-reality.co/)…"
 msgstr ""
 
+#: http://localhost/projets/la-robotique-pedagogique/
+#: (content/projets/la-robotique-pedagogique/contents+fr.lr:atelier.description)
+msgid ""
+"Pour les autres, mon objectif est de leur faire découvrir comment par le jeu "
+"on peut apprendre et développer des compétences utilisables dans la vie "
+"(autonomie, résolution de problèmes, confiance en soi, créativité, esprit "
+"critique,…)."
+msgstr ""
+
 #: http://localhost/intervenants/benoit-naveau/
 #: (content/intervenants/benoit-naveau/contents+fr.lr:speaker.description)
+#: http://localhost/projets/la-robotique-pedagogique/
+#: (content/projets/la-robotique-pedagogique/contents+fr.lr:atelier.description)
 msgid ""
 "Pour les enfants, mon objectif est de développer chez eux des compétences "
 "disciplinaires mais surtout transversales indispensables pour une ouverture "
@@ -500,6 +589,11 @@ msgstr ""
 #: http://localhost/intervenants/luc-viatour/
 #: (content/intervenants/luc-viatour/contents+fr.lr:speaker.description)
 msgid "A fait ses études aux arts et métiers à Bruxelles."
+msgstr ""
+
+#: http://localhost/projets/learning-management-systems-moodle/
+#: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description)
+msgid "Cette formation se déroule en 5 cours :"
 msgstr ""
 
 #: http://localhost/intervenants/laurence-bourguignon/
