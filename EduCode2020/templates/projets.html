@@ -6,6 +6,7 @@
         <h1 class="title mb-5 text-center color-darker-yellow"><strong>Les projets</strong></h1>
         <p>{{ this.description }}</p>
 
+        <!-- EDUCODE_TV -->
         <h2 class="text-center" id="educodetv"><strong>EducodeTV</strong></h2>
         <p>{{ this.educodetv }}</p>
 
@@ -26,7 +27,7 @@
         <hr>
         {% endfor %}
 
-
+        <!-- EDUCODE_SCHOOL -->
         <h2 class="text-center" id="educodeschool"><strong>EducodeSchool</strong></h2>
         <p>{{ this.educodeschool }}</p>
 
@@ -34,7 +35,7 @@
         
         {% set ateliers = this.children.include_hidden(false).filter(F.projet == 'EducodeSchool') %}
         {% for atelier in ateliers %}
-        <div>
+        <div id="{{ atelier._id }}">
             <h3>{{ atelier.title }}</h3>
             <p>{{ atelier.description }}</p>
             {% if atelier.video %}
