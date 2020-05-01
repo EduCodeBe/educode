@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: educode\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-04-23 13:00+CET\n"
+"POT-Creation-Date: 2020-05-01 10:22+CET\n"
 "PO-Revision-Date: 2020-04-19 17:38\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
@@ -95,11 +95,11 @@ msgstr ""
 msgid "Utilisateur averti de GIMP le pendant libre de \"Photoshop\"."
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.formulaire)
+#: http://localhost/projets/learning-management-systems-moodle/
+#: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description)
 msgid ""
-"Afin de nous permettre d'organiser au mieux les activités, ainsi que de vous "
-"proposer des activités qui vous intéressent, veuillez remplir le formulaire "
-"ci-dessous."
+"COURS N°4 : MISE EN PLACE D'UNE PLATEFORME MOODLE pour une école primaire ou "
+"le 1er degré du secondaire."
 msgstr ""
 
 #: http://localhost/intervenants/luc-viatour/
@@ -181,11 +181,6 @@ msgid ""
 "open-access."
 msgstr ""
 
-#: http://localhost/intervenants/erick-mascart/
-#: (content/intervenants/erick-mascart/contents+fr.lr:speaker.description)
-msgid "* Est membre actif de l'équipe Educode."
-msgstr ""
-
 #: http://localhost/intervenants/francois-mottard/
 #: (content/intervenants/francois-mottard/contents+fr.lr:speaker.description)
 msgid ""
@@ -197,6 +192,13 @@ msgid ""
 "maîtriser l’ensemble des compétences nécessaires à la production de ces "
 "contenus pédagogiques numériques interactifs. A nous de biens choisir nos "
 "outils et nos collaborateurs."
+msgstr ""
+
+#: http://localhost/intervenants/francois-mottard/
+#: (content/intervenants/francois-mottard/contents+fr.lr:speaker.description)
+msgid ""
+"* [Toushomonuméricus](https://toushomonumericus.be/) : L'éducation aux "
+"médias et l'initiation au numériques pour les adultes."
 msgstr ""
 
 #: http://localhost/intervenants/benoit-naveau/
@@ -222,12 +224,9 @@ msgid ""
 "réseaux sociaux, la publication en ligne, le bigdata, …"
 msgstr ""
 
-#: http://localhost/intervenants/nicolas-pettiaux/
-#: (content/intervenants/nicolas-pettiaux/contents+fr.lr:speaker.description)
-msgid ""
-"Nicolas utilise presque exclusivement des logiciels libres et, comme Richard "
-"Stallman, il pense que les [écoles du monde entier devraient faire la même "
-"chose](https://www.gnu.org/education/edu-schools.html)"
+#: http://localhost/intervenants/erick-mascart/
+#: (content/intervenants/erick-mascart/contents+fr.lr:speaker.description)
+msgid "* Est membre actif de l'équipe Educode."
 msgstr ""
 
 #: http://localhost/intervenants/erick-mascart/
@@ -289,16 +288,18 @@ msgid ""
 "logiciel libre en 2013](http://2013.rmll.info)."
 msgstr ""
 
-#: http://localhost/projets/learning-management-systems-moodle/
-#: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.title)
-msgid "Learning management systems - MOODLE"
+#: http://localhost/intervenants/francois-mottard/
+#: (content/intervenants/francois-mottard/contents+fr.lr:speaker.description)
+msgid ""
+"* Professeur de mathématique, physique, gestion et d’informatique dans "
+"l’enseignement technique de qualification"
 msgstr ""
 
-#: http://localhost/projets/learning-management-systems-moodle/
-#: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description)
+#: http://localhost/ (content/contents+fr.lr:page.formulaire)
 msgid ""
-"COURS N°4 : MISE EN PLACE D'UNE PLATEFORME MOODLE pour une école primaire ou "
-"le 1er degré du secondaire."
+"Afin de nous permettre d'organiser au mieux les activités, ainsi que de vous "
+"proposer des activités qui vous intéressent, veuillez remplir le formulaire "
+"ci-dessous."
 msgstr ""
 
 #: http://localhost/intervenants/benoit-naveau/
@@ -323,11 +324,13 @@ msgstr ""
 msgid "COURS N°3 : LES RESSOURCES au service des ACTIVITES."
 msgstr ""
 
-#: http://localhost/intervenants/francois-mottard/
-#: (content/intervenants/francois-mottard/contents+fr.lr:speaker.description)
+#: http://localhost/projets/la-robotique-pedagogique/
+#: (content/projets/la-robotique-pedagogique/contents+fr.lr:atelier.description)
 msgid ""
-"* [Bibliomobilis](http://www.noscours.net/moodle/) : le développement de "
-"compétences numériques au travers de l'enseignement du latin"
+"Pour les autres, mon objectif est de leur faire découvrir comment par le jeu "
+"on peut apprendre et développer des compétences utilisables dans la vie "
+"(autonomie, résolution de problèmes, confiance en soi, créativité, esprit "
+"critique,…)."
 msgstr ""
 
 #: http://localhost/intervenants/luc-viatour/
@@ -356,15 +359,9 @@ msgid ""
 "media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 msgstr ""
 
-#: http://localhost/projets/la-robotique-pedagogique/
-#: (content/projets/la-robotique-pedagogique/contents+fr.lr:atelier.description)
-msgid ""
-"Pour les enseignant, mon objectif est de les former à la robotique "
-"pédagogique à l'aide du dossier pédagogique centré sur l’apprentissage des "
-"mathématiques tout en développant d'autres compétences disciplinaires et "
-"surtout transversales en lien avec leur programme, A terme, ils deviendront "
-"autonome afin qu'ils puissent percoler cette méthode au sein de leur "
-"pédagogie."
+#: http://localhost/intervenants/laurence-bourguignon/
+#: (content/intervenants/laurence-bourguignon/contents+fr.lr:speaker.description)
+msgid "* Institutrice dans le fondamental (primaire) depuis 23 ans."
 msgstr ""
 
 #: http://localhost/intervenants/benoit-naveau/
@@ -390,15 +387,12 @@ msgstr ""
 msgid "3. Comparaison entre EV3 et Spike"
 msgstr ""
 
-#: http://localhost/intervenants/erick-mascart/
-#: (content/intervenants/erick-mascart/contents+fr.lr:speaker.description)
+#: http://localhost/intervenants/francois-mottard/
+#: (content/intervenants/francois-mottard/contents+fr.lr:speaker.description)
 msgid ""
-"Informaticien passionné par les [outils libres](https://fr.wikipedia.org/"
-"wiki/Logiciel_libre), la préservation des ressources naturelles en "
-"minimisant le gaspillage du «hardware», les démarches qui tendent vers une "
-"forme de «sobriété numérique» et le «[Green-IT](https://www.greenit.fr/a-"
-"propos/)», les questions actuelles que soulève le numérique à propos de la "
-"vie privée ou de la consommation d'énergie."
+"* [MoodleBox](https://moodlebox.net/fr/) : La possibilité pour chaque "
+"enseignant de développer SA plateforme pédagogique personnelle avec ses "
+"classes ou ses activités extra-scolaires."
 msgstr ""
 
 #: http://localhost/intervenants/benoit-naveau/
@@ -430,9 +424,15 @@ msgstr ""
 msgid "Vidéo de présentation :"
 msgstr ""
 
-#: http://localhost/intervenants/laurence-bourguignon/
-#: (content/intervenants/laurence-bourguignon/contents+fr.lr:speaker.description)
-msgid "* Institutrice dans le fondamental (primaire) depuis 23 ans."
+#: http://localhost/projets/la-robotique-pedagogique/
+#: (content/projets/la-robotique-pedagogique/contents+fr.lr:atelier.description)
+msgid ""
+"Pour les enseignant, mon objectif est de les former à la robotique "
+"pédagogique à l'aide du dossier pédagogique centré sur l’apprentissage des "
+"mathématiques tout en développant d'autres compétences disciplinaires et "
+"surtout transversales en lien avec leur programme, A terme, ils deviendront "
+"autonome afin qu'ils puissent percoler cette méthode au sein de leur "
+"pédagogie."
 msgstr ""
 
 #: http://localhost/intervenants/francois-mottard/
@@ -509,6 +509,14 @@ msgid ""
 "l’éducation aux médias et à la culture latine."
 msgstr ""
 
+#: http://localhost/intervenants/nicolas-pettiaux/
+#: (content/intervenants/nicolas-pettiaux/contents+fr.lr:speaker.description)
+msgid ""
+"Nicolas utilise presque exclusivement des logiciels libres et, comme Richard "
+"Stallman, il pense que les [écoles du monde entier devraient faire la même "
+"chose](https://www.gnu.org/education/edu-schools.html)"
+msgstr ""
+
 #: http://localhost/intervenants/laurence-bourguignon/
 #: (content/intervenants/laurence-bourguignon/contents+fr.lr:speaker.description)
 msgid ""
@@ -568,6 +576,15 @@ msgstr ""
 msgid "Retrouvez ci-dessous certaines de nos formations."
 msgstr ""
 
+#: http://localhost/ (content/contents+fr.lr:page.about)
+msgid ""
+"! EducodeSchool propose ce **vendredi 01/05/2020 de 11 à 12h** sur [BBB]"
+"(https://bbb-1.wsweet.cloud/b/nic-d6t-zn2 ), une formation sur la plateforme "
+"Moodle, par [François Mottard](/intervenants/françois-mottard) et [Nicolas "
+"Pettiaux](/intervenants/nicolas-pettiaux). Vous y apprendre à mettre en "
+"place des QCM avec moodle, pour des évaluations formatives et certificatives."
+msgstr ""
+
 #: http://localhost/intervenants/benoit-naveau/
 #: (content/intervenants/benoit-naveau/contents+fr.lr:speaker.description)
 msgid ""
@@ -580,13 +597,11 @@ msgstr ""
 msgid "Luc Viatour, photographe indépendant belge."
 msgstr ""
 
-#: http://localhost/projets/la-robotique-pedagogique/
-#: (content/projets/la-robotique-pedagogique/contents+fr.lr:atelier.description)
+#: http://localhost/intervenants/francois-mottard/
+#: (content/intervenants/francois-mottard/contents+fr.lr:speaker.description)
 msgid ""
-"Pour les autres, mon objectif est de leur faire découvrir comment par le jeu "
-"on peut apprendre et développer des compétences utilisables dans la vie "
-"(autonomie, résolution de problèmes, confiance en soi, créativité, esprit "
-"critique,…)."
+"* [Bibliomobilis](http://www.noscours.net/moodle/) : le développement de "
+"compétences numériques au travers de l'enseignement du latin"
 msgstr ""
 
 #: http://localhost/intervenants/nicolas-pettiaux/
@@ -604,12 +619,15 @@ msgid ""
 "leur établissement par l'organisation de journées pédagogiques."
 msgstr ""
 
-#: http://localhost/intervenants/francois-mottard/
-#: (content/intervenants/francois-mottard/contents+fr.lr:speaker.description)
+#: http://localhost/intervenants/erick-mascart/
+#: (content/intervenants/erick-mascart/contents+fr.lr:speaker.description)
 msgid ""
-"* [MoodleBox](https://moodlebox.net/fr/) : La possibilité pour chaque "
-"enseignant de développer SA plateforme pédagogique personnelle avec ses "
-"classes ou ses activités extra-scolaires."
+"Informaticien passionné par les [outils libres](https://fr.wikipedia.org/"
+"wiki/Logiciel_libre), la préservation des ressources naturelles en "
+"minimisant le gaspillage du «hardware», les démarches qui tendent vers une "
+"forme de «sobriété numérique» et le «[Green-IT](https://www.greenit.fr/a-"
+"propos/)», les questions actuelles que soulève le numérique à propos de la "
+"vie privée ou de la consommation d'énergie."
 msgstr ""
 
 #: http://localhost/projets/
@@ -685,13 +703,6 @@ msgstr ""
 msgid "Objectifs :"
 msgstr ""
 
-#: http://localhost/intervenants/francois-mottard/
-#: (content/intervenants/francois-mottard/contents+fr.lr:speaker.description)
-msgid ""
-"* [Toushomonuméricus](https://toushomonumericus.be/] : L'éducation aux "
-"médias et l'initiation au numériques pour les adultes."
-msgstr ""
-
 #: http://localhost/projets/learning-management-systems-moodle/
 #: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description)
 msgid ""
@@ -699,11 +710,9 @@ msgid ""
 "ou 2 enseignants."
 msgstr ""
 
-#: http://localhost/intervenants/francois-mottard/
-#: (content/intervenants/francois-mottard/contents+fr.lr:speaker.description)
-msgid ""
-"* Professeur de mathématique, physique, gestion et d’informatique dans "
-"l’enseignement technique de qualification"
+#: http://localhost/projets/learning-management-systems-moodle/
+#: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.title)
+msgid "Learning management systems - MOODLE"
 msgstr ""
 
 #: http://localhost/intervenants/luc-viatour/
