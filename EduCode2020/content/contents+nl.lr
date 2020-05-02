@@ -2,19 +2,19 @@ _template: page.html
 ---
 about:
 
-En cette période de confinement pour cause virale, Educode veut aider les enseignants et les parents à assurer la continuité pédagogique grâce aux outils numériques, les former et les accompagner dans ces nouveaux défis. Educode propose donc le projet RELIE et organise les actions [EducodeTV](projets#educodetv) et [EducodeSchool](projets#educodeschool).
+In deze periode van virale insluiting wil Educode leerkrachten en ouders helpen om de pedagogische continuïteit te verzekeren dankzij digitale tools, hen te trainen en te begeleiden in deze nieuwe uitdagingen. Educode stelt het RELIE-project voor en organiseert de acties [EducodeTV](projets#educodetv) en [EducodeSchool](projets#educodeschool).
 
-Besoin de plus d'information sur les conférences ? Rendez-vous sur notre [wiki](https://wiki.educode.be/).
+Meer informatie nodig over de conferenties? Bezoek onze [wiki](https://wiki.educode.be/).
 ---
 baseline:
 
- Accompagner les écoles face aux défis du numérique
+ Ondersteuning van scholen in het licht van de digitale uitdagingen
 ---
 monday: A faire : overview
 ---
 thuesday:
 ---
-title: Bienvenue à educode
+title: Welkom bij educode
 ---
 wednesday:
 ---
@@ -251,29 +251,29 @@ Une journée spécialement dédiée aux enseignants intéressés par l'informati
 ---
 wiki:
 
-Le wiki est une plateforme ressemblant à, Wikipedia. Il contient beaucoup d'informations utiles sur tous nos projets, et tous le monde peut y participer.
+De wiki is een platform zoals Wikipedia. Het bevat veel nuttige informatie over al onze projecten, en iedereen kan meedoen.
 
-Pour tout renseignement, [rejoignez-nous](https://wiki.educode.be/doku.php) !
+Voor meer informatie, [kom erbij](https://wiki.educode.be/doku.php)!
 ---
 form: Afin de nous permettre d'organiser au mieux ces activités, nous aimerions que vous remplissiez ce petit questionnaire
 ---
-formulaire: Afin de nous permettre d'organiser au mieux les activités, ainsi que de vous proposer des activités qui vous intéressent, veuillez remplir le formulaire ci-dessous.
+formulaire: Om ons in staat te stellen de activiteiten zo goed mogelijk te organiseren en u activiteiten voor te stellen die u interesseren, verzoeken wij u het onderstaande formulier in te vullen.
 ---
 next_workshop_url:
 ---
-next_workshop_description: EducodeSchool propose ce **mardi 5 mai de 15h à 16h** sur la plateforme BigBlueButton (lien à venir), une formation abordant la difficile question de l'[enseignement en ligne](/projets/enseigner-en-ligne/), organisé par [Laurence Bourguignon](/intervenants/laurence-bourguignon/), [Érick Mascart](/intervenants/erick-mascart/) et [Nicolas Pettiaux](/intervenants/nicolas-pettiaux/),
+next_workshop_description: EducodeSchool biedt deze **Dinsdag 5 mei van 15 tot 16 uur** op het BigBlueButton-platform (link komt eraan), een trainingssessie over het moeilijke onderwerp [online onderwijs](/projets/enseigner-en-ligne/), georganiseerd door [Laurence Bourguignon](/intervenants/laurence-bourguignon/), [Érick Mascart](/intervenants/erick-mascart/) en [Nicolas Pettiaux](/intervenants/nicolas-pettiaux/),
 ---
 price:
 
-Si les webinaires de EducodeTV sont gratuits, les formations de EducodeSchool sont payantes. 
+Hoewel EducodeTV-webinars gratis zijn, zijn EducodeSchool-trainingen niet gratis. 
 
-Pour le moment, nous n'avons aucun soutien financier par des subventions ou du mécénat. Les participations des apprenants sont donc les seules ressources et sont essentielles. 
+Op dit moment hebben we geen financiële steun door middel van subsidies of sponsoring. Deelname van de leerlingen is daarom de enige hulpbron en is essentieel. 
 
-Pour les formations, nous envisageons les prix suivants
-  - 20 € de cotisation à l'asbl educode pour une année courant du 1er janvier au 31 décembre
-  - 16 € minimum par personne et par cours si il y a moins de 20 participants
-  - 11 € minimum par personne et par cours si il y a au moins 30 participants
-  - une réduction de 10% est proposée à toute personne inscrite à l'entièreté de la formation et qui paye dès le début de celle-ci 
-  - la participation financière ne doit être de frein ou d'impossibilité de suivre la formation pour personne. Pour demander cela, merci d'écrire à [compta@educode.be](mailto:compta@educode.be?subject=demande de reduction de cout de formation).
+Voor opleidingen overwegen we de volgende prijzen
+  - € 20, - bijdrage aan educode vzw voor een jaar dat loopt van 1 januari tot en met 31 december
+  - 16 € minimum per persoon en per cursus als er minder dan 20 deelnemers zijn
+  - 11 € minimum per persoon en per cursus als er minstens 30 deelnemers zijn
+  - een korting van 10% wordt aangeboden aan iedereen die voor de gehele cursus is ingeschreven en die aan het begin van de cursus betaalt 
+  - de financiële deelname mag voor niemand een belemmering of onmogelijkheid zijn om de opleiding te volgen. Om dit aan te vragen kunt u schrijven naar [compta@educode.be](mailto:compta@educode.be?subject=verzoek om vermindering van de opleidingskosten).
 
-Tous les membres de l'association ont accès à tous les enregistrements des cours et tous les documents associés. Ceux-ci seront rendus publics et gratuits pour tous dès qu'ils auront été payés, selon l'adage de François Élie, « le libre est gratuit un fois qu'il a été payé ».
+Alle leden van de vereniging hebben toegang tot alle cursusopnames en bijbehorende documenten. Deze zullen openbaar worden gemaakt en gratis zijn voor iedereen zodra ze betaald zijn, volgens het adagium van François Élie, "gratis is gratis zodra het betaald is".

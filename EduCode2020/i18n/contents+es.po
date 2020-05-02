@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: educode\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-02 17:10+CET\n"
-"PO-Revision-Date: 2020-04-19 17:38\n"
+"POT-Creation-Date: 2020-05-02 19:11+CET\n"
+"PO-Revision-Date: 2020-05-02 17:11\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es\n"
@@ -35,10 +35,22 @@ msgstr ""
 msgid "- Animateur et formateur chez Kaleidi"
 msgstr ""
 
+#: (dynamic)
+msgid "Langue"
+msgstr ""
+
+#: (dynamic)
+msgid "Atelier suivant"
+msgstr ""
+
 #: http://localhost/projets/enseigner-en-ligne/
 #: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.description)
 #: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.description_long)
 msgid "- son (téléphone et autres)"
+msgstr ""
+
+#: (dynamic)
+msgid "Participer"
 msgstr ""
 
 #: http://localhost/projets/learning-management-systems-moodle/
@@ -87,6 +99,10 @@ msgid ""
 "être la licence [CC-BY](https://creativecommons.org/licenses/by/2.0/fr/) et "
 "que tous les travaux financés par des deniers publics devraient être sous la "
 "licence [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/fr/)."
+msgstr ""
+
+#: (dynamic)
+msgid "Pays"
 msgstr ""
 
 #: http://localhost/projets/formation-a-darktable/
@@ -172,6 +188,10 @@ msgstr ""
 msgid "-     Comment mettre en place un système de sauvegarde et"
 msgstr ""
 
+#: (dynamic)
+msgid "À propos d'"
+msgstr ""
+
 #: http://localhost/ (content/contents+fr.lr:page.price)
 msgid ""
 "- 11 € minimum par personne et par cours si il y a au moins 30 participants"
@@ -195,6 +215,10 @@ msgstr ""
 msgid ""
 "- Créateur de la Robotic Academy primé par Ashoka en tant que projet "
 "pédagogique innovant en 2018"
+msgstr ""
+
+#: (dynamic)
+msgid "Les projets"
 msgstr ""
 
 #: http://localhost/projets/la-robotique-pedagogique/
@@ -225,6 +249,10 @@ msgstr ""
 msgid ""
 "* Techno-pédagogue chez [Forsud](https://www.forsud.be/), elle adore "
 "partager ses trouvailles et son expérience avec ses collègues instituteurs."
+msgstr ""
+
+#: (dynamic)
+msgid "Horaire"
 msgstr ""
 
 #: http://localhost/intervenants/nicolas-pettiaux/
@@ -289,6 +317,10 @@ msgid ""
 "Depuis son arrivée à Nancy, elle fait partie de l’équipe VERIDIS du LORIA et "
 "Inria Nancy Grand-Est qui s’intéresse à la vérification formelle de systèmes "
 "distribués."
+msgstr ""
+
+#: (dynamic)
+msgid "Formulaire de participation"
 msgstr ""
 
 #: http://localhost/intervenants/francois-mottard/
@@ -419,6 +451,14 @@ msgid ""
 "l’enseignement technique de qualification"
 msgstr ""
 
+#: (dynamic)
+msgid "Tarifs"
+msgstr ""
+
+#: (dynamic)
+msgid "Voir les informations"
+msgstr ""
+
 #: http://localhost/ (content/contents+fr.lr:page.formulaire)
 msgid ""
 "Afin de nous permettre d'organiser au mieux les activités, ainsi que de vous "
@@ -460,6 +500,10 @@ msgstr ""
 msgid ""
 "** Cours 4 : mise en place d'une plateforme Moodle pour une école primaire "
 "ou le 1er degré du secondaire **"
+msgstr ""
+
+#: (dynamic)
+msgid "Retour aux projets"
 msgstr ""
 
 #: http://localhost/projets/learning-management-systems-moodle/
@@ -522,6 +566,10 @@ msgstr ""
 msgid "* Institutrice dans le fondamental (primaire) depuis 23 ans."
 msgstr ""
 
+#: (dynamic)
+msgid "Voir les projets"
+msgstr ""
+
 #: http://localhost/intervenants/benoit-naveau/
 #: (content/intervenants/benoit-naveau/contents+fr.lr:speaker.description)
 msgid ""
@@ -553,6 +601,10 @@ msgstr ""
 #: http://localhost/projets/learning-management-systems-moodle/
 #: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description_long)
 msgid "-     Etablir la communication avec ses apprenants."
+msgstr ""
+
+#: (dynamic)
+msgid "Retour à l'accueil"
 msgstr ""
 
 #: http://localhost/intervenants/francois-mottard/
@@ -853,6 +905,10 @@ msgid ""
 "ressources et sont essentielles."
 msgstr ""
 
+#: (dynamic)
+msgid "A propos"
+msgstr ""
+
 #: http://localhost/projets/ (content/projets/contents+fr.lr:projets.educodetv)
 msgid "Retrouvez ci-dessous certaines de nos formations."
 msgstr ""
@@ -860,6 +916,10 @@ msgstr ""
 #: http://localhost/ (content/contents+fr.lr:page.price)
 msgid ""
 "- 16 € minimum par personne et par cours si il y a moins de 20 participants"
+msgstr ""
+
+#: (dynamic)
+msgid "Les intervenants"
 msgstr ""
 
 #: http://localhost/intervenants/benoit-naveau/
@@ -988,6 +1048,10 @@ msgid ""
 "répartis dans une ou plusieurs classes et 2-3 professeurs)."
 msgstr ""
 
+#: (dynamic)
+msgid "Description"
+msgstr ""
+
 #: http://localhost/intervenants/benoit-naveau/
 #: (content/intervenants/benoit-naveau/contents+fr.lr:speaker.description)
 msgid ""
@@ -1063,6 +1127,10 @@ msgstr ""
 msgid "** Cours 5 : les qcm en ligne **"
 msgstr ""
 
+#: (dynamic)
+msgid "Se rendre à la conférence"
+msgstr ""
+
 #: http://localhost/projets/learning-management-systems-moodle/
 #: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description_long)
 msgid "-     Comment organiser la navigation."
@@ -1089,6 +1157,10 @@ msgstr ""
 msgid ""
 "[![Robot Academy sur Youtube](robot-academy-youtube.png)](https://www."
 "youtube.com/channel/UCiVET6HJpiu62Uzgui5neNQ)"
+msgstr ""
+
+#: (dynamic)
+msgid "Wiki"
 msgstr ""
 
 #: http://localhost/projets/learning-management-systems-moodle/
@@ -1126,6 +1198,14 @@ msgid ""
 "informatique et résolution de problèmes,"
 msgstr ""
 
+#: (dynamic)
+msgid "Contacter"
+msgstr ""
+
+#: (dynamic)
+msgid "Tarif"
+msgstr ""
+
 #: http://localhost/projets/enseigner-en-ligne/
 #: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.description)
 #: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.description_long)
@@ -1145,84 +1225,4 @@ msgid ""
 "suivre la formation pour personne. Pour demander cela, merci d'écrire à "
 "[compta@educode.be](mailto:compta@educode.be?subject=demande de reduction de "
 "cout de formation)."
-msgstr ""
-
-#: templates/atelier.html:29
-msgid "Horaire"
-msgstr ""
-
-#: templates/atelier.html:36
-msgid "Retour aux projets"
-msgstr ""
-
-#: templates/page.html:23
-msgid "À propos d'"
-msgstr ""
-
-#: templates/page.html:28
-msgid "Voir les projets"
-msgstr ""
-
-#: templates/page.html:39
-msgid "Atelier suivant"
-msgstr ""
-
-#: templates/page.html:46
-msgid "Se rendre à la conférence"
-msgstr ""
-
-#: templates/macros/sidebar.html:13 templates/page.html:57
-msgid "Les intervenants"
-msgstr ""
-
-#: templates/page.html:91
-msgid "Formulaire de participation"
-msgstr ""
-
-#: templates/page.html:104
-msgid "Tarifs"
-msgstr ""
-
-#: templates/macros/sidebar.html:16 templates/page.html:115
-msgid "Wiki"
-msgstr ""
-
-#: templates/macros/sidebar.html:8 templates/projets.html:6
-msgid "Les projets"
-msgstr ""
-
-#: templates/projets.html:29 templates/projets.html:57
-msgid "Voir les informations"
-msgstr ""
-
-#: templates/projets.html:69 templates/speaker.html:91
-msgid "Retour à l'accueil"
-msgstr ""
-
-#: templates/speaker.html:69
-msgid "Contacter"
-msgstr ""
-
-#: templates/speaker.html:77
-msgid "Pays"
-msgstr ""
-
-#: templates/speaker.html:84
-msgid "Description"
-msgstr ""
-
-#: templates/macros/language-menu.html:6
-msgid "Langue"
-msgstr ""
-
-#: templates/macros/sidebar.html:7
-msgid "A propos"
-msgstr ""
-
-#: templates/macros/sidebar.html:14
-msgid "Participer"
-msgstr ""
-
-#: templates/macros/sidebar.html:15
-msgid "Tarif"
 msgstr ""

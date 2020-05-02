@@ -3,11 +3,16 @@
 #AUTEUR	: 
 #CONTACT: 
 
-CROWDIN_API_KEY:=$(shell grep -oP "crowdinApiKey=\K\w+" Secret) # The Crowdin's api key 
-CROWDIN_PROJECT_ID:=educode # Crowdin's project id
-CROWDIN_TRANSLATIONS_FILE:=translated.zip # File's name of translated string from Crowdin
-SERVER_USERNAME:=$(shell grep -oP "serverUsername=\K\w+" Secret) # Username of the ftp acces for the server
-SERVER_PWD:=$(shell grep -oP "serverPwd=\K\w+" Secret) # Password of the ftp acces for the server
+# The Crowdin's api key 
+CROWDIN_API_KEY:=$(shell grep -oP "crowdinApiKey=\K\w+" Secret)
+# Crowdin's project id
+CROWDIN_PROJECT_ID:=educode
+# File's name of translated string from Crowdin
+CROWDIN_TRANSLATIONS_FILE:=translated.zip
+# Username of the ftp acces for the server
+SERVER_USERNAME:=$(shell grep -oP "serverUsername=\K\w+" Secret)
+# Password of the ftp acces for the server
+SERVER_PWD:=$(shell grep -oP "serverPwd=\K\w+" Secret)
 
 # Install Lektor, i18n plugin for Lektor and 'zip/unzip' to unzip the translations from Crowdin
 setup : install-lektor install-i18n install-crowdin
