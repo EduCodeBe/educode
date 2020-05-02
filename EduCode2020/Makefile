@@ -1,11 +1,13 @@
 #NOM	: Makefile
-#HOWTO	: make, make crowdin-pull, make crowdin-push
+#HOWTO	: make, make crowdin-pull, make crowdin-push, make deploy, make deploy-test
 #AUTEUR	: 
 #CONTACT: 
 
-CROWDIN_API_KEY:=$(shell cat CrowdinApiKey)
-CROWDIN_PROJECT_ID:=educode
-CROWDIN_TRANSLATIONS_FILE:=translated.zip
+CROWDIN_API_KEY:=$(shell grep -oP "crowdinApiKey=\K\w+" Secret) # The Crowdin's api key 
+CROWDIN_PROJECT_ID:=educode # Crowdin's project id
+CROWDIN_TRANSLATIONS_FILE:=translated.zip # File's name of translated string from Crowdin
+SERVER_USERNAME:=$(shell grep -oP "serverUsername=\K\w+" Secret) # Username of the ftp acces for the server
+SERVER_PWD:=$(shell grep -oP "serverPwd=\K\w+" Secret) # Password of the ftp acces for the server
 
 # Install Lektor, i18n plugin for Lektor and 'zip/unzip' to unzip the translations from Crowdin
 setup : install-lektor install-i18n install-crowdin
@@ -27,10 +29,13 @@ install-crowdin :
 	@echo Installing zip for Crowdin
 	sudo apt install zip
 
+# Extract the strings and put them on Crowdin
 crowdin-push : i18n/contents.pot
+	lektor build 
 	@echo Pushing the translations
 	curl -F "files[/educode2020.pot]=@i18n/contents.pot" https://api.crowdin.com/api/project/${CROWDIN_PROJECT_ID}/update-file?key=${CROWDIN_API_KEY}
 
+# Get the translated string from Crowdin and put them into the project
 crowdin-pull :
 	@echo Trying to build and download the translations
 	curl -f https://api.crowdin.com/api/project/${CROWDIN_PROJECT_ID}/export?key=${CROWDIN_API_KEY}
@@ -40,3 +45,13 @@ crowdin-pull :
 	rm ${CROWDIN_TRANSLATIONS_FILE}
 	@echo Building the project to apply the translations
 	lektor build 
+
+# Deploy the site on the main domain
+deploy :
+	lektor build
+	lektor deploy --username ${SERVER_USERNAME} --password ${SERVER_PWD}
+
+# Deploy the site on the test domain
+deploy-test :
+	lektor build
+	lektor deploy test --username ${SERVER_USERNAME} --password ${SERVER_PWD}
