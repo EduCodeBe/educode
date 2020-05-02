@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-02 16:00+CET\n"
+"POT-Creation-Date: 2020-05-02 16:33+CET\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: fr <LL@li.org>\n"
@@ -31,13 +31,15 @@ msgstr ""
 msgid "- Animateur et formateur chez Kaleidi"
 msgstr ""
 
-#: http://localhost/projets/learning-management-systems-moodle/
-#: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description)
-msgid "COURS N°2 : ORGANISER SON ESPACE MOODLE."
+#: http://localhost/ (content/contents+fr.lr:page.about)
+msgid ""
+"Besoin de plus d'information sur les conférences ? Rendez-vous sur notre "
+"[wiki](https://wiki.educode.be/)."
 msgstr ""
 
 #: http://localhost/projets/enseigner-en-ligne/
 #: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.description)
+#: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.description_long)
 msgid "- son (téléphone et autres)"
 msgstr ""
 
@@ -89,6 +91,15 @@ msgid ""
 "licence [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/fr/)."
 msgstr ""
 
+#: http://localhost/ (content/contents+fr.lr:page.next_workshop_description)
+msgid ""
+"EducodeSchool propose ce **vendredi 01/05/2020 de 11 à 12h** sur [BBB]"
+"(https://bbb-1.wsweet.cloud/b/nic-d6t-zn2 ), une formation sur la plateforme "
+"Moodle, par [François Mottard](/intervenants/françois-mottard) et [Nicolas "
+"Pettiaux](/intervenants/nicolas-pettiaux). Vous y apprendrez à mettre en "
+"place des QCM avec moodle, pour des évaluations formatives et certificatives."
+msgstr ""
+
 #: http://localhost/projets/formation-a-darktable/
 #: (content/projets/formation-a-darktable/contents+fr.lr:atelier.description)
 msgid ""
@@ -116,13 +127,6 @@ msgstr ""
 #: http://localhost/intervenants/luc-viatour/
 #: (content/intervenants/luc-viatour/contents+fr.lr:speaker.description)
 msgid "Utilisateur averti de GIMP le pendant libre de \"Photoshop\"."
-msgstr ""
-
-#: http://localhost/projets/learning-management-systems-moodle/
-#: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description)
-msgid ""
-"COURS N°4 : MISE EN PLACE D'UNE PLATEFORME MOODLE pour une école primaire ou "
-"le 1er degré du secondaire."
 msgstr ""
 
 #: http://localhost/intervenants/luc-viatour/
@@ -164,12 +168,8 @@ msgstr ""
 
 #: http://localhost/projets/enseigner-en-ligne/
 #: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.description)
+#: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.description_long)
 msgid "- hors ligne, asynchrones"
-msgstr ""
-
-#: http://localhost/projets/learning-management-systems-moodle/
-#: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description_long)
-msgid "=== Cours 3 : les ressources au service des activités ==="
 msgstr ""
 
 #: http://localhost/projets/learning-management-systems-moodle/
@@ -179,6 +179,7 @@ msgstr ""
 
 #: http://localhost/projets/enseigner-en-ligne/
 #: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.description)
+#: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.description_long)
 msgid "- en ligne, synchrones et asynchrones tels que"
 msgstr ""
 
@@ -187,12 +188,6 @@ msgstr ""
 msgid ""
 "- Créateur de la Robotic Academy primé par Ashoka en tant que projet "
 "pédagogique innovant en 2018"
-msgstr ""
-
-#: http://localhost/projets/learning-management-systems-moodle/
-#: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description_long)
-msgid ""
-"- [https://www.calameo.com/read/00004096710aacffe2b28 | première partie]"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.wiki)
@@ -304,6 +299,7 @@ msgstr ""
 
 #: http://localhost/projets/enseigner-en-ligne/
 #: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.description)
+#: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.description_long)
 msgid "- comment organiser des évaluations, formatives et certificatives"
 msgstr ""
 
@@ -312,13 +308,9 @@ msgstr ""
 msgid "- Kahoot"
 msgstr ""
 
-#: http://localhost/projets/learning-management-systems-moodle/
-#: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description)
-msgid "COURS N° 5 : LES QCM EN LIGNE."
-msgstr ""
-
 #: http://localhost/projets/enseigner-en-ligne/
 #: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.description)
+#: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.description_long)
 msgid "- système de gestion de contenu pédagogique"
 msgstr ""
 
@@ -360,11 +352,6 @@ msgstr ""
 msgid "* Membre du comité d’organisation LUDOVIA Belgique"
 msgstr ""
 
-#: http://localhost/projets/learning-management-systems-moodle/
-#: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description_long)
-msgid "=== Cours 2 : organiser son espace moodle ==="
-msgstr ""
-
 #: http://localhost/intervenants/nicolas-pettiaux/
 #: (content/intervenants/nicolas-pettiaux/contents+fr.lr:speaker.description)
 msgid ""
@@ -383,18 +370,6 @@ msgstr ""
 msgid ""
 "* Professeur de mathématique, physique, gestion et d’informatique dans "
 "l’enseignement technique de qualification"
-msgstr ""
-
-#: http://localhost/projets/learning-management-systems-moodle/
-#: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description_long)
-msgid "=== Cours 5 : les qcm en ligne ==="
-msgstr ""
-
-#: http://localhost/projets/learning-management-systems-moodle/
-#: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description_long)
-msgid ""
-"= Cours 1 : mise en place d'une plateforme Moodle totalement gratuite pour 1 "
-"ou 2 enseignants ="
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.formulaire)
@@ -416,13 +391,6 @@ msgid ""
 "et une approche concrète des choses."
 msgstr ""
 
-#: http://localhost/projets/learning-management-systems-moodle/
-#: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description_long)
-msgid ""
-"=== Cours 4 : mise en place d'une plateforme Moodle pour une école primaire "
-"ou le 1er degré du secondaire ==="
-msgstr ""
-
 #: http://localhost/intervenants/francois-mottard/
 #: (content/intervenants/francois-mottard/contents+fr.lr:speaker.description)
 msgid "* A.D.E."
@@ -430,6 +398,7 @@ msgstr ""
 
 #: http://localhost/projets/enseigner-en-ligne/
 #: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.description)
+#: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.description_long)
 msgid ""
 "Dans cette formation, nous allons aborder la difficile question de "
 "l'enseignement en ligne, à laquelle de nombreux enseignants de primaire, "
@@ -437,11 +406,6 @@ msgid ""
 "confrontés depuis le 13 mars 2020 à l'occasion du confinement obligatoire "
 "imposé par le [Maladie à coronavirus 2019](https://fr.wikipedia.org/wiki/"
 "Maladie_%C3%A0_coronavirus_2019)."
-msgstr ""
-
-#: http://localhost/projets/learning-management-systems-moodle/
-#: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description)
-msgid "COURS N°3 : LES RESSOURCES au service des ACTIVITES."
 msgstr ""
 
 #: http://localhost/projets/learning-management-systems-moodle/
@@ -467,6 +431,7 @@ msgstr ""
 
 #: http://localhost/projets/enseigner-en-ligne/
 #: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.description)
+#: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.description_long)
 msgid "- outils de quiz et question en ligne"
 msgstr ""
 
@@ -533,13 +498,6 @@ msgid ""
 "convient d'appeler le «capitalisme de surveillance»."
 msgstr ""
 
-#: http://localhost/projets/learning-management-systems-moodle/
-#: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description_long)
-msgid ""
-"### Cours 1 : mise en place d'une plateforme Moodle totalement gratuite pour "
-"1 ou 2 enseignants"
-msgstr ""
-
 #: http://localhost/intervenants/benoit-naveau/
 #: (content/intervenants/benoit-naveau/contents+fr.lr:speaker.description)
 msgid "3. Comparaison entre EV3 et Spike"
@@ -578,6 +536,7 @@ msgstr ""
 
 #: http://localhost/projets/enseigner-en-ligne/
 #: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.description)
+#: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.description_long)
 msgid "- vidéo (outils de vidéoconférence généralistes ou spécialisés)"
 msgstr ""
 
@@ -586,8 +545,19 @@ msgstr ""
 msgid "** Cours 3 : les ressources au service des activités **"
 msgstr ""
 
+#: http://localhost/ (content/contents+fr.lr:page.next_workshop_description)
+msgid ""
+"EducodeSchool propose ce **mardi 5 mai de 15h à 16h** sur la plateforme "
+"BigBlueButton (lien à venir), une formation abordant la difficile question "
+"de l'[enseignement en ligne](/projets/enseigner-en-ligne/), organisé par "
+"[Laurence Bourguignon](/intervenants/laurence-bourguignon/), [Érick Mascart]"
+"(/intervenants/erick-mascart/) et [Nicolas Pettiaux](/intervenants/nicolas-"
+"pettiaux/),"
+msgstr ""
+
 #: http://localhost/projets/enseigner-en-ligne/
 #: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.description)
+#: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.description_long)
 msgid "Nous aborderons notamment les points suivants :"
 msgstr ""
 
@@ -618,6 +588,16 @@ msgid ""
 "pédagogie."
 msgstr ""
 
+#: http://localhost/ (content/contents+fr.lr:page.next_workshop_description)
+msgid ""
+"EducodeSchool propose ce **mardi 5 mai de 15h à 16h** sur la plateforme "
+"BigBlueButton (lien à venir), une formation abordant la difficile question "
+"de l'[enseignement en ligne](/projets/enseigner-en-ligne/), organisé par "
+"[Laurence Bourguignon](/intervenants/laurence-bourguignon/), [Érick Mascart]"
+"(/invervenants/erick-mascart) et [Nicolas Pettiaux](/invervenants/nicolas-"
+"pettiaux),"
+msgstr ""
+
 #: http://localhost/intervenants/francois-mottard/
 #: (content/intervenants/francois-mottard/contents+fr.lr:speaker.description)
 msgid ""
@@ -636,6 +616,7 @@ msgstr ""
 
 #: http://localhost/projets/enseigner-en-ligne/
 #: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.description)
+#: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.description_long)
 msgid "- texte (mail, pad, site web, ...)"
 msgstr ""
 
@@ -755,6 +736,7 @@ msgstr ""
 
 #: http://localhost/projets/enseigner-en-ligne/
 #: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.description)
+#: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.description_long)
 msgid ""
 "- ses contraintes et quelques pistes de moyens et méthodes, en mode "
 "synchrone comme asynchrone,"
@@ -893,13 +875,6 @@ msgid ""
 msgstr ""
 
 #: http://localhost/projets/learning-management-systems-moodle/
-#: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description_long)
-msgid ""
-"## Cours 1 : mise en place d'une plateforme Moodle totalement gratuite pour "
-"1 ou 2 enseignants"
-msgstr ""
-
-#: http://localhost/projets/learning-management-systems-moodle/
 #: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description)
 msgid ""
 "Cours 4 : mise en place d'une plateforme Moodle pour une école primaire ou "
@@ -919,15 +894,12 @@ msgstr ""
 msgid "** Cours 2 : organiser son espace moodle **"
 msgstr ""
 
-#: http://localhost/projets/enseigner-en-ligne/
-#: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.description)
+#: http://localhost/projets/learning-management-systems-moodle/
+#: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description_long)
 msgid ""
-"Dans cette formation qui commence le **mardi 5 mai 2020**, nous allons "
-"aborder la difficile question de l'enseignement en ligne, à laquelle de "
-"nombreux enseignants de primaire, secondaire, hautes-écoles et universités "
-"dans le monde entier ont été confrontés depuis le 13 mars 2020 à l'occasion "
-"du confinement obligatoire imposé par le [Maladie à coronavirus 2019]"
-"(https://fr.wikipedia.org/wiki/Maladie_%C3%A0_coronavirus_2019)."
+"Grace à Moodle Cloud les apprenants pourront repartir avec leur plateforme "
+"MoodleCloud configurée pour un usage direct avec leurs élèves (45 élèves "
+"répartis dans une ou plusieurs classes et 2-3 professeurs)."
 msgstr ""
 
 #: http://localhost/intervenants/benoit-naveau/
@@ -956,17 +928,12 @@ msgstr ""
 
 #: http://localhost/projets/learning-management-systems-moodle/
 #: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description_long)
-msgid ""
-"- [[https://www.calameo.com/read/000040967d52224217226 | seconde partie]]"
-msgstr ""
-
-#: http://localhost/projets/learning-management-systems-moodle/
-#: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description_long)
 msgid "-    Comment paramétrer son espace de cours Moodle."
 msgstr ""
 
 #: http://localhost/projets/enseigner-en-ligne/
 #: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.description)
+#: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.description_long)
 msgid "- quelques outils"
 msgstr ""
 
@@ -1020,36 +987,8 @@ msgid "-     Comment organiser la navigation."
 msgstr ""
 
 #: http://localhost/projets/learning-management-systems-moodle/
-#: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description)
-msgid ""
-"COURS N°1 : MISE EN PLACE D'UNE PLATEFORME MOODLE totalement gratuite pour 1 "
-"ou 2 enseignants."
-msgstr ""
-
-#: http://localhost/projets/learning-management-systems-moodle/
-#: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description_long)
-msgid ""
-"Grace à Moodle Cloud les apprenants pourront repartir avec leur plateforme "
-"MoodleCloud configurée pour un usage direct avec leurs élèves (45 élèves "
-"répartis dans une ou plusieurs classes et 2-3 professeurs)."
-msgstr ""
-
-#: http://localhost/projets/learning-management-systems-moodle/
-#: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description_long)
-msgid ""
-"- [[https://www.calameo.com/read/00004096710aacffe2b28 | première partie]]"
-msgstr ""
-
-#: http://localhost/projets/learning-management-systems-moodle/
 #: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description_long)
 msgid "- Learningapps"
-msgstr ""
-
-#: http://localhost/projets/learning-management-systems-moodle/
-#: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description_long)
-msgid ""
-"=== Cours 1 : mise en place d'une plateforme Moodle totalement gratuite pour "
-"1 ou 2 enseignants ==="
 msgstr ""
 
 #: http://localhost/projets/learning-management-systems-moodle/
@@ -1106,6 +1045,7 @@ msgstr ""
 
 #: http://localhost/projets/enseigner-en-ligne/
 #: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.description)
+#: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.description_long)
 msgid "- bref historique de l'enseignement à distance"
 msgstr ""
 
@@ -1121,4 +1061,14 @@ msgid ""
 "Besoin de plus d'information sur cette conférence ? Rendez-vous sur [cette "
 "page](./projets#la-robotique-pedagogique), ou sur notre [wiki](https://wiki."
 "educode.be/doku.php/educodeschool/robotique/formation01)."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.next_workshop_description)
+msgid ""
+"EducodeSchool propose ce **mardi 5 mai de 15h à 16h** sur la plateforme "
+"BigBlueButton (lien à venir), une formation abordant la difficile question "
+"de l'[enseignement en ligne](/projets/enseigner-en-ligne/), organisé par "
+"[Laurence Bourguignon](/invervenants/laurence-bourguignon), [Érick Mascart](/"
+"invervenants/erick-mascart) et [Nicolas Pettiaux](/invervenants/nicolas-"
+"pettiaux),"
 msgstr ""

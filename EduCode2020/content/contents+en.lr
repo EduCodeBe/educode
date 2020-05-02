@@ -4,9 +4,7 @@ about:
 
 En cette période de confinement pour cause virale, Educode veut aider les enseignants et les parents à assurer la continuité pédagogique grâce aux outils numériques, les former et les accompagner dans ces nouveaux défis. Educode propose donc le projet RELIE et organise les actions [EducodeTV](projets#educodetv) et [EducodeSchool](projets#educodeschool).
 
-! EducodeSchool propose ce **vendredi 01/05/2020 de 11 à 12h** sur [BBB](https://bbb-1.wsweet.cloud/b/nic-d6t-zn2 ), une formation sur la plateforme Moodle, par [François Mottard](/intervenants/françois-mottard) et [Nicolas Pettiaux](/intervenants/nicolas-pettiaux). Vous y apprendrez à mettre en place des QCM avec moodle, pour des évaluations formatives et certificatives.
-
-Besoin de plus d'information sur cette conférence ? Rendez-vous sur [cette page](./projets#la-robotique-pedagogique), ou sur notre [wiki](https://wiki.educode.be/doku.php/educodeschool/robotique/formation01).
+Besoin de plus d'information sur les conférences ? Rendez-vous sur notre [wiki](https://wiki.educode.be/).
 ---
 baseline:
 
@@ -260,3 +258,7 @@ Pour tout renseignement, [rejoignez-nous](https://wiki.educode.be/doku.php) !
 form: Afin de nous permettre d'organiser au mieux ces activités, nous aimerions que vous remplissiez ce petit questionnaire
 ---
 formulaire: Afin de nous permettre d'organiser au mieux les activités, ainsi que de vous proposer des activités qui vous intéressent, veuillez remplir le formulaire ci-dessous.
+---
+next_workshop_url:
+---
+next_workshop_description: EducodeSchool propose ce **mardi 5 mai de 15h à 16h** sur la plateforme BigBlueButton (lien à venir), une formation abordant la difficile question de l'[enseignement en ligne](/projets/enseigner-en-ligne/), organisé par [Laurence Bourguignon](/intervenants/laurence-bourguignon/), [Érick Mascart](/intervenants/erick-mascart/) et [Nicolas Pettiaux](/intervenants/nicolas-pettiaux/),
