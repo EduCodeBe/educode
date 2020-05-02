@@ -11,7 +11,7 @@
         <p>{{ this.educodetv }}</p>
 
         <hr>
-        
+
         {% set ateliers = this.children.include_hidden(false).filter(F.projet == 'EducodeTV') %}
         {% for atelier in ateliers %}
         <div id="{{ atelier._id }}">
@@ -22,8 +22,15 @@
                 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                 allowfullscreen></iframe>
             {% endif %}
+
+            <!-- Link to page -->
+            <p class="text-center p-5">
+                <a class="btn btn-warning mb-1" href="{{ atelier._id | url }}">
+                    <i class="fa fa-search"></i> Voir les informations
+                </a>
+            </p>
         </div>
-        
+
         <hr>
         {% endfor %}
 
@@ -32,7 +39,7 @@
         <p>{{ this.educodeschool }}</p>
 
         <hr>
-        
+
         {% set ateliers = this.children.include_hidden(false).filter(F.projet == 'EducodeSchool') %}
         {% for atelier in ateliers %}
         <div id="{{ atelier._id }}">
@@ -43,6 +50,13 @@
                 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                 allowfullscreen></iframe>
             {% endif %}
+
+            <!-- Link to page -->
+            <p class="text-center p-5">
+                <a class="btn btn-warning mb-1" href="{{ atelier._id | url }}">
+                    <i class="fa fa-search"></i> Voir les informations
+                </a>
+            </p>
         </div>
 
         <hr>
