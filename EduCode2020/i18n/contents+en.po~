@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: educode\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-02 17:02+CET\n"
+"POT-Creation-Date: 2020-05-02 17:08+CET\n"
 "PO-Revision-Date: 2020-04-19 17:38\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: English\n"
@@ -203,6 +203,13 @@ msgid ""
 "- 11 € minimum par personne et par cours si il y a au moins 30 participants"
 msgstr ""
 
+#: http://localhost/intervenants/marie-duflot-kremer/
+#: (content/intervenants/marie-duflot-kremer/contents+fr.lr:speaker.description)
+msgid ""
+"[Marie Duflot-Kremer](https://members.loria.fr/MDuflot/) est une "
+"informaticienne française, maîtresse de conférences en informatique"
+msgstr ""
+
 #: http://localhost/projets/enseigner-en-ligne/
 #: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.description)
 #: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.description_long)
@@ -250,6 +257,10 @@ msgid ""
 "partager ses trouvailles et son expérience avec ses collègues instituteurs."
 msgstr ""
 
+#: (dynamic)
+msgid "Horaire"
+msgstr ""
+
 #: http://localhost/intervenants/nicolas-pettiaux/
 #: (content/intervenants/nicolas-pettiaux/contents+fr.lr:speaker.description)
 msgid ""
@@ -264,6 +275,14 @@ msgid ""
 "regional-it.be/2015/06/11/nicolas-pettiaux-developper-des-biens-communs-"
 "informationnels-open-source/), ou encore pour la production académique en "
 "open-access."
+msgstr ""
+
+#: http://localhost/intervenants/marie-duflot-kremer/
+#: (content/intervenants/marie-duflot-kremer/contents+fr.lr:speaker.description)
+msgid ""
+"Une playlist de videos d'explications de 10 activités informatique sans "
+"ordinateur est disponible sur [Youtube](https://www.youtube.com/playlist?"
+"list=PLWvGMqXvyJAPSMFgCiy6qVHW9bAPu93X5)."
 msgstr ""
 
 #: http://localhost/intervenants/francois-mottard/
@@ -296,6 +315,14 @@ msgstr ""
 #: http://localhost/intervenants/benoit-naveau/
 #: (content/intervenants/benoit-naveau/contents+fr.lr:speaker.description)
 msgid "**EducodeTV:**"
+msgstr ""
+
+#: http://localhost/intervenants/marie-duflot-kremer/
+#: (content/intervenants/marie-duflot-kremer/contents+fr.lr:speaker.description)
+msgid ""
+"Depuis son arrivée à Nancy, elle fait partie de l’équipe VERIDIS du LORIA et "
+"Inria Nancy Grand-Est qui s’intéresse à la vérification formelle de systèmes "
+"distribués."
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.price)
@@ -352,6 +379,19 @@ msgstr ""
 #: http://localhost/projets/learning-management-systems-moodle/
 #: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description_long)
 msgid "- Kahoot"
+msgstr ""
+
+#: http://localhost/intervenants/marie-duflot-kremer/
+#: (content/intervenants/marie-duflot-kremer/contents+fr.lr:speaker.description)
+msgid ""
+"En ce qui concerne la médiation scientifique, elle s'intéresse plus "
+"particulièrement à l' «informatique débranchée», ou comment présenter des "
+"concepts informatiques parfois assez poussés, à des publics très variés de 3 "
+"à 99+ ans, et le tout sans ordinateur. Par le biais d'activités ludiques "
+"utilisant des jetons, des mousquetons, des élastiques ou des aiguilles à "
+"tricoter, elle partage l’informatique avec un public diversifié : des "
+"écoliers (maternelle ou élémentaire), des collégiens/lycéens, des non "
+"scientifiques et des professeurs du primire et secondaire."
 msgstr ""
 
 #: http://localhost/projets/enseigner-en-ligne/
@@ -679,6 +719,14 @@ msgid ""
 "l'édition [2018 d'Educode](https://2018.educode.be)"
 msgstr ""
 
+#: http://localhost/intervenants/marie-duflot-kremer/
+#: (content/intervenants/marie-duflot-kremer/contents+fr.lr:speaker.description)
+msgid ""
+"Si vous voulez plus d’informations, savoir d’où viennent la plupart de ces "
+"activités, ou apprendre à les faire vous-mêmes, allez faire un tour sur "
+"[cette page](https://members.loria.fr/MDuflot/files/med/index.html)."
+msgstr ""
+
 #: http://localhost/projets/enseigner-en-ligne/
 #: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.description)
 #: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.description_long)
@@ -846,6 +894,17 @@ msgstr ""
 #: http://localhost/projets/learning-management-systems-moodle/
 #: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description_long)
 msgid "- Wooclap"
+msgstr ""
+
+#: http://localhost/intervenants/marie-duflot-kremer/
+#: (content/intervenants/marie-duflot-kremer/contents+fr.lr:speaker.description)
+msgid ""
+"Marie Duflot-Kremer participe notamment au projet [Class'Code](https://"
+"classcode.fr/) un programme de formation au code et à la pensée "
+"informatique, dans lequel elle est auteure scientifique des modules 2 "
+"(Manipuler l'information) et 5 (Gérer un projet informatique avec des "
+"enfants). Ce projet vise à former toute personne, animateur, enseignante, "
+"parent... désirant initier des jeunes de 8 à 14 ans à la pensée informatique."
 msgstr ""
 
 #: http://localhost/projets/la-robotique-pedagogique/
@@ -1060,6 +1119,11 @@ msgstr ""
 #: http://localhost/intervenants/benoit-naveau/
 #: (content/intervenants/benoit-naveau/contents+fr.lr:speaker.description)
 msgid "Objectifs :"
+msgstr ""
+
+#: http://localhost/intervenants/marie-duflot-kremer/
+#: (content/intervenants/marie-duflot-kremer/contents+fr.lr:speaker.description)
+msgid "depuis 2004 et plus précisément à l'Université de Lorraine depuis 2011."
 msgstr ""
 
 #: http://localhost/projets/learning-management-systems-moodle/

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: educode\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-02 17:02+CET\n"
+"POT-Creation-Date: 2020-05-02 17:10+CET\n"
 "PO-Revision-Date: 2020-04-20 07:45\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Dutch, Belgium\n"
@@ -35,24 +35,10 @@ msgstr ""
 msgid "- Animateur et formateur chez Kaleidi"
 msgstr ""
 
-#: (dynamic)
-msgid "Langue"
-msgstr ""
-
-#: (dynamic)
-msgid "Atelier suivant"
-msgstr ""
-
 #: http://localhost/projets/enseigner-en-ligne/
 #: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.description)
 #: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.description_long)
 msgid "- son (téléphone et autres)"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.price)
-msgid ""
-"- 20 € de cotisation à l'asbl educode pour une année courant du 1er janvier "
-"au 31 décembre"
 msgstr ""
 
 #: http://localhost/projets/learning-management-systems-moodle/
@@ -127,14 +113,6 @@ msgid ""
 "Moodle à l'enseignement primaire"
 msgstr ""
 
-#: http://localhost/intervenants/francois-mottard/
-#: (content/intervenants/francois-mottard/contents+fr.lr:speaker.description)
-msgid ""
-"* [MoodleBox](https://moodlebox.net/fr/) : La possibilité pour chaque "
-"enseignant de développer SA plateforme pédagogique personnelle avec ses "
-"classes ou ses activités extra-scolaires."
-msgstr ""
-
 #: http://localhost/intervenants/luc-viatour/
 #: (content/intervenants/luc-viatour/contents+fr.lr:speaker.description)
 msgid "Utilisateur averti de GIMP le pendant libre de \"Photoshop\"."
@@ -196,13 +174,16 @@ msgstr ""
 msgid "-     Comment mettre en place un système de sauvegarde et"
 msgstr ""
 
-#: (dynamic)
-msgid "À propos d'"
-msgstr ""
-
 #: http://localhost/ (content/contents+fr.lr:page.price)
 msgid ""
 "- 11 € minimum par personne et par cours si il y a au moins 30 participants"
+msgstr ""
+
+#: http://localhost/intervenants/marie-duflot-kremer/
+#: (content/intervenants/marie-duflot-kremer/contents+fr.lr:speaker.description)
+msgid ""
+"[Marie Duflot-Kremer](https://members.loria.fr/MDuflot/) est une "
+"informaticienne française, maîtresse de conférences en informatique"
 msgstr ""
 
 #: http://localhost/projets/enseigner-en-ligne/
@@ -216,10 +197,6 @@ msgstr ""
 msgid ""
 "- Créateur de la Robotic Academy primé par Ashoka en tant que projet "
 "pédagogique innovant en 2018"
-msgstr ""
-
-#: (dynamic)
-msgid "Les projets"
 msgstr ""
 
 #: http://localhost/projets/la-robotique-pedagogique/
@@ -254,10 +231,6 @@ msgstr ""
 "* Techno-pedagoog bij [Forsud](https://www.forsud.be/), ze deelt haar "
 "bevindingen en ervaringen graag met haar collega-leraren."
 
-#: (dynamic)
-msgid "Horaire"
-msgstr ""
-
 #: http://localhost/intervenants/nicolas-pettiaux/
 #: (content/intervenants/nicolas-pettiaux/contents+fr.lr:speaker.description)
 msgid ""
@@ -272,6 +245,14 @@ msgid ""
 "regional-it.be/2015/06/11/nicolas-pettiaux-developper-des-biens-communs-"
 "informationnels-open-source/), ou encore pour la production académique en "
 "open-access."
+msgstr ""
+
+#: http://localhost/intervenants/marie-duflot-kremer/
+#: (content/intervenants/marie-duflot-kremer/contents+fr.lr:speaker.description)
+msgid ""
+"Une playlist de videos d'explications de 10 activités informatique sans "
+"ordinateur est disponible sur [Youtube](https://www.youtube.com/playlist?"
+"list=PLWvGMqXvyJAPSMFgCiy6qVHW9bAPu93X5)."
 msgstr ""
 
 #: http://localhost/intervenants/francois-mottard/
@@ -306,10 +287,12 @@ msgstr ""
 msgid "**EducodeTV:**"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.price)
+#: http://localhost/intervenants/marie-duflot-kremer/
+#: (content/intervenants/marie-duflot-kremer/contents+fr.lr:speaker.description)
 msgid ""
-"Si les webinaires de EducodeTV sont gratuits, les formations de "
-"EducodeSchool sont payantes."
+"Depuis son arrivée à Nancy, elle fait partie de l’équipe VERIDIS du LORIA et "
+"Inria Nancy Grand-Est qui s’intéresse à la vérification formelle de systèmes "
+"distribués."
 msgstr ""
 
 #: http://localhost/intervenants/francois-mottard/
@@ -335,8 +318,9 @@ msgstr ""
 msgid "* Est membre actif de l'équipe Educode."
 msgstr "* Is een actief lid van het Educode-team."
 
-#: (dynamic)
-msgid "Pays"
+#: http://localhost/projets/learning-management-systems-moodle/
+#: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description_long)
+msgid "-    Moodle sur un serveur semi dédié. (< 10€/mois)"
 msgstr ""
 
 #: http://localhost/intervenants/erick-mascart/
@@ -362,6 +346,19 @@ msgstr ""
 #: http://localhost/projets/learning-management-systems-moodle/
 #: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description_long)
 msgid "- Kahoot"
+msgstr ""
+
+#: http://localhost/intervenants/marie-duflot-kremer/
+#: (content/intervenants/marie-duflot-kremer/contents+fr.lr:speaker.description)
+msgid ""
+"En ce qui concerne la médiation scientifique, elle s'intéresse plus "
+"particulièrement à l' «informatique débranchée», ou comment présenter des "
+"concepts informatiques parfois assez poussés, à des publics très variés de 3 "
+"à 99+ ans, et le tout sans ordinateur. Par le biais d'activités ludiques "
+"utilisant des jetons, des mousquetons, des élastiques ou des aiguilles à "
+"tricoter, elle partage l’informatique avec un public diversifié : des "
+"écoliers (maternelle ou élémentaire), des collégiens/lycéens, des non "
+"scientifiques et des professeurs du primire et secondaire."
 msgstr ""
 
 #: http://localhost/projets/enseigner-en-ligne/
@@ -429,14 +426,6 @@ msgid ""
 "l’enseignement technique de qualification"
 msgstr ""
 
-#: (dynamic)
-msgid "Tarifs"
-msgstr ""
-
-#: (dynamic)
-msgid "Voir les informations"
-msgstr ""
-
 #: http://localhost/ (content/contents+fr.lr:page.formulaire)
 msgid ""
 "Afin de nous permettre d'organiser au mieux les activités, ainsi que de vous "
@@ -478,10 +467,6 @@ msgstr ""
 msgid ""
 "** Cours 4 : mise en place d'une plateforme Moodle pour une école primaire "
 "ou le 1er degré du secondaire **"
-msgstr ""
-
-#: (dynamic)
-msgid "Retour aux projets"
 msgstr ""
 
 #: http://localhost/projets/learning-management-systems-moodle/
@@ -526,11 +511,6 @@ msgid ""
 "active de construction."
 msgstr ""
 
-#: http://localhost/projets/learning-management-systems-moodle/
-#: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description_long)
-msgid "-    Moodle sur un serveur semi dédié. (< 10€/mois)"
-msgstr ""
-
 #: http://localhost/intervenants/benoit-naveau/
 #: (content/intervenants/benoit-naveau/contents+fr.lr:speaker.description)
 msgid "**Biographie :**"
@@ -548,10 +528,6 @@ msgstr ""
 #: (content/intervenants/laurence-bourguignon/contents+fr.lr:speaker.description)
 msgid "* Institutrice dans le fondamental (primaire) depuis 23 ans."
 msgstr "* Leraar in de fundamentele (primaire) voor 23 jaar."
-
-#: (dynamic)
-msgid "Voir les projets"
-msgstr ""
 
 #: http://localhost/intervenants/benoit-naveau/
 #: (content/intervenants/benoit-naveau/contents+fr.lr:speaker.description)
@@ -589,20 +565,9 @@ msgstr ""
 #: http://localhost/intervenants/francois-mottard/
 #: (content/intervenants/francois-mottard/contents+fr.lr:speaker.description)
 msgid ""
-"* [Majournée pédagogique](https://noscours.org/): Un service aide aux "
-"établissements scolaires désireux de développer des pratiques numérique dans "
-"leur établissement par l'organisation de journées pédagogiques."
-msgstr ""
-
-#: http://localhost/intervenants/erick-mascart/
-#: (content/intervenants/erick-mascart/contents+fr.lr:speaker.description)
-msgid ""
-"Informaticien passionné par les [outils libres](https://fr.wikipedia.org/"
-"wiki/Logiciel_libre), la préservation des ressources naturelles en "
-"minimisant le gaspillage du «hardware», les démarches qui tendent vers une "
-"forme de «sobriété numérique» et le «[Green-IT](https://www.greenit.fr/a-"
-"propos/)», les questions actuelles que soulève le numérique à propos de la "
-"vie privée ou de la consommation d'énergie."
+"* [MoodleBox](https://moodlebox.net/fr/) : La possibilité pour chaque "
+"enseignant de développer SA plateforme pédagogique personnelle avec ses "
+"classes ou ses activités extra-scolaires."
 msgstr ""
 
 #: http://localhost/intervenants/benoit-naveau/
@@ -634,8 +599,10 @@ msgstr ""
 msgid "** Cours 3 : les ressources au service des activités **"
 msgstr ""
 
-#: (dynamic)
-msgid "Participer"
+#: http://localhost/ (content/contents+fr.lr:page.price)
+msgid ""
+"- 20 € de cotisation à l'asbl educode pour une année courant du 1er janvier "
+"au 31 décembre"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.next_workshop_description)
@@ -670,8 +637,10 @@ msgstr ""
 msgid "Vidéo de présentation :"
 msgstr ""
 
-#: (dynamic)
-msgid "Formulaire de participation"
+#: http://localhost/ (content/contents+fr.lr:page.price)
+msgid ""
+"Si les webinaires de EducodeTV sont gratuits, les formations de "
+"EducodeSchool sont payantes."
 msgstr ""
 
 #: http://localhost/intervenants/francois-mottard/
@@ -691,6 +660,14 @@ msgid ""
 msgstr ""
 "* Om 5 workshops te co-animeren met [Erick Mascart](../ erick-mascart) "
 "tijdens de editie [2018 van Educode](https://2018.educode.be)"
+
+#: http://localhost/intervenants/marie-duflot-kremer/
+#: (content/intervenants/marie-duflot-kremer/contents+fr.lr:speaker.description)
+msgid ""
+"Si vous voulez plus d’informations, savoir d’où viennent la plupart de ces "
+"activités, ou apprendre à les faire vous-mêmes, allez faire un tour sur "
+"[cette page](https://members.loria.fr/MDuflot/files/med/index.html)."
+msgstr ""
 
 #: http://localhost/projets/enseigner-en-ligne/
 #: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.description)
@@ -801,10 +778,6 @@ msgid ""
 "cours de math ou de science."
 msgstr ""
 
-#: (dynamic)
-msgid "À propos d'<strong>Educode</strong>"
-msgstr ""
-
 #: http://localhost/intervenants/erick-mascart/
 #: (content/intervenants/erick-mascart/contents+fr.lr:speaker.description)
 msgid ""
@@ -861,6 +834,17 @@ msgstr ""
 msgid "- Wooclap"
 msgstr ""
 
+#: http://localhost/intervenants/marie-duflot-kremer/
+#: (content/intervenants/marie-duflot-kremer/contents+fr.lr:speaker.description)
+msgid ""
+"Marie Duflot-Kremer participe notamment au projet [Class'Code](https://"
+"classcode.fr/) un programme de formation au code et à la pensée "
+"informatique, dans lequel elle est auteure scientifique des modules 2 "
+"(Manipuler l'information) et 5 (Gérer un projet informatique avec des "
+"enfants). Ce projet vise à former toute personne, animateur, enseignante, "
+"parent... désirant initier des jeunes de 8 à 14 ans à la pensée informatique."
+msgstr ""
+
 #: http://localhost/projets/la-robotique-pedagogique/
 #: (content/projets/la-robotique-pedagogique/contents+fr.lr:atelier.title)
 msgid "La robotique pédagogique"
@@ -878,10 +862,6 @@ msgid ""
 "ressources et sont essentielles."
 msgstr ""
 
-#: (dynamic)
-msgid "A propos"
-msgstr ""
-
 #: http://localhost/projets/ (content/projets/contents+fr.lr:projets.educodetv)
 msgid "Retrouvez ci-dessous certaines de nos formations."
 msgstr ""
@@ -889,10 +869,6 @@ msgstr ""
 #: http://localhost/ (content/contents+fr.lr:page.price)
 msgid ""
 "- 16 € minimum par personne et par cours si il y a moins de 20 participants"
-msgstr ""
-
-#: (dynamic)
-msgid "Les intervenants"
 msgstr ""
 
 #: http://localhost/intervenants/benoit-naveau/
@@ -928,12 +904,23 @@ msgid ""
 "EduCode."
 msgstr ""
 
-#: (dynamic)
-msgid "Retour à l'accueil"
+#: http://localhost/intervenants/francois-mottard/
+#: (content/intervenants/francois-mottard/contents+fr.lr:speaker.description)
+msgid ""
+"* [Majournée pédagogique](https://noscours.org/): Un service aide aux "
+"établissements scolaires désireux de développer des pratiques numérique dans "
+"leur établissement par l'organisation de journées pédagogiques."
 msgstr ""
 
-#: (dynamic)
-msgid "Se rendre à la conférence"
+#: http://localhost/intervenants/erick-mascart/
+#: (content/intervenants/erick-mascart/contents+fr.lr:speaker.description)
+msgid ""
+"Informaticien passionné par les [outils libres](https://fr.wikipedia.org/"
+"wiki/Logiciel_libre), la préservation des ressources naturelles en "
+"minimisant le gaspillage du «hardware», les démarches qui tendent vers une "
+"forme de «sobriété numérique» et le «[Green-IT](https://www.greenit.fr/a-"
+"propos/)», les questions actuelles que soulève le numérique à propos de la "
+"vie privée ou de la consommation d'énergie."
 msgstr ""
 
 #: http://localhost/projets/
@@ -949,10 +936,9 @@ msgid ""
 "* Formateur pour différents organisme de formation (IFC, CECAFOC, FOCEF)"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.about)
-msgid ""
-"Besoin de plus d'information sur les conférences ? Rendez-vous sur notre "
-"[wiki](https://wiki.educode.be/)."
+#: http://localhost/intervenants/francois-mottard/
+#: (content/intervenants/francois-mottard/contents+fr.lr:speaker.description)
+msgid "* Intervenant à quelques reprises aux MoodleMoot Francophones."
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.price)
@@ -1012,10 +998,6 @@ msgid ""
 "Grace à Moodle Cloud les apprenants pourront repartir avec leur plateforme "
 "MoodleCloud configurée pour un usage direct avec leurs élèves (45 élèves "
 "répartis dans une ou plusieurs classes et 2-3 professeurs)."
-msgstr ""
-
-#: (dynamic)
-msgid "Description"
 msgstr ""
 
 #: http://localhost/intervenants/benoit-naveau/
@@ -1080,6 +1062,11 @@ msgstr ""
 msgid "Objectifs :"
 msgstr ""
 
+#: http://localhost/intervenants/marie-duflot-kremer/
+#: (content/intervenants/marie-duflot-kremer/contents+fr.lr:speaker.description)
+msgid "depuis 2004 et plus précisément à l'Université de Lorraine depuis 2011."
+msgstr ""
+
 #: http://localhost/projets/learning-management-systems-moodle/
 #: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description)
 msgid "Cours 5 : les qcm en ligne."
@@ -1118,10 +1105,6 @@ msgid ""
 "youtube.com/channel/UCiVET6HJpiu62Uzgui5neNQ)"
 msgstr ""
 
-#: (dynamic)
-msgid "Wiki"
-msgstr ""
-
 #: http://localhost/projets/learning-management-systems-moodle/
 #: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description_long)
 msgid "Dans ce cours  nous montrerons :"
@@ -1140,9 +1123,10 @@ msgid ""
 "dans son film conceptuel [Hyper-Reality](http://hyper-reality.co/)…"
 msgstr ""
 
-#: http://localhost/intervenants/francois-mottard/
-#: (content/intervenants/francois-mottard/contents+fr.lr:speaker.description)
-msgid "* Intervenant à quelques reprises aux MoodleMoot Francophones."
+#: http://localhost/ (content/contents+fr.lr:page.about)
+msgid ""
+"Besoin de plus d'information sur les conférences ? Rendez-vous sur notre "
+"[wiki](https://wiki.educode.be/)."
 msgstr ""
 
 #: http://localhost/intervenants/benoit-naveau/
@@ -1154,14 +1138,6 @@ msgid ""
 "disciplinaires mais surtout transversales indispensables pour une ouverture "
 "critique sur le monde de demain : collaboration, créativité, pensée "
 "informatique et résolution de problèmes,"
-msgstr ""
-
-#: (dynamic)
-msgid "Contacter"
-msgstr ""
-
-#: (dynamic)
-msgid "Tarif"
 msgstr ""
 
 #: http://localhost/projets/enseigner-en-ligne/
@@ -1183,4 +1159,84 @@ msgid ""
 "suivre la formation pour personne. Pour demander cela, merci d'écrire à "
 "[compta@educode.be](mailto:compta@educode.be?subject=demande de reduction de "
 "cout de formation)."
+msgstr ""
+
+#: templates/atelier.html:29
+msgid "Horaire"
+msgstr ""
+
+#: templates/atelier.html:36
+msgid "Retour aux projets"
+msgstr ""
+
+#: templates/page.html:23
+msgid "À propos d'"
+msgstr ""
+
+#: templates/page.html:28
+msgid "Voir les projets"
+msgstr ""
+
+#: templates/page.html:39
+msgid "Atelier suivant"
+msgstr ""
+
+#: templates/page.html:46
+msgid "Se rendre à la conférence"
+msgstr ""
+
+#: templates/macros/sidebar.html:13 templates/page.html:57
+msgid "Les intervenants"
+msgstr ""
+
+#: templates/page.html:91
+msgid "Formulaire de participation"
+msgstr ""
+
+#: templates/page.html:104
+msgid "Tarifs"
+msgstr ""
+
+#: templates/macros/sidebar.html:16 templates/page.html:115
+msgid "Wiki"
+msgstr ""
+
+#: templates/macros/sidebar.html:8 templates/projets.html:6
+msgid "Les projets"
+msgstr ""
+
+#: templates/projets.html:29 templates/projets.html:57
+msgid "Voir les informations"
+msgstr ""
+
+#: templates/projets.html:69 templates/speaker.html:91
+msgid "Retour à l'accueil"
+msgstr ""
+
+#: templates/speaker.html:69
+msgid "Contacter"
+msgstr ""
+
+#: templates/speaker.html:77
+msgid "Pays"
+msgstr ""
+
+#: templates/speaker.html:84
+msgid "Description"
+msgstr ""
+
+#: templates/macros/language-menu.html:6
+msgid "Langue"
+msgstr ""
+
+#: templates/macros/sidebar.html:7
+msgid "A propos"
+msgstr ""
+
+#: templates/macros/sidebar.html:14
+msgid "Participer"
+msgstr ""
+
+#: templates/macros/sidebar.html:15
+msgid "Tarif"
 msgstr ""
