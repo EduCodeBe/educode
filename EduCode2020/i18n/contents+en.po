@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: educode\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-01 10:23+CET\n"
+"POT-Creation-Date: 2020-05-02 15:15+CET\n"
 "PO-Revision-Date: 2020-04-19 17:38\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: English\n"
@@ -38,6 +38,11 @@ msgstr ""
 #: http://localhost/projets/learning-management-systems-moodle/
 #: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description)
 msgid "COURS N°2 : ORGANISER SON ESPACE MOODLE."
+msgstr ""
+
+#: http://localhost/projets/enseigner-en-ligne/
+#: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.description)
+msgid "- son (téléphone et autres)"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.title)
@@ -137,6 +142,16 @@ msgstr ""
 #: http://localhost/ (content/contents+fr.lr:page.wiki)
 msgid ""
 "Pour tout renseignement, [rejoignez-nous](https://wiki.educode.be/doku.php) !"
+msgstr ""
+
+#: http://localhost/projets/enseigner-en-ligne/
+#: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.description)
+msgid "- hors ligne, asynchrones"
+msgstr ""
+
+#: http://localhost/projets/enseigner-en-ligne/
+#: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.description)
+msgid "- en ligne, synchrones et asynchrones tels que"
 msgstr ""
 
 #: http://localhost/intervenants/benoit-naveau/
@@ -241,17 +256,19 @@ msgstr ""
 msgid "A fait ses études aux arts et métiers à Bruxelles."
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.about)
-msgid ""
-"! EducodeSchool propose ce **jeudi 23/04/2020 de 15 à 16h** sur [BBB]"
-"(https://bbb-1.wsweet.cloud/b/nic-7vu-ygq ), une [formation sur la "
-"plateforme Moodle](/projets#learning-management-systems-moodle), par "
-"[François Mottard](intervenants/françois-mottard)."
+#: http://localhost/projets/enseigner-en-ligne/
+#: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.description)
+msgid "- comment organiser des évaluations, formatives et certificatives"
 msgstr ""
 
 #: http://localhost/projets/learning-management-systems-moodle/
 #: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description)
 msgid "COURS N° 5 : LES QCM EN LIGNE."
+msgstr ""
+
+#: http://localhost/projets/enseigner-en-ligne/
+#: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.description)
+msgid "- système de gestion de contenu pédagogique"
 msgstr ""
 
 #: http://localhost/projets/
@@ -322,6 +339,11 @@ msgstr ""
 #: http://localhost/projets/learning-management-systems-moodle/
 #: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description)
 msgid "COURS N°3 : LES RESSOURCES au service des ACTIVITES."
+msgstr ""
+
+#: http://localhost/projets/enseigner-en-ligne/
+#: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.description)
+msgid "- outils de quiz et question en ligne"
 msgstr ""
 
 #: http://localhost/projets/la-robotique-pedagogique/
@@ -408,6 +430,16 @@ msgstr ""
 msgid "## Biographie"
 msgstr ""
 
+#: http://localhost/projets/enseigner-en-ligne/
+#: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.description)
+msgid "- vidéo (outils de vidéoconférence généralistes ou spécialisés)"
+msgstr ""
+
+#: http://localhost/projets/enseigner-en-ligne/
+#: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.description)
+msgid "Nous aborderons notamment les points suivants :"
+msgstr ""
+
 #: http://localhost/intervenants/benoit-naveau/
 #: (content/intervenants/benoit-naveau/contents+fr.lr:speaker.description)
 msgid ""
@@ -449,6 +481,16 @@ msgstr ""
 msgid ""
 "* À co-animé 5 ateliers avec [Erick Mascart](../erick-mascart) lors de "
 "l'édition [2018 d'Educode](https://2018.educode.be)"
+msgstr ""
+
+#: http://localhost/projets/enseigner-en-ligne/
+#: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.description)
+msgid "- texte (mail, pad, site web, ...)"
+msgstr ""
+
+#: http://localhost/projets/enseigner-en-ligne/
+#: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.title)
+msgid "Enseigner en ligne"
 msgstr ""
 
 #: http://localhost/projets/formation-a-darktable/
@@ -550,6 +592,13 @@ msgstr ""
 msgid "- Instituteur primaire depuis 1998"
 msgstr ""
 
+#: http://localhost/projets/enseigner-en-ligne/
+#: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.description)
+msgid ""
+"- ses contraintes et quelques pistes de moyens et méthodes, en mode "
+"synchrone comme asynchrone,"
+msgstr ""
+
 #: http://localhost/intervenants/francois-mottard/
 #: (content/intervenants/francois-mottard/contents+fr.lr:speaker.description)
 msgid "## Quelques réalisations"
@@ -574,15 +623,6 @@ msgstr ""
 
 #: http://localhost/projets/ (content/projets/contents+fr.lr:projets.educodetv)
 msgid "Retrouvez ci-dessous certaines de nos formations."
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.about)
-msgid ""
-"! EducodeSchool propose ce **vendredi 01/05/2020 de 11 à 12h** sur [BBB]"
-"(https://bbb-1.wsweet.cloud/b/nic-d6t-zn2 ), une formation sur la plateforme "
-"Moodle, par [François Mottard](/intervenants/françois-mottard) et [Nicolas "
-"Pettiaux](/intervenants/nicolas-pettiaux). Vous y apprendre à mettre en "
-"place des QCM avec moodle, pour des évaluations formatives et certificatives."
 msgstr ""
 
 #: http://localhost/intervenants/benoit-naveau/
@@ -653,12 +693,34 @@ msgid ""
 "(http://ulb.ac.be)."
 msgstr ""
 
+#: http://localhost/projets/enseigner-en-ligne/
+#: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.description)
+msgid ""
+"Dans cette formation qui commence le **mardi 5 mai 2020 de 15h à 16h**, nous "
+"allons aborder la difficile question de l'enseignement en ligne, à laquelle "
+"de nombreux enseignants de primaire, secondaire, hautes-écoles et "
+"universités dans le monde entier ont été confrontés depuis le 13 mars 2020 à "
+"l'occasion du confinement obligatoire imposé par le [Maladie à coronavirus "
+"2019](https://fr.wikipedia.org/wiki/Maladie_%C3%A0_coronavirus_2019)."
+msgstr ""
+
 #: http://localhost/intervenants/erick-mascart/
 #: (content/intervenants/erick-mascart/contents+fr.lr:speaker.description)
 msgid ""
 "* Coordinateur TICE pour [Forsud asbl](https://www.forsud.be/), accompagne "
 "les projets numériques de 30 écoles fondamentales & 66 implantations dans le "
 "sud des provinces de Hainaut et Namur."
+msgstr ""
+
+#: http://localhost/projets/enseigner-en-ligne/
+#: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.description)
+msgid ""
+"Dans cette formation qui commence le **mardi 5 mai 2020**, nous allons "
+"aborder la difficile question de l'enseignement en ligne, à laquelle de "
+"nombreux enseignants de primaire, secondaire, hautes-écoles et universités "
+"dans le monde entier ont été confrontés depuis le 13 mars 2020 à l'occasion "
+"du confinement obligatoire imposé par le [Maladie à coronavirus 2019]"
+"(https://fr.wikipedia.org/wiki/Maladie_%C3%A0_coronavirus_2019)."
 msgstr ""
 
 #: http://localhost/intervenants/benoit-naveau/
@@ -676,6 +738,11 @@ msgstr ""
 msgid ""
 "Son témoignage me montre la direction à suivre pour améliorer "
 "l'enseignement :"
+msgstr ""
+
+#: http://localhost/projets/enseigner-en-ligne/
+#: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.description)
+msgid "- quelques outils"
 msgstr ""
 
 #: http://localhost/projets/learning-management-systems-moodle/
@@ -759,6 +826,11 @@ msgid ""
 "disciplinaires mais surtout transversales indispensables pour une ouverture "
 "critique sur le monde de demain : collaboration, créativité, pensée "
 "informatique et résolution de problèmes,"
+msgstr ""
+
+#: http://localhost/projets/enseigner-en-ligne/
+#: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.description)
+msgid "- bref historique de l'enseignement à distance"
 msgstr ""
 
 #: http://localhost/intervenants/benoit-naveau/
