@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: educode\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-02 16:31+CET\n"
+"POT-Creation-Date: 2020-05-02 17:02+CET\n"
 "PO-Revision-Date: 2020-04-19 17:38\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: English\n"
@@ -35,16 +35,24 @@ msgstr ""
 msgid "- Animateur et formateur chez Kaleidi"
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.about)
-msgid ""
-"Besoin de plus d'information sur les conférences ? Rendez-vous sur notre "
-"[wiki](https://wiki.educode.be/)."
+#: (dynamic)
+msgid "Langue"
+msgstr ""
+
+#: (dynamic)
+msgid "Atelier suivant"
 msgstr ""
 
 #: http://localhost/projets/enseigner-en-ligne/
 #: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.description)
 #: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.description_long)
 msgid "- son (téléphone et autres)"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.price)
+msgid ""
+"- 20 € de cotisation à l'asbl educode pour une année courant du 1er janvier "
+"au 31 décembre"
 msgstr ""
 
 #: http://localhost/projets/learning-management-systems-moodle/
@@ -95,15 +103,6 @@ msgid ""
 "licence [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/fr/)."
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.next_workshop_description)
-msgid ""
-"EducodeSchool propose ce **vendredi 01/05/2020 de 11 à 12h** sur [BBB]"
-"(https://bbb-1.wsweet.cloud/b/nic-d6t-zn2 ), une formation sur la plateforme "
-"Moodle, par [François Mottard](/intervenants/françois-mottard) et [Nicolas "
-"Pettiaux](/intervenants/nicolas-pettiaux). Vous y apprendrez à mettre en "
-"place des QCM avec moodle, pour des évaluations formatives et certificatives."
-msgstr ""
-
 #: http://localhost/projets/formation-a-darktable/
 #: (content/projets/formation-a-darktable/contents+fr.lr:atelier.description)
 msgid ""
@@ -128,6 +127,14 @@ msgid ""
 "Moodle à l'enseignement primaire"
 msgstr ""
 
+#: http://localhost/intervenants/francois-mottard/
+#: (content/intervenants/francois-mottard/contents+fr.lr:speaker.description)
+msgid ""
+"* [MoodleBox](https://moodlebox.net/fr/) : La possibilité pour chaque "
+"enseignant de développer SA plateforme pédagogique personnelle avec ses "
+"classes ou ses activités extra-scolaires."
+msgstr ""
+
 #: http://localhost/intervenants/luc-viatour/
 #: (content/intervenants/luc-viatour/contents+fr.lr:speaker.description)
 msgid "Utilisateur averti de GIMP le pendant libre de \"Photoshop\"."
@@ -141,6 +148,12 @@ msgstr ""
 #: http://localhost/intervenants/benoit-naveau/
 #: (content/intervenants/benoit-naveau/contents+fr.lr:speaker.description)
 msgid "- Facilitateur certifié à la méthode TeamPitfalls"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.price)
+msgid ""
+"- une réduction de 10% est proposée à toute personne inscrite à l'entièreté "
+"de la formation et qui paye dès le début de celle-ci"
 msgstr ""
 
 #: http://localhost/intervenants/benoit-naveau/
@@ -181,6 +194,15 @@ msgstr ""
 msgid "-     Comment mettre en place un système de sauvegarde et"
 msgstr ""
 
+#: (dynamic)
+msgid "À propos d'"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.price)
+msgid ""
+"- 11 € minimum par personne et par cours si il y a au moins 30 participants"
+msgstr ""
+
 #: http://localhost/projets/enseigner-en-ligne/
 #: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.description)
 #: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.description_long)
@@ -192,6 +214,21 @@ msgstr ""
 msgid ""
 "- Créateur de la Robotic Academy primé par Ashoka en tant que projet "
 "pédagogique innovant en 2018"
+msgstr ""
+
+#: (dynamic)
+msgid "Les projets"
+msgstr ""
+
+#: http://localhost/projets/la-robotique-pedagogique/
+#: (content/projets/la-robotique-pedagogique/contents+fr.lr:atelier.description)
+msgid ""
+"Pour les enseignant, mon objectif est de les former à la robotique "
+"pédagogique à l'aide du dossier pédagogique centré sur l’apprentissage des "
+"mathématiques tout en développant d'autres compétences disciplinaires et "
+"surtout transversales en lien avec leur programme, A terme, ils deviendront "
+"autonome afin qu'ils puissent percoler cette méthode au sein de leur "
+"pédagogie."
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.wiki)
@@ -261,6 +298,12 @@ msgstr ""
 msgid "**EducodeTV:**"
 msgstr ""
 
+#: http://localhost/ (content/contents+fr.lr:page.price)
+msgid ""
+"Si les webinaires de EducodeTV sont gratuits, les formations de "
+"EducodeSchool sont payantes."
+msgstr ""
+
 #: http://localhost/intervenants/francois-mottard/
 #: (content/intervenants/francois-mottard/contents+fr.lr:speaker.description)
 msgid ""
@@ -284,9 +327,8 @@ msgstr ""
 msgid "* Est membre actif de l'équipe Educode."
 msgstr ""
 
-#: http://localhost/projets/learning-management-systems-moodle/
-#: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description_long)
-msgid "-    Moodle sur un serveur semi dédié. (< 10€/mois)"
+#: (dynamic)
+msgid "Pays"
 msgstr ""
 
 #: http://localhost/intervenants/erick-mascart/
@@ -376,6 +418,14 @@ msgid ""
 "l’enseignement technique de qualification"
 msgstr ""
 
+#: (dynamic)
+msgid "Tarifs"
+msgstr ""
+
+#: (dynamic)
+msgid "Voir les informations"
+msgstr ""
+
 #: http://localhost/ (content/contents+fr.lr:page.formulaire)
 msgid ""
 "Afin de nous permettre d'organiser au mieux les activités, ainsi que de vous "
@@ -417,6 +467,10 @@ msgstr ""
 msgid ""
 "** Cours 4 : mise en place d'une plateforme Moodle pour une école primaire "
 "ou le 1er degré du secondaire **"
+msgstr ""
+
+#: (dynamic)
+msgid "Retour aux projets"
 msgstr ""
 
 #: http://localhost/projets/learning-management-systems-moodle/
@@ -461,6 +515,11 @@ msgid ""
 "active de construction."
 msgstr ""
 
+#: http://localhost/projets/learning-management-systems-moodle/
+#: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description_long)
+msgid "-    Moodle sur un serveur semi dédié. (< 10€/mois)"
+msgstr ""
+
 #: http://localhost/intervenants/benoit-naveau/
 #: (content/intervenants/benoit-naveau/contents+fr.lr:speaker.description)
 msgid "**Biographie :**"
@@ -477,6 +536,10 @@ msgstr ""
 #: http://localhost/intervenants/laurence-bourguignon/
 #: (content/intervenants/laurence-bourguignon/contents+fr.lr:speaker.description)
 msgid "* Institutrice dans le fondamental (primaire) depuis 23 ans."
+msgstr ""
+
+#: (dynamic)
+msgid "Voir les projets"
 msgstr ""
 
 #: http://localhost/intervenants/benoit-naveau/
@@ -515,9 +578,20 @@ msgstr ""
 #: http://localhost/intervenants/francois-mottard/
 #: (content/intervenants/francois-mottard/contents+fr.lr:speaker.description)
 msgid ""
-"* [MoodleBox](https://moodlebox.net/fr/) : La possibilité pour chaque "
-"enseignant de développer SA plateforme pédagogique personnelle avec ses "
-"classes ou ses activités extra-scolaires."
+"* [Majournée pédagogique](https://noscours.org/): Un service aide aux "
+"établissements scolaires désireux de développer des pratiques numérique dans "
+"leur établissement par l'organisation de journées pédagogiques."
+msgstr ""
+
+#: http://localhost/intervenants/erick-mascart/
+#: (content/intervenants/erick-mascart/contents+fr.lr:speaker.description)
+msgid ""
+"Informaticien passionné par les [outils libres](https://fr.wikipedia.org/"
+"wiki/Logiciel_libre), la préservation des ressources naturelles en "
+"minimisant le gaspillage du «hardware», les démarches qui tendent vers une "
+"forme de «sobriété numérique» et le «[Green-IT](https://www.greenit.fr/a-"
+"propos/)», les questions actuelles que soulève le numérique à propos de la "
+"vie privée ou de la consommation d'énergie."
 msgstr ""
 
 #: http://localhost/intervenants/benoit-naveau/
@@ -547,6 +621,10 @@ msgstr ""
 #: http://localhost/projets/learning-management-systems-moodle/
 #: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description_long)
 msgid "** Cours 3 : les ressources au service des activités **"
+msgstr ""
+
+#: (dynamic)
+msgid "Participer"
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.next_workshop_description)
@@ -581,25 +659,8 @@ msgstr ""
 msgid "Vidéo de présentation :"
 msgstr ""
 
-#: http://localhost/projets/la-robotique-pedagogique/
-#: (content/projets/la-robotique-pedagogique/contents+fr.lr:atelier.description)
-msgid ""
-"Pour les enseignant, mon objectif est de les former à la robotique "
-"pédagogique à l'aide du dossier pédagogique centré sur l’apprentissage des "
-"mathématiques tout en développant d'autres compétences disciplinaires et "
-"surtout transversales en lien avec leur programme, A terme, ils deviendront "
-"autonome afin qu'ils puissent percoler cette méthode au sein de leur "
-"pédagogie."
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.next_workshop_description)
-msgid ""
-"EducodeSchool propose ce **mardi 5 mai de 15h à 16h** sur la plateforme "
-"BigBlueButton (lien à venir), une formation abordant la difficile question "
-"de l'[enseignement en ligne](/projets/enseigner-en-ligne/), organisé par "
-"[Laurence Bourguignon](/intervenants/laurence-bourguignon/), [Érick Mascart]"
-"(/invervenants/erick-mascart) et [Nicolas Pettiaux](/invervenants/nicolas-"
-"pettiaux),"
+#: (dynamic)
+msgid "Formulaire de participation"
 msgstr ""
 
 #: http://localhost/intervenants/francois-mottard/
@@ -639,6 +700,11 @@ msgstr ""
 msgid "**EducodeSchool**"
 msgstr ""
 
+#: http://localhost/projets/learning-management-systems-moodle/
+#: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description_long)
+msgid "-    Moodle Cloud (Gratuit)"
+msgstr ""
+
 #: http://localhost/intervenants/nicolas-pettiaux/
 #: (content/intervenants/nicolas-pettiaux/contents+fr.lr:speaker.description)
 msgid ""
@@ -659,9 +725,12 @@ msgid ""
 "mené et publié."
 msgstr ""
 
-#: http://localhost/projets/learning-management-systems-moodle/
-#: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description_long)
-msgid "-    Moodle Cloud (Gratuit)"
+#: http://localhost/ (content/contents+fr.lr:page.price)
+msgid ""
+"Tous les membres de l'association ont accès à tous les enregistrements des "
+"cours et tous les documents associés. Ceux-ci seront rendus publics et "
+"gratuits pour tous dès qu'ils auront été payés, selon l'adage de François "
+"Élie, « le libre est gratuit un fois qu'il a été payé »."
 msgstr ""
 
 #: http://localhost/intervenants/francois-mottard/
@@ -710,6 +779,17 @@ msgstr ""
 #: http://localhost/projets/learning-management-systems-moodle/
 #: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description_long)
 msgid "-    Moodle Box (Gratuit)"
+msgstr ""
+
+#: http://localhost/projets/learning-management-systems-moodle/
+#: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description_long)
+msgid ""
+"Nous aborderons aussi l'utilisation du langage latex dans le cadre d'un "
+"cours de math ou de science."
+msgstr ""
+
+#: (dynamic)
+msgid "À propos d'<strong>Educode</strong>"
 msgstr ""
 
 #: http://localhost/intervenants/erick-mascart/
@@ -765,9 +845,7 @@ msgstr ""
 
 #: http://localhost/projets/learning-management-systems-moodle/
 #: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description_long)
-msgid ""
-"Nous aborderons aussi l'utilisation du langage latex dans le cadre d'un "
-"cours de math ou de science."
+msgid "- Wooclap"
 msgstr ""
 
 #: http://localhost/projets/la-robotique-pedagogique/
@@ -780,8 +858,28 @@ msgstr ""
 msgid "- Moodle"
 msgstr ""
 
+#: http://localhost/ (content/contents+fr.lr:page.price)
+msgid ""
+"Pour le moment, nous n'avons aucun soutien financier par des subventions ou "
+"du mécénat. Les participations des apprenants sont donc les seules "
+"ressources et sont essentielles."
+msgstr ""
+
+#: (dynamic)
+msgid "A propos"
+msgstr ""
+
 #: http://localhost/projets/ (content/projets/contents+fr.lr:projets.educodetv)
 msgid "Retrouvez ci-dessous certaines de nos formations."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.price)
+msgid ""
+"- 16 € minimum par personne et par cours si il y a moins de 20 participants"
+msgstr ""
+
+#: (dynamic)
+msgid "Les intervenants"
 msgstr ""
 
 #: http://localhost/intervenants/benoit-naveau/
@@ -817,23 +915,12 @@ msgid ""
 "EduCode."
 msgstr ""
 
-#: http://localhost/intervenants/francois-mottard/
-#: (content/intervenants/francois-mottard/contents+fr.lr:speaker.description)
-msgid ""
-"* [Majournée pédagogique](https://noscours.org/): Un service aide aux "
-"établissements scolaires désireux de développer des pratiques numérique dans "
-"leur établissement par l'organisation de journées pédagogiques."
+#: (dynamic)
+msgid "Retour à l'accueil"
 msgstr ""
 
-#: http://localhost/intervenants/erick-mascart/
-#: (content/intervenants/erick-mascart/contents+fr.lr:speaker.description)
-msgid ""
-"Informaticien passionné par les [outils libres](https://fr.wikipedia.org/"
-"wiki/Logiciel_libre), la préservation des ressources naturelles en "
-"minimisant le gaspillage du «hardware», les démarches qui tendent vers une "
-"forme de «sobriété numérique» et le «[Green-IT](https://www.greenit.fr/a-"
-"propos/)», les questions actuelles que soulève le numérique à propos de la "
-"vie privée ou de la consommation d'énergie."
+#: (dynamic)
+msgid "Se rendre à la conférence"
 msgstr ""
 
 #: http://localhost/projets/
@@ -849,9 +936,14 @@ msgid ""
 "* Formateur pour différents organisme de formation (IFC, CECAFOC, FOCEF)"
 msgstr ""
 
-#: http://localhost/projets/learning-management-systems-moodle/
-#: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description_long)
-msgid "- Wooclap"
+#: http://localhost/ (content/contents+fr.lr:page.about)
+msgid ""
+"Besoin de plus d'information sur les conférences ? Rendez-vous sur notre "
+"[wiki](https://wiki.educode.be/)."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.price)
+msgid "Pour les formations, nous envisageons les prix suivants"
 msgstr ""
 
 #: http://localhost/projets/learning-management-systems-moodle/
@@ -906,6 +998,10 @@ msgid ""
 "répartis dans une ou plusieurs classes et 2-3 professeurs)."
 msgstr ""
 
+#: (dynamic)
+msgid "Description"
+msgstr ""
+
 #: http://localhost/intervenants/benoit-naveau/
 #: (content/intervenants/benoit-naveau/contents+fr.lr:speaker.description)
 msgid ""
@@ -944,15 +1040,6 @@ msgstr ""
 #: http://localhost/projets/learning-management-systems-moodle/
 #: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description)
 msgid "Cette formation se déroule en 5 cours :"
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.about)
-msgid ""
-"! EducodeSchool propose ce **vendredi 01/05/2020 de 11 à 12h** sur [BBB]"
-"(https://bbb-1.wsweet.cloud/b/nic-d6t-zn2 ), une formation sur la plateforme "
-"Moodle, par [François Mottard](/intervenants/françois-mottard) et [Nicolas "
-"Pettiaux](/intervenants/nicolas-pettiaux). Vous y apprendrez à mettre en "
-"place des QCM avec moodle, pour des évaluations formatives et certificatives."
 msgstr ""
 
 #: http://localhost/intervenants/erick-mascart/
@@ -1013,6 +1100,10 @@ msgid ""
 "youtube.com/channel/UCiVET6HJpiu62Uzgui5neNQ)"
 msgstr ""
 
+#: (dynamic)
+msgid "Wiki"
+msgstr ""
+
 #: http://localhost/projets/learning-management-systems-moodle/
 #: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description_long)
 msgid "Dans ce cours  nous montrerons :"
@@ -1047,6 +1138,14 @@ msgid ""
 "informatique et résolution de problèmes,"
 msgstr ""
 
+#: (dynamic)
+msgid "Contacter"
+msgstr ""
+
+#: (dynamic)
+msgid "Tarif"
+msgstr ""
+
 #: http://localhost/projets/enseigner-en-ligne/
 #: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.description)
 #: (content/projets/enseigner-en-ligne/contents+fr.lr:atelier.description_long)
@@ -1060,19 +1159,10 @@ msgid ""
 "les participants pourront tester leur programme sur mon robot en direct."
 msgstr ""
 
-#: http://localhost/ (content/contents+fr.lr:page.about)
+#: http://localhost/ (content/contents+fr.lr:page.price)
 msgid ""
-"Besoin de plus d'information sur cette conférence ? Rendez-vous sur [cette "
-"page](./projets#la-robotique-pedagogique), ou sur notre [wiki](https://wiki."
-"educode.be/doku.php/educodeschool/robotique/formation01)."
-msgstr ""
-
-#: http://localhost/ (content/contents+fr.lr:page.next_workshop_description)
-msgid ""
-"EducodeSchool propose ce **mardi 5 mai de 15h à 16h** sur la plateforme "
-"BigBlueButton (lien à venir), une formation abordant la difficile question "
-"de l'[enseignement en ligne](/projets/enseigner-en-ligne/), organisé par "
-"[Laurence Bourguignon](/invervenants/laurence-bourguignon), [Érick Mascart](/"
-"invervenants/erick-mascart) et [Nicolas Pettiaux](/invervenants/nicolas-"
-"pettiaux),"
+"- la participation financière ne doit être de frein ou d'impossibilité de "
+"suivre la formation pour personne. Pour demander cela, merci d'écrire à "
+"[compta@educode.be](mailto:compta@educode.be?subject=demande de reduction de "
+"cout de formation)."
 msgstr ""

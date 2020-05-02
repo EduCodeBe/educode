@@ -8,7 +8,6 @@
         <h1 class="title mb-5 text-center color-darker-yellow"><strong>{{ this.title }}</strong></h1>
 
         <!-- DESCRIPTION -->
-        <h2 class="text-center" id="description"><strong>Description</strong></h2>
         <div>
             {% if this.schedule %}
             {{ this.description_long }}
@@ -23,16 +22,18 @@
             {% endif %}
         </div>
 
+        <hr>
+
         {% if this.schedule %}
         <!-- SCHEDULE -->
-        <h2 class="text-center" id="schedule"><strong>Horaire</strong></h2>
+        <h2 class="text-center" id="schedule"><strong>{{ _("Horaire") }}</strong></h2>
         <div class="admonition admonition-note">{{ this.schedule }}</div>
         {% endif %}
     </div>
 
     <p class="text-center p-5">
         <a class="btn btn-warning mb-1" href="{{ '/projets' | url }}">
-            <i class="fa fa-home"></i> Retour aux projets
+            <i class="fa fa-home"></i> {{ _("Retour aux projets") }}
         </a>
     </p>
 </main>

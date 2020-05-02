@@ -20,12 +20,12 @@
         <div class="row">
             <!-- GENERAL INFO -->
             <div class="col-12" id="anchor-a-propos">
-                <h4 class="title title-left">À propos d'<strong>Educode</strong></h4>
+                <h4 class="title title-left">{{ _("À propos d'") }}<strong>Educode</strong></h4>
                 <div class="about">
                     {{ this.about }}
                     <div class="col-12 text-center p-4">
-                        <a href="{{ 'projets' | url }}" class="btn btn-lg btn-warning text-uppercase">Voir les
-                            projets</a>
+                        <a href="{{ 'projets' | url }}" class="btn btn-lg btn-warning text-uppercase">
+                            {{ _("Voir les projets") }}</a>
                     </div>
                 </div>
             </div>
@@ -36,14 +36,14 @@
             
             <!-- CURRENT WORKSHOP INFO -->
             <div class="col-12" id="anchor-current-workshop">
-                <h4 class="title title-left">Atelier suivant</h4>
+                <h4 class="title title-left">{{ _("Atelier suivant") }}</h4>
                 <div class="">
                     <div class="admonition admonition-note">
                         {{ this.next_workshop_description }}
                     </div>
                     <div class="col-12 text-center p-4">
                         <a href="{{ this.next_workshop_url }}" class="btn btn-lg btn-warning text-uppercase">
-                            <i class="fa fa-eye"></i> Se rendre à la conférence</a>
+                            <i class="fa fa-eye"></i> {{ _("Se rendre à la conférence") }}</a>
                     </div>
                 </div>
             </div>
@@ -53,7 +53,8 @@
             </div>
 
             <div id="anchor-speakers" class="col-12">
-                <h4 class="title title-left"><i class="fa fa-users" aria-hidden="true"></i>Les intervenants
+                <h4 class="title title-left">
+                    <i class="fa fa-users" aria-hidden="true"></i>{{ _("Les intervenants") }}
                 </h4>
             </div>
 
@@ -87,7 +88,7 @@
             </div>
 
             <div class="col-12" id="anchor-participate">
-                <h4 class="title title-left">Formulaire de participation</h4>
+                <h4 class="title title-left">{{ _("Formulaire de participation") }}</h4>
                 <div class="about">
                     {{ this.formulaire }}
                     <iframe src="https://framaforms.org/participer-a-educode-2020-v2-1586206239" width="100%"
@@ -100,7 +101,7 @@
             </div>
 
             <div class="col-12" id="anchor-price">
-                <h4 class="title title-left">Tarifs</h4>
+                <h4 class="title title-left">{{ _("Tarifs") }}</h4>
                 <div class="about">
                     {{ this.price }}
                 </div>
@@ -111,7 +112,7 @@
             </div>
 
             <div class="col-12" id="anchor-wiki">
-                <h4 class="title title-left">Wiki</h4>
+                <h4 class="title title-left">{{ _("Wiki") }}</h4>
                 <div class="about">
                     {{ this.wiki }}
                 </div>

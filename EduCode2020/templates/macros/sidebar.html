@@ -4,16 +4,16 @@
 <!-- You can't set an anchor inside the field 'href'. Using this will result a bad behavior with alternatives -->
 {%
     set menu = [
-    {"expandable": False, "href": "/", "anchor": "#anchor-a-propos", "text": "A propos"},
-    {"expandable": True, "href": "/projets", "anchor": "", "text": "Les projets",
+    {"expandable": False, "href": "/", "anchor": "#anchor-a-propos", "text": _("A propos")},
+    {"expandable": True, "href": "/projets", "anchor": "", "text": _("Les projets"),
         "children": [
             {"href": "/projets", "anchor": "#educodetv", "text": "EducodeTV"},
             {"href": "/projets", "anchor": "#educodeschool", "text": "EducodeSchool"}
         ]},
-    {"expandable": False, "href": "/", "anchor": "#anchor-speakers", "text": "Les intervenants"},
-    {"expandable": False, "href": "/", "anchor": "#anchor-participate", "text": "Participer"},
-    {"expandable": False, "href": "/", "anchor": "#anchor-price", "text": "Tarif"},
-    {"expandable": False, "href": "/", "anchor": "#anchor-wiki", "text": "Wiki"},
+    {"expandable": False, "href": "/", "anchor": "#anchor-speakers", "text": _("Les intervenants")},
+    {"expandable": False, "href": "/", "anchor": "#anchor-participate", "text": _("Participer")},
+    {"expandable": False, "href": "/", "anchor": "#anchor-price", "text": _("Tarif")},
+    {"expandable": False, "href": "/", "anchor": "#anchor-wiki", "text": _("Wiki")},
     ]
 %}
 
