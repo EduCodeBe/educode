@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: educode\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-02 16:30+CET\n"
+"POT-Creation-Date: 2020-05-02 16:31+CET\n"
 "PO-Revision-Date: 2020-04-20 07:45\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Dutch, Belgium\n"
@@ -554,6 +554,16 @@ msgstr ""
 #: http://localhost/projets/learning-management-systems-moodle/
 #: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description_long)
 msgid "** Cours 3 : les ressources au service des activités **"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.next_workshop_description)
+msgid ""
+"EducodeSchool propose ce **mardi 5 mai de 15h à 16h** sur la plateforme "
+"BigBlueButton (lien à venir), une formation abordant la difficile question "
+"de l'[enseignement en ligne](/projets/enseigner-en-ligne/), organisé par "
+"[Laurence Bourguignon](/intervenants/laurence-bourguignon/), [Érick Mascart]"
+"(/intervenants/erick-mascart/) et [Nicolas Pettiaux](/intervenants/nicolas-"
+"pettiaux/),"
 msgstr ""
 
 #: http://localhost/projets/enseigner-en-ligne/

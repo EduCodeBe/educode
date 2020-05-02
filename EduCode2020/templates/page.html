@@ -57,7 +57,7 @@
                 </h4>
             </div>
 
-            <!-- On récupère tous les intervenants -->
+            <!-- SPEAKERS -->
             {% set speakers = site.query('/intervenants').include_hidden(false) %}
             {% if speakers %}
             {% for speaker in speakers.order_by("name") %}
@@ -92,6 +92,17 @@
                     {{ this.formulaire }}
                     <iframe src="https://framaforms.org/participer-a-educode-2020-v2-1586206239" width="100%"
                         height="600" border="0"></iframe>
+                </div>
+            </div>
+
+            <div class="col-12">
+                <hr>
+            </div>
+
+            <div class="col-12" id="anchor-price">
+                <h4 class="title title-left">Tarifs</h4>
+                <div class="about">
+                    {{ this.price }}
                 </div>
             </div>
 

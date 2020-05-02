@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-02 16:33+CET\n"
+"POT-Creation-Date: 2020-05-02 16:42+CET\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: fr <LL@li.org>\n"
@@ -139,6 +139,12 @@ msgstr ""
 msgid "- Facilitateur certifié à la méthode TeamPitfalls"
 msgstr ""
 
+#: http://localhost/ (content/contents+fr.lr:page.price)
+msgid ""
+"- une réduction de 10% est proposée à toute personne inscrite à l'entièreté "
+"de la formation et qui paye dès le début de celle-ci"
+msgstr ""
+
 #: http://localhost/intervenants/benoit-naveau/
 #: (content/intervenants/benoit-naveau/contents+fr.lr:speaker.description)
 msgid "Le témoignage d'une ancienne élève explique clairement ces bienfaits :"
@@ -175,6 +181,11 @@ msgstr ""
 #: http://localhost/projets/learning-management-systems-moodle/
 #: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description_long)
 msgid "-     Comment mettre en place un système de sauvegarde et"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.price)
+msgid ""
+"- 11 € minimum par personne et par cours si il y a au moins 30 participants"
 msgstr ""
 
 #: http://localhost/projets/enseigner-en-ligne/
@@ -255,6 +266,12 @@ msgstr ""
 #: http://localhost/intervenants/benoit-naveau/
 #: (content/intervenants/benoit-naveau/contents+fr.lr:speaker.description)
 msgid "**EducodeTV:**"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.price)
+msgid ""
+"Si les webinaires de EducodeTV sont gratuits, les formations de "
+"EducodeSchool sont payantes."
 msgstr ""
 
 #: http://localhost/intervenants/francois-mottard/
@@ -545,6 +562,12 @@ msgstr ""
 msgid "** Cours 3 : les ressources au service des activités **"
 msgstr ""
 
+#: http://localhost/ (content/contents+fr.lr:page.price)
+msgid ""
+"- 20 € de cotisation à l'asbl educode pour une année courant du 1er janvier "
+"au 31 décembre"
+msgstr ""
+
 #: http://localhost/ (content/contents+fr.lr:page.next_workshop_description)
 msgid ""
 "EducodeSchool propose ce **mardi 5 mai de 15h à 16h** sur la plateforme "
@@ -633,6 +656,14 @@ msgstr ""
 #: http://localhost/intervenants/benoit-naveau/
 #: (content/intervenants/benoit-naveau/contents+fr.lr:speaker.description)
 msgid "**EducodeSchool**"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.price)
+msgid ""
+"Tous les membres de l'association ont accès à tous les enregistrements des "
+"cours et tous les documents associés. Ceux-ci seront rendus publics et "
+"gratuits pour tous dès qu'ils auront été payés, selon l'adage de François "
+"Élie, « le libre est gratuit un fois qu'il a été payé »."
 msgstr ""
 
 #: http://localhost/intervenants/nicolas-pettiaux/
@@ -776,8 +807,20 @@ msgstr ""
 msgid "- Moodle"
 msgstr ""
 
+#: http://localhost/ (content/contents+fr.lr:page.price)
+msgid ""
+"Pour le moment, nous n'avons aucun soutien financier par des subventions ou "
+"du mécénat. Les participations des apprenants sont donc les seules "
+"ressources et sont essentielles."
+msgstr ""
+
 #: http://localhost/projets/ (content/projets/contents+fr.lr:projets.educodetv)
 msgid "Retrouvez ci-dessous certaines de nos formations."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.price)
+msgid ""
+"- 16 € minimum par personne et par cours si il y a moins de 20 participants"
 msgstr ""
 
 #: http://localhost/intervenants/benoit-naveau/
@@ -848,6 +891,10 @@ msgstr ""
 #: http://localhost/projets/learning-management-systems-moodle/
 #: (content/projets/learning-management-systems-moodle/contents+fr.lr:atelier.description_long)
 msgid "- Wooclap"
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.price)
+msgid "Pour les formations, nous envisageons les prix suivants"
 msgstr ""
 
 #: http://localhost/projets/learning-management-systems-moodle/
@@ -1061,6 +1108,14 @@ msgid ""
 "Besoin de plus d'information sur cette conférence ? Rendez-vous sur [cette "
 "page](./projets#la-robotique-pedagogique), ou sur notre [wiki](https://wiki."
 "educode.be/doku.php/educodeschool/robotique/formation01)."
+msgstr ""
+
+#: http://localhost/ (content/contents+fr.lr:page.price)
+msgid ""
+"- la participation financière ne doit être de frein ou d'impossibilité de "
+"suivre la formation pour personne. Pour demander cela, merci d'écrire à "
+"[compta@educode.be](mailto:compta@educode.be?subject=demande de reduction de "
+"cout de formation)."
 msgstr ""
 
 #: http://localhost/ (content/contents+fr.lr:page.next_workshop_description)
