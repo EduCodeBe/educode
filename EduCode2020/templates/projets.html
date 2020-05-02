@@ -3,15 +3,15 @@
 {% block content %}
 <main id="page-program" class="container">
     <div class="content-wrapper">
-        <h1 class="title mb-5 text-center color-darker-yellow"><strong>Les projets</strong></h1>
+        <h1 class="title mb-5 text-center color-darker-yellow"><strong>{{ _("Les projets") }}</strong></h1>
         <p>{{ this.description }}</p>
 
         <!-- EDUCODE_TV -->
-        <h2 class="text-center" id="educodetv"><strong>EducodeTV</strong></h2>
+        <h2 class="text-center mt-5" id="educodetv"><strong>EducodeTV</strong></h2>
         <p>{{ this.educodetv }}</p>
 
         <hr>
-        
+
         {% set ateliers = this.children.include_hidden(false).filter(F.projet == 'EducodeTV') %}
         {% for atelier in ateliers %}
         <div id="{{ atelier._id }}">
@@ -22,17 +22,24 @@
                 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                 allowfullscreen></iframe>
             {% endif %}
+
+            <!-- Link to page -->
+            <p class="text-center p-5">
+                <a class="btn btn-warning" href="{{ atelier._id | url }}">
+                    <i class="fa fa-search"></i> {{ _("Voir les informations") }}
+                </a>
+            </p>
         </div>
-        
+
         <hr>
         {% endfor %}
 
         <!-- EDUCODE_SCHOOL -->
-        <h2 class="text-center" id="educodeschool"><strong>EducodeSchool</strong></h2>
+        <h2 class="text-center mt-5" id="educodeschool"><strong>EducodeSchool</strong></h2>
         <p>{{ this.educodeschool }}</p>
 
         <hr>
-        
+
         {% set ateliers = this.children.include_hidden(false).filter(F.projet == 'EducodeSchool') %}
         {% for atelier in ateliers %}
         <div id="{{ atelier._id }}">
@@ -43,6 +50,13 @@
                 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                 allowfullscreen></iframe>
             {% endif %}
+
+            <!-- Link to page -->
+            <p class="text-center p-5">
+                <a class="btn btn-warning" href="{{ atelier._id | url }}">
+                    <i class="fa fa-search"></i> {{ _("Voir les informations") }}
+                </a>
+            </p>
         </div>
 
         <hr>
@@ -52,7 +66,7 @@
 
     <p class="text-center p-5">
         <a class="btn btn-warning mb-1" href="{{ '/' | url }}">
-            <i class="fa fa-home"></i> Retour à l'accueil
+            <i class="fa fa-home"></i> {{ _("Retour à l'accueil") }}
         </a>
     </p>
 </main>

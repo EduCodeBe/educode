@@ -6,14 +6,121 @@ description:
 
 Cette formation se déroule en 5 cours :
 
-COURS N°1 : MISE EN PLACE D'UNE PLATEFORME MOODLE totalement gratuite pour 1 ou 2 enseignants.
+Cours 1 : mise en place d'une plateforme Moodle totalement gratuite pour 1 ou 2 enseignants.
 
-COURS N°2 : ORGANISER SON ESPACE MOODLE.
+Cours 2 : organiser son espace moodle.
 
-COURS N°3 : LES RESSOURCES au service des ACTIVITES.
+Cours 3 : les ressources au service des activités.
 
-COURS N°4 : MISE EN PLACE D'UNE PLATEFORME MOODLE pour une école primaire ou le 1er degré du secondaire.
+Cours 4 : mise en place d'une plateforme Moodle pour une école primaire ou le 1er degré du secondaire.
 
-COURS N° 5 : LES QCM EN LIGNE.
+Cours 5 : les qcm en ligne.
 ---
 projet: EducodeSchool
+---
+schedule:
+
+* Lundi 11 mai de 10h00 à 11h30
+* Jeudi 14 mai de 10h00 à 11h30
+* Lundi 18 mai de 10h00 à 11h30
+* Lundi 25 mai de 10h00 à 11h30
+* Jeudi 28 mai de 10h00 à 11h30
+* Mardi 2 juin de 14h00 à 15h30
+* Jeudi 4 juin de 14h00 à 15h30
+* Mardi 9 juin de 14h00 à 15h30
+---
+
+Un premier webinaire a eu lieu ce jeudi 23 avril 2020 de 15h à 16h. Les slides projetées sont disponibles ci dessous :
+
+  - [[https://www.calameo.com/read/00004096710aacffe2b28 | première partie]]
+  - [[https://www.calameo.com/read/000040967d52224217226 | seconde partie]]
+
+=== Cours 1 : mise en place d'une plateforme Moodle totalement gratuite pour 1 ou 2 enseignants ===
+
+L'objectif de ce cours est de permettre à un enseignant de disposer, lui-même, d'une plateforme Moode qu'il pourra partager avec quelques collègues.
+Les solutions abordées seront : 
+  -    Moodle Cloud (Gratuit)
+  -    Moodle Box (Gratuit)
+  -    Moodle sur un serveur semi dédié. (< 10€/mois)
+
+Grace à Moodle Cloud les apprenants pourront repartir avec leur plateforme MoodleCloud configurée pour un usage direct avec leurs élèves (45 élèves répartis dans une ou plusieurs classes et 2-3 professeurs).
+
+=== Cours 2 : organiser son espace moodle ===
+
+Dans ce cours  nous montrerons : 
+  -    Comment paramétrer son espace de cours Moodle.
+  -     Comment organiser la navigation.
+  -     Comment mettre en place un système de sauvegarde et
+  -     Etablir la communication avec ses apprenants.
+
+
+=== Cours 3 : les ressources au service des activités ===
+
+Dans ce cours nous découvrirons les possibilités pédagogiques de Moodle en terme de mise à disposition de ressources ainsi que la création ou l'importation d'activités pédagogiques pour vos apprenants en fonction de votre infrastructure.
+
+=== Cours 4 : mise en place d'une plateforme Moodle pour une école primaire ou le 1er degré du secondaire ===
+
+Cette formation a pour objectif de permettre à un, ou plusieurs enseignants, de mettre en place un moodle "semi-professionnel"(50 -> 300 élèves). 
+
+Cette solution permet d'exploiter la plupart des options et plugins possibles de moodle. Les instituteurs et les professeurs du 1er degré sont particulièrement visés par cette approche.  Outre le soucis de disposer d'une ergonomie appropriée aux plus jeunes, des activités, plus adaptées à ce public (10-14ans)seront davantage travaillées. Cette formation s'adresse plus spécialement à des utilisateurs ayant une expérience dans l'utilisation des outils numériques à vocation pédagogique et/ou organisationnel ou désireux d'en acquérir une. Pour les personnes ayant participé à la formation, une assistance technico-pédagogique sera proposée au terme de la formation. 
+
+=== Cours 5 : les qcm en ligne ===
+
+Dans ce cours  nous découvrirons et comparerons entre eux, quelques outils de QCM en ligne tels que 
+  - Moodle
+  - Learningapps 
+  - Kahoot
+  - Bookwidget 
+  - Wooclap
+
+Nous aborderons aussi l'utilisation du langage latex dans le cadre d'un cours de math ou de science.
+
+Nous regarderons ensuite comment les intégrer dans son espace de cours Moodle (iframe, liens hypertexte,..)
+---
+description_long:
+
+Un premier webinaire a eu lieu ce jeudi 23 avril 2020 de 15h à 16h. Les slides projetées sont disponibles ci dessous :
+
+  - [https://www.calameo.com/read/00004096710aacffe2b28](première partie)
+  - [https://www.calameo.com/read/000040967d52224217226](seconde partie)
+
+** Cours 1 : mise en place d'une plateforme Moodle totalement gratuite pour 1 ou 2 enseignants **
+
+L'objectif de ce cours est de permettre à un enseignant de disposer, lui-même, d'une plateforme Moode qu'il pourra partager avec quelques collègues.
+Les solutions abordées seront : 
+  -    Moodle Cloud (Gratuit)
+  -    Moodle Box (Gratuit)
+  -    Moodle sur un serveur semi dédié. (< 10€/mois)
+
+Grace à Moodle Cloud les apprenants pourront repartir avec leur plateforme MoodleCloud configurée pour un usage direct avec leurs élèves (45 élèves répartis dans une ou plusieurs classes et 2-3 professeurs).
+
+** Cours 2 : organiser son espace moodle **
+
+Dans ce cours  nous montrerons : 
+  -    Comment paramétrer son espace de cours Moodle.
+  -     Comment organiser la navigation.
+  -     Comment mettre en place un système de sauvegarde et
+  -     Etablir la communication avec ses apprenants.
+
+
+** Cours 3 : les ressources au service des activités **
+
+Dans ce cours nous découvrirons les possibilités pédagogiques de Moodle en terme de mise à disposition de ressources ainsi que la création ou l'importation d'activités pédagogiques pour vos apprenants en fonction de votre infrastructure.
+
+** Cours 4 : mise en place d'une plateforme Moodle pour une école primaire ou le 1er degré du secondaire **
+Cette formation a pour objectif de permettre à un, ou plusieurs enseignants, de mettre en place un moodle "semi-professionnel"(50 -> 300 élèves). 
+
+Cette solution permet d'exploiter la plupart des options et plugins possibles de moodle. Les instituteurs et les professeurs du 1er degré sont particulièrement visés par cette approche.  Outre le soucis de disposer d'une ergonomie appropriée aux plus jeunes, des activités, plus adaptées à ce public (10-14ans)seront davantage travaillées. Cette formation s'adresse plus spécialement à des utilisateurs ayant une expérience dans l'utilisation des outils numériques à vocation pédagogique et/ou organisationnel ou désireux d'en acquérir une. Pour les personnes ayant participé à la formation, une assistance technico-pédagogique sera proposée au terme de la formation. 
+
+** Cours 5 : les qcm en ligne **
+
+Dans ce cours  nous découvrirons et comparerons entre eux, quelques outils de QCM en ligne tels que 
+  - Moodle
+  - Learningapps 
+  - Kahoot
+  - Bookwidget 
+  - Wooclap
+
+Nous aborderons aussi l'utilisation du langage latex dans le cadre d'un cours de math ou de science.
+
+Nous regarderons ensuite comment les intégrer dans son espace de cours Moodle (iframe, liens hypertexte,..)

@@ -66,7 +66,7 @@
                     {% if this.email %}
                         <li class="mb-1">
                             <img width="24px" src="{{ "/imgs/mail.png" | url }}" alt=""/>
-                            <strong><a href="mailto:{{ this.email }}" target="_top">Contacter</a></strong>
+                            <strong><a href="mailto:{{ this.email }}" target="_top">{{ _("Contacter") }}</a></strong>
                         </li>
                     {% endif %}
                 </ul>
@@ -74,21 +74,21 @@
             <div class="col-12 col-sm-10 border-dark">
                 <div>
                 <div>
-                    <span class="text-dark"><i class="fa fa-globe"></i> Pays</span>
+                    <span class="text-dark"><i class="fa fa-globe"></i> {{ _("Pays") }}</span>
                     <br>
                     <strong id="flag"> {{ this.country }}</strong>
                 </div>
 
 
                 <div class="bg-light p-2 mt-2 pt-2 speaker-description">
-                    <span class="text-dark"><i class="fa fa-comment"></i> Description</span>
+                    <span class="text-dark"><i class="fa fa-comment"></i> {{ _("Description") }}</span>
                     <hr>
                     {{ this.description }}
                 </div>
                 <hr>
                 <p class="text-center">
                     <a class="btn btn-warning" href="{{ '/' | url }}">
-                        <i class="fa fa-home"></i> Back to home
+                        <i class="fa fa-home"></i> {{ _("Retour à l'accueil") }}
                     </a>
                 </p>
             </div>

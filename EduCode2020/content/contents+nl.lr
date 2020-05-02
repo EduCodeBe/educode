@@ -2,21 +2,19 @@ _template: page.html
 ---
 about:
 
-En cette période de confinement pour cause virale, Educode veut aider les enseignants et les parents à assurer la continuité pédagogique grâce aux outils numériques, les former et les accompagner dans ces nouveaux défis. Educode propose donc le projet RELIE et organise les actions [EducodeTV](projets#educodetv) et [EducodeSchool](projets#educodeschool).
+In deze periode van virale insluiting wil Educode leerkrachten en ouders helpen om de pedagogische continuïteit te verzekeren dankzij digitale tools, hen te trainen en te begeleiden in deze nieuwe uitdagingen. Educode stelt het RELIE-project voor en organiseert de acties [EducodeTV](projets#educodetv) en [EducodeSchool](projets#educodeschool).
 
-! EducodeSchool propose ce **vendredi 01/05/2020 de 11 à 12h** sur [BBB](https://bbb-1.wsweet.cloud/b/nic-d6t-zn2 ), une formation sur la plateforme Moodle, par [François Mottard](/intervenants/françois-mottard) et [Nicolas Pettiaux](/intervenants/nicolas-pettiaux). Vous y apprendrez à mettre en place des QCM avec moodle, pour des évaluations formatives et certificatives.
-
-Besoin de plus d'information sur cette conférence ? Rendez-vous sur [cette page](./projets#la-robotique-pedagogique), ou sur notre [wiki](https://wiki.educode.be/doku.php/educodeschool/robotique/formation01).
+Meer informatie nodig over de conferenties? Bezoek onze [wiki](https://wiki.educode.be/).
 ---
 baseline:
 
- Accompagner les écoles face aux défis du numérique
+ Ondersteuning van scholen in het licht van de digitale uitdagingen
 ---
 monday: A faire : overview
 ---
 thuesday:
 ---
-title: Bienvenue à educode
+title: Welkom bij educode
 ---
 wednesday:
 ---
@@ -253,10 +251,29 @@ Une journée spécialement dédiée aux enseignants intéressés par l'informati
 ---
 wiki:
 
-Le wiki est une plateforme ressemblant à, Wikipedia. Il contient beaucoup d'informations utiles sur tous nos projets, et tous le monde peut y participer.
+De wiki is een platform zoals Wikipedia. Het bevat veel nuttige informatie over al onze projecten, en iedereen kan meedoen.
 
-Pour tout renseignement, [rejoignez-nous](https://wiki.educode.be/doku.php) !
+Voor meer informatie, [kom erbij](https://wiki.educode.be/doku.php)!
 ---
 form: Afin de nous permettre d'organiser au mieux ces activités, nous aimerions que vous remplissiez ce petit questionnaire
 ---
-formulaire: Afin de nous permettre d'organiser au mieux les activités, ainsi que de vous proposer des activités qui vous intéressent, veuillez remplir le formulaire ci-dessous.
+formulaire: Om ons in staat te stellen de activiteiten zo goed mogelijk te organiseren en u activiteiten voor te stellen die u interesseren, verzoeken wij u het onderstaande formulier in te vullen.
+---
+next_workshop_url:
+---
+next_workshop_description: EducodeSchool biedt deze **Dinsdag 5 mei van 15 tot 16 uur** op het BigBlueButton-platform (link komt eraan), een trainingssessie over het moeilijke onderwerp [online onderwijs](/projets/enseigner-en-ligne/), georganiseerd door [Laurence Bourguignon](/intervenants/laurence-bourguignon/), [Érick Mascart](/intervenants/erick-mascart/) en [Nicolas Pettiaux](/intervenants/nicolas-pettiaux/),
+---
+price:
+
+Hoewel EducodeTV-webinars gratis zijn, zijn EducodeSchool-trainingen niet gratis. 
+
+Op dit moment hebben we geen financiële steun door middel van subsidies of sponsoring. Deelname van de leerlingen is daarom de enige hulpbron en is essentieel. 
+
+Voor opleidingen overwegen we de volgende prijzen
+  - € 20, - bijdrage aan educode vzw voor een jaar dat loopt van 1 januari tot en met 31 december
+  - 16 € minimum per persoon en per cursus als er minder dan 20 deelnemers zijn
+  - 11 € minimum per persoon en per cursus als er minstens 30 deelnemers zijn
+  - een korting van 10% wordt aangeboden aan iedereen die voor de gehele cursus is ingeschreven en die aan het begin van de cursus betaalt 
+  - de financiële deelname mag voor niemand een belemmering of onmogelijkheid zijn om de opleiding te volgen. Om dit aan te vragen kunt u schrijven naar [compta@educode.be](mailto:compta@educode.be?subject=verzoek om vermindering van de opleidingskosten).
+
+Alle leden van de vereniging hebben toegang tot alle cursusopnames en bijbehorende documenten. Deze zullen openbaar worden gemaakt en gratis zijn voor iedereen zodra ze betaald zijn, volgens het adagium van François Élie, "gratis is gratis zodra het betaald is".

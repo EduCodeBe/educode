@@ -1,19 +1,126 @@
 _model: atelier
 ---
-title: Learning management systems - MOODLE
+title: Leren beheersystemen - MOODLE
 ---
 description:
 
-Cette formation se déroule en 5 cours :
+Deze training is onderverdeeld in 5 cursussen:
 
-COURS N°1 : MISE EN PLACE D'UNE PLATEFORME MOODLE totalement gratuite pour 1 ou 2 enseignants.
+Cursus 1: Het opzetten van een Moodle-platform volledig gratis voor 1 of 2 docenten.
 
-COURS N°2 : ORGANISER SON ESPACE MOODLE.
+Klas 2: Het organiseren van uw moodle space.
 
-COURS N°3 : LES RESSOURCES au service des ACTIVITES.
+Cursus 3: Middelen ten dienste van de activiteiten.
 
-COURS N°4 : MISE EN PLACE D'UNE PLATEFORME MOODLE pour une école primaire ou le 1er degré du secondaire.
+Cursus 4: Opzetten van een Moodle-platform voor een lagere of middelbare school.
 
-COURS N° 5 : LES QCM EN LIGNE.
+Cursus 5: meerkeuze's online.
 ---
 projet: EducodeSchool
+---
+schedule:
+
+* Lundi 11 mai de 10h00 à 11h30
+* Jeudi 14 mai de 10h00 à 11h30
+* Lundi 18 mai de 10h00 à 11h30
+* Lundi 25 mai de 10h00 à 11h30
+* Jeudi 28 mai de 10h00 à 11h30
+* Mardi 2 juin de 14h00 à 15h30
+* Jeudi 4 juin de 14h00 à 15h30
+* Mardi 9 juin de 14h00 à 15h30
+---
+
+Een eerste webinar vond plaats op donderdag 23 april 2020 van 15 tot 16 uur. De geprojecteerde dia's zijn hieronder beschikbaar:
+
+  - [[https://www.calameo.com/read/00004096710aacffe2b28 | première partie]]
+  - [[https://www.calameo.com/read/000040967d52224217226 | seconde partie]]
+
+=== Cours 1 : mise en place d'une plateforme Moodle totalement gratuite pour 1 ou 2 enseignants ===
+
+Het doel van deze cursus is om een docent zelf een Moodle-platform te geven dat hij kan delen met een paar collega's.
+De besproken oplossingen zijn: 
+  -    Moodle Cloud (Gratis)
+  -    Moodle Box (Gratis)
+  - Moodle op een semi-dedicated server. (< 10€/maand)
+
+Dankzij Moodle Cloud kunnen leerlingen vertrekken met hun MoodleCloud platform dat geconfigureerd is voor direct gebruik met hun leerlingen (45 leerlingen in één of meer klassen en 2-3 docenten).
+
+=== Cours 2 : organiser son espace moodle ===
+
+In deze klas zullen we het laten zien: 
+  - Hoe stel je je Moodle-cursusruimte in.
+  - Hoe de navigatie te organiseren.
+  - Hoe zet je een back-up systeem op en
+  - Communicatie tot stand brengen met zijn leerlingen.
+
+
+=== Cours 3 : les ressources au service des activités ===
+
+In deze cursus ontdekken we de educatieve mogelijkheden van Moodle op het gebied van het ter beschikking stellen van middelen en het creëren of importeren van leeractiviteiten voor uw leerlingen, afhankelijk van uw infrastructuur.
+
+=== Cours 4 : mise en place d'une plateforme Moodle pour une école primaire ou le 1er degré du secondaire ===
+
+Het doel van deze opleiding is om één of meer leerkrachten in staat te stellen een "semi-professionele" stemming op te bouwen (50 -> 300 leerlingen). 
+
+Deze oplossing maakt het mogelijk om de meeste mogelijke opties en plug-ins van moodle te benutten. Met name deze leraren zijn het doelwit van leraren en professoren in het basisonderwijs. Naast de zorg om een ergonomie te hebben die geschikt is voor de jongste, zullen activiteiten die beter zijn aangepast aan dit publiek (10-14 jaar) meer worden bewerkt. Deze training is meer specifiek bedoeld voor gebruikers met ervaring in het gebruik van digitale tools voor educatieve en / of organisatorische doeleinden of die er een willen verwerven. Voor degenen die aan de training hebben deelgenomen, wordt aan het einde van de training technische en educatieve hulp geboden. 
+
+=== Cours 5 : les qcm en ligne ===
+
+In deze cursus ontdekken en vergelijken we een aantal online multiple choice tools zoals 
+  - Moodle
+  - Learningapps 
+  - Kahoot
+  - Bookwidget 
+  - Wooclap
+
+We zullen ook het gebruik van latex taal bespreken in een wiskunde- of wetenschapsles.
+
+We zullen dan kijken hoe we ze kunnen integreren in de Moodle-cursusruimte (iframe, hypertextlinks,...).
+---
+description_long:
+
+Een eerste webinar vond plaats op donderdag 23 april 2020 van 15 tot 16 uur. De geprojecteerde dia's zijn hieronder beschikbaar:
+
+  - [https://www.calameo.com/read/00004096710aacffe2b28](eerste hoofdstuk)
+  - [https://www.calameo.com/read/000040967d52224217226](tweede deel)
+
+** Cursus 1: Het opzetten van een Moodle-platform volledig gratis voor 1 of 2 docenten **
+
+Het doel van deze cursus is om een docent zelf een Moodle-platform te geven dat hij kan delen met een paar collega's.
+De besproken oplossingen zijn: 
+  -    Moodle Cloud (Gratis)
+  -    Moodle Box (Gratis)
+  - Moodle op een semi-dedicated server. (< 10€/maand)
+
+Dankzij Moodle Cloud kunnen leerlingen vertrekken met hun MoodleCloud platform dat geconfigureerd is voor direct gebruik met hun leerlingen (45 leerlingen in één of meer klassen en 2-3 docenten).
+
+** Klas 2: Het organiseren van uw moodle space **
+
+In deze klas zullen we het laten zien: 
+  - Hoe stel je je Moodle-cursusruimte in.
+  - Hoe de navigatie te organiseren.
+  - Hoe zet je een back-up systeem op en
+  - Communicatie tot stand brengen met zijn leerlingen.
+
+
+** Cursus 3: Middelen ten dienste van de activiteiten **
+
+In deze cursus ontdekken we de educatieve mogelijkheden van Moodle op het gebied van het ter beschikking stellen van middelen en het creëren of importeren van leeractiviteiten voor uw leerlingen, afhankelijk van uw infrastructuur.
+
+** Cursus 4: Opzetten van een Moodle-platform voor een lagere of middelbare school **
+Het doel van deze opleiding is om één of meer leerkrachten in staat te stellen een "semi-professionele" stemming op te bouwen (50 -> 300 leerlingen). 
+
+Deze oplossing maakt het mogelijk om de meeste mogelijke opties en plug-ins van moodle te benutten. Met name deze leraren zijn het doelwit van leraren en professoren in het basisonderwijs. Naast de zorg om een ergonomie te hebben die geschikt is voor de jongste, zullen activiteiten die beter zijn aangepast aan dit publiek (10-14 jaar) meer worden bewerkt. Deze training is meer specifiek bedoeld voor gebruikers met ervaring in het gebruik van digitale tools voor educatieve en / of organisatorische doeleinden of die er een willen verwerven. Voor degenen die aan de training hebben deelgenomen, wordt aan het einde van de training technische en educatieve hulp geboden. 
+
+** Cursus 5: meerkeuze's online **
+
+In deze cursus ontdekken en vergelijken we een aantal online multiple choice tools zoals 
+  - Moodle
+  - Learningapps 
+  - Kahoot
+  - Bookwidget 
+  - Wooclap
+
+We zullen ook het gebruik van latex taal bespreken in een wiskunde- of wetenschapsles.
+
+We zullen dan kijken hoe we ze kunnen integreren in de Moodle-cursusruimte (iframe, hypertextlinks,...).
